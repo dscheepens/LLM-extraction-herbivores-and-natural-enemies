@@ -1,0 +1,21 @@
+type,EPPOCode,Pref_name,References
+Host,ACNLCO,Acanalonia conica,
+Host,APHIIL,Aphis illinoisensis,* Aphids on the world's plants (online). http://www.aphidsonworldsplants.info/d_APHIDS_A.htm#Aphis
+Host,BRVPAZ,Brevipalpus azores,
+Host,BRVPYO,Brevipalpus yothersi,
+Host,DIABVZ,Diabrotica virgifera zeae,"* Clark SM, LeDoux DG, Seeno TN, Riley EG, Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada (Coleoptera: Megalopodidae, Orsodacnidae, Chrysomelidae, excluding Bruchinae). Coleopterists Society, Special Publication 2, 615 pp.
+------- Adult host."
+Host,HOMLTR,Homalodisca vitripennis,"* Adlerz WC (1980) Ecological observations on two leafhoppers that transmit the Pierce’s disease bacteria. Proceedings of the Florida State Horticultural Society 93, 115-120.
+------- Adults and nymphs were observed on Vitis sp.
+
+* Hoddle MS, Triapitsyn SV, Morgan DJW (2003) Distribution and plant association records for Homalodisca coagulata (Hemiptera: Cicadellidae) in Florida. Florida Entomologist 86(1),  89-91.
+
+* Turner WF, Pollard HN (1959) Life histories and behavior of five insect vectors of phony peach disease. United States Department of Agriculture, Technical Bulletin 1188, 28 pp.
+-------- Feeding host."
+Host,MALAPA,Malacosoma parallela,"* Zolotuhin, V. V., & Didmanidze, E. (2009). The Lasiocampidae (Lepidoptera) of Georgia and neighbouring countries. Entomofauna, 30(19), 301–328."
+Host,PHENSO,Phenacoccus solenopsis,
+Host,PSEAPE,Pseudaulacaspis pentagona,"* García Morales M, Denno BD, Miller DR, Miller GL, Ben-Dov Y, Hardy NB (2016) ScaleNet: A literature-based model of scale insect biology and systematics. Database. doi: 10.1093/database/bav118. http://scalenet.info [accessed 2026-02].
+
+* Miller DR & Davidson JA (2005) Armored Scale Insect Pests of Trees and Shrubs. Cornell Univ. Press Ithaca, NY 442 pp."
+Host,PSECCO,Pseudococcus comstocki,
+Wild/Weed,MARGVI,Margarodes vitis (as Vitaceae),"* Giliomee J, de Klerk C & Watson GW (2022) 3.3.4 Margarodes spp. In: Encyclopedia of Scale Insect Pests (Eds Kondo T & Watson GW), pp. 69-73. CAB International, Wallingford (UK)."

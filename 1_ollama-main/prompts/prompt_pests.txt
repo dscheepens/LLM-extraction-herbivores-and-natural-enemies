@@ -1,0 +1,32 @@
+For each herbivore, provide the following information:
+
+1. Taxonomy: Phylum, Class, Order, Family, Genus, Species (latin binomial), Common Name. Fill in the applicable. 
+
+2. Feeding Mode (choose from: granivory, frugivory, gall formation, herbivory): Is the species a herbivore through granivory (seed predation), frugivory (fruit consumption), gall formation, or simply herbivory (default; any other form of herbivory or unspecified herbivory)?
+
+3. Host Plants: List of host plants or crops of the herbivorous species. This needs to be the plant specifically stated in the text to be affected or used as host, and should not be inferred from the herbivore's common name (e.g., if a herbivore called the 'leek moth' is solely stated to be a pest of onions, then the host plant is onion, not leek). If a herbivorous species is stated to occur on a particular plant, or within a particular plantation/crop field, then it may be inferred to be a herbivore of this plant/crop. If the herbivore is stated or implicated as a general pest of agriculture, forestry or ornamentals without any particular host plants, then simply state 'agricultural crops', 'forestry' or 'ornamentals', respectively. Only select plants that are stated in the main abstract text - ignore plants that are only mentioned in the keywords. 
+For each host plant individually, you need to fill in the following information: 
+- Host Plant Name (add latin binomial if possible).
+- Herbivore Is Pest Of Plant: Is the herbivore stated to be a pest of this plant (True or False)? The species must either be mentioned explicitly as a pest of this plant, or at least as being the target of biological control (e.g., target of biocontrol study, pesticide application, etc.), or being the cause of destruction, infestation, commercial damage, etc., in relation to this plant. Pay close attention to the host crop or plant: If this is a weed or invasive, then the herbivore cannot be a pest of this plant; it can only be a pest if it affects plants that have commercial purposes in agriculture or forestry.
+- Pest Importance (choose from: minor, major, NA): If the herbivore is a pest of this plant, is it of minor or major importance? Minor: The pest is stated to be of little economic importance or is only a nuisance and does not require biocontrol measures. Major: The herbivore is mentioned to be an important pest (e.g., highly destructive, commercially relevant, dominant, widespread pest, etc.), or is the intended target of biological control (e.g., target of a biocontrol or pesticide study) with regards to this plant/crop.
+- Biological Control Agent: If the plant is a weed or is invasive, is the herbivore stated to be a biological control agent of the plant, or a promising/likely candidate for biological control (True or False)? 
+
+4. Associated Industries: List of any industries that are related to the host plants or crops of this herbivore, or are implied/mentioned in the text. Choose from: 
+- Arable crops
+- Greenhouse production
+- Pasture
+- Fruit plantations
+- Forestry and timber production
+- Stored grains
+- Ornamental and horticultural plants
+- Unspecified agriculture
+- Other
+If none of these industries are mentioned explicitly, choose whichever industries are most applicable to the host plants/crops of this herbivore. Choose 'unspecified agriculture' if agriculture is only mentioned in a general sense and no specific host plants are mentioned, and choose 'other' if none apply or it's an industry other than agriculture or forestry. Choose NA if no information about this is provided in the text whatsoever.
+
+5. Herbivore Invasive In: If this herbivore is explicitly described with the term 'invasive', in which countries or regions is it stated to be invasive?
+
+6. Pathogen Vector: If the herbivore is stated to be a vector of a pathogen or disease, state the pathogen and/or disease here.
+
+7. Synonyms: Any latin synonyms of this species stated in the text. These must be latin binomials, not common names.
+
+For any piece of information: If nothing about it is mentioned or suggested in the text, leave it empty or select NA.

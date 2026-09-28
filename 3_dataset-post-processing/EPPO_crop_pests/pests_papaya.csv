@@ -1,0 +1,142 @@
+type,EPPOCode,Pref_name,References
+Doubtful host,CERTRO,Ceratitis rosa,"Past records for C. rosa sensu lato, now attributed to C. quilicii"
+Experimental,ANSTLU,Anastrepha ludens,"* Baker AC, Stone WE, Plummer CC, McPhail M (1944) A review of studies on the Mexican fruitfly and related Mexican species. USDA Miscellaneous Publications, 155 pp. 
+
+* Eskafi FM, Cunningham RT (1987) Host plants of fruit flies (Diptera: Tephritidae) of economic importance in Guatemala. Florida Entomologist 70, 116-123."
+Experimental,RHYCPA,Rhynchophorus palmarum,"* Lepesme P (1947) Les insectes des palmiers. Paul Lechevalier editeur, Paris, 903 pp.
+
+* Wattanapongsiri, A. (1966) A revision of the Genera Rhynchophorus and Dynamis. Department of Agricultural Science Bulletin, Bangkok, Thailand."
+Host,ALECWO,Aleurocanthus woglumi,"* Dietz HF, Zetek J (1920) The blackfly of citrus and other subtropical plants. USDA Bulletin 885, 1-55.
+
+* Dubey AK, Ko CC (2012) Sexual dimorphism among species of Aleurocanthus Quaintance & Baker (Hemiptera: Aleyrodidae) in Taiwan, with one new species and an identification key. Zootaxa 3177, 1–23.
+
+* Nguyen R, Sailer RI, Hamon AB (1993) Catalogue of Aleyrodidae on citrus and their natural enemies (Homoptera: Aleyrodidae). Occasional Papers of the Florida State Collection of Arthropods 8, 57 pp.
+------- A. woglumi does not complete one generation on this host."
+Host,ALEDDI,Aleurodicus dispersus,"* Boopathi T (2022) New host plants, natural enemy complex and newly distributed potential areas of exotic spiralling whitefly (Hemiptera: Aleyrodidae) in India. Phytoparasitica 50(2), 335-357."
+Host,AMBPCO,Amblypelta cocophaga,
+Host,AMBPLU,Amblypelta lutescens,"* Lindsay KR, Zalucki MP, Newton IR, Furlong MJ (2019) Spatial and Temporal Dynamics of the Native Banana-Spotting Bug, Amblypelta lutescens lutescens (Hemiptera: Coreidae), in Avocado Crops in North Queensland, Australia, Journal of Economic Entomology 112(4), 1812–1820. https://doi.org/10.1093/jee/toz084
+------- confirmed host"
+Host,ANSTFR,Anastrepha fraterculus,"* Gonzalez Mendoza R (1952) Contribucion al estudio de las moscas Anastrepha en Colombia. Revista Facultad Nacional de Agronomía 12, 423–549.
+
+* Putruele MTG (1996) Hosts for Ceratitis capitata and Anastrepha fraterculus in the northeastern Province of Entre Ríos, Argentina. In Fruit Fly Pests: A World Assessment of Their Biology and Management, BA McPheron & GJ Steck (Eds.), pp. 343–345. St. Lucie Press, Delray Beach, FL."
+Host,ANSTRE,Anastrepha recurcauda,"*  Tigrero JO (1992) Descripción de dos nuevas especies de Tephritidae: Toxotrypaninae, presentes en Ecuador. Revista Rumipamba 9(2), 102-112.
+------- Species description, no indication of damage."
+Host,ANSTSU,Anastrepha suspensa,"* Swanson RW, Baranowski RM (1972) Host range and infestation by the Caribbean fruit fly, Anastrepha suspensa (Diptera: Tephritidae), in south Florida. Proceedings of the Florida State Horticultural Society, 271-273."
+Host,BCTRCB,Bactrocera carambolae,"* Liquido NJ, McQuate GT, Nakamichi KA, Kurashima RS, Birnbaum AL, Hanlin MA (2016) Provisional list of suitable host plants of carambola fruit fly, Bactrocera (Bactrocera) carambolae Drew & Hancock (Diptera: Tephritidae), Version 1.1. Available online at USDA Compendium of Fruit Fly Host Information (CoFFHI)."
+Host,DACUCR,Bactrocera curvipennis,"* Leblanc L (2022) The dacine fruit flies (Diptera: Tephritidae: Dacini) of Oceania. Insecta Mundi 0948, 1-167. https://journals.flvc.org/mundi/article/view/131965/135549"
+Host,DACUDO,Bactrocera dorsalis,"* Allwood AJ, Chinajariyawong A, Kritsaneepaiboon S, Drew RAI, Hamacek EL, Hancock DL, Hengsawad C, Jinapin JC, Jirasurat M, Krong CK, Leong CTS, Vijaysegaran S (1999) Host plant records for fruit flies (Diptera: Tephritidae) in Southeast Asia. The Raffles Bulletin of Zoology 47(7), 1-92.
+
+* Leblanc L (2022) The dacine fruit flies (Diptera: Tephritidae: Dacini) of Oceania. Insecta Mundi 0948, 1-167. https://journals.flvc.org/mundi/article/view/131965/135549"
+Host,BCTRKA,Bactrocera kandiensis,"* Tsuruta K, White IM, Bandara HMJ, Rajapakse H, Sundaraperuma SAH, Kahawatta SBMUC, Rajapakse GBJP (1997) A preliminary notes on the host-plants of fruit flies of the tribe Dacini (Diptera, Tephritidae) in Sri Lanka. Esakia 37, 149-160."
+Host,DACUMU,Bactrocera musae,"* Leblanc L, Vueti ET, Allwood AJ (2012) Host plant records for fruit flies (Diptera: Tephritidae: Dacini) in the Pacific Islands. Proceedings of the Hawaiian Entomological Society 44, 11–53."
+Host,BCTROC,Bactrocera occipitalis,"* Liquido NJ, Lee KLK,  Santamaria J (2019) Host plant records of Bactrocera occipitalis (Bezzi) (Diptera : Tephritidae), Version 1.0. Available online at USDA Compendium of Fruit Fly Host Information (CoFFHI). https://coffhi.cphst.org/ (accessed 16/05/2020)
+
+* White IM, Elson-Harris MM (1992) Fruit flies of economic significance: their identification and bionomics. Commonwealth Agricultural Bureau International (CABI), Wallingford, U.K. 601p."
+Host,DACUZO,Bactrocera zonata,"* Allwood AL, Chinajariyawong A, Drew RAI, Hamacek EL, Hancock DL, Hengsawad C,  Jipanin JC, Jirasurat M, Kong Krong C, Kritsaneepaiboon S, Leong CTS, Vijaysegaran S (1999) Host plant records for fruit flies (Diptera: Tephritidae) in Southeast Asia.  Raffles Bulletin of Zoology, Supplement, 7, 1-92."
+Host,BAGRHI,Bagrada hilaris,
+Host,BRVPPA,Brevipalpus papayensis,
+Host,BRVPYO,Brevipalpus yothersi,"* Beard JJ, Ochoa R, Braswell WE, Bauchan GR (2015) Brevipalpus phoenicis (Geijskes) species complex (Acari: Tenuipalpidae) – a closer look. Zootaxa 3944(1), 67 pp. DOI: 10.11646/zootaxa.3944.1.1"
+Host,CERTAN,Ceratitis anonae,"* Nanga Nanga S, Hanna R, Fotso Kuate A, Fiaboe KK, Nchoutnji I, Ndjab M, Gnanvossou D, Mohamed SA, Ekesi S, Djieto-Lordon C (2022) Tephritid fruit fly species composition, seasonality, and fruit infestations in two central African agro-ecological zones. Insects 13(11), 1045. https://doi.org/10.3390/insects13111045"
+Host,CERTCA,Ceratitis capitata,"* Liquido NJ, Cunnigham RT, Nakagawa S (1990) Host plants of Mediterranean fruit fly on the island of Hawaii (1949-1985 survey). Journal of Economic Entomology 83(5),  1863-1878,"
+Host,CERTQI,Ceratitis quilicii,"* INTERNET
+True Fruit Flies (Diptera: Tephritidae) of the Afrotropical Region. Ceratitis quilicii. Specimens. http://projects.bebif.be/fruitfly/taxoninfo.html?id=434
+------- Confirmed host."
+Host,CRTZBR,Ceratothripoides brunneus,
+Host,DACUBI,Dacus bivittatus,"* Nanga Nanga S, Hanna R, Fotso Kuate A, Fiaboe KK, Nchoutnji I, Ndjab M, Gnanvossou D, Mohamed SA, Ekesi S, Djieto-Lordon C (2022) Tephritid fruit fly species composition, seasonality, and fruit infestations in two central African agro-ecological zones. Insects 13(11), 1045. https://doi.org/10.3390/insects13111045"
+Host,DACUCI,Dacus ciliatus,"* McQuate GT, Liquido NJ, Nakamichi KAA (2018) Host plant records of the lesser pumpkin fly, Dacus ciliatus Loew (Diptera: Tephritidae), Version 1.0. Available online at: USDA Compendium of Fruit Fly Host Information (CoFFHI), Edition 3.1."
+Host,DICHPU,Dichocrocis punctiferalis,
+Host,EMPOPA,Empoasca papayae,
+Host,EMPOST,Empoasca stevensi,
+Host,EOTELE,Eotetranychus lewisi,"* Abato-Zárate M, Villanueva-Jimenez JA, Otero-Colina G, Avila C (2014) Acarofauna associated to papaya orchards in Veracruz, Mexico Acta Zoologica Mexicana (N.S.), 30: 595-609.
+
+* Andrews KL, Poe SL (1980) Spider mites of El Salvador, Central America (Acari: Tetranychidae), Florida Entomologist, 63: 502-505.
+
+* Baker EW, Pritchard AE (1962) Arañas rojas de América Central (Acarina : Tetranychidae). Revista de la Sociedad Mexicana de Historia Natural, 23: 309-340.
+
+* Berry P (1959) Entomologia economica de El Salvador. Boletin Técnico, 24: 1-256.
+
+* Flechtmann CHW, Kreiter S, Etienne J, Moraes GJd (1999) Plant mites (Acari) of the French Antilles. 1. Tetranychoidea (Prostigmata). Acarologia, 40: 137-144.
+
+* Ochoa R, Agular H, Sanabria C (1991) Acaros fitofagos de America Central: guia ilustrada, 251 pp. CATIE, Turrialba, Costa Rica."
+Host,EUTEBA,Eutetranychus banksi,* Migeon A & Dorkeld F (2024) Spider Mites Web: a comprehensive database for the Tetranychidae. Available from https://www1.montpellier.inrae.fr/CBGP/spmweb (Accessed 2024/04/23)
+Host,EUTEOR,Eutetranychus orientalis,"* Drabo E, Waongo A, Traoré F, Sanon A, Auger P (2023) First discovery of Tetranychus truncatus in Africa and new records of spider mites (Prostigmata, Tetranychidae) in Burkina Faso. Acarologia 63(3), 969-977. https://doi.org/10.24349/5105-aj8l
+
+* Ehara S (1999) Revision of the Spider Mite Family Tetranychidae of Japan (Acari, Prostigmata). Species Diversity 4(1), 63-141.
+
+* Gupta SK, Gupta YN (1994) A taxonomic review of Indian Tetranychidae (Acari: Prostgmata) with description of new species and redescriptions of known species, keys to genera and species. Memoirs of the Zoological Survey of India 18, 1-196."
+Host,FRANCS,Frankliniella australis,"* Zanuncio-Junior JS, dos Santos Martins D, Fornazier MJ, Ventura JA, Queiroz RB, Pinent SM, Zanuncio JC (2016) Thrips species (Thysanoptera: Thripidae) in Brazilian papaya (Brassicales: Caricaceae) orchards as potential virus vectors. Florida Entomologist 99(2), 314-317. https://doi.org/10.1653/024.099.0228"
+Host,ACHAFU,Lissachatina fulica,"* Thiengo SC, Faraco FA, Salgado NC, Cowie RH, Fernandez MA (2007) Rapid spread of an invasive snail in South America: the giant African snail, Achatina fulica, in Brasil. Biological Invasions 9, 693-702."
+Host,PHENHI,Maconellicoccus hirsutus,"* Chang LWH, Miller CE (1996) Pathway Risk Assessment: Pink mealybug from the Caribbean. Animal and Plant Health Inspection Service, U.S. Dept. of Agriculture 61 pp."
+Host,MELGMY,Meloidogyne enterolobii,"* Lima IM, Dolinski CM, Souza RM (2003) Dispersao de Meloidogyne mayaguensis em goiabais de Sao Joao da Barraq e relato de novos hospedeiros dentre plantas invasoras e cultivadas (Dispersal of Meloidogyne mayaguensis in guava orchards in the city of Sao Joao da Barra, Brazil, and new hosts amongst cultivated plant species and weeds. Nematologia Brasileira 27(2), 257-258. (abstract)
+------- confirmed host, first report
+
+* Souza RM, Nogueira MS, Lima IM, Melarto M, Dolinski CM (2006) Manejo de nematoides das galhas da goiabeira em Sao Joao da Barra (RJ) e relato de novos hospedeiros. Nematologia Brasileira 30, 165-169. 
+------- confirmed host
+
+* Brito JA, Kaur R, Cetintas R, Stanley JD, Mendes ML, McAvoy EJ, Powers TO, Dickson DW (2008) Identification and isozyme characterization of Meloidogyne spp. infecting horticultural and agronomic drops, and weeds in Florida. Nematology 10(5), 757-766. https://doi.org/10.1163/156854108785787253
+------- confirmed host"
+Host,METAHE,Metamasius hemipterus,
+Host,OPOGSC,Opogona sacchari,"* Drizou F, Redstone S, Salisbury A (2023) Impact and management of Opogona sacchari (Bojer, 1856)(Lepidoptera: Tineidae) in a display glasshouse in the United Kingdom. EPPO Bulletin 53(3), 624-631.
+
+* Jang EB, Siderhurst M, Hollingsworth RG, Showalterb DN & Troyerb EJ (2010) Sex attractant for the banana moth, Opogona sacchari Bojer (Lepidoptera: Tineidae): provisional identification and field evaluation. Pest Management Science 66, 454–460.
+------- observed reproducing on dead and dying papaya trunks in an abandoned papaya field."
+Host,SAISNI,Parasaissetia nigra,
+Host,PHENSO,Phenacoccus solenopsis,
+Host,PRDILO,Prodiplosis longifila,"* Diaz-Silva F (2011) [Agroecological aspects for the integrated management of Prodiplosis longifila Gagné in the irrigation of Chavimochic]. Escuela de Ciencias Biológicas, Universidad de Trujillo, Trujillo, PERU (in Spanish)."
+Host,PSEAPE,Pseudaulacaspis pentagona,"* Matsunaga JN, Howarth FG, Kumashiro BR (2019) New state records and additions to the alien terrestrial arthropod fauna in the Hawaiian Islands. Proceedings of the Hawaiian Entomological Society 51(1), 1-71. https://scholarspace.manoa.hawaii.edu/server/api/core/bitstreams/f57fe030-c574-4cb9-91d3-548c993b5b3d/content
+"
+Host,PSEAPE,Pseudaulacaspis pentagona (as Carica),"* García Morales M, Denno BD, Miller DR, Miller GL, Ben-Dov Y, Hardy NB (2016) ScaleNet: A literature-based model of scale insect biology and systematics. Database. doi: 10.1093/database/bav118. http://scalenet.info [accessed 2026-02].
+
+* Miller DR & Davidson JA (2005) Armored Scale Insect Pests of Trees and Shrubs. Cornell Univ. Press Ithaca, NY 442 pp."
+Host,SPPHOB,Rhabdoscelus obscurus,
+Host,ROTYRE,Rotylenchulus reniformis,
+Host,SCITDO,Scirtothrips dorsalis,"* Scott-Brown AS, Hodgetts J, Hall J, Simmonds MJS, Collins DW (2018) Potential role of botanic garden collections in predicting hosts at risk globally from invasive pests: a case study using Scirtothrips dorsalis. Journal of Pest Science 91(2), 601-611.
+------- Confirmed host."
+Host,SLENRU,Selenothrips rubrocinctus,"* Zanuncio Junior JS, Martins Ddos S, Fornazier MJ, Ventura JA, Queiroz RB, Pinent SMJ, Zanuncio JC (2016) Thrips species (Thysanoptera: Thripidae) in Brazilian papaya (Brassicales: Caricaceae) orchards as potential virus vectors. Florida Entomologist, 99(2):314-317."
+Host,PRODER,Spodoptera eridania,"* Montezano DG, Specht A, Sosa-Gomez DR, Roque-Specht VF & de Barros NM (2014) Immature stages of Spodoptera eridania (Lepidoptera: Noctuidae): developmental parameters and host plants. Journal of Insect Science 14, 238. https://doi.org/10.1093/jisesa/ieu133"
+Host,LAPHFR,Spodoptera frugiperda,"* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300.
+
+* Nurkomar I, Trisnawati DW, Fahmi F, Buchori D (2023) Survival, development, and fecundity of Spodoptera frugiperda (J.E. Smith) (Lepidoptera: Noctuidae) on various host plant species and their Implication for pest management. Insects 14(7), 629. https://doi.org/10.3390/insects14070629
+--------- In laboratory experiments conducted in Indonesia, papaya was found to be a suitable host, which could serve as an alternate host (to maize)."
+Host,PRODOR,Spodoptera ornithogalli,"* Brito R, Specht A, Gonçalves GL, Moreira GRP, Carneiro E, Santos FL, Roque-Specht VF, Mielke OHH, Casagrande MM (2019) Spodoptera marima: a new synonym of Spodoptera ornithogalli (Lepidoptera: Noctuidae), with notes on adult morphology, host plant use and genetic variation along its geographic range. Neotropical Entomology 48(3), 433-448.
+
+* Comstock JA (1965) Ciclo biologico de Prodenia ornithogalli Guenée (Lepidoptera: Noctuidae). Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoologia 36, 199-202.
+
+* Poveda BD, Schwitzer DA (1964) Estudio biológico del Prodenia ornithogalli Guen. y del Prodenia sunia (Guen.) en três hospedeiros. Acta Agronômica 14(1), 71-101.
+
+* Robinson GS, Ackery PR, Kitching IJ, Beccaloni GW, Hernández LM (2010) HOSTS - A Database of the World's Lepidopteran Hostplants. Natural History Museum, London. http://www.nhm.ac.uk/hosts"
+Host,TETREV,Tetranychus evansi,"* Mendonça RS, Navia D, Diniz IR, Flechtmann CHW (2011) South American spider mites: New hosts and localities. Journal of Insect Science 11:121. https://doi.org/10.1673/031.011.12101
+------- confirmed host in Brazil"
+Host,TETRFI,Tetranychus fijiensis,
+Host,TETRME,Tetranychus mexicanus,"* Vasconcelos G (2011) Diversidade de ácaros em agroecossistemas e testes para o controle alternativo do ácaro branco, Polyphagotarsonemus latus (Acari, Tarsonemidae) na região de Manaus. Universidade de Sao Paulo.
+
+* Aranda B & Flechtman C (1971) A report on the Tetranychidae of Paraguay. Proceedings of the Entomological Society of Washington, 73, 29–33.
+
+* Ochoa R, Aguilar H & Vargas C (1994) Phytophagous mites of America Central: an illustrated guide. CATIE.
+
+* Domínguez Caises DL & Mateo Arce A (2008) Inventario de los ácaros en la provincia de Holguín. Fitosanidad, 12(1), 9–14.
+
+* Paschoal A (1970) Revisão da família Tetranychidae no Brasil (Arachnida: Acarina). Anais Da Escola Superior de Agricultura Luiz de Queiroz, XXVII, 457–483.
+
+* Mendonça RS, Navia D, Diniz IR & Flechtmann CHW (2011) South American spider mites: New hosts and localities. Journal of Insect Science, 11(121), 1–18.
+
+* Flechtmann C (1967) Contribuição para o conhecimento dos ácaros de plantas de algumas regiões do Estado de São Paulo. Universidade de Sao Paulo.
+
+* Barroncas SF, da Silva NM & de Vasconcelos GJN (2022) Biological parameters of Tetranychus mexicanus (McGregor) (Acari: Tetranychidae) in papaya and passion fruit. Pesquisa Agropecuaria Tropical, Goiânia, 52(e72154), 1–7."
+Host,THRIHA,Thrips hawaiiensis,"* Sartiami D, Mound LA (2013) Identification of the terebrantian thrips (Insecta, Thysanoptera) associated with cultivated plants in Java, Indonesia. ZooKeys 306, 1–21. https://doi.org/10.3897/zookeys.306.5455
+------- Collected from this plant in Java (Indonesia)."
+Host,THRIPV,Thrips parvispinus,"* Sartiami D, Mound LA (2013) Identification of the terebrantian thrips (Insecta, Thysanoptera) associated with cultivated plants in Java, Indonesia. ZooKeys 306, 1–21. https://doi.org/10.3897/zookeys.306.5455
+------- Collected from this plant in Java (Indonesia).
+
+* Sugano J, Hamasaki R, Villalobos E, Chou M-Y, Wright M, Fukuda S, Swift S, Ferreira S, Tsuda D, Diaz-Lyke M, Nakamoto S (2013) Damage to Papaya Caused by Thrips parvispinus (Karny) (poster). Honolulu (HI): University of Hawaii. https://www.ctahr.hawaii.edu/oc/freepubs/pdf/Papaya_Thrips_poster.pdf
+------- Confirmed host."
+Host,XYLBCR,Xylosandrus crassiusculus,"* Horn S, Horn GN (2006) New host record of the Asian Ambrosia beetle, Xylosandrus crassiusculus (Motschulsky) (Coleoptera: Curculionidae). Journal of Entomological Science 10(1), 90-91."
+Host,DACUCM,Zeugodacus cucumis,"* Dominiak BC, Worsley P (2018) Review of cucumber fruit fly, Bactrocera cucumis (French) (Diptera: Tephritidae: Dacinae) in Australia: Part 1, host range, surveillance and distribution. Crop Protection 106, 79-85."
+Host,DACUCU,Zeugodacus cucurbitae,"* De Meyer M, Delatte H, Mwatawala M, Quilici S, Vayssières JF, Virgilio M (2015) A review of the current knowledge on Zeugodacus cucurbitae (Coquillett) (Diptera, Tephritidae) in Africa, with a list of species included in Zeugodacus. ZooKeys 540, 539-557. https://doi.org/10.3897/zookeys.540.9672"
+Major host,TOXTCU,Anastrepha curvicauda,"* Knab F, Yothers WW (1914) Papaya fruit fly. Journal of Agricultural Research 2(6), 447-453.
+
+* Pena JE, Baranowski RM, Litz RE (1986) Oviposition of the papaya fruit fly Toxotrypana curvicauda Gerstaecker as affected by fruit maturity. Florida Entomologist 69(2), 344-348."
+Major host,BCTRJA,Bactrocera jarvisi,"* Welty Peachey AM, Moses ER, Johnson AJ, Lehman MG, Yoder JM, De Faveri SG, Cheesman J, Manoukis NC, Siderhurst MS (2025) Wind effects on individual male and female Bactrocera jarvisi (Diptera: Tephritidae) tracked using harmonic radar. Environmental Entomology 54(1), 1-14. https://doi.org/10.1093/ee/nvae108"
+Major host,DACUTR,Bactrocera tryoni,"* Hancock D, Hamacek EL, Lloyd AC, Elson-Harris MM (2000) The distribution and host plants of fruit flies (Diptera: Tephritidae) in Australia. Queensland Department of Primary Industries, 75 pp.
+
+* Leblanc L, Vueti ET, Drew AI, Allwood AJ (2012) Host plant records for fruit flies (Diptera: Tephritidae: Dacini) in the Pacific islands. Proceedings of the Hawaiian Society 44, 11-53."

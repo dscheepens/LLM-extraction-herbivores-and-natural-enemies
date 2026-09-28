@@ -1,0 +1,49 @@
+type,EPPOCode,Pref_name,References
+Doubtful host,LAGRVL,Lagria villosa,"* Spilman TJ (1978) Lagria villosa in Brazil, with new descriptions and illustrations of the larva and pupa (Coleoptera, Lagriidae). Ciencia e cultura, Sao Paulo 30(3), 342–347
+-----intercepted in Puerto Rico on Allium sativum"
+Doubtful host,TETRME,Tetranychus mexicanus,"* EPPO (2023) Pest risk analysis for Tetranychus mexicanus. EPPO, Paris
+------- uncertain host (see PRA for details)
+
+* Domínguez Caises DL & Mateo Arce A (2008) Inventario de los ácaros en la provincia de Holguín. Fitosanidad, 12(1), 9–14."
+Host,ACROAS,Acrolepiopsis assectella (as Allium),
+Host,HYLEAN,Delia antiqua,
+Host,HYLEAN,Delia antiqua (as Allium),
+Host,DELIHI,Delia hirticrura (as Allium),
+Host,HYLEPL,Delia platura (as Allium),
+Host,DITYDE,Ditylenchus destructor,"* Huh S, Park S, Je H, Park N, Kim D, Choi I, Kang H (2024) Morphological and molecular characterization of the potato rot nematode, Ditylenchus destructor, parasitizing garlic in Korea. Horticulturae 10(9), 902. https://doi.org/10.3390/horticulturae10090902"
+Host,DITYDI,Ditylenchus dipsaci,"* Andaloussi FA, Bachikh J (2001) Studies on the host range of Ditylenchus dipsaci in Morocco. Nematologia Mediterranea 29, 51-57.
+
+* Douda O (2005) Host range and growth of Stem and Bulb Nematode (Ditylenchus dipsaci) populations isolated from garlic and chicory. Plant Protection Science 41, 104–108.
+
+* Hooper D.J (1972) Ditylenchus dipsaci. CIH Descriptions of Plant-parasitic Nematodes Set 1, No. 14.
+
+* Poirier S, Dauphinais N, Van Der Heyden H, Véronneau PY, Bélair G, Gravel V, Mimee B (2019) Host range and genetic characterization of Ditylenchus dipsaci populations from eastern Canada. Plant Disease 103(3), 456-460.
+
+* Goodey JB, Franklin MT, Hooper DJ (1965) T. Goodey's: The Nematode Parasites of Plants Catalogued Under Their Hosts. Commonwealth Agricultural Bureaux, Farnham Royal, Bucks, England. Third edition, 214 pp."
+Host,DYSPUL,Dyspessa ulula (as Allium),
+Host,FRANOC,Frankliniella occidentalis (as Allium),"* Porta B, Vosman B, Visser RG, Galván GA, Scholten OE (2023) Genetic diversity of thrips populations on Allium species around the world. Plos one 18(8), e0289984. https://doi.org/10.1371/journal.pone.0289984
+"
+Host,LIRIHU,Liriomyza huidobrensis,"* Echevarria A, Gimeno C, Jimenez R (1994) Liriomyza huidobrensis (Blanchard, 1926) (Diptera: Agromyzidae) una nueva plaga en cultivos valencianos. Boletin de Sanidad Vegetal. Plagas 20, 103-109.
+
+* Hincapie CMC, Saavedra HME, Trochez PAL (1993) Life cycle, behavior and natural enemies of Liriomyza huidobrensis (Blanchard) on bulb onion (Allium cepa L.). Revista Colombiana de Entomologia 19, 51-57.
+
+* Pang BP, Gao JP, Zhou XR, Wang J (2006) Relationship between host plant preference of Liriomyza huidobrensis (Blanchard) (Diptera: Agromyzidae) and secondary plant compounds and trichomes of host foliage. Acta Entomologica Sinica 49, 810-815.
+
+* Rauf A, Shepard BM, Johnson MW (2000) Leafminers in vegetables, ornamental plants and weeds in Indonesia: surveys of host crops, species composition and parasitoids. International Journal of Pest Management 46, 257-266.
+------- Confirmed host. Reared from infested leaves collected in the field.
+
+* Silva HOE (1993) Identification of the parasitoid complex on vegetable leaf miner Liriomyza huidobrensis (Blanchard) (Diptera: Agromyzidae) and some aspects of the biology of Euparacrias phytomyzae (Brethes) (Hymenoptera: Eulophidae). Agris.fao.org"
+Host,LIRITR,Liriomyza trifolii,"* Fagoonee I, Toory V (1984). Contribution to the study of the biology and ecology of the leaf-miner Liriomyza trifolii and its control by neem. Insect Science and Its Application 5(1), 23-30.
+
+* Ruisanchez Ortega Y, Rodriguez Perez C, Perez Garcia L, Sosa Romero E, Leal Tabares MM (2014) Evaluacion de Thurisave-24 en el control del minador comun de las hojas (Liriomyza trifolii Burgess) en el cultivo del ajo (Allium sativum). Fitosanidad 18(2), 95-99."
+Host,NAPOGY,Phytomyza gymnostoma,"* Nault BA, Sandhi RK, Harding RS, Grundberg EA, Rusinek T (2022) Optimizing Spinosyn Insecticide Applications for Allium Leafminer (Diptera: Agromyzidae) Management in Allium Crops. Journal of Economic Entomology 115(2), 618-623."
+Host,PRODER,Spodoptera eridania,"* Montezano DG, Specht A, Sosa-Gomez DR, Roque-Specht VF & de Barros NM (2014) Immature stages of Spodoptera eridania (Lepidoptera: Noctuidae): developmental parameters and host plants. Journal of Insect Science 14, 238. https://doi.org/10.1093/jisesa/ieu105"
+Host,LAPHFR,Spodoptera frugiperda,"* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300."
+Host,TAPARU,Tapajosa rubromarginata,"* Paradell SL, Virla EG, Logarzo GA, Dellapé G (2012) Proconiini Sharpshooters of Argentina, with notes on its distribution, host plants, and natural enemies. Journal of Insect Science 12, 116. http://www.insectscience.org/12.116"
+Host,XIPHRI,Xiphinema rivesi,"* Chaves EJ, Mondino EA (2013) Description of some Xiphinema species populations (nematoda) from Argentina. Nematropica 43(1), 68-77."
+Major host,ACROAS,Acrolepiopsis assectella,
+Major host,BRCCAB,Brachycerus albidentatus,
+Major host,BRCCAL,Brachycerus muricatus,
+Major host,BRCCUN,Brachycerus undatus,
+Major host,DYSPUL,Dyspessa ulula,
+Major host,NEOTFO,Neotoxoptera formosana,

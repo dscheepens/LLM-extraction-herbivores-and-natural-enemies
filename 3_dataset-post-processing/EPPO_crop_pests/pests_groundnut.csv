@@ -1,0 +1,90 @@
+type,EPPOCode,Pref_name,References
+Host,ALEDDI,Aleurodicus dispersus,"* Boopathi T (2022) New host plants, natural enemy complex and newly distributed potential areas of exotic spiralling whitefly (Hemiptera: Aleyrodidae) in India. Phytoparasitica 50(2), 335-357."
+Host,EMPOBI,Amrasca biguttula,"* Pal PK (2004) Seasonal diversity with incidence and damage of insect pests in groundnut under red and laterite zone of West Bengal. Environment and Ecology 22(3), 565-570."
+Host,BEMITA,Bemisia tabaci,"* McKenzie CL, Sparks Jr AN, Roberts P, Oetting RD, Osborne LS (2020) Survey of Bemisia tabaci (Hemiptera: Aleyrodidae) in agricultural ecosystems in Georgia. Journal of Entomological Science 55(2), 163-170."
+Host,HELIVI,Chloridea virescens,"* De Tomás CL, Peralta QK (1994) Heliothis virescens comp plaga del manzano en el Valle de Mala. Revista Peruana De Entolomogía, 36(1), 89-90.
+
+* Hallman GJ (1980) Huéspedes y enemigos naturales de Heliothis spp., en la región algodonera del Departamento del Tolima, Colombia. Turrialba 30(3), 272-279.
+
+* Kogan M, Helm CG, Kogan J, Brewer E (1989) Distribution and economic importance of Heliothis virescens and Heliothis zea in North, Central, and South America and of their Natural Enemies and Host Plants. pp 241-297 In Proceedings of the Workshop on Biological Control of Heliothis: Increasing the effectiveness of natural enemies. USDA.
+
+* EPPO (2024) EPPO Technical Document No. 1091. Pest risk analysis for Chloridea virescens. EPPO, Paris. Available at https://gd.eppo.int/taxon/HELIVI/documents
+------- Main host (evidence that the plant supports populations of the pest in several generations or years, i.e. true hosts, or plant mentioned as common or preferred host – see PRA for further details on the host)
+"
+Host,DIABSC,Diabrotica speciosa,
+Host,DIABUN,Diabrotica undecimpunctata undecimpunctata,"* Clark SM, LeDoux DG, Seeno TN, Riley EG, Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada (Coleoptera: Megalopodidae, Orsodacnidae, Chrysomelidae, excluding Bruchinae). Coleopterists Society, Special Publication 2, 1-476.
+-------- Larval and adult host."
+Host,DPREAB,Diaprepes abbreviatus,"* EFSA PLH Panel (EFSA Panel on Plant Health) (2023) Pest categorisation of Diaprepes abbreviatus. EFSA Journal 21(11), 1–42. https://doi.org/10.2903/j.efsa.2023.83
+-------host plant supporting the whole life cycle. "
+Host,DITYDE,Ditylenchus destructor,"* Basson S, De Waele DG, Meyer AJ (1991) Population dynamics of Ditylenchus destructor on peanut. Journal of Nematology 23(4), 485–490."
+Host,ELASLI,Elasmopalpus lignosellus,"* Gill HK, Capinera JL, McSorley R (2017) Featured Creatures. Lesser cornstalk borer. Elasmopalpus lignosellus (Zeller) (Insecta: lepidoptera: Pyralidae). University of Florida (US). http://entnemdept.ufl.edu/creatures/field/lesser_cornstalk_borer.htm
+
+* Mack TP, Backman CB (1990) Effects of two planting dates and three tillage systems on the abundance of lesser cornstalk borer (Lepidoptera: Pyralidae), other selected insects, and yield in peanut fields. Journal of Economic Entomology 83(3), 1034–1041.
+
+* Neunzig HH (1979) Systematics of immature Phycitines (Lepidoptera: Pyralidae) associated with leguminous plants in the Southern United States. USDA Technical Bulletin no. 1589, 126 pp.
+
+* Sandhu HS (2010) Biology and cultural control of lesser cornstalk borer on sugarcane. PhD thesis. University of Florida. https://ufdcimages.uflib.ufl.edu/UF/E0/04/14/72/00001/sandhu_h.pdf"
+Host,SPHAAR,Elsinoë arachidis,
+Host,EURHBR,Eurhizococcus brasiliensis,"* García Morales M, Denno BD, Miller DR, Miller GL, Ben-Dov Y, Hardy NB (2016) ScaleNet: A literature-based model of scale insect biology and systematics. Database. doi 10.1093/database/bav118. http://scalenet.info
+------- citing original references
+
+* Soria SJ, Gallotti BJ (1986) O margarodes da videira Eurhizococcus brasiliensis (Homoptera: Margarodidae): biologia, ecologia e controle no Sul do Brasil. Embrapa, Centro Nacional de Pesquisa de Uva e Vinho, Bento Gonçalves, Brazil. CNPUV Circular Técnica 13. 22 pp."
+Host,EUTEBA,Eutetranychus banksi,* Migeon A & Dorkeld F (2024) Spider Mites Web: a comprehensive database for the Tetranychidae. Available from https://www1.montpellier.inrae.fr/CBGP/spmweb (Accessed 2024/04/23)
+Host,EUTEOR,Eutetranychus orientalis,"* Gutierrez J, Etienne J (1981) Quelques données sur les acariens Tetranychidae attaquant les plantes cultivées au Sénégal. Agronomie Tropicale 36 (4), 391-394."
+Host,HELIAR,Helicoverpa armigera,"* Cunningham JP, Zalucki MP (2014) Understanding heliothine (Lepidoptera: Heliothinae) pests: what is a host plant? Journal of Economic Entomology 107, 881–896."
+Host,HELIZE,Helicoverpa zea,"* Matthews M (1991) Classification of the Heliothinae. Bulletin of the Natural Resources Institute No. 44. Natural Resources Institute, Chatham, UK."
+Host,STEHHA,Hypothenemus hampei,"* Damon A (2000) A review of the biology and control of the coffee berry borer, Hypothenemus hampei (Coleoptera: Scolytidae). Bulletin of Entomological Research 90(6), 453-465.
+
+* Marchioro M, Vallotto D, Ruzzier E, Besana L, Rossini M, Ortis G, Faccoli M, Martinez-Sañudo I (2023) Scolytinae former Cryphalini host plant dataset. Avalaible in Zenodo. https://doi.org/10.5281/zenodo.7925274 "
+Host,LAGRVL,Lagria villosa,"* Spilman TJ (1978) Lagria villosa in Brazil, with new descriptions and illustrations of the larva and pupa (Coleoptera, Lagriidae). Ciencia e cultura, Sao Paulo 30(3), 342–347"
+Host,LEPLAU,Leptoglossus australis,
+Host,LIRITR,Liriomyza trifolii,"* Fagoonee I, Toory V (1984). Contribution to the study of the biology and ecology of the leaf-miner Liriomyza trifolii and its control by neem. Insect Science and Its Application 5(1), 23-30."
+Host,ACHAFU,Lissachatina fulica,"* Thiengo SC, Faraco FA, Salgado NC, Cowie RH, Fernandez MA (2007) Rapid spread of an invasive snail in South America: the giant African snail, Achatina fulica, in Brasil. Biological Invasions 9, 693-702."
+Host,PHENHI,Maconellicoccus hirsutus,"* Chang LWH, Miller CE (1996) Pathway Risk Assessment: Pink mealybug from the Caribbean. Animal and Plant Health Inspection Service, U.S. Dept. of Agriculture 61 pp."
+Host,MEGTUS,Megalurothrips usitatus,"* Sartiami D, Mound LA (2013) Identification of the terebrantian thrips (Insecta, Thysanoptera) associated with cultivated plants in Java, Indonesia. ZooKeys 306, 1–21. https://doi.org/10.3897/zookeys.306.5455
+------- Collected from this plant in Java (Indonesia).
+
+* Tillekaratne K, Edirisinghe JP, Gunatilleke CVS, Karunaratne WAP (2011) Survey of thrips in Sri Lanka: A checklist of thrips species, their distribution and host plants. Ceylon Journal of Science 40(2), 89-108."
+Host,MELGCH,Meloidogyne chitwoodi,"* Santo GS, O'Bannon JH, Finley AM, Golden AM (1980) Occurrence and host range of a new root-knot nematode (Meloidogyne chitwoodi) in the Pacific northwest. Plant Disease 64, 951-952."
+Host,GRAGLE,Naupactus leucoloma,"* Chadwick CF (1965) Checklist of the Brachyderinae (Col. Curculionidae) occurring in Australia. Journal of the Entomological Society of Australia (NSW) 2, 21-34."
+Host,PROETR,Prostephanus truncatus,
+Host,SCITAU,Scirtothrips aurantii,"* Mound LA, Palmer JM (1981) Identification, distribution and host-plants of the pest species of Scirtothrips (Thysanoptera: Thripidae). Bulletin of Entomological Research 71, 467-479.
+------- only at genus level (Arachis) in Angola and Mauritius"
+Host,SCITDO,Scirtothrips dorsalis,"* Sreerama Kumar P,  Rachana RR (2021) Scirtothrips dorsalis (Thysanoptera: Thripidae) is a pest of celery, Apium graveolens (Apiales: Apiaceae): first report and diagnostic characters. Journal of Integrated Pest Management 12(1), 46. https://doi.org/10.1093/jipm/pmab039
+------- Confirmed host.
+
+* Klassen W, Seal DR, Ciomperlik MA, Fieslemann DA (2008) The chilli thrips, Scirtothrips dorsalis: current status in the Greater Caribbean Region. Proceeedings of the Caribbean food crops society,  44(1), 103-117.
+------- reproductive host in Florida."
+Host,PRODER,Spodoptera eridania,"* Montezano DG, Specht A, Sosa-Gomez DR, Roque-Specht VF & de Barros NM (2014) Immature stages of Spodoptera eridania (Lepidoptera: Noctuidae): developmental parameters and host plants. Journal of Insect Science 14, 238. https://doi.org/10.1093/jisesa/ieu116"
+Host,LAPHFR,Spodoptera frugiperda,"* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300."
+Host,SPODLI,Spodoptera littoralis,"* Dove H, Williams JR (1971) Pests of groundnuts and their control. Revue Agricole et Sucrière de l'Ile Maurice 50(3/4), 235-240 (abst.).
+
+* Fenili GA, Dallai R, Abukar MM (1983) Groundnut pests in Somalia. Rivista di Agricoltura Subtropicale e Tropicale 77(3), 343-350 (abst.).
+
+* Zaki FN, Abdel-Raheem MA (2010) Use of entomopathogenic fungi and insecticide against some insect pests attacking peanuts and sugarbeet in Egypt. Archives of Phytopathology and Plant Protection 43(18), 1819-1828."
+Host,PRODLI,Spodoptera litura,
+Host,PRODOR,Spodoptera ornithogalli,"* Wall R, Berberet RC (1974) The life-cycle of Euplectrus platyhypenae, a gregarious external parasitoid of peanut foliage feeders in Oklahoma. Environmental Entomology 3(5), 744-746.
+
+* Brito R, Specht A, Gonçalves GL, Moreira GRP, Carneiro E, Santos FL, Roque-Specht VF, Mielke OHH, Casagrande MM (2019) Spodoptera marima: a new synonym of Spodoptera ornithogalli (Lepidoptera: Noctuidae), with notes on adult morphology, host plant use and genetic variation along its geographic range. Neotropical Entomology 48(3), 433-448.
+
+* Coto D, Saunders JL, Vargas-S CL, King ABS (1995) Plagas invertebradas de cultivos tropicales con énfasis em América Central-Um invetário. Turrialba, CATIE, 200 pp.
+
+* Poveda BD, Schwitzer DA (1964) Estudio biológico del Prodenia ornithogalli Guen. y del Prodenia sunia (Guen.) en três hospedeiros. Acta Agronômica 14(1), 71-101.
+
+* Robinson GS, Ackery PR, Kitching IJ, Beccaloni GW, Hernández LM (2010) HOSTS - A Database of the World's Lepidopteran Hostplants. Natural History Museum, London. http://www.nhm.ac.uk/hosts"
+Host,TETREV,Tetranychus evansi,"* Chiavegato LG, Reis PR (1969) Ocorrência do àcaro Tetranychus evansi Baker and Pritchard, 1960 (Acarina, Tetranychidae) em Amendoim (Arachis hypogea L.) no Estado de Saõ Paulo. Ciencia e Cultura, 21: 372.
+
+* Moutia LA (1958) Contribution to the study of some phytophagous Acarina and their predators in Mauritius. Bulletin of Entomological Research, 49: 59-75."
+Host,TETRME,Tetranychus mexicanus,* Bernal R & Pineiro C (1982) Nuevos acaros encontrados sobre citrus en la zona de salto.
+Host,THRIPL,Thrips palmi,"* Renuka Biradar, Mahabaleshwar Hegde (2018) Thrips population diversity in summer groundnut. Environment & Ecology 35(2B), 1037-1040."
+Major host,DIABUH,Diabrotica undecimpunctata howardi,"* Clark SM, LeDoux DG, Seeno TN, Riley EG, Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada (Coleoptera: Megalopodidae, Orsodacnidae, Chrysomelidae, excluding Bruchinae). Coleopterists Society, Special Publication 2, 1-476.
+------- Larval host."
+Major host,TROGGA,Trogoderma granarium,"* Athanassiou CG, Phillips TW, Wakil W (2019) Biology and Control of the Khapra Beetle, Trogoderma granarium, a Major Quarantine Threat to Global Food Security. Annual Review of Entomology 64, 131-148. Supplemental Table 1.
+------- as peanut
+
+* Lindgren D, Vincent L, Krohne H (1955) The khapra beetle, Trogoderma granarium Everts. Hilgardia 24(1), 1-36.
+------- as groundnut
+
+* Global Invasive Species Database (2025) Species profile: Trogoderma granarium. http://www.iucngisd.org/gisd/species.php?sc=142 (27-02-2025)."
+Wild/Weed,MELGET,Meloidogyne ethiopica,"* Lima E A, Mattos J K, Moita A W, Carneiro R G & Carneiro R M D G (2009) Host status of different crops for Meloidogyne ethiopica control. Tropical Plant Pathology 34, 152-157.
+-------In experiments, cv. ‘CavaloVemelho’ was found to be a poor host (0.1<RF<1)."

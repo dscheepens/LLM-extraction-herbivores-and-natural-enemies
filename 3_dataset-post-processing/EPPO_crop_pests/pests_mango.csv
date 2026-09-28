@@ -1,0 +1,267 @@
+type,EPPOCode,Pref_name,References
+Doubtful host,LEUIOR,Leucinodes orbonalis,"* EFSA Plant Health Panel (2024) Pest risk assessment of Leucinodes orbonalis for the European Union.  EFSA Journal 22(3), e8498. doi 10.2903/j.efsa.2024.8498
+------- ""Records of L. orbonalis on non-Solanaceae host plants appear to be incidental, and the species is unlikely to complete its life cycle on these plants"". For Mangifera indica, the host record is considered erroneous. "
+Experimental,RHYCPA,Rhynchophorus palmarum,"* Hagley EAC (1965) On the life history and habits of the palm weevil, Rhynchophorus palmarum. Annals of the Entomological Society of America 58(1), 22-28.
+------- Adult feeding on ripe mangoes.
+
+* Wattanapongsiri A (1966) A revision of the genera Rhynchophorus and Dynamis. Department of Agricultural Science Bulletin, Bangkok, Thailand.
+"
+Host,ALECWO,Aleurocanthus woglumi,"* Dubey AK, Ko CC (2012) Sexual dimorphism among species of Aleurocanthus Quaintance & Baker (Hemiptera: Aleyrodidae) in Taiwan, with one new species and an identification key. Zootaxa 3177, 1–23.
+
+* Shaw JG (1950) Hosts of the citrus blackfly in Mexico. United States Bureau of Entomology and Plant Quarantine. E-793, 3 pp."
+Host,ALEDDI,Aleurodicus dispersus,"* Boopathi T (2022) New host plants, natural enemy complex and newly distributed potential areas of exotic spiralling whitefly (Hemiptera: Aleyrodidae) in India. Phytoparasitica 50(2), 335-357."
+Host,ALTHFL,Aleurothrixus floccosus,
+Host,AMBPCO,Amblypelta cocophaga,
+Host,AMBPLU,Amblypelta lutescens,"* Lindsay KR, Zalucki MP, Newton IR, Furlong MJ (2019) Spatial and Temporal Dynamics of the Native Banana-Spotting Bug, Amblypelta lutescens lutescens (Hemiptera: Coreidae), in Avocado Crops in North Queensland, Australia, Journal of Economic Entomology 112(4), 1812–1820. https://doi.org/10.1093/jee/toz084
+------- confirmed host"
+Host,ANSTBA,Anastrepha bahiensis,"* Barreto MR, de Sousa MD, Adaime R, Zucchi RA (2022) Fruit flies in the Mato Grosso state, Brazil: Increasing knowledge about diversity, host plants and parasitoids. Revista Brasileira de Ciências Agrárias 17(2), e1500"
+Host,ANSTFR,Anastrepha fraterculus,"* Bondar G (1950) Moscas de frutas na Bahia. Boletin Campo 6, 13–15.
+
+* Campos RF (1960) Las moscas (Brachycera) del Ecuador. Revista Ecuatoriana Higiene y Medicina Tropical 17, 1–66.
+
+* Korytkowski C, Ojeda-Pena D (1970) Especies del género Anastrepha Schiner 1968 en el nor-oeste Peruano. Revista Peruana de Entomologia (Lima) 11, 32-70.
+
+* Malavasi A, Morgante JS, Zucchi RA (1980) Biologia de “moscas-das-frutas” (Diptera, Tephritidae). I: lista de hospedeiros e ocorrência. Revista Brasileira de Biologia 40, 9–16.
+
+* Núñez Bueno L (1981) Contribución al reconocimiento de las moscas de las frutas (Diptera: Tephriridae) en Colombia. Revista del Instituto Colombiano Agropecuario 16, 173–179.
+
+* Ovruski S, Schliserman P, Aluja M (2003) Native and introduced host plants of Anastrepha fraterculus and Ceratitis capitata (Diptera: Tephritidae) in northwestern Argentina. Journal of Economic Entomology 96, 1108–1118.
+
+* Putruele MTG (1996) Hosts for Ceratitis capitata and Anastrepha fraterculus in the northeastern Province of Entre Ríos, Argentina. In Fruit Fly Pests: A World Assessment of Their Biology and Management, BA McPheron & GJ Steck (Eds.), pp. 343–345. St. Lucie Press, Delray Beach, FL.
+
+* Raga A, Souza-Filho MFD, Machado RA, Sato ME, Siloto RC (2011) Host ranges and infestation indices of fruit flies (Tephritidae) and lance flies (Lonchaeidae) in São Paulo State, Brazil. Florida Entomologist 94, 787–794.
+
+* Stone A (1942) The fruitflies of the genus Anastrepha. USDA Miscellaneous Publications 439, 112 pp.
+
+* Wille TJE (1952) Entomología Agrícola del Perú. Dirección General de Agricultura, Lima, 543 pp."
+Host,ANSTSE,Anastrepha serpentina,
+Host,ANSTST,Anastrepha striata,"* Barreto MR, de Sousa MD, Adaime R, Zucchi RA (2022) Fruit flies in the Mato Grosso state, Brazil: Increasing knowledge about diversity, host plants and parasitoids. Revista Brasileira de Ciências Agrárias 17(2), e1500"
+Host,ANSTSU,Anastrepha suspensa,"* Boykin LM. Shatters RG, Jr, Hall DG, Burns RE, Franqui RA (2006) Analysis of host preference and geographical distribution of Anastrepha suspensa (Diptera: Tephritidae) using phylogenetic analyses of mitochondrial cytochrome oxidase I DNA sequence data. Bulletin of Entomological Research 96, 457-469.
+
+* Ibrahim R (1980) Fruit flies of Florida. Dissertation, University of Florida, Gainesville, 356 pp.
+
+* Swanson RW, Baranowski RM (1972) Host range and infestation by the Caribbean fruit fly, Anastrepha suspensa (Diptera: Tephritidae), in south Florida. Proceedings of the Florida State Horticultural Society, 271-273.
+
+* Weems HV Jr (1965) Anastrepha suspensa (Loew) (Diptera: Tephritidae). Florida Department of Agriculture, Division of Plant Industry, Entomology Circular 38, 4 pp.
+
+* Windeguth DL von, Pierce WH, Steiner LF (1972) Infestations of Anastrepha suspensa in fruit on Key West, Florida. Florida Entomologist 56, 127-131."
+Host,ANSTTU,Anastrepha turpiniae,"* Barreto MR, de Sousa MD, Adaime R, Zucchi RA (2022) Fruit flies in the Mato Grosso state, Brazil: Increasing knowledge about diversity, host plants and parasitoids. Revista Brasileira de Ciências Agrárias 17(2), e1500"
+Host,AONDCI,Aonidiella citrina,
+Host,AONDOR,Aonidiella orientalis,"* Muniappan R, Watson GW, Vaughan L, Gilbertson R, Noussourou M, 2012. New records of mealybugs, scale insects, and whiteflies (Hemiptera: Sternorrhyncha) from Mali and Senegal. Journal of Agricultural and Urban Entomology, 28(1), 1-7. https://doi.org/10.3954/1523-5475-28.1.1"
+Host,TOXOCI,Aphis citricidus,"* Michaud JP (1998) A review of the literature on Toxoptera citricida (Kirkaldy) (Homoptera: Aphididae). Florida Entomologist 81(1), 37-61.
+
+* Singh G, Singh R (2017) Food plant records of Aphidini (Aphidinae: Aphididae: Hemiptera) in India. Journal of Entomology and Zoology Studies 5(2), 1280-1302."
+Host,PSYLCI,Apsylla cistellata,
+Host,ATHEOR,Atherigona orientalis,"* Suputa S, Trisyono YA, Martono E, Siwi SS (2010) Update on the host range of different species of fruit flies in Indonesia. Jurnal Perlindungan Tanaman Indonesia 16(2), 62-75."
+Host,BCTRCB,Bactrocera carambolae,"* Allwood AJ, Chinajariyawong A, Drew RAI., Hamacek EL., Hancock DL., Hengsawad C, Jipanin JC, Jirasurat M, Kong Krong C, Kritsaneepaiboon S, Leong CTS, Vijaysegaran S (1999) Host plant records for fruit flies (Diptera: Tephritidae) in South East Asia. The Raffles Bulletin of Zoology suppl 7, 1-92. 
+
+* Liquido NJ, McQuate GT, Nakamichi KA, Kurashima RS, Birnbaum AL, Hanlin MA (2016) Provisional list of suitable host plants of carambola fruit fly, Bactrocera (Bactrocera) carambolae Drew & Hancock (Diptera: Tephritidae), Version 1.1. Available online at USDA Compendium of Fruit Fly Host Information (CoFFHI).
+
+* van Sauers-Muller A (2005) Host plants of the carambola fruit fly, Bactrocera carambolae Drew & Hancock (Diptera: Tephritidae) in Suriname, South America. Neotropical Entomology 34, 203-214."
+Host,BCTRCO,Bactrocera correcta,"* He Y, Xu Y, Chen X (2023) Biology, ecology and management of Tephritid fruit flies in China: A review. Insects 14, 196. https://doi.org/10.3390/insects14020196"
+Host,DACUCR,Bactrocera curvipennis,"* Leblanc L (2022) The dacine fruit flies (Diptera: Tephritidae: Dacini) of Oceania. Insecta Mundi 0948, 1-167. https://journals.flvc.org/mundi/article/view/131965/135549"
+Host,DACUDO,Bactrocera dorsalis,"* Allwood AJ, Chinajariyawong A, Kritsaneepaiboon S, Drew RAI, Hamacek EL, Hancock DL, Hengsawad C, Jinapin JC, Jirasurat M, Krong CK, Leong CTS, Vijaysegaran S (1999) Host plant records for fruit flies (Diptera: Tephritidae) in Southeast Asia. The Raffles Bulletin of Zoology 47(7), 1-92.
+
+* He Y, Xu Y, Chen X (2023) Biology, ecology and management of Tephritid fruit flies in China: A review. Insects 14, 196. https://doi.org/10.3390/insects14020196
+
+* Leblanc L (2022) The dacine fruit flies (Diptera: Tephritidae: Dacini) of Oceania. Insecta Mundi 0948, 1-167. https://journals.flvc.org/mundi/article/view/131965/135549
+
+* Rasolofoarivao H, Raveloson Ravaomanarivo LH, Delatte H (2021) Host plant ranges of fruit flies (Diptera: Tephritidae) in Madagascar. Bulletin of Entomological Research 1–12. https://doi.org/10.1017/ S0007485321000511"
+Host,BCTRPA,Bactrocera passiflorae,"* Leblanc L (2022) The dacine fruit flies (Diptera: Tephritidae: Dacini) of Oceania. Insecta Mundi 0948, 1-167. https://journals.flvc.org/mundi/article/view/131965/135549."
+Host,CERTAN,Ceratitis anonae,"* INTERNET
+True Fruit Flies (Diptera: Tephritidae) of the Afrotropical Region. Ceratitis anonae. Specimens. http://projects.bebif.be/fruitfly/taxoninfo.html?id=56
+------- Confirmed host.
+
+* Nanga Nanga S, Hanna R, Fotso Kuate A, Fiaboe KK, Nchoutnji I, Ndjab M, Gnanvossou D, Mohamed SA, Ekesi S, Djieto-Lordon C (2022) Tephritid fruit fly species composition, seasonality, and fruit infestations in two central African agro-ecological zones. Insects 13(11), 1045. https://doi.org/10.3390/insects13111045
+
+* Vayssières JF, Sanogo F, Noussourou M (2007) Inventory of the fruit fly species (Diptera: Tephritidae) linked to the mango tree in Mali and tests of integrated control. Fruits. 62(5), 329-341."
+Host,CERTCA,Ceratitis capitata,"* De Meyer M., Copeland RS, Lux SA, Mansell M, Quilici S, Wharton R, White IM, Zenz NJ (2002) Annotated check list of host plants for Afrotropical fruit flies (Diptera: Tephritidae) of the genus Ceratitis. Zoologische Documentatie Koninklijk Museum voor Midden Afrika 27, 1-91."
+Host,CERTFA,Ceratitis fasciventris,"* INTERNET
+True Fruit Flies (Diptera: Tephritidae) of the Afrotropical Region. Ceratitis fasciventris. Specimens. http://projects.bebif.be/fruitfly/taxoninfo.html?id=63
+------- Confirmed host.
+
+* Vayssières JF, Sanogo F, Noussourou M (2007) Inventory of the fruit fly species (Diptera: Tephritidae) linked to the mango tree in Mali and tests of integrated control. Fruits. 62(5), 329-341."
+Host,CERTMA,Ceratitis malgassa,"* Rasolofoarivao H, Raveloson Ravaomanarivo LH, Delatte H (2022) Host plant ranges of fruit flies (Diptera: Tephritidae) in Madagascar. Bulletin of Entomological Research 112, 1–12. https://doi.org/10.1017/S0007485321000511"
+Host,CERTQI,Ceratitis quilicii,"* Moquet L, Payet J, Glenac S, Delatte H (2021) Niche shift of tephritid species after the Oriental fruit fly (Bactrocera dorsalis) invasion in La Réunion. Diversity and Distributions. 27(1), 109-129. https://doi.org/10.1111/ddi.13172
+
+* Tsatsu SK, Sutton GF, Serfontein L, Addison P, De Meyer M, Virgilio M, Manrakhan A (2024) Distribution and host ranges of Ceratitis rosa and Ceratitis quilicii (Diptera: Tephritidae) in South Africa. Bulletin of Entomological Research 1–11. https://doi.org/10.1017/S0007485324000294"
+Host,CERTRO,Ceratitis rosa,"* INTERNET
+True Fruit Flies (Diptera: Tephritidae) of the Afrotropical Region. Ceratitis rosa. Specimens. http://projects.bebif.be/fruitfly/taxoninfo.html?id=62
+------- Confirmed host.
+
+* Tsatsu SK, Sutton GF, Serfontein L, Addison P, De Meyer M, Virgilio M, Manrakhan A (2024) Distribution and host ranges of Ceratitis rosa and Ceratitis quilicii (Diptera: Tephritidae) in South Africa. Bulletin of Entomological Research 1–11. https://doi.org/10.1017/S0007485324000294"
+Host,CERPFL,Ceroplastes floridensis,"* da Costa-Lima TC, Peronti ALBG, Wolff VR, de Auraujo Pereira EP, Jordao Paranhos BA (2021) New scale insects (Hemiptera: Coccomorpha) records as mango pests in Northeast Brazil. International Journal of Tropical Insect Science. https://doi.org/10.1007/s42690-021-00660-y"
+Host,VINSST,Ceroplastes stellifer,
+Host,CHRYFI,Chrysomphalus aonidum,
+Host,COCCVI,Coccus viridis,
+Host,CRYHDI,Cryphalus dilutus,"* Gugliuzzo A, Gusella G, Leonardi GR, Costanzo MB, Ricupero M, Rassati D, Biondi A, Polizzi G (2023) From a cause of rapid fig tree dieback to a new threat to mango production: the invasive bark beetle Cryphalus dilutus Eichhoff (Coleoptera: Curculionidae, Scolytinae) and its associated fungi found on mango trees in Europe. EPPO Bulletin53(3), 663-670.
+
+* Johnson AJ, Li Y, Mandelshtam MY, Park S, Lin C-S, Gao L, Hulcr J (2020) East Asian Cryphalus Erichson (Curculionidae, Scolytinae): new species, new synonymy and redescriptions of species. ZooKeys 995, 15-66. https://doi.org/10.3897/zookeys.995.55981
+"
+Host,CRYBGN,Cryptoblabes gnidiella,"* Korashy MA (2001) Seasonal fluctuation in the population of Cryptoblabes gnidiella Millar in mango, grapevine and citrus orchards. Egyptian Journal of Agricultural Research 79(4), 1379-1385."
+Host,DACUCI,Dacus ciliatus,"* McQuate GT, Liquido NJ, Nakamichi KAA (2018) Host plant records of the lesser pumpkin fly, Dacus ciliatus Loew (Diptera: Tephritidae), Version 1.0. Available online at: USDA Compendium of Fruit Fly Host Information (CoFFHI), Edition 3.1."
+Host,DICHPU,Dichocrocis punctiferalis,"* Mehdi MA, Abbas D, Ramzan M, Fazlullah, Shahid R, Siddique AB, Hayat M, Asghar N (2025) Perception of Mango Farmers on the Status of Conogethes punctiferalis. Indian Journal of Entomology, 87(3), 1–4. https://doi.org/10.55446/IJE.2024.1690"
+Host,DROCST,Drosicha stebbingii,
+Host,DROSSU,Drosophila suzukii,"* Lasa R, Tadeo E, Dinorín LA, Lima I, Williams T (2017) Fruit firmness, superficial damage, and location modulate infestation by Drosophila suzukii and Zaprionus indianus: the case of guava in Veracruz, Mexico. Entomologia Experimentalis et Applicata 162, 4-12. doi:10.1111/eea.12519"
+Host,PLTPPA,Euplatypus parallelus,* Atkinson TH (online) Bark and Ambrosia Beetles. https://www.barkbeetles.info/index.php (last accessed 2021-07).
+Host,XYLBFO,Euwallacea fornicatus sensu lato,"* Government of Western Australia. Department of Primary Industries and Regional Development. Polyphagous shot-hole borer (PSHB). Australian Host List (version 24.0 - 2024-09-30). https://www.agric.wa.gov.au/sites/gateway/files/PSHB-WA-Host-List_2.pdf
+------- Reproductive host in Western Australia.
+
+* Schuler H, Witkowski R, van de Vossenberg B, Hoppe B, Mittelbach M, Bukovinszki T, Schwembacher S, van de Meulengraaf B, Lange U, Rode S, Andriolo A (2022) Recent invasion and eradication of two members of the Euwallacea fornicatus species complex (Coleoptera: Curculionidae: Scolytinae) from tropical greenhouses in Europe. Biological Invasions. https://doi.org/10.1007/s10530-022-02929-w
+
+* Yamaguchi T, Iwamoto J, Goto H, Nojima H, Omatu N, Torigoe H, Yasuda K, Setokuchi O, Hayashikawa S (2006) Insect pests of the mango plant, Mangifera indica, on the Amami islands, Japan. Kyushu Plant Protection Research 52, 60-65."
+Host,EUWAWH,Euwallacea fornicatus sensu stricto,"* Government of Western Australia. Department of Primary Industries and Regional Development. Polyphagous shot-hole borer (PSHB). Australian Host List (version 24.0 - 2024-09-30). https://www.agric.wa.gov.au/sites/gateway/files/PSHB-WA-Host-List_2.pdf
+------- Reproductive host in Western Australia."
+Host,EUWAPE,Euwallacea perbrevis (as Mangifera),"* Smith SM, Gomez DF, Beaver RA, Hulcr J, Cognato AI (2019) Reassessment of the species in the Euwallacea fornicatus (Coleoptera: Curculionidae: Scolytinae) complex after the rediscovery of the ‘lost’ type specimen. Insects 10, 261. https://doi.org/10.3390/insects10090261"
+Host,FIORCO,Fiorinia phantasma,
+Host,FRANOC,Frankliniella occidentalis,"* Grove T, Giliomee JH, Pringle KL (2001) Thrips (Thysanoptera) species associated with mango trees in South Africa. African Entomology 9(2), 153-162.
+------- observed on flowers. "
+Host,ECDYAU,Gymnandrosoma aurantianum,"* EPPO (2020) Pest Risk Analysis for Gymnandrosoma aurantianum (Lepidoptera: Tortricidae), citrus fruit borer, macadamia fruit borer. EPPO, Paris. Available at https://gd.eppo.int/taxon/ECDYAU/documents
+------- Uncertain hosts. No evidence was found if the pest completes its life cycle.
+------- Intercepted in the USA on this host.
+
+* Nakayama K (2018) Surto de lepidobrocas atacando frutos de cacaueiro Boletim Técnico. Ilhéus, BA.
+
+* White GL (1999) Sapindus saponaria L. (Sapindaceae), a new host of Ecdytolopha aurantianum (Lima) (Lepidoptera: Tortricidae: Olethreutinae). International Journal of Pest Management, 45(4), 287–291. https://doi.org/10.1080/096708799227699
+"
+Host,HELIAR,Helicoverpa armigera,"* Grové T, De Beer MS (2017) Insect pests affecting the production of mango in South Africa. Acta Horticulturae 1183, 297-304."
+Host,HOMLTR,Homalodisca vitripennis,"* Hoddle MS, Triapitsyn SV, Morgan DJW (2003) Distribution and plant association records for Homalodisca coagulata (Hemiptera: Cicadellidae) in Florida. Florida Entomologist 86(1), 89-91."
+Host,IDIOCL,Idioscopus clypealis,
+Host,LYMAMA,Lymantria mathura,"* Kumar Kaustubh, Rahul Joshi, Hassan SMM (2022) Report of occurrence of Lymantria mathura (Lepidoptera: Erebidae) from Saranda Forest Division, Jharkhand, India. Acta Entomology and Zoology 3(1), 30-33. https://doi.org/10.33545/27080013.2022.v3.i1a.61
+
+* Roonwal ML (1979) Field-ecological studies on mass eruption, seasonal life-history, nocturnal feeding and activity rhythm, and protective behavior and coloration in the sal defoliator, Lymantria mathura (Lepidoptera: Lymantriidae), in sub-Himalayan forests. Records of the Zoological Survey of India 75, 209-236.
+------- Highly suitable host plant in India."
+Host,PHENHI,Maconellicoccus hirsutus,"* Martins dos S. D, Fornazier MJ, Peronti ALBG, Culik MP, Souza CAS, Taques RC, Zanuncio Jr JS, Queiroz RB (2019) Maconellicoccus hirsutus (Hemiptera: Pseudococcidae) in Brazil: recent spread, natural enemies, and new hosts. Florida Entomologist 102(2), 438-443.  https://doi.org/10.1653/024.102.0225
+------- Confirmed host in Brazil."
+Host,MEGTUS,Megalurothrips usitatus,"* Reyes CP, Cayabyab BF, Copuyoc MKM (2020) Abundance and diversity of thrips (Insecta: Thysanoptera) in conventional “Carabao” mango orchard in Piat, Cagayan, Philippines. Philippine Journal of Science 149(4), 1019-1028.
+------- Found in mango flowers."
+Host,PLTPMU,Megaplatypus mutatus,"* Carvalho Filho MM, Teixeira EP, Conforti TB (2008) Registro de novos hospedeiros de Megaplatypus mutatus (Chapuis) (Coleoptera, Platypodidae) no Estado de São Paulo, Brasil (Nota Científica). Revista do Instituto Florestal 20(2), 213-219."
+Host,OLIGPU,Oligonychus punicae,"* Abou-Awad BA, Afia SI, Al-Azzazy MM (2012) Ecological studies on the mango red spider mite Oligonycbus mangiferus (Rahman and Sapra) in mango orchards (Acari: Tetranychidae). Acarines 6, 7-13.
+
+* Bolland HR, Gutierrez J, Flechtmann CH (1988) World catalogue of the spider mite family (Acari: Tetranychidae). Brill, 392 pp.
+
+* Gutierrez J,  Etienne J (1986) Les Tetranychidae de l'île de la Réunion et quelques-uns de leurs prédateurs. Agronomie Tropicale 41(1), 84-91.
+
+
+* Migeon A, Dorkeld F (2024) Spider Mites Web: a comprehensive database for the Tetranychidae.  https://www1.montpellier.inrae.fr/CBGP/spmweb
+
+* Sidhu AS, Singh G (1972) Studies on the chemical control of Oligonychus mangiferus (Rahman and Sapra) on grapevine. Journal of Research, Punjab Agricultural University (1971, pub. in 1972), 8(4), 462-465.
+
+* Zaher MA, Shehata KK (1971) Biology of the red spider mite, Oligonychus mangiferus (R. & S.) (Acarina: Tetranychidae). Bulletin de la Société Entomologique d'Egypte (1971, pub. 1972), 55, 393-401."
+Host,ONCMUN,Oncometopia orbona,"* Turner WF (1959) Life histories and behavior of five insect vectors of phony peach disease. Technical Bulletin no. 1188. US Department of Agriculture. 28 pp.
+------- as food plant of Oncometopia undata."
+Host,SAISNI,Parasaissetia nigra,
+Host,PHENPR,Phenacoccus peruvianus,"* von Ellenrieder (2025) New records of scale insects (Hemiptera: Sternorrhyncha: Coccomorpha) from California with an updated checklist for the state. The Pan-Pacific Entomologist 101(1), 15-50."
+Host,PHENSO,Phenacoccus solenopsis,
+Host,PSEAPE,Pseudaulacaspis pentagona (as Mangifera),"* García Morales M, Denno BD, Miller DR, Miller GL, Ben-Dov Y, Hardy NB (2016) ScaleNet: A literature-based model of scale insect biology and systematics. Database. doi: 10.1093/database/bav118. http://scalenet.info [accessed 2026-02].
+
+* Miller DR & Davidson JA (2005) Armored Scale Insect Pests of Trees and Shrubs. Cornell Univ. Press Ithaca, NY 442 pp."
+Host,PSDTWA,Pseudotheraptus wayi,
+Host,SCITAU,Scirtothrips aurantii,"* Grové T, Giliomee JH, Pringle KL (2000) Treatment levels for citrus thrips, Scirtothrips aurantii (Thysanoptera: Thripidae), in mango orchards. African Plant Protection, 6(1), 17-20.
+------- confirmed host, causing damage in South Africa
+
+* Rafter MA, Walter GH (2013) Mate recognition in the South African citrus thrips Scirtothrips aurantii (Faure) and cross-mating tests with populations from Australia and South Africa. Journal of Insect Behaviour, 26, 780-795
+------- confirmed host. "
+Host,SCITCI,Scirtothrips citri,"* Mound L, Hoddle M (2016) Scirtothrips species (Thysanoptera: Thripidae) described from Mangifera indica (Anacardiaceae) in Mexico. Florida Entomologist 99(4), 759–764. doi:10.1653/024.099.0430     "
+Host,SCITDO,Scirtothrips dorsalis,"* Sreerama Kumar P,  Rachana RR (2021) Scirtothrips dorsalis (Thysanoptera: Thripidae) is a pest of celery, Apium graveolens (Apiales: Apiaceae): first report and diagnostic characters. Journal of Integrated Pest Management 12(1), 46. https://doi.org/10.1093/jipm/pmab039
+------- Confirmed host.
+
+* Kumar V,  Seal DR, Kakkar G, McKenzie CL,  Osborne LS (2012) New tropical fruit hosts of Scirtothrips dorsalis (Thysanoptera: Thripidae) and its relative abundance on them in South Florida. Florida Entomologist, 95(1):205-207.
+------- Confirmed host (larvae and adults).
+
+* Ravelo EE, Vaca JU, Arévalo EP, Delgado L, Díaz MF, Piñeros L, Castro AP, Brochero H, Goldarazena A (2018) Presence and distribution of Scirtothrips dorsalis Hood (Thysanoptera: Thripidae) in Colombia. Journal of Insect Science 18, 7. https://doi.org/10.1093/jisesa/iey092"
+Host,SCITMG,Scirtothrips mangiferae,"* Mound LA, Stiller M (2011) Species of the genus Scirtothrips from Africa (Thysanoptera, Thripidae). Zootaxa 2786: 51-61, DOI: 10.5281/zenodo.204035"
+Host,SLENRU,Selenothrips rubrocinctus,"* Grove T, Giliomee JH, Pringle KL (2001) Thrips (Thysanoptera) species associated with mango trees in South Africa. African Entomology 9(2), 153-162.
+------- damages young mango trees and trees in nurseries, but rarely mature trees."
+Host,LAPHFR,Spodoptera frugiperda,"* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300."
+Host,THRIHA,Thrips hawaiiensis,"* Sartiami D, Mound LA (2013) Identification of the terebrantian thrips (Insecta, Thysanoptera) associated with cultivated plants in Java, Indonesia. ZooKeys 306, 1–21. https://doi.org/10.3897/zookeys.306.5455
+------- Collected from this plant in Java (Indonesia)."
+Host,THRIPL,Thrips palmi,"* Krishnamoorthy A, Ganga Visalakshi PN (2012) Record of thrips on mango. Journal of Horticultural Science 7(1), 110-111."
+Host,UNASCI,Unaspis citri,"* Germain J-F, Vayssières V, Matile-Ferrero D (2010) Preliminary inventory of scale insects on mango trees in Benin. Entomologia Hellenica 19, 124-131.
+
+* Miller DR, Davidson JA (2005) Armored Scale Insect Pests of Trees and Shrubs. Cornell Univ. Press Ithaca, NY, 442 pp."
+Host,XIPHRI,Xiphinema rivesi,"* Alkemade JRM, Loof PAA (1990) The genus Xiphinema cobb, 1913 (Nematoda: Longidoridae) in Perú. Revue de Nématologie 13, 339-348."
+Host,XYLSCO,Xylosandrus compactus,"* Dole SA, Cognato AI (2010) Phylogenetic revision of Xylosandrus Reitter (Coleoptera: Curculionidae: Scolytinae: Xyleborina). Proceedings of the California Academy of Sciences 61(7), 451-545.
+
+* Oliveira CM, Flechtmann CAH, Frizzas MR (2008) First record of Xylosandrus compactus (Eichhoff) (Coleoptera: Curculionidae: Scolytinae) on soursop, Annona muricata L. (Annonaceae) in Brazil, with a list of host plants. Coleopterists Bulletin 62(1), 45-48.
+
+* Torrez AA, Imakawa AM, Barbosa ML, Souza LA, Sampaio PD (2022) Traps efficiency in the capture of Xylosandrus compactus (Eichhoff, 1875)(Coleoptera: Curculionidae: Scolytinae) during the early development of Aniba rosaeodora Ducke. Research Society and Development 11(1), e48911125186. http://dx.doi.org/10.33448/rsd-v11i1.25186"
+Host,XYLBCR,Xylosandrus crassiusculus,"* Horn S, Horn GN (2006) New host record of the Asian Ambrosia beetle, Xylosandrus crassiusculus (Motschulsky) (Coleoptera: Curculionidae). Journal of Entomological Science 10(1), 90-91."
+Host,XYLSMO,Xylosandrus morigerus,"* Beaver RA (1988) Biological studies on ambrosia beetles of the Seychelles (Col., Scolytidae and Platypodidae). Journal of Applied Entomology 105, 62-73."
+Host,ZAPRIN,Zaprionus indianus,"* Balmès V, Mouttet R (2019) The drosophilid risk on imports. EPPO Bulletin, 49: 122– 126. https://doi.org/10.1111/epp.12536
+------- larva found in fruit at import"
+Host,DACUCU,Zeugodacus cucurbitae,"* De Meyer M, Delatte H, Mwatawala M, Quilici S, Vayssières JF, Virgilio M (2015) A review of the current knowledge on Zeugodacus cucurbitae (Coquillett) (Diptera, Tephritidae) in Africa, with a list of species included in Zeugodacus. ZooKeys 540, 539-557. https://doi.org/10.3897/zookeys.540.9672"
+Major host,ANSTLU,Anastrepha ludens,"* Aluja M (1984) Manejo integrado de las moscas de la fruta (Diptera: Tephritidae). Direccion General de Sanidad Vegetal, SARH, Mexico.
+
+* Aluja M, Cabrera M, Rios E, Guillén J, Celedonio H, Hendrichs J, Liedo T (1987) A survey of the economically Important fruit flies (Diptera: Tephritidae) present in Chiapas and a few other fruit growing regions in Mexico. Florida Entomologist 70(3), 320-329.
+
+* Aluja M, Diaz-Fleisher F, Arredondo J (2004) Non-host status of Persea americana ‘Hass’ to Anastrepha ludens, Anastrepha obliqua, Anastrepha serpentina, and Anastrepha striata (Diptera: Tephritidae) in Mexico. Journal of Economic Entomology 97, 293-309.
+
+* Aluja M, Guillen J, Liedo P, Cabrera M, Rios de la Rosa G, Celedonio H, Mota D (1990) Fruit infesting tephritids (Diptera: Tephritidae) and associated parasitoids in Chiapas, Mexico. Entomophaga 35, 39-48.
+
+* Aluja M, Pinero J, Lopez M, Ruiz C, Zuniga A, Piedra E, Diza-Fleischer F, Sivinski J (2000) New host plant and distribution records in Mexico for Anastrepha spp., Toxotrypana curvicauda Gerstacker, Rhagoletis zoqui Bush, Rhagoletis sp., and Hexachaeta sp. (Diptera: Tephritidae). Proceedings of the Entomological Society of Washington 102, 802–825.
+
+* Baker AC, Stone WE, Plummer CC, McPhail M (1944) A review of studies on the Mexican fruitfly and related Mexican species. USDA Miscellaneous Publications, 155 pp.
+
+* Bush GL (1962) The cytotaxonomy of the larvae of some Mexican fruit flies in the genus Anastrepha (Tephritidae, Diptera). Psyche 69(3), 87-101.
+
+* Costa Lima da, A (1934) Moscas de frutas do genero Anastrepha Schiner 1868. Memorias do Instituto Oswaldo Cruz 28(4), 487-575.
+
+* Emmart EW (1935) Studies of the chromosomes of Anastrepha (Diptera: Trypetidae). I the chromosomes of the fruit-fly Anastrepha ludens Loew. Proceedings of the Entomological Society of Washington 37, 119-135.
+
+* Eskafi FM (1990) Parasitism of fruit flies Ceratitis capitata and Anastrepha spp. (Diptera: Tephritidae) in Guatemala. Entomophaga 35, 355-362.
+
+* Eskafi FM, Cunningham RT (1987) Host plants of fruit flies (Diptera: Tephritidae) of economic importance in Guatemala. Florida Entomologist 70, 116-123.
+
+* Hernández-Ortiz V, Delfin-Gonzalez H, Escalante-Tio A, Manrique-Saide P (2006) Hymenopteran parasitoids of Anastrepha fruit flies (Diptera: Tephritidae) reared from different hosts in Yucatan, Mexico. Florida Entomologist 89, 508-515.
+
+* Herrera AL (1900) El gusano de la naranja. Boletin de la Sociedad Agrícola Mexicana 14, 61-69.
+
+* Herrera AL (1908) The orange worm (Trypeta ludens). Journal of Economic Entomology 1, 169-174.
+
+* Isaac J (1905) Report on the Mexican orange worm (Trypeta ludens) in Mexico. California State Horticulture Communications 428, 7-48.
+
+* Mangan RL, Thomas DB, Moreno AM (2011) Host status of grapefruit and Valencia oranges for Anastrepha serpentina and Anastrepha ludens (Diptera: Tephritidae). Journal of Economic Entomology 104(2), 388-397.
+
+* McPhail M, Bliss I (1933) Observations of the Mexican fruitfly and some related species in Cuernavaca, Mexico, in 1928 and 1929. USDA Circular 255, 1-24.
+
+* Rodríguez-Rodríguez SE, González-Hernández H, Rodríguez-Leyva E, Lomelí-Flores JR, Miranda-Salcedo MA (2018) Species diversity and population dynamics of fruit flies (Diptera: Tephritidae) in Guerrero, Mexico. Florida Entomologist 101(1), 113-118.
+
+* Steck GJ, Carroll LE, Celedonio-Hurtado H, Guillen-Aguilar (1990) Methods for identification of Anastrepha larvae (Diptera: Tephritidae), and key to 13 species. Proceedings of the Entomological Society of Washington 92, 333-346.
+
+* Stone A (1942) The fruitflies of the genus Anastrepha. USDA Miscellaneous Publications 439, 112 pp.
+"
+Major host,ANSTOB,Anastrepha obliqua,
+Major host,BCTRCR,Bactrocera caryeae,"* Ramani S, David KJ, Viraktamath CA, Kumar ARV (2008) Identity and distribution of Bactrocera caryeae (Kapoor) (Insecta: Diptera: Tephritidae) - A species under the Bactrocera dorsalis complex in India. Biosystematica 2, 49-57."
+Major host,BCTRJA,Bactrocera jarvisi,"* Welty Peachey AM, Moses ER, Johnson AJ, Lehman MG, Yoder JM, De Faveri SG, Cheesman J, Manoukis NC, Siderhurst MS (2025) Wind effects on individual male and female Bactrocera jarvisi (Diptera: Tephritidae) tracked using harmonic radar. Environmental Entomology 54(1), 1-14. https://doi.org/10.1093/ee/nvae108"
+Major host,BCTRKA,Bactrocera kandiensis,"* Allwood AJ, Chinajariyawong A, Drew RAI, Hamacek EL, Hancock DL, Hengsawad C, Jipanin JC, Jirasurat M, Kong Krong C, Kritsaneepaiboon S, Leong CTS, & Vijaysegaran S (1999) Host plant records for fruit flies (Diptera: Tephritidae) in South East Asia. The Raffles Bulletin of Zoology suppl 7, 1-92. 
+
+* Drew RAI, Hancock DL (1994) The Bactrocera dorsalis complex of fruit flies (Diptera: Tephritidae: Dacinae) in Asia. Bulletin of Entomological Research suppl. Series 2, 1-68.
+
+* Tsuruta K, White IM, Bandara HMJ, Rajapakse H, Sundaraperuma SAH, Kahawatta SBMUC, Rajapakse GBJP (1997) A preliminary notes on the host-plants of fruit flies of the tribe Dacini (Diptera, Tephritidae) in Sri Lanka. Esakia 37, 149-160."
+Major host,BCTROC,Bactrocera occipitalis,"* Delomen ML, Mendioro MS, Diaz MG (2013) Morphometric analysis and DNA barcoding of fruit flies Bactrocera occipitalis (Bezzi) and B. philippinensis Drew and Hancock (Diptera: Tephritidae) from Cavite and Davao del Norte. Philippine Journal of Science 142(1), 69-76.
+
+* Liquido NJ, Lee KLK,  Santamaria J (2019) Host plant records of Bactrocera occipitalis (Bezzi) (Diptera : Tephritidae), Version 1.0. Available online at USDA Compendium of Fruit Fly Host Information (CoFFHI). https://coffhi.cphst.org/ (accessed 16/05/2020)"
+Major host,DACUTR,Bactrocera tryoni,"* Hancock D, Hamacek EL, Lloyd AC, Elson-Harris MM (2000) The distribution and host plants of fruit flies (Diptera: Tephritidae) in Australia. Queensland Department of Primary Industries, 75 pp.
+
+* Leblanc L, Vueti ET, Drew AI, Allwood AJ (2012) Host plant records for fruit flies (Diptera: Tephritidae: Dacini) in the Pacific islands. Proceedings of the Hawaiian Society 44, 11-53."
+Major host,DACUZO,Bactrocera zonata,"* Duyck PF, David P, Pavoine S, Quilici S (2008) Can host-range allow niche differentiation of invasive polyphagous fruit flies (Diptera: Tephritidae) in La Réunion? Ecological Entomology 33(4), 439-452."
+Major host,BATCRB,Batocera rubus,
+Major host,CERTCO,Ceratitis cosyra,"* Mwatawala MW, De Meyer M, Makundi RH, Maerere AP (2009) Host range and distribution of fruit-infesting pestiferous fruit flies (Diptera, Tephritidae) in selected areas of Central Tanzania. Bulletin of entomological research 99(6), 629-641.
+
+* Rasolofoarivao H, Raveloson Ravaomanarivo LH, Delatte H (2021) Host plant ranges of fruit flies (Diptera: Tephritidae) in Madagascar. Bulletin of Entomological Research 1–12. https://doi.org/10.1017/ S0007485321000511
+
+* Vayssières JF, Sanogo F, Noussourou M (2007) Inventory of the fruit fly species (Diptera: Tephritidae) linked to the mango tree in Mali and tests of integrated control. Fruits. 62(5), 329-341."
+Major host,CERTQU,Ceratitis quinaria,"* Vayssières JF, Sanogo F, Noussourou M (2007) Inventory of the fruit fly species (Diptera: Tephritidae) linked to the mango tree in Mali and tests of integrated control. Fruits. 62(5), 329-341."
+Major host,ICERPU,Icerya purchasi,
+Major host,ICERSE,Icerya seychellarum,"* Bakry MMS, Fouad MS, Moussa SFM, Ahmed FF (2015) Field evaluation of some insecticides against Insulaspis pallidula and Icerya seychellarum on mango trees at Qena Governorate, Egypt. AshEse Journal of Agricultural Science, 1(4): 28-32."
+Major host,PTACLO,Paratachardina silvestri,
+Major host,PLANLI,Planococcus lilacinus,"* Sirisena UG, Watson GW, Hemachandra KS, Wijayagunasekara HN (2013) Mealybugs (Hemiptera: Pseudococcidae) species on economically important fruit crops in Sri Lanka. Tropical Agricultural Research 25(1), 69-82."
+Major host,CRYPGR,Sternochetus frigidus,"* Dhang P (2015) Mango Pulp Weevil (Sternochetus Frigidus): an invasive species with economic significance in the Philippines. Outlooks on Pest Management 26(4), 157-159."
+Major host,CRYPMA,Sternochetus mangiferae,"* Balock JW, Kozuma TT (1964) Notes on the biology and economic importance of the mango weevil, Sternochetus mangiferae (Fabricius), in Hawaii (Coleoptera: Curculionidae). Proceedings of the Hawaiian Entomological Society 18, 353-364."
+Major host,ARGPLE,Thaumatotibia leucotreta,"* Javaid I (1986) Causes of damage to some wild mango fruit trees in Zambia. International Pest Control, 28(4): 98-99.
+
+* Grové T, De Beer MS,  Joubert PH (2012) Host status of commercial mango cultivars to Thaumatotibia leucotreta (Lepidoptera: Tortricidae) in South Africa. Journal of Economic Entomology 105(6), 1954–1962, https://doi.org/10.1603/EC12019
+------- not considered as a natural host, but development possible in experimental conditions."
+Major host,THRIPV,Thrips parvispinus,"* Rachana RR, Roselin P, Amutha M, Sireesha K, Narasa Reddy G (2022) Invasive pest, Thrips parvispinus (Karny)(Thysanoptera: Thripidae) a looming threat to Indian agriculture. Current Science 122(2), 211-213.
+------- severe damage in Tamin Nadu."

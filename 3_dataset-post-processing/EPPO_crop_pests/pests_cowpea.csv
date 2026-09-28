@@ -1,0 +1,126 @@
+type,EPPOCode,Pref_name,References
+Doubtful host,LEUIOR,Leucinodes orbonalis,"* EFSA Plant Health Panel (2024) Pest risk assessment of Leucinodes orbonalis for the European Union.  EFSA Journal 22(3), e8498. doi 10.2903/j.efsa.2024.8498
+-------  mentions 1 literature reference considering this plant as host, with feeding. ""Records of L. orbonalis on non-Solanaceae host plants appear to be incidental, and the species is unlikely to complete its life cycle on these plants"""
+Doubtful host,MEAGOP,Melanagromyza obtusa,"* Shanower TG, Lal SS, Bhagwat VR (1998) Biology and management of Melanagromyza obtusa (Malloch)(Diptera: Agromyzidae). Crop Protection 17(3), 249-263."
+Doubtful host,ARGPLE,Thaumatotibia leucotreta,"* EPPO PRA for Thaumatotibia leucotreta. EPPO, Paris. Available at https://gd.eppo.int/taxon/ARGPLE/documents
+------- listed by USDA (2010) as a host, but no other references can be found. Considered doubtful.
+
+* USDA (2010) New pest response guidelines: false codling moth Thaumatotibia leucotreta. U.S. Department of Agriculture, Animal Plant Health Inspection Service, Plant Protection and Quarantine, Emergency and Domestic Programs, Riverdale, Maryland. "
+Experimental,MELGMY,Meloidogyne enterolobii,"* Guimaraes LMP, Moura RM de, Pedrosa EMR (2003) Meloidogyne mayaguensis parasitism on different plant species. Nematologia Brasileira, 27(2), 139-145.
+------- greenhouse study"
+Host,ALEDDI,Aleurodicus dispersus,"* Boopathi T (2022) New host plants, natural enemy complex and newly distributed potential areas of exotic spiralling whitefly (Hemiptera: Aleyrodidae) in India. Phytoparasitica 50(2), 335-357."
+Host,EMPOBI,Amrasca biguttula,"* Jaod AS, Nawar MH (2023). Molecular identification and field control of cowpea jassid Amrasca biguttula (Hemiptera: Cicadellidae) infecting cowpea in Baghdad-Iraq. IOP Conference Series: Earth and Environmental Science, 1225, 012084. https://doi.org/10.1088/1755-1315/1225/1/012084
+
+* Kamble CS, Sathe TV (2015) Incidence and host plants for Amrasca biguttula (Ishida) from Kolhapur region, India. International Journal of Development Research 5(3), 3658-3661."
+Host,APLOBE,Aphelenchoides besseyi,"* Favoreto L, Bueno R, Calandrelli A, França PP, Meyer MC, Machado AC (2022) Aphelenchoides besseyi parasitizing cowpea (Vigna unguiculata) in Brazil. Plant Disease 106(6), 1555-1557.
+------- under greenhouse conditions. 
+
+* Noronha MD, Assunção MC, Muniz MD, Machado AC (2023) Aphelenchoides besseyi causing leaf spot on cowpea under field conditions in Brazil. Australasian Plant Disease Notes 18, 11. https://doi.org/10.1007/s13314-023-00496-0
+------- in fields.
+"
+Host,BEMITA,Bemisia tabaci,"* McKenzie CL, Sparks Jr AN, Roberts P, Oetting RD, Osborne LS (2020) Survey of Bemisia tabaci (Hemiptera: Aleyrodidae) in agricultural ecosystems in Georgia. Journal of Entomological Science 55(2), 163-170."
+Host,CRTZBR,Ceratothripoides brunneus,
+Host,CRTZCL,Ceratothripoides claratris,"* Premachandra WTS, Borgemeister C (2006) Infestation of Ceratothripoides claratris (Shumsher) (Thysanoptera: Thripidae) on selected food crops in Thailand. Ruhuna Journal of Science 1(1), 41-46."
+Host,CUERCO,Cuerna costalis,"* Turner WF, Pollard HN (1959) Insect transmission of phony peach disease. United States Department of Agriculture Technical Bulletin 1193. 27 pp.
+------- as cowpea. from field oviposition records, and as food plant"
+Host,DACUCI,Dacus ciliatus,* NPPO of Cyprus (2025-03).
+Host,DIABUH,Diabrotica undecimpunctata howardi,"* Clark SM, LeDoux DG, Seeno TN, Riley EG, Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada (Coleoptera: Megalopodidae, Orsodacnidae, Chrysomelidae, excluding Bruchinae). Coleopterists Society, Special Publication 2, 1-476.
+------- Larval host."
+Host,ELASLI,Elasmopalpus lignosellus,"* Gill HK, Capinera JL, McSorley R (2017) Featured Creatures. Lesser cornstalk borer. Elasmopalpus lignosellus (Zeller) (Insecta: lepidoptera: Pyralidae). University of Florida (US). http://entnemdept.ufl.edu/creatures/field/lesser_cornstalk_borer.htm
+
+* Moraes GJ de, Ramalho F de S (1980) [Some insects associated with Vigna unguiculata Walp in the northeast]. Boletim de Pesquisa, EMBRAPA no. 1, 1-10 (in Portuguese).
+------- In Bahia and Pernambuco, Brazil.
+
+* Neunzig HH (1979) Systematics of immature Phycitines (Lepidoptera: Pyralidae) associated with leguminous plants in the Southern United States. USDA Technical Bulletin no. 1589, 126 pp.
+
+* Sandhu HS (2010) Biology and cultural control of lesser cornstalk borer on sugarcane. PhD thesis. University of Florida. https://ufdcimages.uflib.ufl.edu/UF/E0/04/14/72/00001/sandhu_h.pdf"
+Host,GARGTO,Gargaphia torresi,"* Pinheiro RA, Cabral MJ, Aguilar VT, Freitas LS, Santos SV, Giordani SC, Souza PG, Santos JB, Zanuncio JC, Soares MA (2025) Phaseolus lunatus L., the new host of Gargaphia torresi Lima, 1922 (Hemiptera: Tingidae) in Brazil. Brazilian Journal of Biology 85, e289664. https://doi.org/10.1590/1519-6984.289664"
+Host,HELIAR,Helicoverpa armigera,"* Cunningham JP, Zalucki MP (2014) Understanding heliothine (Lepidoptera: Heliothinae) pests: what is a host plant? Journal of Economic Entomology 107, 881–896."
+Host,HELIZE,Helicoverpa zea,"* Matthews M (1991) Classification of the Heliothinae. Bulletin of the Natural Resources Institute No. 44. Natural Resources Institute, Chatham, UK."
+Host,HOMLTR,Homalodisca vitripennis,"* Turner WF, Pollard HN (1959) Life histories and behavior of five insect vectors of phony peach disease. United States Department of Agriculture, Technical Bulletin 1188, 28 pp.
+-------- Feeding host."
+Host,LAGRVL,Lagria villosa,"* Giga DP, Munetsi M (1989) The effect of intercropping maize and cowpeas on insect pest population. East African Agricultural and Forestry Journal 54(3), 147-152"
+Host,LAMDBO,Lampides boeticus,
+Host,LIRIHU,Liriomyza huidobrensis,"* Echevarria A, Gimeno C, Jimenez R (1994) Liriomyza huidobrensis (Blanchard, 1926) (Diptera: Agromyzidae) una nueva plaga en cultivos valencianos. Boletin de Sanidad Vegetal. Plagas 20, 103-109.
+
+* Fisher N, LaSalle J (2005) A new species of Neocharsocharis Kurdjumov (Hymenoptera: Eulophidae), a parasitoid of serpentine leafminers (Diptera: Agromyzidae) in southeast Asia. Zootaxa 1044, 27-34.
+
+* Foba CN, Salifu D, Lagat ZP, Gitonga LM, Akutse KS, Fiaboe KKM (2015) Species composition, distribution and seasonal abundance of Liriomyza leafminers (Diptera: Agromyzidae) under different vegetable production systems and agroecological zones in Kenya. Environmental Entomology 44, 223-232.
+------- Confirmed host. Reared from infested leaves collected in the field.
+
+* Hincapie CMC, Saavedra HME, Trochez PAL (1993) Life cycle, behavior and natural enemies of Liriomyza huidobrensis (Blanchard) on bulb onion (Allium cepa L.). Revista Colombiana de Entomologia 19, 51-57.
+
+* Mujica N, Kroschel J (2011) Leafminer fly (Diptera: Agromyzidae) occurrence, distribution and parasitoid associations in field and vegetable crops along the Peruvian coast. Environmental Entomology 40, 217-230.
+
+* Rauf A, Shepard BM, Johnson MW (2000) Leafminers in vegetables, ornamental plants and weeds in Indonesia: surveys of host crops, species composition and parasitoids. International Journal of Pest Management 46, 257-266.
+------- Confirmed host. Reared from infested leaves collected in the field.
+
+* Wei J, Zou L, Kuang R, He L (2000) Influence of leaf tissue structure on host feeding selection by pea leafminer Liriomyza huidobrensis (Diptera: Agromyzidae). Zoological Studies 39, 295-300."
+Host,LIRISA,Liriomyza sativae,"* Foba CN, Salifu D, Lagat ZO, Gitonga LM, Akutse KS, Fiaboe KKM (2015) Species composition, distribution, and seasonal abundance of Liriomyza leafminers (Ciptera: Agromyzidae) under different vegetable production systems and agroecological zones in Kenya. Environmental Entomology 44(2), 223-232.
+------- confirmed host. Reared from infested leaves collected in the field
+
+* Mazumdar S, Bhuiya BA (2017) True flies: biology and plant hosts of vegetable leafminer Liriomyza sativae Blanchard (Diptera: Agromyzidae) from Bangladesh. Bugs R All no 159. In: Zoo’s Print 32(8), 12-21.
+
+* Tran DH (2009) Agromyzid leaf miners and their parasitoids on vegetables in Central Vietnam. Journal of the International Society for Southeast Asian Agricultural Sciences 15(2), 21-33.
+------- confirmed host. Reared from infested leaves collected in commercial vegetable fields"
+Host,LIRITR,Liriomyza trifolii,"* Foba CN, Salifu D, Lagat ZO, Gitonga LM, Akutse KS, Fiaboe KKM (2015) Species composition, distribution, and seasonal abundance of Liriomyza leafminers (Ciptera: Agromyzidae) under different vegetable production systems and agroecological zones in Kenya. Environmental Entomology 44(2), 223-232.
+------- confirmed host. Reared from infested leaves collected in the field
+
+* Zhang XR, Xing ZL, Lei ZR, Gao YL (2017) Recent Status of the Invasive Leafminer Liriomyza trifolii in China. Southwestern Entomologist 42(1), 301-304. https://doi.org/10.3958/059.042.0130"
+Host,LIRITR,Liriomyza trifolii (as Vigna),
+Host,COPSCR,Megacopta cribraria,
+Host,MEGTUS,Megalurothrips usitatus,"* Azidah AA (2011) Thripidae (Thysanoptera) species collected from common plants and crops in Peninsular Malaysia. Scientific Research and Essays 6(24), 5107-5113.
+
+* Campos OJC, Monroy AC, Arrieta JAR, Bermúdez AR, Soriano BAL, Velasco CR, Landa ÁIZ, Virgen MOE (2023) New report of the exotic species Megalurothrips usitatus (Thysanoptera: Thripidae) infesting three commercial legumes in Nayarit, Mexico. Florida Entomologist 105(4), 316-318.
+
+* Sartiami D, Mound LA (2013) Identification of the terebrantian thrips (Insecta, Thysanoptera) associated with cultivated plants in Java, Indonesia. ZooKeys 306, 1–21. https://doi.org/10.3897/zookeys.306.5455
+------- Collected from this plant in Java (Indonesia).
+
+* Halbert SE (2020) Entomology Specimen Report. Tri-ology 59(2), 9-10.
+
+* Tang DL, Yan KL, Fu BL, Wu JH, Liu K, Lu YY (2015) The life table parameters of Megalurothrips usitatus (Thysanoptera: Thripidae) on four leguminous crops. Florida Entomologist 98(2), 620-625.
+
+* Tillekaratne K, Edirisinghe JP, Gunatilleke CVS, Karunaratne WAP (2011) Survey of thrips in Sri Lanka: A checklist of thrips species, their distribution and host plants. Ceylon Journal of Science 40(2), 89-108.
+
+* Zafirah Z, Azidah AA (2018) Diversity and population of Thrips species on legumes with special reference to Megalurothrips usitatus. Sains Malaysiana 47(3) 433–439."
+Host,MELGCH,Meloidogyne chitwoodi,"* O’Bannon JH, Santo GS, Nyczepir AP (1982) Host range of the Columbia root-knot nematode. Plant Disease 66, 1045-1048."
+Host,MELGET,Meloidogyne ethiopica,"* Whitehead AG (1968) Taxonomy of Meloidogyne (Nematoda: Heteroderidae) with description of four new species. Transactions of the Zoological Society of London 31, 263-401.
+
+* Lima E A, Mattos J K, Moita A W, Carneiro R G & Carneiro R M D G (2009) Host status of different crops for Meloidogyne ethiopica control. Tropical Plant Pathology 34, 152-157. 
+------In experiments, cvs. 'Espace 10' and 'Australian' were found to be poor hosts (0.1<RF<1)."
+Host,MELGFL,Meloidogyne floridensis,"* Marquez J, Hajihassani A (2023) Identification and virulence of five isolates of root-knot nematode Meloidogyne floridensis on vegetables. Plant Disease 107(5), 1522-15888."
+Host,GRAGLE,Naupactus leucoloma,"* Álvarez LJ, Bernardis AM, Defea B, Dellapé P, del Río MG, Gittins López CG,  Lanteri AA, López Armengol MF, Marino de Remes Lenicov AM, Minghetti E, Paradell S, Rizzo ME (2021) Inventory of Hemiptera, Coleoptera (Curculionidae) and Hymenoptera associated with the horticultural production of the Alto Valle de Río Negro and Neuquén provinces (Argentina). Revista de la Sociedad Entomológica Argentina 80(1), 48-69."
+Host,PLAAST,Platynota stultana,"* Hoover GA, Biddinger DJ (2014) Omnivorous leafroller, Platynota stultana (Lepidoptera: Tortricidae). Penn State Extension Pest Alert. https://ento.psu.edu/files/omnivorous-leafroller/view"
+Host,PRODER,Spodoptera eridania,"* Montezano DG, Specht A, Sosa-Gomez DR, Roque-Specht VF & de Barros NM (2014) Immature stages of Spodoptera eridania (Lepidoptera: Noctuidae): developmental parameters and host plants. Journal of Insect Science 14, 238. https://doi.org/10.1093/jisesa/ieu295"
+Host,LAPHFR,Spodoptera frugiperda,"* Neves Costa E et al. (2019) Antibiosis Levels to Spodoptera frugiperda (Lepidoptera: Noctuidae) in Cowpea Commercial Cultivars and Landrace Varieties, Journal of Economic Entomology 112(4), 1941–1945, https://doi.org/10.1093/jee/toz096
+------- Confirmed host. S. frugiperda considered as major pest of cowpea in Brazil.
+
+* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300.
+------- As Vigna unguiculata subsp. unguiculata."
+Host,SPODLI,Spodoptera littoralis,"* Harakly FA, Bishara SI (1974) Effect of nutrition on the biology of the cotton leafworm, Spodoptera littoralis (Boisd.), in Egypt (Lepidoptera: Noctuidae). Bulletin de la Société Entomologique d'Egypte 58, 25-30.
+
+* Rehab Abd-Allah E, Mohanna AH, El-Sharkawy HM, Hashem MS (2018) Ecological and control studies on Spodoptera littoralis (Boisd.) infesting cowpea crop. Journal of Productivity and Development 23(1), 99-109."
+Host,PRODLI,Spodoptera litura,"* Xue M, Pang YH, Wang HT, Li QL, Liu TX (2010) Effects of four host plants on biology and food utilization of the cutworm, Spodoptera litura. Journal of Insect Science. 10(1), 22. https://doi.org/10.1673/031.010.2201
+------- as Vigna sinensis."
+Host,PRODOR,Spodoptera ornithogalli,"* Brito R, Specht A, Gonçalves GL, Moreira GRP, Carneiro E, Santos FL, Roque-Specht VF, Mielke OHH, Casagrande MM (2019) Spodoptera marima: a new synonym of Spodoptera ornithogalli (Lepidoptera: Noctuidae), with notes on adult morphology, host plant use and genetic variation along its geographic range. Neotropical Entomology 48(3), 433-448.
+
+* Robinson GS, Ackery PR, Kitching IJ, Beccaloni GW, Hernández LM (2010) HOSTS - A Database of the World's Lepidopteran Hostplants. Natural History Museum, London. http://www.nhm.ac.uk/hosts
+
+* Wolcott GN (1948) The insects of Puerto Rico. Journal of Agriculture of the University of  Puerto Rico 32, 417–748."
+Host,PRODPR,Spodoptera praefica,"* Robinson GS, Ackery PR, Kitching IJ, Beccaloni GW & Hernández LM (2010) HOSTS - A database of the World's lepidopteran hostplants. Natural History Museum, London. http://www.nhm.ac.uk/hosts"
+Host,TAPARU,Tapajosa rubromarginata,"* Paradell SL, Virla EG, Logarzo GA, Dellapé G (2012) Proconiini Sharpshooters of Argentina, with notes on its distribution, host plants, and natural enemies. Journal of Insect Science 12, 116. http://www.insectscience.org/12.116"
+Host,THRIHA,Thrips hawaiiensis,"* Sartiami D, Mound LA (2013) Identification of the terebrantian thrips (Insecta, Thysanoptera) associated with cultivated plants in Java, Indonesia. ZooKeys 306, 1–21. https://doi.org/10.3897/zookeys.306.5455
+------- Collected from this plant in Java (Indonesia)."
+Host,THRIPL,Thrips palmi,"* Kajita H, Hirose Y, Takagi M, Okajima S, Napompeth B, Buranapanichpan S (1996) Host plants and abundance of Thrips palmi Karny (Thysanoptera: Thripidae), an important pest of vegetables in Southeast Asia. Applied Entomology and Zoology 31(1), 87-94,
+
+* Kalpana Tillekaratne, Edirisinghe JP, Gunatilleke CVS, Karunaratne AIP (2011) A checklist of thrips species of Sri Lanka. Ceylon Journal of Science (Bio. Sci.) 40(2), 89-108."
+Host,THRIPV,Thrips parvispinus,"* Sartiami D, Mound LA (2013) Identification of the terebrantian thrips (Insecta, Thysanoptera) associated with cultivated plants in Java, Indonesia. ZooKeys 306, 1–21. https://doi.org/10.3897/zookeys.306.5455
+------- Collected from this plant in Java (Indonesia)."
+Host,TROGGA,Trogoderma granarium,"* Athanassiou CG, Phillips TW, Wakil W (2019) Biology and Control of the Khapra Beetle, Trogoderma granarium, a Major Quarantine Threat to Global Food Security. Annual Review of Entomology 64, 131-148. Supplemental Table 1.
+
+* Lindgren D, Vincent L, Krohne H (1955) The khapra beetle, Trogoderma granarium Everts. Hilgardia 24(1), 1-36."
+Host,DACUCU,Zeugodacus cucurbitae,"* Leblanc L (2022) The dacine fruit flies (Diptera: Tephritidae: Dacini) of Oceania. Insecta Mundi 0948, 1-167. https://journals.flvc.org/mundi/article/view/131965/135549"
+Major host,MARUTE,Maruca vitrata,
+Non-host,MELGGC,Meloidogyne graminicola,"* Rusinque L, Maleita C, Abrantes I, Palomares-Rius JE, Inácio ML (2021) Meloidogyne graminicola - A threat to rice production: review update on distribution, biology, identification, and management. Biology 10, 1163. https://doi.org/10.3390/biology10111163
+------- ------- mentioned as ""non-host""."
+Wild/Weed,HETDGL,Heterodera glycines,"* Rocha LF, Gage KL, Pimentel MF, Bond JP, Fakhoury AM (2021) Weeds hosting the soybean cyst nematode (Heterodera glycines Ichinohe): management implications in agroecological systems. Agronomy 11(1), 146. https://doi.org/10.3390/agronomy11010146"

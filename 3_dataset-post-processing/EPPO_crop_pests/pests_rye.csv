@@ -1,0 +1,29 @@
+type,EPPOCode,Pref_name,References
+Host,CONTTR,Contarinia tritici,
+Host,HYLECO,Delia coarctata,
+Host,DIABUH,Diabrotica undecimpunctata howardi,"* Clark SM, LeDoux DG, Seeno TN, Riley EG, Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada (Coleoptera: Megalopodidae, Orsodacnidae, Chrysomelidae, excluding Bruchinae). Coleopterists Society, Special Publication 2, 1-476.
+------- Larval host."
+Host,DITYDI,Ditylenchus dipsaci,"* Hooper D.J (1972) Ditylenchus dipsaci. CIH Descriptions of Plant-parasitic Nematodes Set 1, No. 14.
+
+* Goodey JB, Franklin MT, Hooper DJ (1965) T. Goodey's: The Nematode Parasites of Plants Catalogued Under Their Hosts. Commonwealth Agricultural Bureaux, Farnham Royal, Bucks, England. Third edition, 214 pp."
+Host,BRAYNO,Diuraphis noxia,
+Host,ELASLI,Elasmopalpus lignosellus,"* Gill HK, Capinera JL, McSorley R (2017) Featured Creatures. Lesser cornstalk borer. Elasmopalpus lignosellus (Zeller) (Insecta: lepidoptera: Pyralidae). University of Florida (US). http://entnemdept.ufl.edu/creatures/field/lesser_cornstalk_borer.htm"
+Host,HALYHA,Halyomorpha halys,"* Bergmann E, Bernhard KM, Bernon G, Bickerton M, Gill S, Gonzales C, Hamilton GC, Hedstrom C, Kamminga K, Koplinka-Loehr C, Krawczyk G, Kuhar TP, Kunkel B, Lee J, Leskey TC, Martinson H, Nielsen AL, Raupp M, Shearer P, Shrewsbury P, Walgenbach J, Whalen J, Wiman N (online) Host Plants of the Brown Marmorated Stink Bug in the U.S. https://www.stopbmsb.org/where-is-bmsb/host-plants"
+Host,HAPLTR,Haplothrips tritici,
+Host,HELIZE,Helicoverpa zea,"* Matthews M (1991) Classification of the Heliothinae. Bulletin of the Natural Resources Institute No. 44. Natural Resources Institute, Chatham, UK."
+Host,HETDHO,Heterodera hordecalis,
+Host,HYROBO,Listronotus bonariensis,"*  Bejakovich D, Pearson WD &  O'Donnell MR (1998) Nationwide survey of pests and diseases of cereal and grass seed crops in New Zealand. 1. Arthropods and molluscs. In Proceedings of the Fifty First New Zealand Plant Protection Conference, pp. 38-50. Swiftprint Centre Ltd, Palmerston North, Hamilton, New Zealand.
+------- confirmed host."
+Host,MAYEDE,Mayetiola destructor,
+Host,MELGCH,Meloidogyne chitwoodi,"* Ferris H, Carlson HL, Viglierchio DR, Westerdahl BB, Wu FW, Anderson CE, Juurma A, Kirby DW (1993) Host status of selected crops to Meloidogyne chitwoodi. Journal of Nematology 25, 849-857."
+Host,MELGET,Meloidogyne ethiopica,"* Lima E A, Mattos J K, Moita A W, Carneiro R G & Carneiro R M D G (2009) Host status of different crops for Meloidogyne ethiopica control. Tropical Plant Pathology 34, 152-157.
+------In experiments, cv 'IPR69' was found to be resistant (with RS<=0.1)"
+Host,NYSIHU,Nysius huttoni,
+Host,HELYBU,Rotylenchus buxophilus,
+Host,SITDMO,Sitodiplosis mosellana,"* Shrestha G, Reddy GV (2023) Wheat midge (Sitodiplosis mosellana): management in the Northern Great Plains of the United States and Canada. Buleigh Dodds Science Publishing."
+Host,LAPHFR,Spodoptera frugiperda,"* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300."
+Host,TRIHVI,Trichodorus viruliferus,
+Host,TROGGA,Trogoderma granarium,"* Athanassiou CG, Phillips TW, Wakil W (2019) Biology and Control of the Khapra Beetle, Trogoderma granarium, a Major Quarantine Threat to Global Food Security. Annual Review of Entomology 64, 131-148. Supplemental Table 1.
+
+* Lindgren D, Vincent L, Krohne H (1955) The khapra beetle, Trogoderma granarium Everts. Hilgardia 24(1), 1-36."
+Major host,MELGNA,Meloidogyne naasi,

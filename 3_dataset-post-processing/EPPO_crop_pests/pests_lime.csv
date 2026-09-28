@@ -1,0 +1,252 @@
+type,EPPOCode,Pref_name,References
+Doubtful host,CERTQU,Ceratitis quinaria (as Citrus),"* Manrakhan A, Grout TG, Grove T, Daneel JH, Stephen PR, Weldon CW, De Meyer M, Carstens E, Hattingh V (2020) A survey of Ceratitis quinaria (Bezzi)(Diptera: Tephritidae) in citrus production areas in South Africa. African Entomology 28(1), 35-43.
+------- no confirmed rearing of C. quinaria on Citrus."
+Doubtful host,ARGPLE,Thaumatotibia leucotreta,"In lemon, and lime, larval development is rarely if ever completed (Catling & Ashenborn, 1978; Newton, 1998) 
+Not considered as host in EPPO PRA (2013)
+
+* Catling HD & Ashenborn H (1978) False codling moth (C. leucotreta Meyr. In Citrus pests in the republic of South Africa (ed. E.C.G Bedford), pp. 1165-170 Science Bulletin Department of Agricultural Technical Services Republic of South Africa N°391).
+* Newton PJ (1998) False Codling Moth, Cryptophlebia leucotreta (Meyrick). In: Citrus pests in the Republic of South Africa, Eds Bedford et al., pp.192-200."
+Doubtful host,THRIPL,Thrips palmi (as Citrus),"Citrus was changed from Host to ""doubtfult host"" in 2026 because of insufficient evidence. 
+Childers and Beshear (1992) observed T. palmi feeding on Citrus flowers but there is no reference of citrus as a host that supports pest life cycle.
+
+* Childers CC, Beshear RJ (1992) Thrips (Thysanoptera) species associated with developing citrus flowers in Florida and a key to adult lerebrantian females. Journal of Entomological Science, 27(4):392-412
+
+* Seal DR (2004) Management of melon thrips, Thrips palmi Karny (Thysanoptera: Thripidae): an integrated approach using chemical, cultural, and biological agents. Proceedings of the Florida State Horticultural Society 117, 63-68.
+------- list Citrus as host without sufficient reference. "
+Host,ALECCT,Aleurocanthus citriperdus,"* Dubey AK, Ko CC (2012) Sexual dimorphism among species of Aleurocanthus Quaintance & Baker (Hemiptera: Aleyrodidae) in Taiwan, with one new species and an identification key. Zootaxa 3177, 1-23.
+-------- As Citrus acida."
+Host,ALECWO,Aleurocanthus woglumi,"* Dubey AK, Ko CC (2012) Sexual dimorphism among species of Aleurocanthus Quaintance & Baker (Hemiptera: Aleyrodidae) in Taiwan, with one new species and an identification key. Zootaxa 3177, 1–23.
+
+* Shaw JG (1950) Hosts of the citrus blackfly in Mexico. United States Bureau of Entomology and Plant Quarantine. E-793, 3 pp."
+Host,TETLAU,Aleuroclava aucubae,
+Host,ALEDDI,Aleurodicus dispersus (as Citrus),
+Host,ALEDDU,Aleurodicus dugesii (as Citrus),
+Host,ALTHFL,Aleurothrixus floccosus,"* Soliman AM (2023) Aleurothrixus floccosus: an invasive pest attacks different species of citrus trees in Alexandria Governorate, Egypt. Alexandria Science Exchange Journal 44(4), 647-653. DOI: 10.21608/asejaiqjsae.2023.327455"
+Host,ALTHFL,Aleurothrixus floccosus (as Citrus),
+Host,ANSTFR,Anastrepha fraterculus,"* Korytkowski C, Ojeda-Pena D (1970) Especies del género Anastrepha Schiner 1968 en el nor-oeste Peruano. Revista Peruana de Entomologia (Lima) 11, 32-70.
+
+* Salles LAB (1995) Bioecologia e controle da mosca-das-frutas sul-americana. Empresa Brasileira de Pesquisa Agropecuária, Centro de Pesquisa Agropecuária de Clima Temperado, Pelotas. 58 pp."
+Host,ANSTLU,Anastrepha ludens (as Citrus),
+Host,ANSTOB,Anastrepha obliqua (as Citrus),
+Host,ANSTSE,Anastrepha serpentina (as Citrus),
+Host,ANSTST,Anastrepha striata (as Citrus),
+Host,ANSTSU,Anastrepha suspensa,"* Anonymous (1966) [Host records for Tephritidae]. United States Department of Agriculture Cooperative Economic Insect Report, 16, 32, 83, 225, 469, 498, 525, 556, 589, 652, 683, 712, 738, 818, 888, 965, 980, 1034, 1118, 1158.
+
+* Swanson RW, Baranowski RM (1972) Host range and infestation by the Caribbean fruit fly, Anastrepha suspensa (Diptera: Tephritidae), in south Florida. Proceedings of the Florida State Horticultural Society, 271-273.
+
+* Windeguth DL von, Pierce WH, Steiner LF (1972) Infestations of Anastrepha suspensa in fruit on Key West, Florida. Florida Entomologist 56, 127-131."
+Host,ANOLCN,Anoplophora chinensis,"* Sjöman H, Östberg J & Nilsson J (2014) Review of host trees for the wood-boring pests Anoplophora glabripennis and Anoplophora chinensis: an urban forest perspective. Arboriculture & Urban Forestry 40(3), 143–164."
+Host,AONDCI,Aonidiella citrina (as Citrus),
+Host,APRIGE,Apriona germari (as Citrus),"* Lim J, Jung S-Y, Lim J-S, Jang J, Kim K-M, Lee Y-M, Lee B-W (2014) A review of host plants of Cerambycidae (Coleoptera: Chrysomeloidea) with new host records for fourteen Cerambycids, including the Asian longhorn beetle (Anoplophora glabripennis Motschulsky), in Korea. Korean Journal of Applied Entomology 53(2), 111-133."
+Host,BCTRCB,Bactrocera carambolae,"* Allwood AJ, Chinajariyawong A, Drew RAI., Hamacek EL., Hancock DL., Hengsawad C, Jipanin JC, Jirasurat M, Kong Krong C, Kritsaneepaiboon S, Leong CTS, Vijaysegaran S (1999) Host plant records for fruit flies (Diptera: Tephritidae) in South East Asia. The Raffles Bulletin of Zoology suppl 7, 1-92.
+
+* Liquido NJ, McQuate GT, Nakamichi KA, Kurashima RS, Birnbaum AL, Hanlin MA (2016) Provisional list of suitable host plants of carambola fruit fly, Bactrocera (Bactrocera) carambolae Drew & Hancock (Diptera: Tephritidae), Version 1.1. Available online at USDA Compendium of Fruit Fly Host Information (CoFFHI)."
+Host,BCTRCR,Bactrocera caryeae (as Citrus),
+Host,DACUDO,Bactrocera dorsalis,"* Allwood AJ, Chinajariyawong A, Kritsaneepaiboon S, Drew RAI, Hamacek EL, Hancock DL, Hengsawad C, Jinapin JC, Jirasurat M, Krong CK, Leong CTS, Vijaysegaran S (1999) Host plant records for fruit flies (Diptera: Tephritidae) in Southeast Asia. The Raffles Bulletin of Zoology 47(7), 1-92.
+
+* Leblanc L (2022) The dacine fruit flies (Diptera: Tephritidae: Dacini) of Oceania. Insecta Mundi 0948, 1-167. https://journals.flvc.org/mundi/article/view/131965/135549"
+Host,DACUCT,Bactrocera minax,"* Liquido NJ, Mcquate GT, Suiter KA, Norrbom AL, Yee WL, Chang CL (2019) Compendium of fruit fly host plant information: The USDA primary reference in establishing fruit fly regulated host plants. Book Chapter. 363-368.
+"
+Host,BCTRPA,Bactrocera passiflorae (as Citrus),
+Host,DACUTR,Bactrocera tryoni,"* Hancock D, Hamacek EL, Lloyd AC, Elson-Harris MM (2000) The distribution and host plants of fruit flies (Diptera: Tephritidae) in Australia. Queensland Department of Primary Industries, 75 pp.
+
+* Leblanc L, Vueti ET, Drew AI, Allwood AJ (2012) Host plant records for fruit flies (Diptera: Tephritidae: Dacini) in the Pacific islands. Proceedings of the Hawaiian Society 44, 11-53."
+Host,BATHTA,Bathycoelia thalassina (as Citrus),
+Host,BRVPAZ,Brevipalpus azores (as Citrus),
+Host,BRVPAU,Brevipalpus californicus (as Citrus),
+Host,BRVPLE,Brevipalpus lewisi (as Citrus),
+Host,BRVPYO,Brevipalpus yothersi,"* Beard JJ, Ochoa R, Braswell WE, Bauchan GR (2015) Brevipalpus phoenicis (Geijskes) species complex (Acari: Tenuipalpidae) – a closer look. Zootaxa 3944(1), 67 pp. DOI: 10.11646/zootaxa.3944.1.1"
+Host,CERTCA,Ceratitis capitata,"* Liquido NJ, Cunnigham RT, Nakagawa S (1990) Host plants of Mediterranean fruit fly on the island of Hawaii (1949-1985 survey). Journal of Economic Entomology 83(5),  1863-1878,"
+Host,CERTRO,Ceratitis rosa (as Citrus),"* Mentioned in Hepburn GA & Bishop HJ (1954) The Insect Pests of Citrus in South Africa, and in the EPPO datasheet on Ceratitis rosa in CABI/EPPO (1997) Quarantine Pests for Europe (2nd edition). CABI, Wallingford (GB).
+This record predates the separation of Ceratitis rosa sensu lato into C. rosa and C. quilicii. 
+
+* Manrakhan A (2019) Fruit fly. In T.G. Grout (Ed.) Integrated Production Guidelines for export citrus. Integrated pest and disease management. 1-10. Nelspruit, South Africa: Citrus Research International. 
+------- no details on specific citrus species."
+Host,CERPCE,Ceroplastes ceriferus (as Citrus),
+Host,CERPDE,Ceroplastes destructor (as Citrus),
+Host,CERPFL,Ceroplastes floridensis (as Citrus),
+Host,SCITSI,Chaetanaphothrips signipennis (as Citrus),
+Host,CIRCTE,Circulifer tenellus (as Citrus),
+Host,CILV00,Citrus leprosis disease,"* Bastianel M, Novelli VM, Kitajima EW, Kubo KS, Bassanezi RB, Machado MA, Freitas-Astúa J (2010) Citrus leprosis: Centennial of an unusual mite virus pathosystem. Plant Disease 94, 284-292. https://doi.org/10.1094/PDIS-94-3-0284
+
+* Bastianel M, Pereira-Martin JA, Novelli VM, Freitas-Astúa J, Nunes MA (2018) Citrus leprosis resistance within the citrus group. Virusdisease 29, 491-498.
+------- In experiments, found to be resistant (although past records mention it as a host). 
+
+* Roy A, Stone AL, Shao J, Otero-Colina G, Wei G, Achor D, Choudhary N, Levy L, Nakhla MK, Hartung JS, Schneider WL, Brlansky RL (2015) Identification and characterization of nuclear Citrus leprosis virus, an unassigned Dichorhavirus genus associated with Citrus leprosis disease in Mexico. Phytopathology 105, 564-575. https://doi.org/10.1094/PHYTO-09-14-0245-R
+------- OFV."
+Host,COCCVI,Coccus viridis (as Citrus),
+Host,CRYBGN,Cryptoblabes gnidiella (as Citrus),"* Korashy MA (2001) Seasonal fluctuation in the population of Cryptoblabes gnidiella Millar in mango, grapevine and citrus orchards. Egyptian Journal of Agricultural Research 79(4), 1379-1385."
+Host,DIABSC,Diabrotica speciosa (as Citrus),
+Host,DIALCI,Dialeurodes citri (as Citrus),
+Host,DIAACI,Diaphorina citri,"* Aubert B (1990) Integrated activities for the control of huanglongbing-greening and its vector Diaphorina citri Kuwayama in Asia. In Proceedings of the Fourth FAO-UNDP International Asia Pacific Conference on Citrus Rehabilitation (Vol. 410, pp. 133-144).
+------- confirmed host, as Citrus aurantifolia
+
+* Westbrook CJ, Hall DG, Stover E, Duan YP, Lee RF (2011) Colonization of Citrus and Citrus-related germplasm by Diaphorina citri (Hemiptera: Psyllidae). HortScience, 46(7), 997-1005.
+------- confirmed host, as Citrus aurantiifolia as well as synonyms such as Citrus davaoensis, C. excelsa, C. longispina"
+Host,DIAACI,Diaphorina citri (as Citrus),
+Host,DPREAB,Diaprepes abbreviatus,"* EFSA PLH Panel (EFSA Panel on Plant Health) (2023) Pest categorisation of Diaprepes abbreviatus. EFSA Journal 21(11), 1–42. https://doi.org/10.2903/j.efsa.2023.83
+-------host plant supporting the whole life cycle. "
+Host,DPREAB,Diaprepes abbreviatus (as Citrus),"* EFSA PLH Panel (EFSA Panel on Plant Health) (2023) Pest categorisation of Diaprepes abbreviatus. EFSA Journal 21(11), 1–42. https://doi.org/10.2903/j.efsa.2023.83
+-------Host plants most probably supporting the whole life cycle (where larvae but not all life stages have been observed)."
+Host,DISTTH,Distantiella theobroma (as Citrus),
+Host,ELSIAU,Elsinoë australis,"* Bitancourt AA, Jenkins AE (1937) Sweet orange fruit scab caused by Elsinoë australis. Journal of Agricultural Research, 54, 1–18.
+
+* Sivanesan A., Critchett C (1974) Elsinoë australis. CMI Descriptions of Pathogenic Fungi and Bacteria No. 440. CABI, Wallingford, UK."
+Host,ELSIFA,Elsinoë fawcettii,"* Chung K-R (2011) Elsinoё fawcettii and Elsinoё australis: The fungal pathogens causing citrus scab. Molecular Plant Pathology 12(2), 123-135. "
+Host,ELSIFA,Elsinoë fawcettii (as Citrus),
+Host,EOTELE,Eotetranychus lewisi (as Citrus),
+Host,TORTPO,Epiphyas postvittana (as Citrus),
+Host,EUTEBA,Eutetranychus banksi,* Migeon A & Dorkeld F (2024) Spider Mites Web: a comprehensive database for the Tetranychidae. Available from https://www1.montpellier.inrae.fr/CBGP/spmweb (Accessed 2024/04/23)
+Host,EUTEOR,Eutetranychus orientalis (as Citrus),"* Afzal M, Ullah MI, Bashir MH, Mukhtar SN, Arshad M, Altaf N (2021) Diversity and abundance of mite species in citrus orchards of Sargodha, Pakistan. Punjab University Journal of Zoology 36(1), 37-46. https://dx.doi.org/10.17582/journal.pujz/2021.36.1.37.46
+
+* Chouikhi S, Cherif A, Sahraoui H, Grissa Lebdi K (2025) Effect of temperature on the biological and demographic parameters of two citrus pests: Eutetranychus orientalis (Klein) and Panonychus citri (McGregor) (Acarina: Tetranychidae). Acarologia 65(1), 255-264.
+
+* Gupta SK (1985) Plant mites of India. Zoological Survey of India: Calcutta. 520 pp.
+
+* Kamran M, Khan EM, Alatawi FJ (2018) The spider mites of the genus Eutetranychus Banks (Acari, Trombidiformes, Tetranychidae) from Saudi Arabia: two new species, a re-description, and a key to the world species. Zookeys 799, 47-88.
+
+INTERNET
+* Migeon A, Dorkeld F (2025) Spider Mites Web: a comprehensive database for the Tetranychidae. Available from https://www1.montpellier.inrae.fr/CBGP/spmweb (Accessed 13/11/2025)"
+Host,EUWAPE,Euwallacea perbrevis (as Citrus),"* Smith SM, Gomez DF, Beaver RA, Hulcr J, Cognato AI (2019) Reassessment of the species in the Euwallacea fornicatus (Coleoptera: Curculionidae: Scolytinae) complex after the rediscovery of the ‘lost’ type specimen. Insects 10, 261. https://doi.org/10.3390/insects10090261"
+Host,EPHEVA,Euzopherodes vapidella (as Citrus),
+Host,GASDBR,Gascardia brevicauda (as Citrus),
+Host,ECDYAU,Gymnandrosoma aurantianum,"* Lima AM da C (1945) Insetos do Brasil 5° Tomo Lepidópteros parte 1. Escola Nacional de Agronomia, Série Didática, (7), 470. Retrieved from http://www.acervodigital.ufrrj.br/insetos/insetos.htm
+------- confirmed host"
+Host,ECDYAU,Gymnandrosoma aurantianum (as Citrus),"* Cabrera-Asencio I, Vélez A, Henríquez S & Santiago-Blay J (2013) Melicoccus bijugatus Jacquin (Sapindaceae), quenepa: A new host plant record for the Citrus Fruit Borer, Gymnandrosoma aurantianum Lima, 1927 (Lepidoptera: Tortricidae) and the genus Gymnandrosoma in Puerto Rico. Life: The Excitement of Biology, 1(1), 3–16. https://doi.org/10.9784/LEB1(1)Cabrera.02
+------- confirmed host."
+Host,HISHPH,Hishimonus phycitis,"* Abbaszadeh G, Samih MA, Hoshiar H & Bagheri A (2011) Study of host range of Hishimonus phycitis (Dist.) and effect of lime growth conditions on its reproduction and WBDL intensity. Annals of Plant Protection Sciences 19, 360–363.
+------- Oviposition and nymphal development.
+
+* Bella S, Aguin-Pombo D, Aguiar AM, Kunz G, Miralles-Nunez A, Foster S, Sanchez-Garcia I, Wilson MR, D’Urso VE (2022) Discovery of Hishimonus diffractus Dai, Fletcher & Zhang, 2013 (Hemiptera: Auchenorrhyncha: Cicadellidae) in Europe, with remarks on previously recorded species of the genus. Zootaxa 5159(4), 558-570.
+------- Oviposition and nymphal development."
+Host,ICERAE,Icerya aegyptiaca (as Citrus),
+Host,ICERPU,Icerya purchasi (as Citrus),
+Host,EMPOLY,Jacobiasca lybica (as Citrus),"* Khfif K, Labaioui Z, Koledenkova K, Mokrini F, Sbaghi M, Zaid A, Brostaux Y, El Rhaffari L (2023) Population dynamics of the leafhopper Jacobiasca lybica (Hemiptera: Cicadellidae) within vineyards and citrus orchards of Morocco. International Journal of Pest Management (early view) https://doi.org/10.1080/09670874.2023.2206372"
+Host,LEPLAU,Leptoglossus australis (as Citrus),
+Host,ACHAFU,Lissachatina fulica (as Citrus),
+Host,LOPLJA,Lopholeucaspis japonica (as Citrus),
+Host,LUPMXA,Luperomorpha xanthodera (as Citrus),
+Host,PHENHI,Maconellicoccus hirsutus (as Citrus),"* Chang LWH, Miller CE (1996) Pathway Risk Assessment: Pink mealybug from the Caribbean. Animal and Plant Health Inspection Service, U.S. Dept. of Agriculture 61 pp."
+Host,PLTPMU,Megaplatypus mutatus (as Citrus),"* Costilla MA, Venditti ME (1992) [Importance and control of taladrillo Platypus sulcatus (Coleoptera: Platypodidae), pest of citrus and avocado]. Revista Industrial y Agrícola de Tucumán 69(1-2), 163-166 (in Spanish).
+------- On weakened trees.
+
+* Giménez RA, Etiennot AE (2003) Host range of Platypus mutatus. Entomotropica 18, 89–94."
+Host,MELGEX,Meloidogyne exigua (as Citrus),
+Host,CORTSA,Necator salmonicolor (as Citrus),
+Host,NEOAHA,Neoaliturus haematoceps (as Citrus),
+Host,OEMOHI,Oemona hirta (as Citrus),"* Lu W, Wang Q (2005) Systematics of the New Zealand longicorn beetle genus Oemona Newman with discussion of the taxonomic position of the Australian species, O. simplex White (Coleoptera: Cerambycidae: 
+
+* Shaw BD, Christeller JT. 2009. Characterization of the proteases in the midgut of the xylophagous larvae of Oemona hirta (Coleoptera: Cerambycidae). Insect Science (2009) 16, 381–386.Cerambycinae). Zootaxa 971, 1-31.
+------- All types of citrus are attacked."
+Host,ORCMCI,Orchamoplatus citri (as Citrus),
+Host,OTALLA,Otala lactea (as Citrus),
+Host,PACNAZ,Pachnaeus azurescens (as Citrus),
+Host,PRABMY,Parabemisia myricae (as Citrus),
+Host,SAISNI,Parasaissetia nigra (as Citrus),
+Host,PARLZI,Parlatoria ziziphi (as Citrus),
+Host,PEZTKE,Pezothrips kellyanus (as Citrus),
+Host,PHYNCI,Phyllocnistis citrella (as Citrus),
+Host,PLANKE,Planococcus kenyae (as Citrus),
+Host,PLANLI,Planococcus lilacinus,"* Sirisena UG, Watson GW, Hemachandra KS, Wijayagunasekara HN (2013) Mealybugs (Hemiptera: Pseudococcidae) species on economically important fruit crops in Sri Lanka. Tropical Agricultural Research 25(1), 69-82."
+Host,PLANLI,Planococcus lilacinus (as Citrus),
+Host,POCZSH,Pochazia shantungensis,"* Iguchi M, Kodama H (2025) Host plants of Pochazia shantungensis (Hemiptera: Ricaniidae) in Wakayama Prefecture, Japan. Ann. Kansai Plant Prot. Soc. 67, 117–120. https://doi.org/10.4165/kapps.67.117 (in Japanese)
+------- host for oviposition"
+Host,POCZSH,Pochazia shantungensis (as Citrus),"* Stroiński A, Balderi M, Marraccini D, Mazza G (2022) First records of Pochazia shantungensis (Chou & Lu, 1977) (Hemiptera: Fulgoromorpha: Ricaniidae) in Italy. Zootaxa 5188 (3), 275–282, https://doi.org/10.11646/zootaxa.5188.3.4"
+Host,PRAYEN,Prays endocarpa (as Citrus),
+Host,PRDILO,Prodiplosis longifila,"* Diaz-Silva F (2011) [Agroecological aspects for the integrated management of Prodiplosis longifila Gagné in the irrigation of Chavimochic]. Escuela de Ciencias Biológicas, Universidad de Trujillo, Trujillo, PERU (in Spanish).
+
+* Peña JE, Gagné R, Duncan R (1989) Biology and characterization of Prodiplosis longifila (Diptera: Cecidomyiidae) on lime in Florida. Florida Entomologist 7, 444-450.
+
+* Valarezo O, Cañarte E, Navarrete B, Arias M (2003) [Prodiplosis longifila (Diptera: Cecidomyiidae) main tomato pest in Ecuador.] Manual 51, INIAP, Ecuador. (in Spanish)"
+Host,PSEAPE,Pseudaulacaspis pentagona (as Citrus),"* García Morales M, Denno BD, Miller DR, Miller GL, Ben-Dov Y, Hardy NB (2016) ScaleNet: A literature-based model of scale insect biology and systematics. Database. doi: 10.1093/database/bav118. http://scalenet.info [accessed 2026-02].
+
+* Miller DR & Davidson JA (2005) Armored Scale Insect Pests of Trees and Shrubs. Cornell Univ. Press Ithaca, NY 442 pp."
+Host,RADOCI,Radopholus similis citrus race (as Citrus),"* O'Bannon (1977) Worldwide dissemination of Radopholus similis and its importance in crop production. Journal of Nematology 9, 16-25."
+Host,RICASC,Ricania speculum (as Citrus),
+Host,ROTYRE,Rotylenchulus reniformis (as Citrus),
+Host,SCITAU,Scirtothrips aurantii,* NPPO of Portugal (2024) Lista de vegetais hospedeiros de Scirtothrips aurantii Faure.  https://www.dgav.pt/wp-content/uploads/2024/03/Lista-de-hospedeiros-S.aurantii_marco24.pdf
+Host,SCITAU,Scirtothrips aurantii (as Citrus),"* Gilbert MJ (1990) Relative population levels of citrus thrips Scirtothrips aurantii on commercial citrus and adjacent bush. South African Journal of Zoology, 25, 72-76."
+Host,SCITCI,Scirtothrips citri,"*Avendaño-Gutiérrez F, Johansen-Naime R, Equihua-Martínez A, Carrillo-Sánchez J, Bautista-Martínez N, González-Hernández H, Aguirre-Paleo S (2020) Thysanoptera affecting mexican lime (Citrus x aurantifolia (Christm) Swingle) in Apatzingán, Michoacán, Mexico. Agroproductividad 13(4), 3-9. https://doi.org/10.32854/agrop.vi.1654"
+Host,SCITCI,Scirtothrips citri (as Citrus),"* Grafton-Cardwell EE, Morse JG, Haviland DR, Faber BA (2020) Citrus Pest Management Guidelines: Citrus thrips. UCIPM guidelines. https://www2.ipm.ucanr.edu/agriculture/citrus/citrus-thrips/"
+Host,SCITDO,Scirtothrips dorsalis,"* Murillo-Hernández JE, Illescas-Riquelme CP, López-Lima D, Manzanilla-Ramírez MÁ (2022) Incidencia y daños de Scirtothrips dorsalis en plantaciones de limón mexicano en Colima, México. Southwestern Entomologist 47(1), 211-214."
+Host,SCITDO,Scirtothrips dorsalis (as Citrus),
+Host,SLENRU,Selenothrips rubrocinctus (as Citrus),"* Mound LA, Walker AK (1987) Thysanoptera as tropical tramps: new records from New Zealand and the Pacific. New Zealand Entomologist 9(1), 70-85.
+------- adult on citrus leaves."
+Host,TETRFI,Tetranychus fijiensis (as Citrus),
+Host,TETRME,Tetranychus mexicanus,"* Migeon A & Dorkeld F (2019). Spider Mites Web. A comprehensive database for the Tetranychidae.
+http://www.montpellier.inra.fr/CBGP/spmweb [accessed September 2019]
+
+* Ochoa R, Aguilar H & Vargas C (1994) Phytophagous mites of America Central: an illustrated guide. CATIE.
+
+* Paschoal A (1970) Revisão da família Tetranychidae no Brasil (Arachnida: Acarina). Anais Da Escola Superior de Agricultura Luiz de Queiroz, XXVII, 457–483.
+
+* Paschoal A (1968) Sobre a biologia do ácaro Tetranychus mexicanus (Acarina Tetranychidae) - Notas prévias. Solo, Piracicaba, 40(1), 67–70."
+Host,TETRME,Tetranychus mexicanus (as Citrus),"* Flechtmann CHW & BAKER EW (1970) A preliminary report on the Tetranychidae (Acarina) of Brazil. Ann. Entomol. Soco Amer. 63 (I): 156- 163 . 
+------- on citrus
+
+* Ochoa R, Aguilar H & Vargas C (1994) Phytophagous mites of America Central: an illustrated guide. CATIE.
+
+* Flechtmann C & Paschoal A (1967) Os ácaros dos citrus. O Solo, 2, 53–56.
+
+* Flechtmann C & Abreu J (1973) Ácaros Fitófagos do Estado da Bahia, Brasil (Notas preliminares). Ciência e Cultura, 25(3), 244–251.
+
+* Moraes GJ de & Flechtmann CHW (1981) Ácaros fitófagos do Nordeste do Brasil. Pesquisa Agropecuária Brasileira, 16(2), 177–186.
+
+* Aranda B & Flechtman C (1971) A report on the Tetranychidae of Paraguay. Proceedings of the Entomological Society of Washington, 73, 29–33.
+
+* Flechtmann C, Kreiter S, Etienne J & Moraes Gj (1999) Plant mites (Acari) of the French Antilles. 1. Tetranychoidea (Prostigmata). Acarologia, 40, 137–144.
+
+* Flechtmann CH & Baker EW (1975) A report on the Tetranychidae (Acari) of Brazil. Revista Brasileira de Entomologia, 19(3), 111–112.
+
+* Paschoal A (1970) Revisão da família Tetranychidae no Brasil (Arachnida: Acarina). Anais Da Escola Superior de Agricultura Luiz de Queiroz, XXVII, 457–483.
+
+* Suárez A (2004) Catálogo de ácaros de la provincia de Guantánamo. Fitosanidad, 8(1), 23–31."
+Host,ARGPLE,Thaumatotibia leucotreta (as Citrus),
+Host,THEBPI,Theba pisana (as Citrus),
+Host,THRIHA,Thrips hawaiiensis (as Citrus),"* Sartiami D, Mound LA (2013) Identification of the terebrantian thrips (Insecta, Thysanoptera) associated with cultivated plants in Java, Indonesia. ZooKeys 306, 1–21. https://doi.org/10.3897/zookeys.306.5455
+------- Collected from citrus species in Java (Indonesia)."
+Host,THRIIM,Thrips imaginis (as Citrus),
+Host,THRIPV,Thrips parvispinus (as Citrus),"* Lacasa A, Lorca M, Martinez MC, Bielza P, Guirao P (2019) Thrips parvispinus (Karny, 1922), un nuevo trips en cultivos de plantas ornamentales. Phytoma Espana 311, 62-69
+------- reported on ornamental citrus"
+Host,TIRAPL,Tiracola plagiata (as Citrus),
+Host,HESOCA,Trichoferus campestris (as Citrus),"* Iwata R & Yamada F (1990) Notes on the biology of Hesperophanes campestris, a drywood borer in Japan. Material und Organismen 25, 305–313."
+Host,TYLESE,Tylenchulus semipenetrans (as Citrus),"* Ibrahim IK, Abu-Habib AH, Kantor M, Handoo ZA (2022) Pathogenicity and control of the citrus nematode Tylenchulus semipenetrans on citrus, grape, olive, loquat, and persimmon species and cultivars. Nematropica 52(2), 79-84."
+Host,UNASCI,Unaspis citri,"* Malumphy CP (2012) An annotated checklist of scale insects (Hemiptera: Coccoidea) of Saint Lucia. Entomologist's Monthly Magazine 148, 207-216.
+
+* Yunus A, Ho TH (1980) List of Economic Pests, Host Plants, Parasites and Predators in West Malaysia (1920-1978). Ministry of Agriculture Malaysia, 539 pp."
+Host,UNASYA,Unaspis yanonensis (as Citrus),
+Host,ZAPRIN,Zaprionus indianus (as Citrus),
+Major host,ANSTLU,Anastrepha ludens,"* Baker AC, Stone WE, Plummer CC, McPhail M (1944) A review of studies on the Mexican fruitfly and related Mexican species. USDA Miscellaneous Publications, 155 pp.
+
+* Eskafi FM (1988) Infestation of citrus by Anastrepha spp. and Ceratitis capitata (Diptera: Tephritidae) in high coastal plains of Guatemala. Environmental Entomology 17(1), 52-58.
+
+* Eskafi FM, Cunningham RT (1987) Host plants of fruit flies (Diptera: Tephritidae) of economic importance in Guatemala. Florida Entomologist 70, 116-123.
+"
+Major host,ANOLCN,Anoplophora chinensis (as Citrus),"* Lim J, Jung S-Y, Lim J-S, Jang J, Kim K-M, Lee Y-M, Lee B-W (2014) A review of host plants of Cerambycidae (Coleoptera: Chrysomeloidea) with new host records for fourteen Cerambycids, including the Asian longhorn beetle (Anoplophora glabripennis Motschulsky), in Korea. Korean Journal of Applied Entomology 53(2), 111-133.
+
+* Sjöman H, Östberg J & Nilsson J (2014) Review of host trees for the wood-boring pests Anoplophora glabripennis and Anoplophora chinensis: an urban forest perspective. Arboriculture & Urban Forestry 40(3), 143–164."
+Major host,TOXOCI,Aphis citricidus,"* Blackman & Eastop (2021) Aphids on the World’s plants. An online identification and information guide. http://www.aphidsonworldsplants.info/ [last accessed in 2021-04].
+
+* Ghosh A, Das A, Lepcha R, Majumdar K, Baranwal VK (2015) Identification and distribution of aphid vectors spreading Citrus tristeza virus in Darjeeling hills and Dooars of India. Journal of Asia-Pacific Entomology 18, 601-605.
+------- As 'kagzi'.
+
+* Singh G, Singh R (2017) Food plant records of Aphidini (Aphidinae: Aphididae: Hemiptera) in India. Journal of Entomology and Zoology Studies 5(2), 1280-1302.
+
+* Tsai JH (1988) Development, survivorship, and reproduction of Toxoptera citricida (Kirkaldy) (Homoptera: Aphididae) on eight host plants. Environmental Entomology 27(5), 1190-1195."
+Major host,DACULA,Bactrocera latifrons,"* Allwood AL, Chinajariyawong A, Drew RAI, Hamacek EL, Hancock DL, Hengsawad C,  Jipanin JC, Jirasurat M, Kong Krong C, Kritsaneepaiboon S, Leong CTS, Vijaysegaran S (1999) Host plant records for fruit flies (Diptera: Tephritidae) in Southeast Asia.  Raffles Bulletin of Zoology, Supplement, 7, 1-92.
+------- Confirmed host in Asia.
+
+* McQuate GT, Liquido NJ (2016) Provisional list of suitable host plants of Bactrocera (Bactrocera) latifrons (Hendel) (Diptera: Tephritidae), Version 1.0. Available online at USDA Compendium of Fruit Fly Host Information (CoFFHI). "
+Major host,PARYMI,Paraleyrodes minei,"* Malumphy C, Mifsud D (2016) First record of the nesting whitefly, Paraleyrodes minei Iaccarino, 1990 (Hemiptera, Aleyrodidae) in Malta. Bulletin of the Entomological Society of Malta 8, 90-93."
+Major host,PARYMI,Paraleyrodes minei (as Citrus),"* Krishnappa C, Dubey AK, Verma A,, Mahapatro GK (2021) Occurrence of exotic whitefly, Paraleyrodes minei Iaccarino (Hemiptera: Aleyrodidae) and other whitefly species on fruit crops in Maharashtra, India. 3 Biotech 11, p 264.
+
+* Sundararaj R, Krishnan S, Sumalatha BV (2021) Invasion and expansion of exotic whiteflies (Hemiptera: Aleyrodidae) in India and their economic importance. Phytoparasitica 49(5), 851-863."
+Major host,PRAYCI,Prays citri,"* El-Kareim A, Moustafa SA, Fathy DM, Amara TM (2017) Ecological and biological studies on the citrus flower moth, Prays citri (Millière)(Lepidoptera: Hyponomeutidae). Journal of Plant Protection and Pathology 8(8), 397-402.
+
+* Łabanowski GS (2017) The threat of greenhouse horticultural crops by pests. Zeszyty Naukowe Instytutu Ogrodnictwa, 25, 39-56. (in Polish with English abstract).
+"
+Major host,PSECOB,Pseudococcus viburni (as Citrus),
+Major host,TRIZER,Trioza erytreae,"* Aubert B (1987) Trioza erytreae Del Guercio and Diaphorina citri Kuwayama (Homoptera: Psylloidea), the two vectors of citrus greening disease: Biological aspects and possible control strategies. Fruits, 42, 149-162.
+------- confirmed host"
+Major host,TRIZER,Trioza erytreae (as Citrus),
+Major host,TYLESE,Tylenchulus semipenetrans,"* Ibrahim IK, Abu-Habib AH, Kantor M, Handoo ZA (2022) Pathogenicity and control of the citrus nematode Tylenchulus semipenetrans on citrus, grape, olive, loquat, and persimmon species and cultivars. Nematropica 52(2), 79-84."

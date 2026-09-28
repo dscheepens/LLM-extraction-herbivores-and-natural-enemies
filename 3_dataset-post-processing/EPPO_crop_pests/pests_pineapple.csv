@@ -1,0 +1,36 @@
+type,EPPOCode,Pref_name,References
+Doubtful host,ARGPLE,Thaumatotibia leucotreta,"Pineapple was quoted as T. leucotreta host plant in Pinhey (1975) from Angola, ""according to Investig. Cientif. Agron."".  However it is not listed as a pest on pineapple in Petty et al. (2005). Not considered as a host in EPPO PRA (EPPO, 2013)
+
+* EPPO (2013) Pest Risk Analysis for Thaumatotibia leucotreta. EPPO, Paris. Available at https://gd.eppo.int/taxon/ARGPLE/documents.
+* Petty DJ, Sterling GR, Bartholomew DP(2005) Pests of pineapple (Chapter 6).in: eds J.E. Pena, J.L. Sharp & M. Wysoki. Tropical Pests and Pollinators: Biology, Economic importance, Natural enemies and Control. 157 pp.
+* Pinhey ECG (1975) Moths of Southern Africa : descriptions and colour illustrations of 1183 species."
+Experimental,RHYCPA,Rhynchophorus palmarum,"* Giblin-Davis RM, Gerber K, Griffith R (1989) Laboratory rearing of Rhynchophorus cruentatus and R. palmarum (Coleoptera: Curculionidae). Florida Entomologist 72(3), 480-488.
+------- Artificial diet made with pineapple and sugarcane to rear R. palmarum in the laboratory.
+
+* Wattanapongsiri A (1966) A revision of the Genera Rhynchophorus and Dynamis. Department of Agricultural Science Bulletin, Bangkok, Thailand."
+Host,DACUDO,Bactrocera dorsalis,"* Lin MG, Wang XJ, Zeng L, Zhang Y, Cai B (2013) Survey of species, geographical distribution and damage of fruit flies in Hainan, China. Zhiwu Jianyi (Plant Quarantine) 5, 85-89.
+
+* Liquido NJ, McQuate GT, Birnbaum AL, Hanlin MA, Nakamichi KA, Inskeep JR, Ching AJF, Marnell SA, Kurashima RS (2019) A review of recorded host plants of oriental fruit fly, Bactrocera (Bactrocera) dorsalis (Hendel) (Diptera: Tephritidae), Version 3.1. Available online at: USDA Compendium of Fruit Fly Host Information (CoFFHI), Edition 4.0.
+------- Conditional non-host.
+
+* Moquet L, Payet J, Glenac S, Delatte H (2021) Niche shift of tephritid species after the Oriental fruit fly (Bactrocera dorsalis) invasion in La Réunion. Diversity and Distributions. 27(1), 109-129. https://doi.org/10.1111/ddi.13172
+------- confirmed host."
+Host,HOLPAN,Holopothrips ananasi,
+Host,PHENHI,Maconellicoccus hirsutus,"* Hodgson CJ, Lagowska B (2011) New scale insect (Hemiptera: Sternorrhyncha: Coccoidea) records from Fiji: three new species, records of several new invasive species and an updated checklist of Coccoidea. Zootaxa 2766, 1-29."
+Host,METAHE,Metamasius hemipterus,"* Rodríguez Rodríguez JM (2010) Biología y distribución espacial del picudo (Metamasius spp.) (Coleoptera: Curculionidae) en una plantación comercial de piña (Ananas comosus) (l.) Merr. Thesis. Instituto Tecnológico de Costa Rica Sede Regional San Carlos.
+------- life cycle completed on the plant
+"
+Host,OPOGSC,Opogona sacchari,"* Vorsino AE, Taniguchi GY, Wrigt MG (2005) Opogona sacchari (Lepidoptera: Tineidae), a new pest of pineapple in Hawaii. Proceedings of the Hawaiian Entomological Society 37, 97-98."
+Host,OPOGSC,Opogona sacchari (as Bromeliaceae),
+Host,RADOSI,Radopholus similis,"* O'Bannon JH (1977) Worldwide dissemination of Radopholus similis and its importance in crop production. Journal of nematology.9(1), 16-25"
+Host,ROTYRE,Rotylenchulus reniformis,
+Host,RHIEIN,Schedorhinotermes intermedius,
+Host,THECBA,Strymon megarus,
+Host,THECEC,Tmolus echion,
+Host,UNASCI,Unaspis citri,"* Miller DR, Davidson JA (2005) Armored Scale Insect Pests of Trees and Shrubs. Cornell Univ. Press Ithaca, NY, 442 pp."
+Major host,ANMLOR,Exomala orientalis,
+Major host,LAGRVL,Lagria villosa,"* Julius Kühn-Institut (2022) Express-PRA zu Lagria villosa. Accessed at : https://pra.eppo.int/pra/3ba8371e-eabc-4529-9e3c-fd9f8fb1bd82 
+
+* Ruzzier E, Martinez-Munoz CA (2021) First record of the invasive Lagria villosa (Fabricius, 1781) (Coleoptera: Tenebrionidae: Lagriinae) in Europe. Zootaxa 4908(1), 147-150. https://doi.org/10.11646/zootaxa.4908.1.11 
+
+* Spilman TJ (1978) Lagria villosa in Brazil, with new descriptions and illustrations of the larva and pupa (Coleoptera, Lagriidae). Ciencia e cultura, Sao Paulo 30(3), 342–347"

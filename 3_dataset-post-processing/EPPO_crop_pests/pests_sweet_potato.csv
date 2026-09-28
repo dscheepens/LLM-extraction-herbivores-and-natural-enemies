@@ -1,0 +1,137 @@
+type,EPPOCode,Pref_name,References
+Doubtful host,EUZOSE,Euzophera semifuneralis,"* Biddinger DJ, Howitt AJ (1992) The food plants and distribution of the American plum borer (Lepidoptera: Pyralidae). The Great Lakes Entomologist 25(3), 149-158. https://scholar.valpo.edu/tgle/vol25/iss3/2
+------- stored tubers only"
+Experimental,MELGFL,Meloidogyne floridensis,"* Ploeg AT,  Stoddard CS (2024) A Comparison between Meloidogyne floridensis and M. incognita from California on Susceptible and Resistant Sweetpotato Cultivars."" Plant Disease 108(6), 1577-1581.
+-------trials in pots. "
+Host,VASALY,Aculops lycopersici,
+Host,ALEDDI,Aleurodicus dispersus,"* Boopathi T (2022) New host plants, natural enemy complex and newly distributed potential areas of exotic spiralling whitefly (Hemiptera: Aleyrodidae) in India. Phytoparasitica 50(2), 335-357."
+Host,APLOFR,Aphelenchoides fragariae,
+Host,APOGCR,Apogonia cribricollis,
+Host,PARZCO,Bactericera cockerelli,"* Martin NA (2008) Host plants of the potato/tomato psyllid: a cautionay tale. The Weta 35, 12-16."
+Host,BEMITA,Bemisia tabaci (as Convolvulaceae),
+Host,BRAPSU,Brachyplatys subaeneus,"* Rédei D (2016) The identity of the Brachyplatys species recently introduced to Panama, with a review of bionomics (Hemiptera: Heteroptera: Plataspidae). Zootaxa 4136(1), 141-154."
+Host,METRCI,Cassida circumdata,
+Host,METRBI,Charidotella bicolor,
+Host,CRTHMA,Corythucha marmorata,"* Hasegawa S, Tuskada M (2021) Host range expansion by the invasive herbivore Corythucha marmorata (Uhler, 1878) is not caused by better quality of new hosts. Journal of Entomological Research Society 23(1), 1-10. https://doi.org/10.51963/jers.v23i1.1846
+
+* Kim DE, Kil J (2014) Geographical distribution and host plants of Corythucha marmorata (Uhler) (Hemiptera: Tingidae) in Korea. Korean Journal of Applied Entomology 53(2), 185-191 (in Korean).
+
+* Zhou W, Chen W (2022) Early starvation contributes to the adaptive capacity of Corythucha marmorata (Uhler), an emerging pest in China. Biology 11, 80. https://doi.org/10.3390/biology"
+Host,DELOGU,Deloyala guttata,
+Host,DIABSC,Diabrotica speciosa,"* Cabral MJ, Haseeb M, Soares MA (2024) Major insect pests of sweet potatoes in Brazil and the United States, with information on crop production and regulatory pest management. Insects 15(10), 823. https://doi.org/10.3390/insects15100823"
+Host,DIABUH,Diabrotica undecimpunctata howardi,"* Fleming DE (2009) The spotted cucumber beetle (Diabrotica undecimpunctata howardi): Interactions with cucurbits and its status as a sweetpotato pest in Mississippi (Doctoral dissertation, Mississippi State University).
+------- Larval host."
+Host,DPREAB,Diaprepes abbreviatus,"* EFSA PLH Panel (EFSA Panel on Plant Health) (2023) Pest categorisation of Diaprepes abbreviatus. EFSA Journal 21(11), 1–42. https://doi.org/10.2903/j.efsa.2023.83
+-------host plant supporting the whole life cycle. "
+Host,DITYDE,Ditylenchus destructor,"* Fan W, Wei Z, Zhang M, Ma P, Liu G, Zheng J, Guo X, Zhang P (2015) Resistance to Ditylenchus destructor infection in sweet potato by the expression of small interfering RNAs targeting unc-15, a movement-related gene. Phytopathology 105(11), 1458-1465.
+
+* Liu H, Xiao W, Yang Z, Ye S, Ding Z (2026) First report of Ditylenchus destructor infesting sweet potatoes in Hunan Province, China. Plant Disease 110(1), 248 https://doi.org/10.1094/PDIS-08-25-1636-PDN"
+Host,DITYDI,Ditylenchus dipsaci,"* Goodey JB, Franklin MT, Hooper DJ (1965) T. Goodey's: The Nematode Parasites of Plants Catalogued Under Their Hosts. Commonwealth Agricultural Bureaux, Farnham Royal, Bucks, England. Third edition, 214 pp."
+Host,ELASLI,Elasmopalpus lignosellus,"* Gill HK, Capinera JL, McSorley R (2017) Featured Creatures. Lesser cornstalk borer. Elasmopalpus lignosellus (Zeller) (Insecta: lepidoptera: Pyralidae). University of Florida (US). http://entnemdept.ufl.edu/creatures/field/lesser_cornstalk_borer.htm"
+Host,EURHBR,Eurhizococcus brasiliensis,"* García Morales M, Denno BD, Miller DR, Miller GL, Ben-Dov Y, Hardy NB (2016) ScaleNet: A literature-based model of scale insect biology and systematics. Database. doi 10.1093/database/bav118. http://scalenet.info
+------- citing original references
+
+* Soria SJ, Gallotti BJ (1986) O margarodes da videira Eurhizococcus brasiliensis (Homoptera: Margarodidae): biologia, ecologia e controle no Sul do Brasil. Embrapa, Centro Nacional de Pesquisa de Uva e Vinho, Bento Gonçalves, Brazil. CNPUV Circular Técnica 13. 22 pp."
+Host,EUTEOR,Eutetranychus orientalis,"* Baker EW (1975) Plant-feeding mites of Thailand (Tetranychidae, Tenuipalpidae, and Tuckerellidae). Plant Protection Service Technical Bulletin. Bangkok, Thailand. No 35. 43 pp.
+
+* Poolayulla Chalil S, Kunnathattil M, Kaimal SG, Punathil T (2024) A checklist of spider mites (Acari: Tetranychidae) of India. Persian Journal of Acarology 13(1), 29-75."
+Host,HELIAR,Helicoverpa armigera,"* Cunningham JP, Zalucki MP (2014) Understanding heliothine (Lepidoptera: Heliothinae) pests: what is a host plant? Journal of Economic Entomology 107, 881–896."
+Host,HELOSC,Helopeltis schoutedeni,
+Host,HOMLTR,Homalodisca vitripennis (as Ipomoea),"* Hoddle MS, Triapitsyn SV, Morgan DJW (2003) Distribution and plant association records for Homalodisca coagulata (Hemiptera: Cicadellidae) in Florida. Florida Entomologist 86(1), 89-91."
+Host,JONTNI,Jonthonota nigripes,
+Host,LAGRVL,Lagria villosa,"* Gonçalves PA (1997) Levantamento de insetos associados à batata-doce, Ipomoea batatas, com uso de armadilhas d'água, em Ituporanga, SC. Anais da Sociedade Entomológica do Brasil, 26(1), 199-203."
+Host,LEPLAU,Leptoglossus australis,
+Host,LEUIOR,Leucinodes orbonalis,"* Ardez KP, Sumalde AC, Taylo LD (2008) Ovipositional preference, host range and life history of eggplant fruit and shoot borer, Leucinodes Orbonalis Guenee (Lepidoptera: Pyralidae). The Philippine Entomologist 22, 173-183.
+------- Feeding host (pods). In free-choice experiments, no egg-laying on this plant. In feeding experiments, larvae could not develop on tubers of this plant.
+
+* EFSA Plant Health Panel (2024) Pest risk assessment of Leucinodes orbonalis for the European Union.  EFSA Journal 22(3), e8498. doi 10.2903/j.efsa.2024.8498
+------- ""Records of L. orbonalis on non-Solanaceae host plants appear to be incidental, and the species is unlikely to complete its life cycle on these plants"". In experiments, larvae unable to develop on tubers of I. batatas."
+Host,LIRIHU,Liriomyza huidobrensis,"* Rauf A, Shepard BM, Johnson MW (2000) Leafminers in vegetables, ornamental plants and weeds in Indonesia: surveys of host crops, species composition and parasitoids. International Journal of Pest Management 46, 257-266.
+------- Confirmed host. Reared from infested leaves collected in the field.
+
+* Shiao SF, Wu WJ (2000) Liriomyza huidobrensis (Blanchard), a newly invaded insect of economic importance to Taiwan (Diptera: Agromyzidae). Plant Protection Bulletin Taipei 42, 249-254.
+
+* Wei J, Zou L, Kuang R, He L (2000) Influence of leaf tissue structure on host feeding selection by pea leafminer Liriomyza huidobrensis (Diptera: Agromyzidae). Zoological Studies 39, 295-300."
+Host,ACHAFU,Lissachatina fulica,"* Thiengo SC, Faraco FA, Salgado NC, Cowie RH, Fernandez MA (2007) Rapid spread of an invasive snail in South America: the giant African snail, Achatina fulica, in Brasil. Biological Invasions 9, 693-702."
+Host,PHENHI,Maconellicoccus hirsutus,"* Chang LWH, Miller CE (1996) Pathway Risk Assessment: Pink mealybug from the Caribbean. Animal and Plant Health Inspection Service, U.S. Dept. of Agriculture 61 pp."
+Host,MEGTUS,Megalurothrips usitatus,"* Reyes CP (1994) Thysanoptera (Hexapoda) of the Philippine Islands. Raffles Bulletin of Zoology 42(2), 107-507."
+Host,MCCTAB,Microcephalothrips abdominalis,"* Sartiami D, Mound LA (2013) Identification of the terebrantian thrips (Insecta, Thysanoptera) associated with cultivated plants in Java, Indonesia. ZooKeys 306, 1–21. https://doi.org/10.3897/zookeys.306.5455
+------- Collected from this plant in Java (Indonesia)."
+Host,NACOBA,Nacobbus aberrans sensu lato,"* Manzanilla-López RH, Costilla MA, Doucet M, Inserra RN, Lehman PS, Cid del Prado-Vera I, Souza RM, Evans K (2002) The genus Nacobbus Thorne & Allen, 1944 (Nematoda: Pratylenchidae): systematics, distribution, biology and management. Nematropica 32, 149-226."
+Host,GRAGLE,Naupactus leucoloma,"* Álvarez LJ, Bernardis AM, Defea B, Dellapé P, del Río MG, Gittins López CG,  Lanteri AA, López Armengol MF, Marino de Remes Lenicov AM, Minghetti E, Paradell S, Rizzo ME (2021) Inventory of Hemiptera, Coleoptera (Curculionidae) and Hymenoptera associated with the horticultural production of the Alto Valle de Río Negro and Neuquén provinces (Argentina). Revista de la Sociedad Entomológica Argentina 80(1), 48-69."
+Host,OMPHAN,Omphisa anastomosalis,
+Host,OPOGSC,Opogona sacchari,"* Peña JE, Duncan R, Torres V (1990) Dynamics and control of the banana moth and foliage plants. Proceedings of the Florida State Horticultural Society 103, 189-192. "
+Host,PHENMK,Phenacoccus miruku,"* Powell EC, Deeter LA, Moore MR, Ahmed MZ & Miller DR (2024) Taxonomy, hosts, and distribution of an emerging invasive mealybug, Phenacoccus miruku (Hemiptera: Coccomorpha: Pseudococcidae), in Florida. Florida Entomologist 107(s1), 20240024. https://doi.org/10.1515/flaent-2024-0024"
+Host,PLANKE,Planococcus kenyae,
+Host,PLSOCO,Plesiommata corniculata,"* Young DA Jr. (1977) Taxonomic study of the Cicadellinae (Homoptera: Cicadellidae). Part 2. New World Cicadellini and the genus Cicadella. Technical Bulletin of the North Carolina Agricultural Experiment Station 239, 1-1135.
+------- collected on"
+Host,POOPCO,Poophilus costalis,"* Shih HT, Tsay HC, Yang JT (2005) Notes on the geographic distribution and host plants for Poophilus costalis (Walker, 1851) (Hemiptera: Cercopoidea: Aphrophoridae). Plant Protection Bulletin 47, 171–178."
+Host,PSEAPE,Pseudaulacaspis pentagona (as Ipomoea),"* García Morales M, Denno BD, Miller DR, Miller GL, Ben-Dov Y, Hardy NB (2016) ScaleNet: A literature-based model of scale insect biology and systematics. Database. doi: 10.1093/database/bav118. http://scalenet.info [accessed 2026-02].
+
+* Miller DR & Davidson JA (2005) Armored Scale Insect Pests of Trees and Shrubs. Cornell Univ. Press Ithaca, NY 442 pp."
+Host,RHSMLA,Rhyssomatus landeiroi,
+Host,RHSMSC,Rhyssomatus sculpturatus,
+Host,ROTYRE,Rotylenchulus reniformis,
+Host,PRODER,Spodoptera eridania,"* Montezano DG, Specht A, Sosa-Gomez DR, Roque-Specht VF & de Barros NM (2014) Immature stages of Spodoptera eridania (Lepidoptera: Noctuidae): developmental parameters and host plants. Journal of Insect Science 14, 238. https://doi.org/10.1093/jisesa/ieu191"
+Host,LAPHFR,Spodoptera frugiperda,"* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300."
+Host,SPODLI,Spodoptera littoralis,"* Abdel-Salam FA, Elbadry EA, Abo Elghar MR, Hassan SM, Asal MA (1971) The effect of four host plants on the pupal development and adult fecundity of the cotton leafworm Spodoptera littoralis (Boisd.). Zeitschrift fur Angewandte Entomologie 68(3), 326-330.
+
+* Salama HS, Dimetry NZ, Salem SA (1970) On the host preference and biology of the cotton leaf worm Spodoptera littoralis Bois. Zeitschrift für Angewandte Entomologie 67(1-4), 261–266."
+Host,PRODLI,Spodoptera litura,"* Xue M, Pang YH, Wang HT, Li QL, Liu TX (2010) Effects of four host plants on biology and food utilization of the cutworm, Spodoptera litura. Journal of Insect Science. 10(1), 22. https://doi.org/10.1673/031.010.2201"
+Host,PRODOR,Spodoptera ornithogalli,"* Brito R, Specht A, Gonçalves GL, Moreira GRP, Carneiro E, Santos FL, Roque-Specht VF, Mielke OHH, Casagrande MM (2019) Spodoptera marima: a new synonym of Spodoptera ornithogalli (Lepidoptera: Noctuidae), with notes on adult morphology, host plant use and genetic variation along its geographic range. Neotropical Entomology 48(3), 433-448.
+
+* Capinera JL (2017) Yellowstriped Armyworm, Spodoptera ornithogalli (Guenée) (Insecta: Lepidoptera: Noctuidae). Department of Entomology and Nematology, University of Florida /IFAS Extension, EENY216, 4p. https://edis.ifas.ufl.edu/pdffiles/IN/IN37300.pdf
+
+* Comstock JA (1965) Ciclo biologico de Prodenia ornithogalli Guenée (Lepidoptera: Noctuidae). Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoologia 36, 199-202.
+
+* Coto D, Saunders JL, Vargas-S CL, King ABS (1995) Plagas invertebradas de cultivos tropicales con énfasis em América Central-Um invetário. Turrialba, CATIE, 200 pp.
+
+* Crumb SE (1929) Tobacco cutworms. USDA Technical Bulletin 88, p 179.
+
+* Heppner JB (2007) Lepidoptera of Florida. Part 1. Introduction and catalog. Gainesville, Florida Department of Agriculture & Consumer Services, p 670.
+
+* Robinson GS, Ackery PR, Kitching IJ, Beccaloni GW, Hernández LM (2010) HOSTS - A Database of the World's Lepidopteran Hostplants. Natural History Museum, London. http://www.nhm.ac.uk/hosts
+
+* Tietz HM (1972) An index to the described life histories, early stages and hosts of the Macrolepidoptera of the continental United States and Canada, 536 pp."
+Host,TETREV,Tetranychus evansi,"* Meyer MKPS (1996) Mite pests and their predators on cultivated plants in Southern Africa: vegetables and berries. Plant Protection Research Institute, P., South Africa, Plant Protection Research Institute Handbook, No 6: 90 p.
+
+* Moutia LA (1958) Contribution to the study of some phytophagous Acarina and their predators in Mauritius. Bulletin of Entomological Research, 49: 59-75."
+Host,THRIPL,Thrips palmi,"* Elizondo AI, Murguido CA, Pérez I, Piedra F, Peña E, Martínez M, Martell M, de los Ángeles Fernández M, Sariol H, Rodríguez S, Jiménez R, Granda G, Palacios F (2003) Thrips palmi Karny en la agricultura cubana. Fitosanidad 7(2), 1-9.
+
+* Kalpana Tillekaratne, Edirisinghe JP, Gunatilleke CVS, Karunaratne AIP (2011) A checklist of thrips species of Sri Lanka. Ceylon Journal of Science (Bio. Sci.) 40(2), 89-108."
+Host,XIPHCA,Xiphinema californicum,"* Alkemade JRM, Loof PAA (1990) The genus Xiphinema cobb, 1913 (Nematoda: Longidoridae) in Perú. Revue de Nématologie 13, 339-348."
+Major host,ALCIDE,Alcidodes dentipes,
+Major host,ALCIER,Alcidodes erroneus,
+Major host,ALTRTR,Aleurothrixus trachoides,"* Sundararaj R, Krishnan S, Sumalatha BV (2021) Invasion and expansion of exotic whiteflies (Hemiptera: Aleyrodidae) in India and their economic importance. Phytoparasitica 49(5), 851-863.
+
+* Wosula EN, Evans GA, Issa KA, Legg JP (2018) Two new invasive whiteflies (Hemiptera: Aleyrodidae) to Tanzania. African Entomology 26(1), 259-264."
+Major host,APLOBE,Aphelenchoides besseyi,"* Bridge J, Plowright RA, Peng D (2005) Nematode parasites of rice. In: Plant parasitic nematodes in subtropical and tropical agriculture (eds Luc M, Sikora RA, Bridge J), pp. 87-130."
+Major host,BEMITA,Bemisia tabaci,"* McKenzie CL, Sparks Jr AN, Roberts P, Oetting RD, Osborne LS (2020) Survey of Bemisia tabaci (Hemiptera: Aleyrodidae) in agricultural ecosystems in Georgia. Journal of Entomological Science 55(2), 163-170."
+Major host,BLOSIP,Blosyrus ipomoeae,
+Major host,CASSBI,Cassida bivittata,
+Major host,CHEMCA,Chelymorpha cassidea,
+Major host,CYLAFM,Cylas femoralis,
+Major host,CYLAFO,Cylas formicarius,
+Major host,CYLAPU,Cylas puncticollis,"* Kotchofa R, BaimeyH, Fanou A, Zadji L, Sodjinou E (2019) Diversity and distribution of sweet potato weevils (Cylas spp.) in southern Benin. Annales de l’Université de Parakou - Série Sciences Naturelles et Agronomie, 9, 1-10. https://doi.org/10.56109/aup-sna.v9i1.58 
+
+* Nottingham SF, Wilson DD, Severson RF, Kays SJ (1987) Feeding and oviposition preferences of the sweet potato weevil, Cylas formicarius elegantulus, on the outer periderm and exposed inner core of storage roots of selected sweet potato cultivars. Entomologia Experimentalis et Applicata 45(3), 271-275"
+Major host,ELSIBA,Elsinoë batatas,"* Zhang X, Zou H, Yang Y, Fang B, Huang L (2022) Genome resource for Elsinoe batatas, the causal agent of stem and foliage scab disease of sweet potato. Phytopathology 112(4), 973-975."
+Major host,EUSPPO,Euscepes postfasciatus,"* Cabral MJ, Haseeb M, Soares MA (2024) Major insect pests of sweet potatoes in Brazil and the United States, with information on crop production and regulatory pest management. Insects 15(10), 823. https://doi.org/10.3390/insects15100823"
+Major host,MEGEGR,Megastes grandalis,
+Major host,MEGEPU,Megastes pusialis,
+Major host,MELNCO,Melanotus communis,"* Baumler Willis R, Abney MR, Kennedy GG (2010) Survey of wireworms (Coleoptera: Elateridae) in North Carolina sweetpotato fields and seasonal abundance of Conoderus vespertinus. Journal of economic entomology 103(4), 1268-1276."
+Major host,MELGMY,Meloidogyne enterolobii,"* Fargette M (1987) Use of the esterase phenotypes in the taxonomy of the genus Meloidogyne. 1. Stability of the esterase phenotype. Revue de Nématologie 10, 39-43.
+------- First report (as Phenotype pVI).
+
+* Gao B, Wang RY, Chen SL, Li XH, Ma J (2014) First report of root-knot nematode meloidogyne enterolobii in sweet potato in China. Plant Disease 98(5), p 702.
+------- Confirmed host.
+
+* Gu M, Bui HX, Ye W, Desaeger JA (2021) First report of Meloidogyne enterolobii on sweet potato in Florida, USA. Nematropica 51, 36-40.
+
+* Jia L, Wu H, Wang Y, Li H (2022) First report of the root-knot nematode Meloidogyne enterolobii on sweet potato in Guangxi Province, China. Plant Disease 106(4), 1308.
+
+* Rutter WB, Skantar AM, Handoo, ZA, Muller JD, Aultman SP, Agudelo P (2019) Meloidogyne enterolobii found infecting root-knot nematode resistant sweetpotato in South Carolina, United States.  Plant Disease 103(4), 775.
+------- Confirmed host."
+Wild/Weed,CYLAFO,Cylas formicarius (as Ipomoea),
+Wild/Weed,CYLAPU,Cylas puncticollis (as Ipomoea),
+Wild/Weed,MARGVI,Margarodes vitis (as Convolvulaceae),"* Giliomee J, de Klerk C & Watson GW (2022) 3.3.4 Margarodes spp. In: Encyclopedia of Scale Insect Pests (Eds Kondo T & Watson GW), pp. 69-73. CAB International, Wallingford (UK)."

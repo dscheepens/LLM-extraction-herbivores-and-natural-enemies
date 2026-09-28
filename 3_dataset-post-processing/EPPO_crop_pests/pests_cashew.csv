@@ -1,0 +1,68 @@
+type,EPPOCode,Pref_name,References
+Doubtful host,CYLAPU,Cylas puncticollis,"* Agboton C, Onzo A, Ouessou FI, Goergen G, Vidal S, Tamò M (2014) Insect fauna associated with Anacardium occidentale (Sapindales: Anacardiaceae) in Benin, West Africa. Journal of Insect Science 14(1),  229. https://doi.org/10.1093/jisesa/ieu091
+------- as Cylas punticollis. Mentioned in the list of pests ""associated with  Anacardium occidentale but no details provided if it is a breeding host. "
+Doubtful host,TETRME,Tetranychus mexicanus,"* EPPO (2023) Pest risk analysis for Tetranychus mexicanus. EPPO, Paris
+------- uncertain host (see PRA for details)
+
+* Paschoal A (1970) Revisão da família Tetranychidae no Brasil (Arachnida: Acarina). Anais Da Escola Superior de Agricultura Luiz de Queiroz, XXVII, 457–483."
+Host,ALECWO,Aleurocanthus woglumi,"* Dubey AK, Ko CC (2012) Sexual dimorphism among species of Aleurocanthus Quaintance & Baker (Hemiptera: Aleyrodidae) in Taiwan, with one new species and an identification key. Zootaxa 3177, 1–23.
+
+* Shaw JG (1950) Hosts of the citrus blackfly in Mexico. United States Bureau of Entomology and Plant Quarantine. E-793, 3 pp."
+Host,ALEDDI,Aleurodicus dispersus,"* Boopathi T (2022) New host plants, natural enemy complex and newly distributed potential areas of exotic spiralling whitefly (Hemiptera: Aleyrodidae) in India. Phytoparasitica 50(2), 335-357."
+Host,AMBPLU,Amblypelta lutescens,"* Lindsay KR, Zalucki MP, Newton IR, Furlong MJ (2019) Spatial and Temporal Dynamics of the Native Banana-Spotting Bug, Amblypelta lutescens lutescens (Hemiptera: Coreidae), in Avocado Crops in North Queensland, Australia, Journal of Economic Entomology 112(4), 1812–1820. https://doi.org/10.1093/jee/toz084
+------- confirmed host"
+Host,ANSTFR,Anastrepha fraterculus,"* Eskafi FM, Cunningham RT (1987) Host plants of fruit flies (Diptera: Tephritidae) of economic importance in Guatemala. Florida Entomologist 70, 116-123.
+
+* Jesus-Barros CR, Adaime R, Oliveira MN, Silva WR, Costa-Neto SV, Souza-Filho MF (2012) Anastrepha (Diptera: Tephritidae) species, their hosts and parasitoids (Hymenoptera: Braconidae) in five municipalities of the state of Amapá, Brazil. Florida Entomologist 95, 694–705."
+Host,ANSTLU,Anastrepha ludens,"* Eskafi FM, Cunningham RT (1987) Host plants of fruit flies (Diptera: Tephritidae) of economic importance in Guatemala. Florida Entomologist 70, 116-123."
+Host,ANSTOB,Anastrepha obliqua,
+Host,ANSTOB,Anastrepha obliqua (as Anacardium),
+Host,BCTRCB,Bactrocera carambolae,"* Liquido NJ, McQuate GT, Nakamichi KA, Kurashima RS, Birnbaum AL, Hanlin MA (2016) Provisional list of suitable host plants of carambola fruit fly, Bactrocera (Bactrocera) carambolae Drew & Hancock (Diptera: Tephritidae), Version 1.1. Available online at USDA Compendium of Fruit Fly Host Information (CoFFHI).
+
+* Malavasi A, Midgarden D, De Meyer M (2013) Bactrocera species that pose a threat to Florida: B. carambolae and B. invadens. In: Pena J (ed.) Potential invasive pests of agricultural crops. CABI, Wallingford (GB), 214-227.
+
+* van Sauers-Muller A (2005) Host plants of the carambola fruit fly, Bactrocera carambolae Drew & Hancock (Diptera: Tephritidae) in Suriname, South America. Neotropical Entomology 34, 203-214.
+
+"
+Host,BCTRCO,Bactrocera correcta,"* He Y, Xu Y, Chen X (2023) Biology, ecology and management of Tephritid fruit flies in China: A review. Insects 14, 196. https://doi.org/10.3390/insects14020196"
+Host,DACUCR,Bactrocera curvipennis,"* Leblanc L (2022) The dacine fruit flies (Diptera: Tephritidae: Dacini) of Oceania. Insecta Mundi 0948, 1-167. https://journals.flvc.org/mundi/article/view/131965/135549"
+Host,DACUDO,Bactrocera dorsalis,"* Allwood AJ, Chinajariyawong A, Kritsaneepaiboon S, Drew RAI, Hamacek EL, Hancock DL, Hengsawad C, Jinapin JC, Jirasurat M, Krong CK, Leong CTS, Vijaysegaran S (1999) Host plant records for fruit flies (Diptera: Tephritidae) in Southeast Asia. The Raffles Bulletin of Zoology 47(7), 1-92.
+
+* Leblanc L (2022) The dacine fruit flies (Diptera: Tephritidae: Dacini) of Oceania. Insecta Mundi 0948, 1-167. https://journals.flvc.org/mundi/article/view/131965/135549"
+Host,BCTRKA,Bactrocera kandiensis,"* Tsuruta K, White IM, Bandara HMJ, Rajapakse H, Sundaraperuma SAH, Kahawatta SBMUC, Rajapakse GBJP (1997) A preliminary notes on the host-plants of fruit flies of the tribe Dacini (Diptera, Tephritidae) in Sri Lanka. Esakia 37, 149-160."
+Host,BCTRPA,Bactrocera passiflorae,"* Leblanc L (2022) The dacine fruit flies (Diptera: Tephritidae: Dacini) of Oceania. Insecta Mundi 0948, 1-167. https://journals.flvc.org/mundi/article/view/131965/135549."
+Host,CERTCA,Ceratitis capitata,"* De Meyer M., Copeland RS, Lux SA, Mansell M, Quilici S, Wharton R, White IM, Zenz NJ (2002) Annotated check list of host plants for Afrotropical fruit flies (Diptera: Tephritidae) of the genus Ceratitis. Zoologische Documentatie Koninklijk Museum voor Midden Afrika 27, 1-91."
+Host,CERTCO,Ceratitis cosyra,"* Badii KB, Billah MK, Afreh-Nuamah K, Obeng-Ofori D (2015) Species composition and host range of fruit-infesting flies (Diptera: Tephritidae) in northern Ghana. International Journal of Tropical Insect Science 35(3), 137-151."
+Host,CERTQU,Ceratitis quinaria,"* De Meyer M, Copeland RS, Lux SA, Mansell M, Quilici S, Wharton R, White IM, Zenz NJ (2002) Annotated check list of host plants for Afrotropical fruit flies (Diptera: Tephritidae) of the genus Ceratitis. Documentation Zoologique du Musée Royal de l'Afrique Centrale 27, 1-91.
+
+* Manrakhan A, Grout TG, Grove T, Daneel JH, Stephen PR, Weldon CW, De Meyer M, Carstens E, Hattingh V (2020) A survey of Ceratitis quinaria (Bezzi)(Diptera: Tephritidae) in citrus production areas in South Africa. African Entomology 28(1), 35-43."
+Host,VINSST,Ceroplastes stellifer,
+Host,PLTPPA,Euplatypus parallelus,"* Beaver RA (2013) The invasive neotropical ambrosia beetle Euplatypus parallelus (Fabricius, 1801) in the Oriental region and its pest status (Coleoptera: Curculionidae, Platypodinae). Entomologist’s Monthly Magazine 149, 143-154.
+
+* Maruthadurai R, Desai AR, Singh NP (2014) First record of ambrosia beetle (Euplatypus parallelus) infestation on cashew from Goa, India. Phytoparasitica 42, 57-59."
+Host,HELOBE,Helopeltis bergrothi,
+Host,HELOBR,Helopeltis bradyi,
+Host,HELOTH,Helopeltis theivora,
+Host,OLIGCO,Oligonychus coffeae,"* Vidya M, Rajanna K M, Reddy M N N, Babu V (2015) Insect pest complex of cashew and influence of biotic and abiotic factors on the incidence of cashew pests in maidan parts of Karnataka. Acta Horticulturae 1080, 409-414."
+Host,OLIGPU,Oligonychus punicae,"* Bano K, Chandra BKN (1973) Note on the record of two new host plants of Oligonychus mangiferus Rahman & Sapra (Acarina: Tetranychidae). Indian Journal of Agricultural Sciences (1973, pub. 1974) 43(10), 966."
+Host,PHENSO,Phenacoccus solenopsis,
+Host,PROETR,Prostephanus truncatus,"* Muatinte BL, Van den Berg J (2022) Modeling the influence of abiotic and biotic factors on spatial and temporal fluctuations of Prostephanus truncatus (Coleoptera: Bostrichidae) populations in Mozambique. Environmental Entomology 51(1), 118-131."
+Host,PSDTDE,Pseudotheraptus devastans,
+Host,PSDTWA,Pseudotheraptus wayi,
+Host,SCITDO,Scirtothrips dorsalis,"* Ananthakrishnan TN (1985) Host relationship and damage potential of thrips infesting cashew. Acta Horticulturae, (108), 131–134
+
+* Dias-Pini NS, Lima MGA, Lima EFB, Maciel GPS, Duarte PM (2018) Scirtothrips dorsalis (Thysanoptera: Thripidae): a newly introduced polyphagous pest in northeastern Brazil. Neotropical Entomology 47, 725–728.
+
+* Kumar V,  Seal DR, Kakkar G, McKenzie CL,  Osborne LS (2012) New tropical fruit hosts of Scirtothrips dorsalis (Thysanoptera: Thripidae) and its relative abundance on them in South Florida. Florida Entomologist, 95(1):205-207.
+------- confirmed host (larvae and adults)"
+Host,TETREV,Tetranychus evansi,"* Tuttle DM, Baker EW, Sales FM (1977) Spider mites (Tetranychidae: Acarina) of the state of Ceara, Brazil. International Journal of Acarology, 3: 1-8."
+Host,ZAPRIN,Zaprionus indianus,
+Host,DACUCU,Zeugodacus cucurbitae,"* De Meyer M, Delatte H, Mwatawala M, Quilici S, Vayssières JF, Virgilio M (2015) A review of the current knowledge on Zeugodacus cucurbitae (Coquillett) (Diptera, Tephritidae) in Africa, with a list of species included in Zeugodacus. ZooKeys 540, 539-557. https://doi.org/10.3897/zookeys.540.9672"
+Major host,DACUTR,Bactrocera tryoni,"* Hancock D, Hamacek EL, Lloyd AC, Elson-Harris MM (2000) The distribution and host plants of fruit flies (Diptera: Tephritidae) in Australia. Queensland Department of Primary Industries, 75 pp.
+
+* Leblanc L, Vueti ET, Drew AI, Allwood AJ (2012) Host plant records for fruit flies (Diptera: Tephritidae: Dacini) in the Pacific islands. Proceedings of the Hawaiian Society 44, 11-53."
+Major host,HELOAN,Helopeltis antonii,"* Vidya M, Rajanna K M, Reddy M N N, Babu V (2015) Insect pest complex of cashew and influence of biotic and abiotic factors on the incidence of cashew pests in maidan parts of Karnataka. Acta Horticulturae 1080, 409-414."
+Major host,HELOSC,Helopeltis schoutedeni,"* Agboton C, Onzo A, Ouessou FI, Goergen G, Vidal S, Tamò M (2014) Insect fauna associated with Anacardium occidentale (Sapindales: Anacardiaceae) in Benin, West Africa. Journal of Insect Science 14(1), 229. https://doi.org/10.1093/jisesa/ieu091"
+Major host,SLENRU,Selenothrips rubrocinctus,"* Agboton C, Onzo A, Ouessou F I, Goergen G, Vidal S, Tamò M (2014) Insect fauna associated with Anacardium occidentale (Sapindales: Anacardiaceae) in Benin, West Africa. Journal of Insect Science 14(1), 229. https://doi.org/10.1093/jisesa/ieu091.
+
+* Igboekwe AD (1985) Injury to young cashew plants, Anacardium occidentale L., by the red-banded thrips Selenothrips rubrocinctus Giard (Thysanoptera: Thripidae). Agriculture, Ecosystems and Environment 13(1), 25-32."

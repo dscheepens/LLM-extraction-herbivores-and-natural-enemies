@@ -1,0 +1,20 @@
+type,EPPOCode,Pref_name,References
+Host,ATALCO,Athalia rosae,
+Host,CYLAFO,Cylas formicarius,
+Host,DITYDE,Ditylenchus destructor,
+Host,FRANOC,Frankliniella occidentalis,
+Host,HETRAR,Heteronychus arator,
+Host,HYROVU,Hyperodes vulgaris,
+Host,LIRIHU,Liriomyza huidobrensis,"* Hidalgo JE, Carballo VM (1991) Influence of weeds on the natural control agents of Liriomyza huidobrensis (Blanchard), (Diptera: Agromyzidae). Manejo Integrado de Plagas 20-21, 49-54.
+
+* Wei J, Zou L, Kuang R, He L (2000) Influence of leaf tissue structure on host feeding selection by pea leafminer Liriomyza huidobrensis (Diptera: Agromyzidae). Zoological Studies 39, 295-300."
+Host,PHAEBR,Phaedon brassicae,
+Host,PHAOZE,Phalonia zephyrana,
+Host,PHLYCA,Phlyctinus callosus,"* Haran JM, Hansen S, Benoit l, Addison P (2020) Description of five new species in the genus Phlyctinus Schoenherr (Coleoptera, Curculionidae): a first step in deciphering the P.callosus complex. European Journal of Taxonomy 669, 1-29. https://doi.org/10.5852/ejt.2020.669
+------- larvae artificially bred on Daucus carota.
+
+* Plant Pest Information Network (2020) https://www.mpi.govt.nz/news-and-resources/resources/registers-and-lists/plant-pest-information-network/
+------- confirmed host."
+Major host,PSILRO,Chamaepsila rosae,
+Major host,MELGFA,Meloidogyne fallax,"* Goossens JJM (1995) Host range test of Meloidogyne n.sp. In: Annual Report 1994 Diagnostic Centre, pp. 95-97. Plant Protection Service, Wageningen (NL)."
+Wild/Weed,MARGVI,Margarodes vitis (as Apiaceae),"* Giliomee J, de Klerk C & Watson GW (2022) 3.3.4 Margarodes spp. In: Encyclopedia of Scale Insect Pests (Eds Kondo T & Watson GW), pp. 69-73. CAB International, Wallingford (UK)."

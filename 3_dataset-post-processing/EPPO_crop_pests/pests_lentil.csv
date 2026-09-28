@@ -1,0 +1,21 @@
+type,EPPOCode,Pref_name,References
+Host,HELIVI,Chloridea virescens,"* Kogan M, Helm CG, Kogan J, Brewer E (1989) Distribution and economic importance of Heliothis virescens and Heliothis zea in North, Central, and South America and of their Natural Enemies and Host Plants. pp 241-297 In Proceedings of the Workshop on Biological Control of Heliothis: Increasing the effectiveness of natural enemies. USDA.
+
+* EPPO (2024) EPPO Technical Document No. 1091. Pest risk analysis for Chloridea virescens. EPPO, Paris. Available at https://gd.eppo.int/taxon/HELIVI/documents
+------- Likely host (reported as host in the literature but lacking evidence to consider it as main host – see PRA for further details on the host)."
+Host,DITYDI,Ditylenchus dipsaci,"* Andaloussi FA, Bachikh J (2001) Studies on the host range of Ditylenchus dipsaci in Morocco. Nematologia Mediterranea 29, 51-57."
+Host,STEHHA,Hypothenemus hampei,"* Marchioro M, Vallotto D, Ruzzier E, Besana L, Rossini M, Ortis G, Faccoli M, Martinez-Sañudo I (2023) Scolytinae former Cryphalini host plant dataset. Avalaible in Zenodo. https://doi.org/10.5281/zenodo.7925274 
+
+* Vega VJ, Marino YA, Deynes D, Greco EB., Bright DE, Bayman P (2020) A beetle in a haystack: are there alternate hosts of the coffee berry borer (Hypothenemus hampei) in Puerto Rico? Agronomy 10(2), 228."
+Host,PRDILO,Prodiplosis longifila,"* Diaz-Silva F (2011) [Agroecological aspects for the integrated management of Prodiplosis longifila Gagné in the irrigation of Chavimochic]. Escuela de Ciencias Biológicas, Universidad de Trujillo, Trujillo, PERU (in Spanish)."
+Host,PRODOR,Spodoptera ornithogalli,"* Brito R, Specht A, Gonçalves GL, Moreira GRP, Carneiro E, Santos FL, Roque-Specht VF, Mielke OHH, Casagrande MM (2019) Spodoptera marima: a new synonym of Spodoptera ornithogalli (Lepidoptera: Noctuidae), with notes on adult morphology, host plant use and genetic variation along its geographic range. Neotropical Entomology 48(3), 433-448.
+
+* Capinera JL (2017) Yellowstriped Armyworm, Spodoptera ornithogalli (Guenée) (Insecta: Lepidoptera: Noctuidae). Department of Entomology and Nematology, University of Florida /IFAS Extension, EENY216, 4 pp. https://edis.ifas.ufl.edu/pdffiles/IN/IN37300.pdf."
+Host,PRODPR,Spodoptera praefica,"* Berry RE (1998) Western yellowstriped armyworm. Spodoptera praefica. Insects and Mites or Economic Importance in the Northwest. Oregon State University Bookstore, p 221 (online modified version). http://uspest.org/potato/wystriparmyworm.pdf
+
+* Halfhill JE (1982) Evaluation of western yellowstriped armyworm (Lepidoptera: Noctuidae) as a pest of lentils. Journal of Economic Entomology 75(4), 733-735.
+
+* Robinson GS, Ackery PR, Kitching IJ, Beccaloni GW & Hernández LM (2010) HOSTS - A database of the World's lepidopteran hostplants. Natural History Museum, London. http://www.nhm.ac.uk/hosts"
+Host,TROGGA,Trogoderma granarium,"* Athanassiou CG, Phillips TW, Wakil W (2019) Biology and Control of the Khapra Beetle, Trogoderma granarium, a Major Quarantine Threat to Global Food Security. Annual Review of Entomology 64, 131-148. Supplemental Table 1.
+
+* Global Invasive Species Database (2025) Species profile: Trogoderma granarium. http://www.iucngisd.org/gisd/species.php?sc=142 (27-02-2025)."

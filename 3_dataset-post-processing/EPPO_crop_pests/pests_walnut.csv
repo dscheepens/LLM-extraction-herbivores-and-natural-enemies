@@ -1,0 +1,133 @@
+type,EPPOCode,Pref_name,References
+Doubtful host,ARGPLE,Thaumatotibia leucotreta,"Listed by Gunn (1921) only, considered unreliable by EPPO (2013).
+
+* EPPO (2013) Pest Risk Analysis for Thaumatotibia leucotreta. EPPO, Paris. Available at https://gd.eppo.int/taxon/ARGPLE/documents.
+* Gunn D (1921)  The False Codling Moth (Argyroploce leucotreta Meyr.). Science Bulletin, Department of Agriculture and Forestry, Union of South Africa 21:1-28."
+Experimental,ANSTLU,Anastrepha ludens,"* Baker AC, Stone WE, Plummer CC, McPhail M (1944) A review of studies on the Mexican fruitfly and related Mexican species. USDA Miscellaneous Publications, 155 pp."
+Host,ANSTFR,Anastrepha fraterculus,"* Korytkowski C, Ojeda-Pena D (1970) Especies del género Anastrepha Schiner 1968 en el nor-oeste Peruano. Revista Peruana de Entomologia (Lima) 11, 32-70."
+Host,ANOLCN,Anoplophora chinensis (as Juglans),"* Lim J, Jung S-Y, Lim J-S, Jang J, Kim K-M, Lee Y-M, Lee B-W (2014) A review of host plants of Cerambycidae (Coleoptera: Chrysomeloidea) with new host records for fourteen Cerambycids, including the Asian longhorn beetle (Anoplophora glabripennis Motschulsky), in Korea. Korean Journal of Applied Entomology 53(2), 111-133.
+
+* Sjöman H, Östberg J & Nilsson J (2014) Review of host trees for the wood-boring pests Anoplophora glabripennis and Anoplophora chinensis: an urban forest perspective. Arboriculture & Urban Forestry 40(3), 143–164."
+Host,APRIGE,Apriona germari,
+Host,APRIGE,Apriona germari (as Juglans),"* Lim J, Jung S-Y, Lim J-S, Jang J, Kim K-M, Lee Y-M, Lee B-W (2014) A review of host plants of Cerambycidae (Coleoptera: Chrysomeloidea) with new host records for fourteen Cerambycids, including the Asian longhorn beetle (Anoplophora glabripennis Motschulsky), in Korea. Korean Journal of Applied Entomology 53(2), 111-133."
+Host,AROMBU,Aromia bungii,"* Hua LZ (2002) List of Chinese Insects. Vol. II. Zhongshan (Sun Yat–sen) University Press, Guangzhou: 612 pp."
+Host,DACUDO,Bactrocera dorsalis,"* Liquido NJ, McQuate GT, Birnbaum AL, Hanlin MA, Nakamichi KA, Inskeep JR, Ching AJF, Marnell SA, Kurashima RS (2019) A review of recorded host plants of oriental fruit fly, Bactrocera (Bactrocera) dorsalis (Hendel) (Diptera: Tephritidae), Version 3.1. Available online at: USDA Compendium of Fruit Fly Host Information (CoFFHI), Edition 4.0."
+Host,DACUTR,Bactrocera tryoni,"* Hancock D, Hamacek EL, Lloyd AC, Elson-Harris MM (2000) The distribution and host plants of fruit flies (Diptera: Tephritidae) in Australia. Queensland Department of Primary Industries, 75 pp."
+Host,BATCHO,Batocera horsfieldi,"* Wei X, Xu D, Liu Q, Wu Y, Zhuo Z (2024) Predicting the potential distribution range of Batocera horsfieldi under CMIP6 climate change using the MaxEnt model. Journal of Economic Entomology 117(1), 187-198."
+Host,BRVPYO,Brevipalpus yothersi,"* Beard JJ, Ochoa R, Braswell WE, Bauchan GR (2015) Brevipalpus phoenicis (Geijskes) species complex (Acari: Tenuipalpidae) – a closer look. Zootaxa 3944(1), 67 pp. DOI: 10.11646/zootaxa.3944.1.1"
+Host,CERTCA,Ceratitis capitata,"* Liquido NJ, Cunnigham RT, Nakagawa S (1990) Host plants of Mediterranean fruit fly on the island of Hawaii (1949-1985 survey). Journal of Economic Entomology 83(5),  1863-1878,"
+Host,CHRBMA,Chrysobothris mali,"* Rijal J & Seybold S (2019) Biology and control of Pacific flatheaded borer in walnuts. Retrieved from https://ucanr.edu/sites/cawalnut/files/319307.pdf, 10pp.
+
+* EPPO (2021) EPPO Technical Document No. 1083. Pest risk analysis for Chrysobothris femorata and C. mali. EPPO, Paris. Available at https://gd.eppo.int/taxon/CHRBMA/documents
+------- confirmed true host of Chrysobothis mali"
+Host,QUADPE,Comstockaspis perniciosa,"* Ben-Dov Y, German V (2003) A systemic catalogue of the Diaspididae (armoured scale insects) of the world, subfamilies Aspidiotinae, Comstockiellinae and Odonaspidinae. Intercept Ltd, Andover UK, 1111 pp."
+Host,CARPPO,Cydia pomonella,"* Wearing CH, Hansen JD, Whyte C, Miller CE, Brown J (2001) The potential for spread of codling moth (Lepidoptera: Tortricidae) via commercial sweet cherry fruit: a critical review and risk assessment. Crop Protection 20(6), 465-488. https://doi.org/10.1016/S0261-2194(01)00023-0"
+Host,DIABUN,Diabrotica undecimpunctata undecimpunctata,"* Clark SM, LeDoux DG, Seeno TN, Riley EG, Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada (Coleoptera: Megalopodidae, Orsodacnidae, Chrysomelidae, excluding Bruchinae). Coleopterists Society, Special Publication 2, 1-476.
+-------- Adult host."
+Host,EURHBR,Eurhizococcus brasiliensis,"* García Morales M, Denno BD, Miller DR, Miller GL, Ben-Dov Y, Hardy NB (2016) ScaleNet: A literature-based model of scale insect biology and systematics. Database. doi 10.1093/database/bav118. http://scalenet.info
+------- citing original references
+
+* Soria SJ, Gallotti BJ (1986) O margarodes da videira Eurhizococcus brasiliensis (Homoptera: Margarodidae): biologia, ecologia e controle no Sul do Brasil. Embrapa, Centro Nacional de Pesquisa de Uva e Vinho, Bento Gonçalves, Brazil. CNPUV Circular Técnica 13. 22 pp."
+Host,EUTEOR,Eutetranychus orientalis,"* Khanjani M, Khanjani M, Seeman OD (2017) New spider mites (Acari: Tetranychidae) of the genera Paraplonobia and Eurytetranychus from Iran, and a description of all life stages of Eutetranychus orientalis (Klein). Acarologia 57(3), 465-491.
+-------  based on finding of females, males and immatures on this species
+
+* Zriki G, Shaabo A, Boubou A (2015) A preliminary survey of the spider mites (Acari: Tetranychidae) in Latakia governorate of Syria. Acarologia 55(3), 303-309."
+Host,EUWAWH,Euwallacea fornicatus sensu stricto,"* Mendel Z, Lynch SC, Eskalen A, Protasov A, Maymon M, Freeman S (2021) What determines host range and reproductive performance of an invasive ambrosia beetle Euwallacea fornicatus; lessons from Israel and California. Frontiers in Forests and Global Change 4, 654702.
+------- Non reproductive host tree in Israel."
+Host,EUWAKU,Euwallacea kuroshio (as Juglans),"* Smith SM, Gomez DF, Beaver RA, Hulcr J, Cognato AI (2019) Reassessment of the species in the Euwallacea fornicatus (Coleoptera: Curculionidae: Scolytinae) complex after the rediscovery of the ‘lost’ type specimen. Insects 10, 261. https://doi.org/10.3390/insects10090261"
+Host,EUZOSE,Euzophera semifuneralis,"* Robinson GS, Ackery PR, Kitching I, Beccaloni GW and Hernandez LM (2023) HOSTS (from HOSTS - a Database of the World’s Lepidopteran Hostplants). Natural History Museum. Available online:  https://data.nhm.ac.uk/dataset/hosts/resource/877f387a-36a3-486c-a0c1-b8d5fb69f85a?q=Euzophera+semifuneralis&view_id=e2a17eb7-1c7c-4d41-9d95-7c697f5d50ab&field=Damage&value="
+Host,GRCPAT,Graphocephala atropunctata,"* Delong D, Severin H (1949) Characters, distribution, and food plants of leafhopper vectors of virus causing Pierce’s disease of grapevines. Hilgardia 19, 171-186.
+
+* Purcell AH (1976) Seasonal changes in host plant preference of the blue-green sharpshooter Hordnia circellata (Homoptera: Cicadellidae). The Pan-Pacific Entomologist 52(1), 33-37."
+Host,LASPFU,Grapholita funebrana (as Juglans),
+Host,HALYHA,Halyomorpha halys,"* Mityushev IM (2021) Host plants of Halyomorpha halys in the urban ecosystem on the Azov Sea Coast of Russia. EPPO Bulletin 51(2), 305-310.
+------- Sporadic on this plant and black dots were observed on fruits."
+Host,HOMLTR,Homalodisca vitripennis,"* Hoddle MS, Triapitsyn SV, Morgan DJW (2003) Distribution and plant association records for Homalodisca coagulata (Hemiptera: Cicadellidae) in Florida. Florida Entomologist 86(1), 89-91."
+Host,HYPHCU,Hyphantria cunea,
+Host,LOPLJA,Lopholeucaspis japonica,"* Batsankalashvili M, Kaydan MB, Kirkitadze G, Japoshvili G (2017) Updated checklist of scale insects (Hemiptera: Coccomorpha) in Sakartvelo (Georgia). Annals of Agrarian Science 15(2), 252-268."
+Host,MALAPA,Malacosoma parallela,"* Kuznetsov VI (1999) 14. Fam. Lasiocampidae - The tent caterpillars. In Insects and Mites - Pests of Agricultural Plants (ed Kuznetsov VI), vol. 3, part 2. Lepidoptera, pp. 185-200. Nauka, Saint Petersburg (RU) (in Russian)"
+Host,PLTPMU,Megaplatypus mutatus,"* Allegro G, Griffo R (2008) I rischi di diffusione di Megaplatypus mutatus. L'informatore Agrario no. 13, 73-76.
+
+* Griffo R, Pesapane G, Funes H, Gonzalez-Audino P, Germinara GS (2012) Diffusione e controllo di platipo in Campania. L'informatore Agrario no. 31, 66-68."
+Host,CNIDFL,Monema flavescens,"* Yang S, Liu H, Zheng H, Yang M, Ren Y, Zhang J (2016) Attraction of Monema flavescens males to synthetic blends of sex pheromones. Bulletin of Insectology 69, 193–198
+
+* EFSA Panel on Plant Health (PLH), Bragard C, Baptista P, Chatzivassiliou E, Di Serio F, Gonthier P, Jaques Miret JA, Justesen AF, Magnusson CS, Milonas P, Navas‐Cortes JA (2024) Pest categorisation of Monema flavescens. EFSA Journal. 22(7), e8831"
+Host,NAUPXA,Naupactus xanthographus,"* Lanteri A, del Río MG (2017) Naupactus xanthographus (Germar) species group (Curculionidae: Entiminae: Naupactini): a comprehensive taxonomic treatment. Journal of Natural History 51, 27-28.
+
+* Ripa R (1992) Burrito de los frutales Naupactus xanthographus (Germar), INIA, La Cruz, Chile.
+------- larvae feed on roots.
+
+* Sinavimo (2019) Naupactus xanthographus Sistema Nacional Argentino de Vigilancia y Monitoreo de plagas. Available at: https://www.sinavimo.gov.ar/plaga/naupactus-xanthographus
+------- causing damage on buds, leaves, roots."
+Host,OEMOHI,Oemona hirta,"* Lu W, Wang Q (2005) Systematics of the New Zealand longicorn beetle genus Oemona Newman with discussion of the taxonomic position of the Australian species, O. simplex White (Coleoptera: Cerambycidae: Cerambycinae). Zootaxa 971, 1-31."
+Host,OLIGPA,Oligonychus perseae,"* Naves P, Nóbrega F, Auger P (2021) Updated and annotated review of Tetranychidae occurring in mainland Portugal, the Azores, and Madeira Archipelagos. Acarologia 61(2), 380-393."
+Host,OLIGPU,Oligonychus punicae,"* Migeon A, Dorkeld F (2024) Spider Mites Web: a comprehensive database for the Tetranychidae.  https://www1.montpellier.inrae.fr/CBGP/spmweb"
+Host,CHEIBR,Operophtera brumata,
+Host,HEMELE,Orgyia leucostigma,"* Heppner JB (2003) Lepidoptera of Florida. Part 1. Introduction and catalog. Volume 17 of Arthropods of Florida and neighboring land areas. Division of Plant Industry. Florida Department of Agriculture and Consumer Services. Gainesville, Florida. 670 pp
+
+* Robinson GS, Ackery PR, Kitching IJ, Beccaloni GW & Hernández LM (2010) HOST - A database of the world's Lepidopteran hostplants. Natural History Museum, London. https://www.nhm.ac.uk (Accessed on 7 December 2020 and 21 March 2021)"
+Host,ORIEIS,Orientus ishidae,"* Lessio F, Picciau L, Gonella E, Mandrioli M, Tota F, Alma A (2016) The mosaic leafhopper Orientus ishidae: host plants, spatial distribution, infectivity, and transmission of 16SrV phytoplasmas to vines. Bulletin of Insectology 69(2), 277-289.
+------- Putative host plant (nymphs and adults were collected)."
+Host,PITOJU,Pityophthorus juglandis,"* Montecchio L, Fanchin G, Simonato M & Faccoli M (2014) First record of thousand cankers disease fungal pathogen Geosmithia morbida and walnut twig beetle Pityophthorus juglandis on Juglans regia in Europe. Plant Disease 98, 1445.
+------- confirmed host
+
+* Steven J Seybold, William E Klingeman, Stacy M Hishinuma, Tom W Coleman, Andrew D Graves (2019) Status and Impact of Walnut Twig Beetle in Urban Forest, Orchard, and Native Forest Ecosystems, Journal of Forestry (117)2, 152–163, https://doi.org/10.1093/jofore/fvy081
+
+"
+Host,PITOJU,Pityophthorus juglandis (as Juglans),"* Steven J Seybold, William E Klingeman, Stacy M Hishinuma, Tom W Coleman, Andrew D Graves (2019) Status and Impact of Walnut Twig Beetle in Urban Forest, Orchard, and Native Forest Ecosystems, Journal of Forestry (117)2, 152–163, https://doi.org/10.1093/jofore/fvy081
+"
+Host,PLAAST,Platynota stultana,"* Hoover GA, Biddinger DJ (2014) Omnivorous leafroller, Platynota stultana (Lepidoptera: Tortricidae). Penn State Extension Pest Alert. https://ento.psu.edu/files/omnivorous-leafroller/view"
+Host,POCZSH,Pochazia shantungensis,"* Kim DE, Lee H, Kim MJ, Lee DH (2015) Predicting the potential habitat, host plants, and geographical distribution of Pochazia shantungensis (Hemiptera: Ricaniidae) in Korea. Korean Journal of Applied Entomology 54, 179–189."
+Host,PSEAPE,Pseudaulacaspis pentagona,"* García Morales M, Denno BD, Miller DR, Miller GL, Ben-Dov Y, Hardy NB (2016) ScaleNet: A literature-based model of scale insect biology and systematics. Database. doi: 10.1093/database/bav118. http://scalenet.info [accessed 2026-02].
+"
+Host,PSEAPE,Pseudaulacaspis pentagona (as Juglans),"* García Morales M, Denno BD, Miller DR, Miller GL, Ben-Dov Y, Hardy NB (2016) ScaleNet: A literature-based model of scale insect biology and systematics. Database. doi: 10.1093/database/bav118. http://scalenet.info [accessed 2026-02].
+
+* Miller DR & Davidson JA (2005) Armored Scale Insect Pests of Trees and Shrubs. Cornell Univ. Press Ithaca, NY 442 pp."
+Host,RHAGCO,Rhagoletis completa,"* Korneyev VA, Mishustin RI, Korneyev SV (2017) The Carpomyini fruit flies (Diptera, Tephritidae) of Europe, Caucasus, and Middle East: New records of pest species, with improved keys. Vestnik zoologii 51(6), 453–470. https://doi.org/10.2478/vzoo-2017-0056
+
+* Yee WL (2008) Host plant use by apple maggot, western cherry fruit fly, and other Rhagoletis species (Diptera: Tephritidae) in central Washington state. The Pan-Pacific Entomologist 84, 163–178. 
+------- Confirmed host."
+Host,RHAGCO,Rhagoletis completa (as Juglans),
+Host,RHAGSU,Rhagoletis suavis,"* Bush GL (1966) The taxonomy, cytology and evolution of the genus Rhagoletis in North America (Diptera: Tephritidae). Bulletin of the Museum of Comparative Zoology 134, 431-526. "
+Host,RHAGSU,Rhagoletis suavis (as Juglans),
+Host,RHAGZO,Rhagoletis zoqui,"* Aparicio-Del Moral YM, Huerta-De la Peña A, Hernández-Ortiz V (2013) Incidencia de adultos de Rhagoletis zoqui Bush, en árboles de ""Nogal de Castilla"" (Juglans regia L.). en Santa Maria Nepopualco, Puebla. VIII Congreso de Entomologia y XDLVIII Congreso Nacional de la SME, 6S. 6 pp."
+Host,LAPHFR,Spodoptera frugiperda,"* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300."
+Host,PRODPR,Spodoptera praefica (as Juglans),* British Columbia Ministry of Agriculture. Western yellowstriped armyworm (Spodoptera praefica). https://rdno.civicweb.net/document/127358/western-yellowstriped-armyworm.pdf?handle=3CD053B4F8D54F9CBB93F8D6D5572C27
+Host,THAUPR,Thaumetopoea processionea (as Juglans),"* Carter DJ (1984) Pest Lepidoptera of Europe with special reference to the British Isles. Springer, 432 pp."
+Host,HESOCA,Trichoferus campestris,"* CAPS (2019) Trichoferus campestris. Cooperative Agricultural Pest Survey pest datasheets. http://download.ceris.purdue.edu/file/3869
+------- Dry wood host.
+
+* Hegyessy G, Kutasi C (2010) Trichoferus species new to Hungary (Coleoptera: Cerambycidae). Folia Entomologica Hungarica 71, 35-41 (abst.)."
+Host,HESOCA,Trichoferus campestris (as Juglans),"* CAPS (2019) Trichoferus campestris. Cooperative Agricultural Pest Survey pest datasheets. http://download.ceris.purdue.edu/file/3869
+------- Living host."
+Host,TROGGA,Trogoderma granarium,"* Athanassiou CG, Phillips TW, Wakil W (2019) Biology and Control of the Khapra Beetle, Trogoderma granarium, a Major Quarantine Threat to Global Food Security. Annual Review of Entomology 64, 131-148. Supplemental Table 1.
+
+* Lindgren D, Vincent L, Krohne H (1955) The khapra beetle, Trogoderma granarium Everts. Hilgardia 24(1), 1-36.
+------- feeding on kernels, citing others"
+Host,XYLBGE,Xylosandrus germanus,"* Stergulc F, Frigimelica G, Zandigiacomo P, Battisti A (1999) Severe forest decline of young walnut plantations in Friuli-Venezia Giulia, NE Italy. Sherwood - Foreste ed Alberi Oggi 5(4), 27-31 (abst.)."
+Host,ZAPRTU,Zaprionus tuberculatus,"* Nugnes F, Carbone C, Miele F, Pica F, Pierro S, Sasso R, Bodini M, Bernardo U (2026) Contrasting invasion strategies, convergent outcomes: establishment of Zaprionus tuberculatus and Ceroplastes ceriferus in Italy. Insect 17(2), 198. https://doi.org/10.3390/insects17020198"
+Major host,DRYOHI,Dryocoetes himalayensis,"* Bhagat RC (2017) Coleopteran-fauna (Insecta) infesting fruit plantations in Jammu & Kashmir state (India): An annotated checklist and biodiversity. International Journal of Current Research in Biosciences and Plant Biology 4(2), 60-66. doi: http://dx.doi.org/10.20546/ijcrbp.2017.402.008 
+------- Confirmed host.
+
+* Foit J, Kašák J, Májek T, Knížek M, Hoch G & Steyder G (2017) First observations on the breeding ecology of invasive Dryocoetes himalayensis Strohmeyer, 1908 (Coleoptera: Curculionidae: Scolytinae) in its introduced range in Europe. Journal of Forest Science 63(6), 290–292.
+------- Confirmed host."
+Major host,ERSHMU,Garella musculana,"* Bostancı C, Yıldırım İ, Yıldız Y, Aydoğan O (2019) New host walnut species Juglans nigra for Garella musculana. Turkish Journal of Agriculture - Food Science and Technology, 7(12), 2133-2136.
+------- Confirmed host.
+
+* Zanolli P, Scaccini D, Pozzebon A (2023) New insights into the distribution and spreading of the Asian walnut moth, Garella musculana (Erschov, 1874) (Lepidoptera, Nolidae) in Europe with a focus on the Italian range. Biodiversity Data Journal 11, e107609. https://doi.org/10.3897/BDJ.11.e107609"
+Major host,PSECOB,Pseudococcus viburni,
+Major host,AELSSA,Trirachys sartus,"* Ahmad MI, Hafiz IA, Chaudhry MI (1977) Biological studies of Aeolesthes sarta Solksy attacking poplars in Pakistan. Pakistan Journal of Forestry 27, 123-129.
+
+* Duffy EAJ (1968) A monograph of the immature stages of Oriental timber beetles (Cerambycidae). Trustees of the British Museum (Natural History), London.
+
+* Farashiani ME, Sadeghi SE, Abaii M (2001) Geographic distribution and hosts of sart longhorn beetle, Aeolesthes sarta Solsky (Col.: Cerambycidae) in Iran. Journal of Entomological Society of Iran 20, 81-96.
+
+* Khan SA, Bhatia S, Tripathi N (2013) Entomological investigation on Aeolesthes sarta (Solsky), a major pest on walnut trees (Juglans regia L.) in Kashmir Valley. Journal of Academia and Industrial Research 2(6), 325-330.
+------- Confirmed host.
+
+* Mir GM, Wani MA (2005) Severity of infestation and damage to walnut plantation by important insect pests in Kashmir. Indian Journal of Plant Protection 33, 188-193. 
+
+* Sengupta CK, Sengupta T (1981) Cerambycidae (Coleoptera) of Arunachal Pradesh. Records of the Zoological Survey of India 78, 133-154.
+
+* Yagdyev A, Tashlieva AO (1976) Beetle pests of walnut and oleaster in Turkmenia. Ekologicheskoe i Khozyaistvennoe Znachenie Nasekomykh Turkmenii, 83-92"
+Major host,XYLONM,Xylotrechus namanganensis,

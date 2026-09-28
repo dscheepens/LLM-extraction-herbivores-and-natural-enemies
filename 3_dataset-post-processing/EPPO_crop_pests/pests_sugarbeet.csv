@@ -1,0 +1,135 @@
+type,EPPOCode,Pref_name,References
+Doubtful host,LEUIOR,Leucinodes orbonalis,"* EFSA Plant Health Panel (2024) Pest risk assessment of Leucinodes orbonalis for the European Union.  EFSA Journal 22(3), e8498. doi 10.2903/j.efsa.2024.8498
+------- ""Records of L. orbonalis on non-Solanaceae host plants appear to be incidental, and the species is unlikely to complete its life cycle on these plants""
+
+INTERNET
+* Robinson GS, Ackery PR, Kitching I, Beccaloni GW, Hernández LM (2023) HOSTS (from HOSTS - a Database of the World's Lepidopteran Hostplants) [Data set resource]. Natural History Museum. https://data.nhm.ac.uk/dataset/hosts/resource/877f387a-36a3-486c-a0c1-b8d5fb69f85a"
+Doubtful host,MELGET,Meloidogyne ethiopica,"Later research showed that the species in Slovenia was not Meloidogyne  ethiopica but Meloidogyne luci.
+* Strajnar P, Širca S, Knapič M & Urek G (2011) Effect of Slovenian climatic conditions on the development and survival of the root-knot nematode Meloidogyne ethiopica. European Journal of Plant Pathology 129, 81-88
+"
+Experimental,HETDGL,Heterodera glycines,"* Riggs RD, Hamblen ML (1966) Further studies on the host range of the soybean-cyst. Bulletin of the Agricultural Experiment Station no. 718. University of Arkansas, Fayetteville (US), 19 pp.
+------- Host range experiments."
+Experimental,GNORAB,Phthorimaea absoluta,"* Wickramasinghe MP, Yen SH (2026) A Review of the Host Plant Records of Phthorimaea absoluta (= Tuta absoluta)(Lepidoptera: Gelechiidae) . Journal of Entomological Science 61(1), 166-192. doi:10.18474/JES25-10
+-------no oviposition observed. "
+Experimental,RHYCPA,Rhynchophorus palmarum,"* Hagley EAC (1965) On the life history and habits of the palm weevil, Rhynchophorus palmarum. Annals of the Entomological Society of America 58(1), 22-28.
+------- Adult feeding.
+
+* Wattanapongsiri A (1966) A revision of the genera Rhynchophorus and Dynamis. Department of Agricultural Science Bulletin, Bangkok, Thailand.
+"
+Host,ATALCO,Athalia rosae,
+Host,BAGRHI,Bagrada hilaris,
+Host,CONORU,Conoderus rufangulus,
+Host,DIABUH,Diabrotica undecimpunctata howardi,"* Clark SM, LeDoux DG, Seeno TN, Riley EG, Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada (Coleoptera: Megalopodidae, Orsodacnidae, Chrysomelidae, excluding Bruchinae). Coleopterists Society, Special Publication 2, 1-476.
+------- Larval host."
+Host,DIABUN,Diabrotica undecimpunctata undecimpunctata,"* Clark SM, LeDoux DG, Seeno TN, Riley EG, Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada (Coleoptera: Megalopodidae, Orsodacnidae, Chrysomelidae, excluding Bruchinae). Coleopterists Society, Special Publication 2, 1-476.
+-------- Larval and adult host."
+Host,DITYDE,Ditylenchus destructor,
+Host,DITYDI,Ditylenchus dipsaci,"* Andaloussi FA, Bachikh J (2001) Studies on the host range of Ditylenchus dipsaci in Morocco. Nematologia Mediterranea 29, 51-57.
+
+* Hooper D.J (1972) Ditylenchus dipsaci. CIH Descriptions of Plant-parasitic Nematodes Set 1, No. 14.
+
+* Storelli A, Kiewnick S, Daub M, Mahlein AK, Schumann M, Beyer W, Keiser A (2021) Virulence and pathogenicity of four Ditylenchus dipsaci populations on sugar beet. European Journal of Plant Pathology 161, 63–71. 
+
+* Goodey JB, Franklin MT, Hooper DJ (1965) T. Goodey's: The Nematode Parasites of Plants Catalogued Under Their Hosts. Commonwealth Agricultural Bureaux, Farnham Royal, Bucks, England. Third edition, 214 pp."
+Host,ELASLI,Elasmopalpus lignosellus,"* Gill HK, Capinera JL, McSorley R (2017) Featured Creatures. Lesser cornstalk borer. Elasmopalpus lignosellus (Zeller) (Insecta: lepidoptera: Pyralidae). University of Florida (US). http://entnemdept.ufl.edu/creatures/field/lesser_cornstalk_borer.htm"
+Host,EPIXTU,Epitrix tuberis,"* Clark SM,  LeDoux DG, Seeno TN,  Riley EG,  Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada.  Special Publications of the Coleopterists Society, 2, 476 pp.
+------- feeding of adults
+
+* Neilson CL, Finlayson DG (1953) Notes on the biology of the tuber flea beetle, Epitrix tuberis Gentner (Coleoptera: Chrysomelidae) in the interior of British Colombia. The Canadian Entomologist 85:31-32.
+------- feeding of adults"
+Host,ERTNFU,Erthesina fullo,"* Mi Q, Zhang J, Gould E, Chen J, Sun Z, Zhang F (2020) Biology, ecology, and management of Erthesina fullo (Hemiptera: Pentatomidae): A review. Insects 11, 346. https://doi.org/10.3390/insects11060346"
+Host,FRANOC,Frankliniella occidentalis,
+Host,HELIAR,Helicoverpa armigera,"* Cunningham JP, Zalucki MP (2014) Understanding heliothine (Lepidoptera: Heliothinae) pests: what is a host plant? Journal of Economic Entomology 107, 881–896."
+Host,LIRIHU,Liriomyza huidobrensis,"* Andersen A, An TTT, Nordhus E (2008) Distribution and importance of polyphagous Liriomyza species (Diptera: Agromyzidae) in vegetables in Vietnam. Norwegian Journal of Entomology 55, 149-164.
+
+* Echevarria A, Gimeno C, Jimenez R (1994) Liriomyza huidobrensis (Blanchard, 1926) (Diptera: Agromyzidae) una nueva plaga en cultivos valencianos. Boletin de Sanidad Vegetal. Plagas 20, 103-109.
+
+* Foba CN, Salifu D, Lagat ZP, Gitonga LM, Akutse KS, Fiaboe KKM (2015) Species composition, distribution and seasonal abundance of Liriomyza leafminers (Diptera: Agromyzidae) under different vegetable production systems and agroecological zones in Kenya. Environmental Entomology 44, 223-232.
+
+* Hidalgo JE, Carballo VM (1991) Influence of weeds on the natural control agents of Liriomyza huidobrensis (Blanchard), (Diptera: Agromyzidae). Manejo Integrado de Plagas 20-21, 49-54.
+
+* Korytkowski C (1982) Contribución al conocimiento de los Agromyzidae (Diptera: Acalyptratae) en el Perú. MS Thesis, Universidad Nacional Agraria, La Molina, Lima, 237 pp.
+
+* Nakamura S, Masuda T, Mochizuki A, Konishi K, Tokumaru S, Ueno K, Yamaguchi T (2013) Primer design for identifying economically important Liriomyza species (Diptera: Agromyzidae) by multiplex PCR. Molecular Ecology Resources 13, 96-102.
+
+* Rauf A, Shepard BM, Johnson MW (2000) Leafminers in vegetables, ornamental plants and weeds in Indonesia: surveys of host crops, species composition and parasitoids. International Journal of Pest Management 46, 257-266.
+------- Confirmed host. Reared from infested leaves collected in the field.
+
+* Scheffer SJ, Wiejesekara A, Visser D, Hallett RH (2001) Polymerase chain reaction-restriction fragment-length polymorphism method to distinguish Liriomyza huidobrensis from L. langei (Diptera: Agromyzidae) applied to three recent leafminer invasions. Journal of Economic Entomology 94, 1177-1182.
+
+* Spencer KA (1973) Agromyzidae (Diptera) of Economic Importance. Series Entomologica 9. Junk, The Hague, The Netherlands, 418 pp.
+
+* Valladares G, Salvo A, Saini E (2011) Moscas minadoras del girasol y sus enemigos naturales. Revista de Investigaciones Agropecuarias 37, 180-188.
+------- As Beta vulgaris vulgaris.
+
+* Weintraub PG, Scheffer SJ, Visser D, Valladares G, Soares Correa A, Shepard BM, Rauf A, Murphy ST, Mujica N, MacVean C, Kroschel J (2017) The invasive Liriomyza huidobrensis (Diptera: Agromyzidae): understanding its pest status and management globally. Journal of Insect Science 17(1), 1-27. https://doi.org/10.1093/jisesa/iew134"
+Host,LIRITR,Liriomyza trifolii,"* Stegmaier CE Jr (1966) Host plants and parasites of Liriomyza trifolii in Florida (Diptera: Agromyzidae). The Florida Entomologist 49(2), 75-80."
+Host,PHENHI,Maconellicoccus hirsutus,"* Chang LWH, Miller CE (1996) Pathway Risk Assessment: Pink mealybug from the Caribbean. Animal and Plant Health Inspection Service, U.S. Dept. of Agriculture 61 pp."
+Host,MELGCH,Meloidogyne chitwoodi,"* Santo GS, O'Bannon JH, Finley AM, Golden AM (1980) Occurrence and host range of a new root-knot nematode (Meloidogyne chitwoodi) in the Pacific northwest. Plant Disease 64, 951-952."
+Host,MELGMY,Meloidogyne enterolobii,"* Rodriguez MG, Sanchez L, Rowe J (2003) Host status of agriculturally important plant families to the root-knot nematode Meloidogyne mayaguensis in Cuba. Nematropica, 33(2), 125-130
+------- greenhouse study"
+Host,MELGGC,Meloidogyne graminicola,"* Rusinque L, Maleita C, Abrantes I, Palomares-Rius JE, Inácio ML (2021) Meloidogyne graminicola - A threat to rice production: review update on distribution, biology, identification, and management. Biology 10, 1163. https://doi.org/10.3390/biology10111163"
+Host,MELGLC,Meloidogyne luci,"* Sen F, Aydinli (2021) Host status of cultivated crops to Meloidogyne luci. European Journal of Plant Pathology 161(3), 607-618.
+------- In experiments, cv. Ansa was found to be an excellent host.
+"
+Host,MELGNA,Meloidogyne naasi,
+Host,GRAGLE,Naupactus leucoloma,"* Lanteri AA, Marvaldi AE, Suárez SM (2002) Gorgojos de la Argentina y sus plantas huéspedes. Tomo I: Apionidae y Curculionidae. Publicación Especial de la Sociedad Entomológica Argentina 1, 98 pp."
+Host,NAUPXA,Naupactus xanthographus,"* EPPO (2020) Pest risk analysis for Naupactus xanthographus. EPPO, Paris. Available at https://gd.eppo.int/taxon/NAUPXA/documents
+------- adult feeding.
+
+* INIA (2008) Manejo de plagas en paltos y cítricos, No 23. ed Renato Ripa and Pilar Larral
+
+* Ripa R, F Rodríguez (1999) Plagas de citricos, sus enemigos naturales Y Manejo, INIA, Santiago, Chile. 
+
+
+"
+Host,PNSTLE,Pentastiridius leporinus,"* Pfitzer R, Varrelmann M, Schrameyer K, Rostás M (2022) Life history traits and a method for continuous mass rearing of the planthopper Pentastiridius leporinus, a vector of the causal agent of syndrome ‘basses richesses’ in sugar beet. Pest Management Science. 78(11), 4700-4708."
+Host,PHAEBR,Phaedon brassicae,
+Host,PHENSO,Phenacoccus solenopsis,"* Rasha SA, Aida HM, Konper HM, Eman MA (2025) Efficacy of some chemicals and bioinsecticides against cotton mealybug Phenacoccus solenopsis (Hemiptera: Pseudococcidae) as a new recorded pest of sugar beet in Egypt. Egyptian Journal of Plant Protection Research Institute, 8(1), 50–57. https://doi.org/10.4314/ejppri.v8i1.7"
+Host,PHTOOP,Phthorimaea operculella,"* Rondon SI, Gao Y (2018) The journey of the potato tuberworm around the world. In Perveen K (ed) Moths: Pests of potato, maize and sugar beet. IntechOpen, 17-52. http://dx.doi.org/10.5772/intechopen.81934
+------- Beta vulgaris var.  saccharifera."
+Host,PHYECR,Phyllotreta cruciferae,
+Host,PLAAST,Platynota stultana,"* Hoover GA, Biddinger DJ (2014) Omnivorous leafroller, Platynota stultana (Lepidoptera: Tortricidae). Penn State Extension Pest Alert. https://ento.psu.edu/files/omnivorous-leafroller/view
+
+* Nelson RH (1936) Observations on the life history of Platynota stultana Wlsm. on greenhouse rose. Journal of Economic Entomology 29, 306–312."
+Host,PRODER,Spodoptera eridania,"* Montezano DG, Specht A, Sosa-Gomez DR, Roque-Specht VF & de Barros NM (2014) Immature stages of Spodoptera eridania (Lepidoptera: Noctuidae): developmental parameters and host plants. Journal of Insect Science 14, 238. https://doi.org/10.1093/jisesa/ieu122"
+Host,LAPHFR,Spodoptera frugiperda,"* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300.
+------ As Beta vulgaris subsp. vulgaris."
+Host,SPODLI,Spodoptera littoralis,"* Dimetry NZ (1972) Further studies on the host plant preference of Spodoptera littoralis Boisd. (Lepid., Noctuidae). Zeitschrift fur Angewandte Entomologie 71(4), 350-355 (abst.).
+
+* El-Fergani YA (2019) Field evaluation of selected oxadiazine insecticide and bacterial bio-insecticides against cotton leafworm, Spodoptera littoralis (Boisduval) (Lepidoptera: Noctuidae) infesting sugar beet (Beta vulgaris L). Egyptian Journal of Agricultural Research 97(1), 137-145.
+
+* Mohamed HA, Alkordy MW, Atta AA (2019) Effect of host plants on biology of Spodoptera littoralis (Boisd.). Egyptian Academic Journal of Biological Sciences 12(6), 65-73. 
+
+* Zaki FN, Abdel-Raheem MA (2010) Use of entomopathogenic fungi and insecticide against some insect pests attacking peanuts and sugarbeet in Egypt. Archives of Phytopathology and Plant Protection 43(18), 1819-1828."
+Host,PRODOR,Spodoptera ornithogalli,"* Brito R, Specht A, Gonçalves GL, Moreira GRP, Carneiro E, Santos FL, Roque-Specht VF, Mielke OHH, Casagrande MM (2019) Spodoptera marima: a new synonym of Spodoptera ornithogalli (Lepidoptera: Noctuidae), with notes on adult morphology, host plant use and genetic variation along its geographic range. Neotropical Entomology 48(3), 433-448.
+
+* Capinera JL (2017) Yellowstriped Armyworm, Spodoptera ornithogalli (Guenée) (Insecta: Lepidoptera: Noctuidae). Department of Entomology and Nematology, University of Florida /IFAS Extension, EENY216, 4p. https://edis.ifas.ufl.edu/pdffiles/IN/IN37300.pdf
+
+* Comstock JA (1965) Ciclo biologico de Prodenia ornithogalli Guenée (Lepidoptera: Noctuidae). Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoologia 36, 199-202.
+
+* Crumb SE (1929) Tobacco cutworms. USDA Technical Bulletin 88, p 179.
+
+* Heppner JB (2007) Lepidoptera of Florida. Part 1. Introduction and catalog. Gainesville, Florida Department of Agriculture & Consumer Services, p 670.
+
+* Robinson GS, Ackery PR, Kitching IJ, Beccaloni GW, Hernández LM (2010) HOSTS - A Database of the World's Lepidopteran Hostplants. Natural History Museum, London. http://www.nhm.ac.uk/hosts
+
+* Tietz HM (1972) An index to the described life histories, early stages and hosts of the Macrolepidoptera of the continental United States and Canada, 536 pp."
+Host,PRODPR,Spodoptera praefica,"* Berry RE (1998) Western yellowstriped armyworm. Spodoptera praefica. Insects and Mites or Economic Importance in the Northwest. Oregon State University Bookstore, p 221 (online modified version). http://uspest.org/potato/wystriparmyworm.pdf
+
+* British Columbia Ministry of Agriculture. Western yellowstriped armyworm (Spodoptera praefica). https://rdno.civicweb.net/document/127358/western-yellowstriped-armyworm.pdf?handle=3CD053B4F8D54F9CBB93F8D6D5572C27
+
+* Robinson GS, Ackery PR, Kitching IJ, Beccaloni GW & Hernández LM (2010) HOSTS - A database of the World's lepidopteran hostplants. Natural History Museum, London. http://www.nhm.ac.uk/hosts"
+Host,TETREV,Tetranychus evansi,"* Aucejo S, Foo M, Gimeno E, Gomez-Cadenas A, Monfort R, Obiol F, Prades E, Ramis M, Ripolles JL, Tirado V, Zaragoza L, Jacas JA, Martinez-Ferrer MT (2003) Management of Tetranychus urticae in citrus in Spain: acarofauna associated to weeds. Bulletin OILB/SROP, 26: 213-220."
+Host,THRIAN,Thrips angusticeps,
+Host,TRIHVI,Trichodorus viruliferus,
+Major host,AGROSE,Agrotis segetum,
+Major host,CLEOPU,Asproparthenis punctiventris,
+Major host,PYTOGA,Autographa gamma,
+Major host,CIRCTE,Circulifer tenellus,
+Major host,HETDSC,Heterodera schachtii,"* Huan PE, Hui LI, Li GA, Jiang R, Li GK, Gao HF, Wei WU, Jun WA, Zhang Y, Huang WK, Kong LA (2022) Identification of Heterodera schachtii on sugar beet in Xinjiang Uygur Autonomous Region of China. Journal of Integrative Agriculture 21(6), 1694-702. https://doi.org/10.1016/S2095-3119(21)63797-8"
+Major host,LIMOCF,Limonius californicus,"* Rashed A, Rogers CW, Rashidi M, Marshall JM (2017) Sugar beet wireworm Limonius californicus damage to wheat and barley: evaluations of plant damage with respect to soil media, seeding depth, and diatomaceous earth application. Arthropod-Plant Interactions 11(2), 147-154."
+Major host,LIXUJU,Lixus juncii,"* Germann C & Breitenmoser S (2020) Lixus juncii Boheman, 1835 – confirmation de sa présence en Suisse (Coleoptera: Curculionidae). Entomo Helvetica 13: 155–158."
+Major host,MELGFA,Meloidogyne fallax,"* Yu MH (2001) Registration of M6-1 root-knot nematode resistant sugarbeet germplasm. Crop Science 41, 278-279."
+Major host,NACOBA,Nacobbus aberrans sensu lato,"* Manzanilla-López RH, Costilla MA, Doucet M, Inserra RN, Lehman PS, Cid del Prado-Vera I, Souza RM, Evans K (2002) The genus Nacobbus Thorne & Allen, 1944 (Nematoda: Pratylenchidae): systematics, distribution, biology and management. Nematropica 32, 149-226."
+Major host,PHTOOC,Scrobipalpa ocellatella,"* Ulatowska AK, Górski D, Bereś PK (2025) Beet moth (Scrobipalpa ocellatella [Boyd]): a review of bionomics, distribution, harmfulness, and control strategies. Journal of Plant Protection Research 65(4), 465–481. doi:10.24425/jppr.2025.156884."

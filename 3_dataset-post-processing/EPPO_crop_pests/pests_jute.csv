@@ -1,0 +1,10 @@
+type,EPPOCode,Pref_name,References
+Host,BEMITA,Bemisia tabaci (as Malvaceae),
+Host,DYSDCI,Dysdercus cingulatus,
+Host,DYSDPE,Dysdercus peruvianus (as Malvaceae),
+Host,EARIBI,Earias biplaga (as Malvaceae),
+Host,OXYAHY,Oxycarenus hyalinipennis (as Malvaceae),
+Host,PECTGO,Pectinophora gossypiella (as Malvaceae),
+Host,PLAYSC,Pectinophora scutigera (as Malvaceae),
+Wild/Weed,DYSDCI,Dysdercus cingulatus (as Malvaceae),"* Encarnacion DT (1970) Biology of the cotton stainer, Dysdercus cingulatus Fabricius (Pyrrhocoridae, Hemiptera). Philippine Entomologist, 1(5), 341-349"
+Wild/Weed,SACAPY,Sacadodes pyralis (as Malvaceae),

@@ -1,0 +1,34 @@
+type,EPPOCode,Pref_name,References
+Experimental,MELGFL,Meloidogyne floridensis,"* Khanal C, Sagar GC, Harshman D (2024) Host suitability of summer cover crops and peach rootstocks to the peach root-knot nematode, Meloidogyne floridensis. Plant Disease 108(3), 582-586.
+-------poor host in pot experiments."
+Host,EMPOBI,Amrasca biguttula,"* Saeed R, Razaq M, Hardy IC (2015) The importance of alternative host plants as reservoirs of the cotton leaf hopper, Amrasca devastans, and its natural enemies. Journal of Pest Science 88, 517–531.
+------- true host."
+Host,HELIVI,Chloridea virescens,"* Hallman GJ (1980) Huéspedes y enemigos naturales de Heliothis spp., en la región algodonera del Departamento del Tolima, Colombia. Turrialba 30(3), 272-279.
+
+* Kogan M, Helm CG, Kogan J, Brewer E (1989) Distribution and economic importance of Heliothis virescens and Heliothis zea in North, Central, and South America and of their Natural Enemies and Host Plants. pp 241-297 In Proceedings of the Workshop on Biological Control of Heliothis: Increasing the effectiveness of natural enemies. USDA.
+
+* EPPO (2024) EPPO Technical Document No. 1091. Pest risk analysis for Chloridea virescens. EPPO, Paris. Available at https://gd.eppo.int/taxon/HELIVI/documents
+------- Main host (evidence that the plant supports populations of the pest in several generations or years, i.e. true hosts, or plant mentioned as common or preferred host – see PRA for further details on the host."
+Host,HELIAR,Helicoverpa armigera,"* Cunningham JP, Zalucki MP (2014) Understanding heliothine (Lepidoptera: Heliothinae) pests: what is a host plant? Journal of Economic Entomology 107, 881–896."
+Host,HISHPH,Hishimonus phycitis,"* Bella S, Aguin-Pombo D, Aguiar AM, Kunz G, Miralles-Nunez A, Foster S, Sanchez-Garcia I, Wilson MR, D’Urso VE (2022) Discovery of Hishimonus diffractus Dai, Fletcher & Zhang, 2013 (Hemiptera: Auchenorrhyncha: Cicadellidae) in Europe, with remarks on previously recorded species of the genus. Zootaxa 5159(4), 558-570.
+------- Oviposition and nymphal development.
+
+* Bindra OS, Singh B (1968) Biology and bionomics of Hishimonus phycitis (Distant), a jassid vector of ’little-leaf’ disease of brinjal (Solanum melongena). Indian Journal of Agricultural Sciences 39, 912–919.
+------- Oviposition and nymphal development.
+
+* Un Nabi S, Dubey DK, Rao GP, Baranwal VK, Sharma P (2015) Molecular characterization of ‘Candidatus Phytoplasma asteris’ subgroup I-B associated with sesame phyllody disease and identification of its natural vector and weed reservoir in India. Australasian Plant Pathology 44 (3), 289e297.
+------- Oviposition and nymphal development."
+Host,LAGRVL,Lagria villosa,"* Martinez LN and Ruiz MA (2005) Potenciales plagas e insectos benefices encontrados en el cultivo del sesamo (Sesamum indicum L.) en el Distrito de Pedro Juan Caballero. Investigacion Agraria 7(2), 26-30. "
+Host,NEOAHA,Neoaliturus haematoceps,
+Host,PHENSO,Phenacoccus solenopsis,"* Gebregergis Z (2018) Incidence of a new pest, the cotton mealybug Phenacoccus solenopsis Tinsley, on sesame in North Ethiopia. International Journal of Zoology 3531495, 7 pp. https://doi.org/10.1155/2018/3531495"
+Host,PRATCO,Pratylenchus coffeae,"* Yu Li, YanHui Xia, YanKun Liu, PengHui Hao, BingJian Sun, HongLian Li, and Ke Wang (2020) Discovery of Root-Lesion Nematode, Pratylenchus coffeae, Infesting Sesame in China. Plant Disease 104:6, 1873"
+Host,LAPHFR,Spodoptera frugiperda,"* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300."
+Host,PRODOR,Spodoptera ornithogalli,"* Brito R, Specht A, Gonçalves GL, Moreira GRP, Carneiro E, Santos FL, Roque-Specht VF, Mielke OHH, Casagrande MM (2019) Spodoptera marima: a new synonym of Spodoptera ornithogalli (Lepidoptera: Noctuidae), with notes on adult morphology, host plant use and genetic variation along its geographic range. Neotropical Entomology 48(3), 433-448.
+
+* Coto D, Saunders JL, Vargas-S CL, King ABS (1995) Plagas invertebradas de cultivos tropicales con énfasis em América Central-Um invetário. Turrialba, CATIE, 200 pp.
+
+* Poveda BD, Schwitzer DA (1964) Estudio biológico del Prodenia ornithogalli Guen. y del Prodenia sunia (Guen.) en três hospedeiros. Acta Agronômica 14(1), 71-101."
+Host,THRIPL,Thrips palmi,"* Ananthakrishnan TN (1955) Notes on Thrips palmi Karny attacking Sesamum indicum. Journal of the Bombay Natural History Society 52, 951-953.
+
+ * Deepayan Padhy, Lipsa Dash, Ramalaxmi V, Ajit Kumar Sahu, Jagadesh N, Tejaswi JNS, Suma B, Ramya K, Kekhashree P, Devi Y, Priyadharshini CHRKR, Vasavi M, Hasan R, Vamsi Krishna S (2020) Insect fauna associated with sesamum (Sesamum indicum L.) in Gajapati district of Odisha. Journal of Pharmacognosy and Phytochemistry  9(3), 569-570."
+Host,THRISE,Thrips setosus,

@@ -1,0 +1,64 @@
+type,EPPOCode,Pref_name,References
+Experimental,AGRLPL,Agrilus planipennis,"* Cipollini D, Rigsby CM & Peterson DL (2017) Feeding and development of emerald ash borer (Coleoptera: Buprestidae) on cultivated olive, Olea europaea. Journal of Economic Entomology 110, 1935–1937.
+
+* Peterson DL, Cipollini D (2020) Larval performance of a major pest on novel hosts and the effect of stressors. Environmental Entomology 49(2), 482-488."
+Host,ANSTFR,Anastrepha fraterculus,"* Nasca AJ, Zamora JA, Vergara LE, Jaldo HE (1996) Hospederos de moscas de los frutos en el Valle de Antinaco-Los Colorados, Provincia de La Rioja, República Argentina. Revista de Investigación 10, 19–24."
+Host,ANOLCN,Anoplophora chinensis,"* Sjöman H, Östberg J & Nilsson J (2014) Review of host trees for the wood-boring pests Anoplophora glabripennis and Anoplophora chinensis: an urban forest perspective. Arboriculture & Urban Forestry 40(3), 143–164."
+Host,ANOLCN,Anoplophora chinensis (as Olea),"* Sjöman H, Östberg J & Nilsson J (2014) Review of host trees for the wood-boring pests Anoplophora glabripennis and Anoplophora chinensis: an urban forest perspective. Arboriculture & Urban Forestry 40(3), 143–164."
+Host,AONDCI,Aonidiella citrina,
+Host,DACUTR,Bactrocera tryoni,"* Hancock D, Hamacek EL, Lloyd AC, Elson-Harris MM (2000) The distribution and host plants of fruit flies (Diptera: Tephritidae) in Australia. Queensland Department of Primary Industries, 75 pp."
+Host,TETTFE,Bothrogonia ferruginea,"* Huh EY, Kwon YJ (1994) Systematic and Biogeographic Studies on the Subfamily Cicadellinae from Korea (Homoptera: Cicadellidae). Insecta Koreana 11, 99-159."
+Host,TORTPR,Cacoecimorpha pronubana,"* Kaçar G, Ulusoy MR (2008) A new pest of olive trees: Carnation tortrix, Cacoecimorpha pronubana (Hubner), 1796-1799 (Lepidoptera: Tortricidae) in the Eastern Mediterranean Region of Turkey. Turkiye Entomoloji Dergisi 32(3), 211-223.
+
+* Ragusa S (1967) Osservazioni sulla Cacoecia pronubana Hb. (verme del garfano) in Sicilia (Lepidoptera, Tortricidae). Bollettino dell'Istituto di Entomologia Agraria e dell'Osservatorio de Fitopatologia di Palermo 7, 41-62. "
+Host,CERTCA,Ceratitis capitata,"* Liquido NJ, McQuate GT, Hanlin MA, Suiter KA (2020) Host plants of the Mediterranean fruit fly, Ceratitis capitata (Wiedemann), Version 4.0. Available online at: USDA Compendium of Fruit Fly Host Information (CoFFHI), https://coffhi.cphst.org/"
+Host,QUADPE,Comstockaspis perniciosa,"* Ben-Dov Y, German V (2003) A systemic catalogue of the Diaspididae (armoured scale insects) of the world, subfamilies Aspidiotinae, Comstockiellinae and Odonaspidinae. Intercept Ltd, Andover UK, 1111 pp."
+Host,EOTELE,Eotetranychus lewisi,"* Pritchard AE, Baker EW (1955) A revision of the spider mite family Tetranychidae.  Memoirs Series, San Francisco, Pacific Coast Entomological Society, 2: 472 p."
+Host,EUTEOR,Eutetranychus orientalis,"* Beyzavi G, Ueckermann EA, Faraji F, Ostovan H (2013) A catalog of Iranian prostigmatic mites of superfamilies Raphignathoidea & Tetranychoidea (Acari). Persian Journal of Acarology 2(3), 389-474. "
+Host,XYLBFO,Euwallacea fornicatus sensu lato,"* Eskalen A, Stouthamer R, Lynch SC, Rugman-Jones PF, Twizeyimana M, Gonzalez A, Thibault T (2013) Host range of Fusarium dieback and its ambrosia beetle (Coleoptera: Scolytinae) vector in southern California. Plant Disease 97(7), 938-951.
+
+* Government of Western Australia. Department of Primary Industries and Regional Development. Polyphagous shot-hole borer (PSHB). Australian Host List (version 24.0 - 2024-09-30). https://www.agric.wa.gov.au/sites/gateway/files/PSHB-WA-Host-List_2.pdf
+-------Non-reproductive host in Western Australia.
+
+* van Rooyen E, Paap T, de Beer W, Townsend G, Fell S, Nel WJ, Morgan S, Hill M, Gonzalez A, Roets F (2021) The polyphagous shot hole borer beetle: Current status of a perfect invader in South Africa. South African Journal of Science 117(11/12). https://doi.org/10.17159/sajs.2021/9736
+------- As Euwallacea fornicatus sensu stricto. Non-reproductive host in South Africa."
+Host,EUWAWH,Euwallacea fornicatus sensu stricto,"* Government of Western Australia. Department of Primary Industries and Regional Development. Polyphagous shot-hole borer (PSHB). Australian Host List (version 24.0 - 2024-09-30). https://www.agric.wa.gov.au/sites/gateway/files/PSHB-WA-Host-List_2.pdf
+-------Non-reproductive host in Western Australia.
+
+* Mendel Z, Lynch SC, Eskalen A, Protasov A, Maymon M, Freeman S (2021) What determines host range and reproductive performance of an invasive ambrosia beetle Euwallacea fornicatus; lessons from Israel and California. Frontiers in Forests and Global Change 4, 654702.
+------- Non reproductive host tree in both California (US) and Israel.
+
+* van Rooyen E, Paap T, de Beer W, Townsend G, Fell S, Nel WJ, Morgan S, Hill M, Gonzalez A, Roets F (2021) The polyphagous shot hole borer beetle: Current status of a perfect invader in South Africa. South African Journal of Science 117(11/12). https://doi.org/10.17159/sajs.2021/9736
+------- Non-reproductive host."
+Host,EUZOSE,Euzophera semifuneralis,"* Biddinger DJ, Howitt AJ (1992) The food plants and distribution of the American plum borer (Lepidoptera: Pyralidae). The Great Lakes Entomologist 25(3), 149-158. https://scholar.valpo.edu/tgle/vol25/iss3/2"
+Host,HALYHA,Halyomorpha halys,"* Damos P, Soulopoulou P, Thomidis T (2020) First record and current status of the brown marmorated sting bug Halyomorpha halys damaging peaches and olives in northern Greece. Journal of Plant Protection Research, 323-326.
+
+* Zapponi L, Morten M, Chiesa SG, Angeli G, Borri G, Mazzoni V, Sofia M,  Anfora G (2022) Brown marmorated stink bug (Halyomorpha halys) feeding damage determines early drop in olive crops. Journal of Applied Entomology 146, 791–795. https://doi.org/10.1111/jen.13018"
+Host,HOMLTR,Homalodisca vitripennis,"* Gillett-Kaufman JL, Allan SA, Bosques-Mendez JH, Buss LJ (2017) Pests and fungal organisms identified on olives (Olea europaea) in Florida. University of Florida. IFAS Extension. ENY-871, 6 pp. https://edis.ifas.ufl.edu/pdffiles/IN/IN104600.pdf"
+Host,NAUPXA,Naupactus xanthographus,"* Quiroz C, Larrain P (2003) Capitulo 9. Plagas Manual del cultive del olivo. Boletin INIA, No. 101. Chile.
+
+* Saini DE (2007) Insectos y ácaros perjudiciales a los frutales de carozo y olivo y sus enemigos naturales. - Página/s: 28. -ISBN/ISSN: ISSN 1514-7967.
+"
+Host,OMOPLE,Omophlus lepturoides,
+Host,POCZSH,Pochazia shantungensis,"* Çetin G, Göksel PH, Ak K, Hızal E (2025) Determining host preferences, population density, and geographical distribution of Pochazia shantungensis (Chu & Lu, 1977)(Hemiptera: Ricaniidae) in the Eastern Marmara Region. Plant Protection Bulletin 65(4), 57-68.
+
+* Choi KS, Goh SW, oh H, Kim H, KIM S, Ahn JJ (2023) Olive Pests in Jeju, Korea. Korean Journal of applied entomology 62(2), 103-107.  https://doi.org/10.5656/KSAE.2023.05.0.016
+
+* Kobayashi S, Suzuki M, Kuwahara R, Park J, Yamada K, Jung S (2024) Reevaluation of taxonomic identity of the recently introduced invasive planthopper, Pochazia shantungensis (Chou & Lu, 1977)(Hemiptera: Fulgoroidea: Ricaniidae) in Japan. Zootaxa 5446(2), 151-178.
+
+* Stroiński A, Balderi M, Marraccini D, Mazza G (2022) First records of Pochazia shantungensis (Chou & Lu, 1977) (Hemiptera: Fulgoromorpha: Ricaniidae) in Italy. Zootaxa 5188 (3), 275–282, https://doi.org/10.11646/zootaxa.5188.3.4"
+Host,PRAYOL,Prays oleae,
+Host,PSEAPE,Pseudaulacaspis pentagona,"* Choi KS, Goh SW, oh H, Kim H, KIM S, Ahn JJ (2023) Olive Pests in Jeju, Korea. Korean Journal of applied entomology 62(2), 103-107.  https://doi.org/10.5656/KSAE.2023.05.0.016"
+Host,RICASC,Ricania speculum,
+Host,HELYBU,Rotylenchus buxophilus,
+Host,SCITAU,Scirtothrips aurantii,* NPPO of the Netherlands (2025-12)
+Host,ARGPLE,Thaumatotibia leucotreta,"* Mgocheki N, Addison P (2016) Investigating the validity of the species status of the false codling moth in South African deciduous fruit orchards using mating studies and mtDNA. Bulletin of Entomological Research, 106(5), 598–605. doi:10.1017/s0007485316000304"
+Host,THEBPI,Theba pisana,
+Host,TYLESE,Tylenchulus semipenetrans,"* Ibrahim IK, Abu-Habib AH, Kantor M, Handoo ZA (2022) Pathogenicity and control of the citrus nematode Tylenchulus semipenetrans on citrus, grape, olive, loquat, and persimmon species and cultivars. Nematropica 52(2), 79-84."
+Host,XIPHCA,Xiphinema californicum,"* Lamberti F & Bleve-Zacheo T (1979) Studies on Xiphinema americanum sensu lato with descriptions of fifteen new species (Nematoda, Longidoridae). Nematologia Mediterranea 7, 51-106."
+Host,XYLSCO,Xylosandrus compactus,"* Dole SA, Cognato AI (2010) Phylogenetic revision of Xylosandrus Reitter (Coleoptera: Curculionidae: Scolytinae: Xyleborina). Proceedings of the California Academy of Sciences 61(7), 451-545."
+Host,XYLBCR,Xylosandrus crassiusculus,"* Souza Covre L, Melo AA, Flechtmann CAH (2021) Flight activity and spread of Xylosandrus crassiusculus (Motschulsky) (Coleoptera: Curculionidae) in Brazil. Trees, Forests and People (4), 100076.
+------- Caught in traps located in O. europaea plantations."
+Host,ZAPRIN,Zaprionus indianus,"* Parchami-Araghi M, Gilasian E, Keyhanian AA (2015) Olive infestation with Zaprionus indianus Gupta (Dip.: Drosophilidae) in northern Iran: a new record and threat to world olive production. Drosophila Information Service no. 98, 60-61"
+Major host,DACUOL,Bactrocera oleae,"* El Harym Y, Belqat B (2017) First checklist of the fruit flies of Morocco, including new records (Diptera, Tephritidae). ZooKeys 702, 137-171. https://doi.org/10.3897/zookeys.702.13368
+------- Confirmed host."

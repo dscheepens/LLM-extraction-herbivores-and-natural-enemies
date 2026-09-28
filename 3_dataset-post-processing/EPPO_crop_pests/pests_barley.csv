@@ -1,0 +1,44 @@
+type,EPPOCode,Pref_name,References
+Host,CONTTR,Contarinia tritici,
+Host,DIABLO,Diabrotica barberi,"* Branson TF, Ortman EE (1967) Host range of larvae of the northern corn rootworm (Coleoptera: Chrysomelidae). Journal of the Kansas Entomological Society 40(3), 412-414.
+------- Completed its immature stages."
+Host,DIABUH,Diabrotica undecimpunctata howardi,"* Clark SM, LeDoux DG, Seeno TN, Riley EG, Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada (Coleoptera: Megalopodidae, Orsodacnidae, Chrysomelidae, excluding Bruchinae). Coleopterists Society, Special Publication 2, 1-476.
+------- Larval host."
+Host,DITYDI,Ditylenchus dipsaci,"* Goodey JB, Franklin MT, Hooper DJ (1965) T. Goodey's: The Nematode Parasites of Plants Catalogued Under Their Hosts. Commonwealth Agricultural Bureaux, Farnham Royal, Bucks, England. Third edition, 214 pp."
+Host,BRAYNO,Diuraphis noxia,
+Host,ELASLI,Elasmopalpus lignosellus,* Sandhu HS (2010) Biology and cultural control of lesser cornstalk borer on sugarcane. PhD thesis. University of Florida. https://ufdcimages.uflib.ufl.edu/UF/E0/04/14/72/00001/sandhu_h.pdf
+Host,HETDZE,Heterodera zeae,
+Host,LIRIHU,Liriomyza huidobrensis,"* He CX, Wu WW, Wang SF, Wang LZ (2001) Host plants and feeding preferences of Liriomyza huidobrensis. Acta Entomologica Sinica 44, 384-388."
+Host,HYROBO,Listronotus bonariensis,"* Barker GM (1989) Grass host preferences of Listronotus bonariensis (Coleoptera: Curculionidae). Journal of Economic Entomology 82, 1807-1816. doi: https://doi.org/10.1093/jee/82.6.1807. 
+------- Confirmed host.
+
+* Morrone JJ (2011) Annotated checklist of the tribe Listroderini (Coleoptera: Curculionidae: Cyclominae). Zootaxa 3119, 1-68."
+Host,MAYEDE,Mayetiola destructor,
+Host,MELNCO,Melanotus communis,
+Host,MELGCH,Meloidogyne chitwoodi,"* Santo GS, O'Bannon JH, Finley AM, Golden AM (1980) Occurrence and host range of a new root-knot nematode (Meloidogyne chitwoodi) in the Pacific northwest. Plant Disease 64, 951-952."
+Host,MELGGC,Meloidogyne graminicola,"* Bellé C, Balardin RR, Dalla Nora D, Schmitt J, Gabriel M, Ramos RF, Antoniolli ZI (2019) First report of Meloidogyne graminicola (Nematoda: Meloidogynidae) on barley (Hordeum vulgare) in Brazil. Plant Disease 103(5), p 1045.
+------- In Santa Maria county, Rio Grande do Sul, Brazil. Confirmed host.
+
+* Rusinque L, Maleita C, Abrantes I, Palomares-Rius JE, Inácio ML (2021) Meloidogyne graminicola - A threat to rice production: review update on distribution, biology, identification, and management. Biology 10, 1163. https://doi.org/10.3390/biology10111163"
+Host,MELGLC,Meloidogyne luci,"* Sen F, Aydinli (2021) Host status of cultivated crops to Meloidogyne luci. European Journal of Plant Pathology 161(3), 607-618.
+------- In experiments, cv. Aydan Hanim was found to be a good host.
+
+* Strajnar P, Širca S, Geric Stare B & Urek G (2009) Characterization of the root-knot nematode, Meloidogyne ethiopica Whitehead, 1968, from Slovenia. Russian Journal of Nematology 17, 135-142."
+Host,NYSIHU,Nysius huttoni,
+Host,PORPTR,Porphyrophora tritici,"* Miller RH, Harris HC, Jones MJ (1994) Crop rotation effects on populations of Porphyrophora tritici (Bodenheimer) (Homoptera: Margarodidae) in barley in northern Syria. Arab Journal of Plant Protection 12, 75-79.
+
+* Miller RH, Jones MJ (1997) Fluctuation in a population of ground pearls, Porphyrophora tritici (Bodenheimer) (Homoptera: Margarodidae), in barley in northern Syria. Rachis 16(1/2), 84-85."
+Host,SITDMO,Sitodiplosis mosellana,"* Shrestha G, Reddy GV (2023) Wheat midge (Sitodiplosis mosellana): management in the Northern Great Plains of the United States and Canada. Buleigh Dodds Science Publishing."
+Host,LAPHFR,Spodoptera frugiperda,"* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300."
+Host,PRODOR,Spodoptera ornithogalli,"* Anonymous (1970) Cooperative Economic Insect Report 20(51), 831.
+
+* Brito R, Specht A, Gonçalves GL, Moreira GRP, Carneiro E, Santos FL, Roque-Specht VF, Mielke OHH, Casagrande MM (2019) Spodoptera marima: a new synonym of Spodoptera ornithogalli (Lepidoptera: Noctuidae), with notes on adult morphology, host plant use and genetic variation along its geographic range. Neotropical Entomology 48(3), 433-448."
+Host,TRIHVI,Trichodorus viruliferus,
+Major host,HYLECO,Delia coarctata,
+Major host,HETDHO,Heterodera hordecalis,
+Major host,LIMOCF,Limonius californicus,"* Rashed A, Rogers CW, Rashidi M, Marshall JM (2017) Sugar beet wireworm Limonius californicus damage to wheat and barley: evaluations of plant damage with respect to soil media, seeding depth, and diatomaceous earth application. Arthropod-Plant Interactions 11(2), 147-154."
+Major host,MELGFA,Meloidogyne fallax,"* den Nijs LJMF, Brinkman H  & van der Sommen ATC (2004) A Dutch contribution to knowledge on phytosanitary risk and host status of various crops for Meloidogyne chitwoodi Golden et al., 1980 and M. fallax Karssen, 1996: an overview. Nematology 6, 303-312. "
+Major host,MELGNA,Meloidogyne naasi,
+Major host,TROGGA,Trogoderma granarium,"* Lindgren D, Vincent L, Krohne H (1955) The khapra beetle, Trogoderma granarium Everts. Hilgardia 24(1), 1-36.
+
+* Global Invasive Species Database (2025) Species profile: Trogoderma granarium. http://www.iucngisd.org/gisd/species.php?sc=142 (27-02-2025)."

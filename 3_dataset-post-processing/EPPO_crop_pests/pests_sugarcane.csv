@@ -1,0 +1,108 @@
+type,EPPOCode,Pref_name,References
+Doubtful host,TETRME,Tetranychus mexicanus,"* EPPO (2023) Pest risk analysis for Tetranychus mexicanus. EPPO, Paris
+------- uncertain host (see PRA for details)
+
+* Migeon A & Dorkeld F (2022) Spider Mites Web. A comprehensive database for the Tetranychidae. http://www1.montpellier.inra.fr/CBGP/spmweb"
+Experimental,HIRSOR,Hirschmanniella oryzae,"* Babatola JO (1979) Varietal reaction of rice and other food crops to the rice-root nematodes, Hirschmanniella oryzae, H. imamuri and H. spinicaudata. Nematropica 9, 123-128.
+------- Experiments.
+
+* Sharma SB (2001) Plant parasitic nematodes in rice-wheat based cropping systems in South Asia. Journal of Crop Production 4, 227-247. 
+------- It is not specified whether the nematode was found in the roots or in the soil.
+
+* Siddiqi MR (1973) Hirschmanniella oryzae. C.I.H. Descriptions of plant-parasitic nematodes 2. CIP, St. Albans, UK."
+Experimental,RADOSI,Radopholus similis,"* O'Bannon JH (1977) Worldwide dissemination of Radopholus similis and its importance in crop production. Journal of nematology.9(1), 16-25"
+Host,ADORSI,Adoretus sinicus,
+Host,TOMAPO,Aeneolamia contigua,
+Host,AMBPCO,Amblypelta cocophaga,
+Host,PHRGTR,Bathytricha truncata,
+Host,TETTFE,Bothrogonia ferruginea,"* Ishihara T (1962) The Black-tipped Leafhopper, Bothrogonia ferruginea AUCT., of Japan and Formosa. Japanese Journal of Applied Entomology and Zoology 6, 289-292."
+Host,BRAPSU,Brachyplatys subaeneus,"* Añino YJ, Zumba-Zhongor M, Naranjo-Morán JA, Rodríguez R, Santos-Murgas A, Zachrisson B (2020) Primer reporte de Brachyplatys subaeneus (Westwood) (Heteroptera: Plataspidae) en Ecuador y el listado sinóptico de sus plantas hospedantes. IDESIA (Chile) 38(1), 113-118."
+Host,CHILAG,Chilo agamemnon,
+Host,PROSIN,Chilo sacchariphagus indicus,
+Host,CICDMB,Cicadulina mbila,
+Host,COLAHY,Colaspis hypochlora,
+Host,DIABUH,Diabrotica undecimpunctata howardi,"* Clark SM, LeDoux DG, Seeno TN, Riley EG, Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada (Coleoptera: Megalopodidae, Orsodacnidae, Chrysomelidae, excluding Bruchinae). Coleopterists Society, Special Publication 2, 1-476.
+------- Larval host."
+Host,DPREAB,Diaprepes abbreviatus,"* EFSA PLH Panel (EFSA Panel on Plant Health) (2023) Pest categorisation of Diaprepes abbreviatus. EFSA Journal 21(11), 1–42. https://doi.org/10.2903/j.efsa.2023.83
+-------host plant supporting the whole life cycle. "
+Host,DIATSA,Diatraea saccharalis (as Saccharum),"* Carbognin ÉR, Ferreira CP, Fernandes OA (2026) Population dynamics and infestation intensity of Diatraea saccharalis (Fabricius)(Lepidoptera: Crambidae) in sugarcane (Saccharum spp.): adult monitoring as a decision-support tool in pest management. Crop Protection. 201, 107482."
+Host,DITYDI,Ditylenchus dipsaci,"* Goodey JB, Franklin MT, Hooper DJ (1965) T. Goodey's: The Nematode Parasites of Plants Catalogued Under Their Hosts. Commonwealth Agricultural Bureaux, Farnham Royal, Bucks, England. Third edition, 214 pp."
+Host,EARIIN,Earias insulana,
+Host,ELASLI,Elasmopalpus lignosellus,"* Gill HK, Capinera JL, McSorley R (2017) Featured Creatures. Lesser cornstalk borer. Elasmopalpus lignosellus (Zeller) (Insecta: lepidoptera: Pyralidae). University of Florida (US). http://entnemdept.ufl.edu/creatures/field/lesser_cornstalk_borer.htm
+
+* Sandhu HS, Nuessly GS, Cherry RH, Gilbert RA, Webb SE (2011) Effects of Elasmopalpus lignosellus (Lepidoptera: Pyralidae) damage on sugarcane yield. Journal of Economic Entomology 104(2), 474-483.
+
+* Sandhu HS, Nuessly GS, Webb SE, Cherry RH, Gilbert RA (2013) Temperature-dependent reproductive and life table parameters of Elasmopalpus lignosellus (Lepidoptera: Pyralidae) on sugarcane. Florida Entomologist 96(2), 380-389."
+Host,ELDASA,Eldana saccharina,
+Host,EORELO,Eoreuma loftini (as Saccharum),
+Host,ERTNFU,Erthesina fullo,"* Mi Q, Zhang J, Gould E, Chen J, Sun Z, Zhang F (2020) Biology, ecology, and management of Erthesina fullo (Hemiptera: Pentatomidae): A review. Insects 11, 346. https://doi.org/10.3390/insects11060346"
+Host,EURHBR,Eurhizococcus brasiliensis,"* Foldi I (2005) Ground pearls: a generic revision of the Margarodidae sensu stricto (Hemiptera: Sternorrhyncha: Coccoidea), Annales de la Société Entomologique de France 41(1), 81-125.
+
+* Soria SJ, Gallotti BJ (1986) O margarodes da videira Eurhizococcus brasiliensis (Homoptera: Margarodidae): biologia, ecologia e controle no Sul do Brasil. Embrapa, Centro Nacional de Pesquisa de Uva e Vinho, Bento Gonçalves, Brazil. CNPUV Circular Técnica 13. 22 pp."
+Host,MYNDCR,Haplaxius crudus,"* Howard FW (1990) Evaluation of grasses for cultural control of Myndus crudus, a vector of lethal yellowing of palms. Entomologia Experimentalis et Applicata 56(2), 131-137.
+------- Nymph host."
+Host,HELIZE,Helicoverpa zea,"* Matthews M (1991) Classification of the Heliothinae. Bulletin of the Natural Resources Institute No. 44. Natural Resources Institute, Chatham, UK."
+Host,HISHPH,Hishimonus phycitis,"* Rao GP, Tiwari AK, Kumar S, Baranwal VK (2014) Identification of sugarcane grassy shoot-associated phytoplasma and one of its putative vectors in India. Phytoparasitica 42, 349-354.
+------- Feeding host."
+Host,MAGOCA,Macugonalia cavifrons,"* Marucci RC, Cavichioli RR, Zucchi RA (2002) Espécies de cigarrinhas (Hemiptera, Cicadellidae, Cicadellinae) em pomares de citros da região de Bebedouro, SP, com descricão de uma espécie nova de Acrogonia Stål. Revista Brasileira de Entomologia 46, 149-164.
+------- as sugarcane"
+Host,MEGTUS,Megalurothrips usitatus,"* Reyes CP (1994) Thysanoptera (Hexapoda) of the Philippine Islands. Raffles Bulletin of Zoology 42(2), 107-507."
+Host,MELGET,Meloidogyne ethiopica,"* Bellé C, Kulczynski SM, Kuhn PR, Carneiro RM, Lima-Medina I, Gomes CB (2017) First report of Meloidogyne ethiopica parasitizing sugarcane in Brazil. Plant Disease 101(4), 635. https://doi.org/10.1094/PDIS-09-16-1303-PDN
+------- the article mentions sugarcane as Saccharum spp.  Saccharum officinarum is the species usually called sugarcane."
+Host,MELGEX,Meloidogyne exigua,
+Host,MELGGC,Meloidogyne graminicola,"* Rusinque L, Maleita C, Abrantes I, Palomares-Rius JE, Inácio ML (2021) Meloidogyne graminicola - A threat to rice production: review update on distribution, biology, identification, and management. Biology 10, 1163. https://doi.org/10.3390/biology10111163"
+Host,PSEDSE,Mythimna separata,
+Host,NEOMBE,Neomaskellia bergii,
+Host,NILALU,Nilaparvata lugens,"* Iamba K, Dono D (2021) A review on brown planthopper (Nilaparvata lugens Stål), a major pest of rice in Asia and Pacific. Asian Journal of Research in Crop Science, 6 (4), 7-19. https://doi.org/10.9734/ajrcs/2021/v6i430122"
+Host,OPOGSC,Opogona sacchari,"* Oldham JN (1928) Hieroxestis subcervinella, Wlk., an enemy of the banana in the Canary Islands. Bulletin of Entomological Research, 19(2), 147-166. "
+Host,PARYMI,Paraleyrodes minei,"* Yin J, Wang C, Li Y, Luo Z, Li J, Zhang R, Wang X, Shan H (2024) First report of the nesting whitefly, Paraleyrodes minei Iaccarino (Homoptera: Aleyrodidae), a new sugarcane pest in Yunnan, China. Phytoparasitica 52(5), 82."
+Host,PLANKE,Planococcus kenyae,
+Host,POOPCO,Poophilus costalis,"* Shih HT, Tsay HC, Yang JT (2005) Notes on the geographic distribution and host plants for Poophilus costalis (Walker, 1851) (Hemiptera: Cercopoidea: Aphrophoridae). Plant Protection Bulletin 47, 171–178."
+Host,PSCAMI,Pseudacanthotermes militaris,
+Host,RHYCFE,Rhynchophorus ferrugineus,"* Jaya S, Suresh T, Sobhitha Rani RS, Sreekumar S (2000) Evidence of seven larval instars in Rhynchophorus ferrugineus reared on sugarcane. Journal of Entomological Research 24, 27-31."
+Host,RICASC,Ricania speculum,
+Host,ROOEX,Rottboellia cochinchinensis,
+Host,HELYBU,Rotylenchus buxophilus,
+Host,SCIPAU,Scirpophaga nivella,
+Host,SESACA,Sesamia calamistis,
+Host,SESACR,Sesamia cretica,
+Host,SESAIN,Sesamia inferens,
+Host,SPODMA,Spodoptera mauritia,
+Host,THRIOR,Stenchaetothrips biformis,"* Sallam N, Braithwaite K, Tree D (2013) Oriental rice thrips, Stenchaetothrips biformis (Bagnall), recorded attacking sugarcane for the first time in Australia. In: Proceedings of the 35th Conference of the Australian Society of Sugar Cane Technologists held at Townsville, Queensland, Australia, 16-18 April 2013 [Proceedings of the 35th Conference of the Australian Society of Sugar Cane Technologists held at Townsville, Queensland, Australia, 16-18 April 2013.], [ed. by Bruce R C]. Mackay, Australia: Australian Society of Sugar Cane Technologists. Ag 04."
+Host,STRLU,Striga asiatica,
+Host,TYLRCL,Tylenchorhynchus claytoni,
+Host,XYLBCR,Xylosandrus crassiusculus,"* Wood SL, Bright DE (1992) A catalogue of Scolytidae and Platypodidae (Coleoptera). Great Basin Naturalist Memoirs no. 13. Part 2: Taxonomic Index, volume A, p 791."
+Major host,CHIOTE,Aulacaspis tegalensis,
+Major host,BLAAGR,Blastobasis graminea,
+Major host,BUSSFU,Busseola fusca,
+Major host,DIATAU,Chilo auricilius,
+Major host,DIATIN,Chilo infuscatellus,
+Major host,CHILZO,Chilo partellus,"* Way MJ, Kfir R (1997) The stem borer Chilo partellus (Swinhoe) (Lepidoptera: Pyralidae) in sugarcane in southern Africa. African Entomology 5(1), 170-172"
+Major host,PROSSA,Chilo sacchariphagus,
+Major host,DIATSA,Diatraea saccharalis,"* Carbognin ÉR, Ferreira CP, Fernandes OA (2026) Population dynamics and infestation intensity of Diatraea saccharalis (Fabricius)(Lepidoptera: Crambidae) in sugarcane (Saccharum spp.): adult monitoring as a decision-support tool in pest management. Crop Protection. 201, 107482."
+Major host,EORELO,Eoreuma loftini,"* Showler AT, Wilson BE, Reagan TE (2012) Mexican rice borer, Eoreuma loftini (Lepidoptera: Crambidae) injury to corn greater than to sorghum and sugarcane under field conditions. Journal of Economic Entomology 105(5), 1597-1602."
+Major host,EUMGLA,Eumargarodes laingi,"* Allsopp PG, McGill NG, Stringer JK (2000) Host-plant resistance in sugarcane to pink ground pearls, Eumargarodes laingi Jakubski (Hemiptera: Margarodidae): Confirmation and further screening of clones. Australian Journal of Entomology 39, 316-321."
+Major host,ANMLOR,Exomala orientalis,
+Major host,MELNCO,Melanotus communis,"* Karounos M, Cherry R, Odero D, Sandhu H, Beuzelin J (2019) Host plant preference of Melanotus communis (Coleoptera: Elateridae) among weeds and sugar cane varieties found in Florida sugar cane fields. Florida Entomologist 102(2), 403-407."
+Major host,METAHE,Metamasius hemipterus,"* Ávila CJ, Caparróz G, Santos V, Silva IF (2023) Soil insects associated with sugarcane crop in Mato Grosso do Sul, Brazil. Ciência Rural 53, e20220333. https://doi.org/10.1590/0103-8478cr20220333
+
+* Leiva-Espinoza ST, Román A, Aguilar V, Requejo E, Meza-Maicelo W, Banda-Martinez D, Huaman-Pilco ÁF, Loyola F, Loja M, Oliva-Cruz M, Maicelo-Quintana J (2025) Identification of Metamasius hemipterus (Coleoptera: Dryophthoridae) and its biological control through the use of species of the genus Beauveria and Metarhizium. Amazonas, Peru. Frontiers in Agronomy 7, 1695515."
+Major host,PERKSA,Perkinsiella saccharicida,
+Major host,PHYGSM,Phyllophaga smithi,
+Major host,PYRLPE,Pyrilla perpusilla,
+Major host,SPPHOB,Rhabdoscelus obscurus,
+Major host,RHYCPA,Rhynchophorus palmarum,"* Arango G, Rizo D (1977) [Some considerations on the behaviour of Rhynchophorus palmarum and Metamasius hemipterus on sugarcane.] Revista Colombiana de Entomologia 3, 23-28 (in Spanish).
+
+* Giblin-Davis RM, Gerber K, Griffith R (1989) Laboratory rearing of Rhynchophorus cruentatus and R. palmarum (Coleoptera: Curculionidae). Florida Entomologist 72(3), 480-488.
+------- Artificial diet made with pineapple and sugarcane to rear R. palmarum in the laboratory.
+
+* Lepesme P (1947) Les insectes des palmiers. Paul Lechevalier editeur, Paris, 903 pp.
+
+* Restrepo L, Rivera F, Raigosa J (1982) Life cycle, habit and morphometry of Metamasius hemipterus and Rhynchophorus palmarum on sugarcane. Acta Agronómica 32, 33-44 (in Spanish).
+
+* Wattanapongsiri, A. (1966) A revision of the Genera Rhynchophorus and Dynamis. Department of Agricultural Science Bulletin, Bangkok, Thailand."
+Major host,LAPHFR,Spodoptera frugiperda,"* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300."
+Major host,TAPARU,Tapajosa rubromarginata,"* Paradell SL, Virla EG, Logarzo GA, Dellapé G (2012) Proconiini Sharpshooters of Argentina, with notes on its distribution, host plants, and natural enemies. Journal of Insect Science 12, 116. http://www.insectscience.org/12.116
+
+* Remes Lenicov AMM, Virla E, Manca M (1998) Difusión de Tapajosa rubromarginata (Homoptera: Cicadellidae) sobre cultivos cerealeros de la Argentina. Revista de la Sociedad Entomológica Argentina 57(1-4), 18."
+Major host,CASTLI,Telchin licus,"* Sakuno CI, Francischini FJ, Komada KM, Basso M, Huang F (2024) Transgenic sugarcane expressing Bacillus thuringiensis Cry1Ac protein offers new possibilities for controlling the giant borer, Telchin licus (Drury), a pest difficult to control. Crop Protection 175, 106469."

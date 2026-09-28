@@ -1,0 +1,109 @@
+type,EPPOCode,Pref_name,References
+Experimental,RHYCPA,Rhynchophorus palmarum (as Musa),"* Wattanapongsiri, A. (1966) A revision of the Genera Rhynchophorus and Dynamis. Department of Agricultural Science Bulletin, Bangkok, Thailand."
+Host,ALECWO,Aleurocanthus woglumi,"* Dubey AK, Ko CC (2012) Sexual dimorphism among species of Aleurocanthus Quaintance & Baker (Hemiptera: Aleyrodidae) in Taiwan, with one new species and an identification key. Zootaxa 3177, 1–23."
+Host,ALEDDE,Aleurodicus destructor,
+Host,ALEDDI,Aleurodicus dispersus,"* Boopathi T (2022) New host plants, natural enemy complex and newly distributed potential areas of exotic spiralling whitefly (Hemiptera: Aleyrodidae) in India. Phytoparasitica 50(2), 335-357."
+Host,ALEDDU,Aleurodicus dugesii (as Musa),
+Host,AMBPLU,Amblypelta lutescens,
+Host,AMBPLU,Amblypelta lutescens (as Musa),
+Host,AONDCI,Aonidiella citrina,
+Host,DACUDO,Bactrocera dorsalis,"* Allwood AJ, Chinajariyawong A, Kritsaneepaiboon S, Drew RAI, Hamacek EL, Hancock DL, Hengsawad C, Jinapin JC, Jirasurat M, Krong CK, Leong CTS, Vijaysegaran S (1999) Host plant records for fruit flies (Diptera: Tephritidae) in Southeast Asia. The Raffles Bulletin of Zoology 47(7), 1-92.
+
+* Leblanc L (2022) The dacine fruit flies (Diptera: Tephritidae: Dacini) of Oceania. Insecta Mundi 0948, 1-167. https://journals.flvc.org/mundi/article/view/131965/135549"
+Host,DACUTR,Bactrocera tryoni,"* Hancock D, Hamacek EL, Lloyd AC, Elson-Harris MM (2000) The distribution and host plants of fruit flies (Diptera: Tephritidae) in Australia. Queensland Department of Primary Industries, 75 pp.
+
+* Leblanc L, Vueti ET, Drew AI, Allwood AJ (2012) Host plant records for fruit flies (Diptera: Tephritidae: Dacini) in the Pacific islands. Proceedings of the Hawaiian Society 44, 11-53."
+Host,BEASTY,Beastie the Bug (as Musa),
+Host,BRVPAZ,Brevipalpus azores (as Musa),
+Host,BRVPYO,Brevipalpus yothersi (as Musa),"* Beard JJ, Ochoa R, Braswell WE, Bauchan GR (2015) Brevipalpus phoenicis (Geijskes) species complex (Acari: Tenuipalpidae) – a closer look. Zootaxa 3944(1), 67 pp. DOI: 10.11646/zootaxa.3944.1.1"
+Host,CERTAN,Ceratitis anonae,"* Nanga Nanga S, Hanna R, Fotso Kuate A, Fiaboe KK, Nchoutnji I, Ndjab M, Gnanvossou D, Mohamed SA, Ekesi S, Djieto-Lordon C (2022) Tephritid fruit fly species composition, seasonality, and fruit infestations in two central African agro-ecological zones. Insects 13(11), 1045. https://doi.org/10.3390/insects13111045"
+Host,CERTCA,Ceratitis capitata,"* Liquido NJ, Cunnigham RT, Nakagawa S (1990) Host plants of Mediterranean fruit fly on the island of Hawaii (1949-1985 survey). Journal of Economic Entomology 83(5),  1863-1878,"
+Host,VINSST,Ceroplastes stellifer (as Musa),
+Host,SCITSI,Chaetanaphothrips signipennis (as Musa),"* Mille CG, Cazères S , Jourdan H, Mound LA (2025) Biosecurity in a biodiversity hotspot: an updated checklist of the Thysanoptera fauna of New Caledonia. Advances in Entomology 13(1), 1-47. https://doi.org/10.4236/ae.2025.131001"
+Host,CHRYFI,Chrysomphalus aonidum,
+Host,CHRYFI,Chrysomphalus aonidum (as Musa),
+Host,COLAHY,Colaspis hypochlora,
+Host,COLAHY,Colaspis hypochlora (as Musa),
+Host,COTMAY,Corythauma ayyari (as Musa),
+Host,EUTEOR,Eutetranychus orientalis,"* Lo PKC (1968) Tetranychoid mites infesting fruit plants in Taiwan. Bulletin Sun Yat-sen Cultural Foundation 2, 97-137.
+------- as Musa sapientum
+
+* Nassar OA, Ghai S (1981) Taxonomic studies on tetranychoid mites infesting vegetable and fruit crops in Delhi and surrounding areas. Oriental Insects 15(4), 333-396."
+Host,FRANOC,Frankliniella occidentalis (as Musa),"* Njue NI, Toroitich FJ, Kimenju JW (2025) Diversity and abundance of thrips species on bananas from different ecological zones in Embu County, Kenya. Journal of Entomological & Acarological Research 57(1), 12575. doi:10.4081/jear.2025.12575"
+Host,HERCBI,Hercinothrips bicinctus (as Musa),
+Host,LACPCA,Lachnopus campechianus (as Musa),
+Host,LAGRVL,Lagria villosa,"* Spilman TJ (1978) Lagria villosa in Brazil, with new descriptions and illustrations of the larva and pupa (Coleoptera, Lagriidae). Ciencia e cultura, Sao Paulo 30(3), 342–347
+"
+Host,ACHAFU,Lissachatina fulica (as Musa),"* Thiengo SC, Faraco FA, Salgado NC, Cowie RH, Fernandez MA (2007) Rapid spread of an invasive snail in South America: the giant African snail, Achatina fulica, in Brasil. Biological Invasions 9, 693-702."
+Host,PHENHI,Maconellicoccus hirsutus,"* Arias de López M, Kondo T, Molina-Moreira N (2025) A new threat to Ecuadorian flora: first report of the pink hibiscus mealybug, Maconellicoccus hirsutus (Green, 1908)(Hemiptera: Pseudococcidae) and its potential biological control agent. Revista Brasileira de Entomologia 69, e20250007. https://doi.org/10.1590/1806-9665-RBENT-2025-0007 "
+Host,MELGEX,Meloidogyne exigua (as Musa),
+Host,METAHE,Metamasius hemipterus,
+Host,METAHE,Metamasius hemipterus (as Musa),"* Fancelli M, Borges AL, Ritzinger CHSP, Silva D dos S, Ringenberg R (2012) [Metamasius hemipterus L. as a pest of bananas cv. Terra]. Revista Brasileira de Fruticultura 34(3), 944-946
+
+*Roman Posligua VA, Rojas Rojas JA, Mendoza KJ (2017) Evaluation of four types of traps for monitoring Metamasius hemipterus L.(Coleoptera: Curculionidae) in barraganete plantain. Ctro. Agr.,  Santa Clar 44(3), 91-93."
+Host,MCCTAB,Microcephalothrips abdominalis (as Musa),"* Njue NI, Toroitich FJ, Kimenju JW (2025) Diversity and abundance of thrips species on bananas from different ecological zones in Embu County, Kenya. Journal of Entomological & Acarological Research 57(1), 12575. doi:10.4081/jear.2025.1257"
+Host,HEDYOC,Nacoleia octasema (as Musa),
+Host,ODOILO,Odoiporus longicollis (as Musa),
+Host,OLIGPU,Oligonychus punicae,"* Bolland HR, Gutierrez J, Flechtmann CH (1988) World catalogue of the spider mite family (Acari: Tetranychidae). Brill, 392 pp.
+------- As Musa sapientum.
+
+* Migeon A, Dorkeld F (2024) Spider Mites Web: a comprehensive database for the Tetranychidae.  https://www1.montpellier.inrae.fr/CBGP/spmweb"
+Host,PAPUIN,Papuana inermis (as Musa),
+Host,PAPUSE,Papuana woodlarckiana (as Musa),
+Host,PARYMI,Paraleyrodes minei (as Musa),"* Krishnappa C, Dubey AK, Verma A,, Mahapatro GK (2021) Occurrence of exotic whitefly, Paraleyrodes minei Iaccarino (Hemiptera: Aleyrodidae) and other whitefly species on fruit crops in Maharashtra, India. 3 Biotech 11, p 264."
+Host,PRATCO,Pratylenchus coffeae,"* Torres-Asuaje PE, Cotes-Prado AM, Echeverría-Beirute F, Blanco-Rojas FA, Sandoval-Fernández JA, Segura-Mena RA, Palomares-Rius JE (2023) Ensilaged biostimulants promoting root health and control of Radopholus similis in banana (Musa AAA) cv. Grande Naine. European Journal of Plant Pathology 165(3), 465-474."
+Host,PRATCO,Pratylenchus coffeae (as Musa),
+Host,PSECGA,Pseudococcus calceolariae,
+Host,PSECCO,Pseudococcus comstocki,
+Host,RADOSI,Radopholus similis (as Musaceae),"* O'Bannon JH (1977) Worldwide dissemination of Radopholus similis and its importance in crop production. Journal of nematology.9(1), 16-25"
+Host,RADOCI,Radopholus similis citrus race,"* Brooks TL (1954) Host Range of the Burrowing Nematode Internationally and in Florida. Proceedings of the Florida State Horticultural Society 67, 81-82.
+------- as Musa sapientum"
+Host,RAOIIN,Raoiella indica,"* da Cruz WP, Souza MC, Lacerda JDA, Fonseca e Souza AIA, Silva PA, Cruz dos Santos E (2022) Occurrence of Raoiella indica Hirst (Acari, Tenuipalpidae) in the Southeast region of the state of Pará, Brazil. Journal of Plant Diseases and Protection. https://doi.org/10.1007/s41348-022-00659-8
+------- Abundant numbers of specimens found on this plant."
+Host,RAOIIN,Raoiella indica (as Musa),"* Murillo P, Alpízar-Aguilar G (2025) First report of Raoiella indica Hirst (Acari: Tenuipalpidae) in Costa Rica. International Journal of Acarology 7, 1-3."
+Host,SPPHOB,Rhabdoscelus obscurus,
+Host,ROTYRE,Rotylenchulus reniformis (as Musa),"* Elekcioğlu İH, Uludamar EB, Dişkaya SV, Avcıoğlu S, Çağlar BK (2024) Characterization of Rotylenchulus reniformis Linford & Oliveira, 1940 (Tylenchida: Hoplolaimidae) in a banana greenhouse in Turkey. Crop Protection 184, 106821."
+Host,SCITAU,Scirtothrips aurantii,"* Mound LA, Palmer JM (1981) Identification, distribution and host-plants of the pest species of Scirtothrips (Thysanoptera: Thripidae). Bulletin of Entomological Research 71, 467-479.
+
+* Nasseh OM, Mughni AAA (1990) Efficacy of chemical and natural insecticides for suppression of Scirtothrips aurantii (Faure) (Thripidae - Thysanoptera) causing banana fruit spotting disease in the Yemen Arab Republic. In: Proceedings, Integrated Pest Management in Tropical and Subtropical Cropping Systems, Frankfurt, 1990, pp. 749-756. Deutsche Landwirtschaftsgesellschaft, Frankfurt am Main, Germany"
+Host,LAPHFR,Spodoptera frugiperda,"* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300."
+Host,PRODOR,Spodoptera ornithogalli,"* Brito R, Specht A, Gonçalves GL, Moreira GRP, Carneiro E, Santos FL, Roque-Specht VF, Mielke OHH, Casagrande MM (2019) Spodoptera marima: a new synonym of Spodoptera ornithogalli (Lepidoptera: Noctuidae), with notes on adult morphology, host plant use and genetic variation along its geographic range. Neotropical Entomology 48(3), 433-448.
+
+* Robinson GS, Ackery PR, Kitching IJ, Beccaloni GW, Hernández LM (2010) HOSTS - A Database of the World's Lepidopteran Hostplants. Natural History Museum, London. http://www.nhm.ac.uk/hosts"
+Host,STEPTY,Stephanitis typica,
+Host,TETRME,Tetranychus mexicanus (as Musa),"* Migeon A & Dorkeld F (2019). Spider Mites Web. A comprehensive database for the Tetranychidae.
+http://www.montpellier.inra.fr/CBGP/spmweb [accessed September 2019]
+
+* Moraes GJ de, Flechtmann CHW (1981) Ácaros fitófagos do Nordeste do Brasil. Pesquisa Agropecuária Brasileira 16(2), 177–186.
+
+* Vasconcelos G (2011) Diversidade de ácaros em agroecossistemas e testes para o controle alternativo do ácaro branco, Polyphagotarsonemus latus (Acari, Tarsonemidae) na região de Manaus. Universidade de Sao Paulo.
+
+* Flechtmann C & Abreu J (1973) Ácaros Fitófagos do Estado da Bahia, Brasil (Notas preliminares). Ciência e Cultura, 25(3), 244–251.
+
+* Moraes GJ de & Flechtmann CHW (1981) Ácaros fitófagos do Nordeste do Brasil. Pesquisa Agropecuária Brasileira, 16(2), 177–186."
+Host,ARGPLE,Thaumatotibia leucotreta,"* EPPO PRA for Thaumatotibia leucotreta. EPPO, Paris. Available at https://gd.eppo.int/taxon/ARGPLE/documents
+------- Musa paradisiaca var. sapientum listed by USDA (2010) as a host, but no other references can be found. Considered doubtful.
+
+* USDA (2010) New pest response guidelines: false codling moth Thaumatotibia leucotreta. U.S. Department of Agriculture, Animal Plant Health Inspection Service, Plant Protection and Quarantine, Emergency and Domestic Programs, Riverdale, Maryland.
+"
+Host,THRIHA,Thrips hawaiiensis (as Musa),
+Host,TIRAPL,Tiracola plagiata (as Musa),
+Host,UNASCI,Unaspis citri,"* Williams DJ, Watson GW (1988) The Scale Insects of the Tropical South Pacific Region. Pt. 1. The Armoured Scales (Diaspididae). CABI Wallingford, UK, 290 pp."
+Host,ZAPRIN,Zaprionus indianus (as Musa),
+Major host,DACUMU,Bactrocera musae,"* Junaidi J, Gassa A, Ramli R, Patandjengi B (2026) Distribution areas of quarantine plant pest organisms of the fruit fly Bactrocera musae (Diptera: Tephritidae) in South Sulawesi, Indonesia. Jurnal Hama dan Penyakit Tumbuhan Tropika 26(1), 68-77. https://doi.org/10.23960/jhptt.12668-77"
+Major host,BSV000,Banana streak disease,
+Major host,SCITSI,Chaetanaphothrips signipennis,
+Major host,ERNTTH,Erionota thrax,
+Major host,HERCBI,Hercinothrips bicinctus,
+Major host,HEDYOC,Nacoleia octasema,
+Major host,ODOILO,Odoiporus longicollis,"* Bhagat RC (2017) Coleopteran-fauna (Insecta) infesting fruit plantations in Jammu & Kashmir state (India): An annotated checklist and biodiversity. International Journal of Current Research in Biosciences and Plant Biology 4(2), 60-66. doi: http://dx.doi.org/10.20546/ijcrbp.2017.402.008 "
+Major host,OPOGSC,Opogona sacchari,"* Heppner JB, Pena JE, Glenn H (1987) The banana moth, Opogona sacchari (Bojer) (Lepidoptera: Tineidae), in Florida. Entomology Circular, Division of Plant Industry, Florida Department of Agriculture and Consumer Services No. 293, 4pp.
+
+* Oldham JN (1928) Hieroxestis subcervinella, Wlk., an enemy of the banana in the Canary Islands. Bulletin of Entomological Research, 19(2), 147-166. 
+------- as Musa sapientum."
+Major host,RADOSI,Radopholus similis,"* O'Bannon JH (1977) Worldwide dissemination of Radopholus similis and its importance in crop production. Journal of nematology.9(1), 16-25
+
+* Torres-Asuaje PE, Cotes-Prado AM, Echeverría-Beirute F, Blanco-Rojas FA, Sandoval-Fernández JA, Segura-Mena RA, Palomares-Rius JE (2023) Ensilaged biostimulants promoting root health and control of Radopholus similis in banana (Musa AAA) cv. Grande Naine. European Journal of Plant Pathology 165(3), 465-474."
+Major host,TIRAPL,Tiracola plagiata,
+Non-host,ECDYAU,Gymnandrosoma aurantianum (as Musa),"* Adamski D, Brown JW (2001) Systematic revision of the Ecdytolopha group of genera (Lepidoptera: Tortricidae: Grapholitini) in the New World. Entomologica Scandinavica Supplement 58, 86 pp.
+-----  The record for Musa originates from the description of Argyroploce torticornis published by Meyrick in 1931, but the specimens’ labels indicate collection on cocoa. Musa or Musa acuminata are repeated in many publications, but this is considered as an error perpetuated from Meyrick 1931."

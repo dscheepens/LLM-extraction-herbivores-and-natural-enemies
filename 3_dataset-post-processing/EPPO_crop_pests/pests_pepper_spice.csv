@@ -1,0 +1,12 @@
+type,EPPOCode,Pref_name,References
+Host,DACUDO,Bactrocera dorsalis,"* Jiji T, Manu CR, Akhila MU, Asokan A (2016) Male fruit flies, a new threat to black pepper cultivation in Kerala, India. Current Biotica 10(1), 67-70."
+Host,HELOAN,Helopeltis antonii,
+Host,PARYMI,Paraleyrodes minei (as Piper),
+Host,PSEAPE,Pseudaulacaspis pentagona (as Piper),"* García Morales M, Denno BD, Miller DR, Miller GL, Ben-Dov Y, Hardy NB (2016) ScaleNet: A literature-based model of scale insect biology and systematics. Database. doi: 10.1093/database/bav118. http://scalenet.info [accessed 2026-02].
+
+* Miller DR & Davidson JA (2005) Armored Scale Insect Pests of Trees and Shrubs. Cornell Univ. Press Ithaca, NY 442 pp."
+Host,RADOSI,Radopholus similis,"* O'Bannon JH (1977) Worldwide dissemination of Radopholus similis and its importance in crop production. Journal of nematology.9(1), 16-25"
+Host,PRODOR,Spodoptera ornithogalli,"* Brito R, Specht A, Gonçalves GL, Moreira GRP, Carneiro E, Santos FL, Roque-Specht VF, Mielke OHH, Casagrande MM (2019) Spodoptera marima: a new synonym of Spodoptera ornithogalli (Lepidoptera: Noctuidae), with notes on adult morphology, host plant use and genetic variation along its geographic range. Neotropical Entomology 48(3), 433-448.
+
+* Comstock JA (1965) Ciclo biologico de Prodenia ornithogalli Guenée (Lepidoptera: Noctuidae). Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoologia 36, 199-202."
+Host,THRIPL,Thrips palmi,"* Etienne J, Ryckewaert P, Michel B (2015) Thrips (Insecta: Thysanoptera) of Guadeloupe and Martinique: updated check-list with new information on their ecology and natural enemies. Florida Entomologist 98(1), 298-304."

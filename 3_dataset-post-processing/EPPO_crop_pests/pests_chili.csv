@@ -1,0 +1,27 @@
+type,EPPOCode,Pref_name,References
+Host,VASALY,Aculops lycopersici (as Solanaceae),
+Host,ANTHEU,Anthonomus eugenii,"* Acosta N, Vicente N, Abreu E, Medina-Gaud S (1987) Chemical control of Meloidogyne incognita, Rotylenchus reniformis and Anthonomus eugenii in Capsicum annuum and Capsicum frutescens. Nematropica 17, 163-170.
+
+* Capinera JL (2017) Pepper weevil, Anthonomus eugenii Cano and Cuban pepper weevil Faustinus cubae (Boheman) ( Insecta: Coleoptera: Curculionidae). https://edis.ifas.ufl.edu/in555
+
+* Elmore JC, Davis AC, Campbell RE (1934) The pepper weevil. USDA Techical Bulletin No. 447.
+
+* Patrock RJ, Schuster DJ (1992) Feeding, oviposition and development of the pepper weevil (Anthonomus eugenii) on selected species of Solanaceae. Tropical Pest Management 38, 65-69.
+
+* Seal DR, Martin CG (2016) Pepper weevil (Coleoptera: Curculionidae) preferences for specific pepper cultivars, plant parts, fruit colors, fruit sizes, and timing. Insects 7, 9. https://doi.org/10.3390/insects7010009"
+Host,BEMITA,Bemisia tabaci (as Solanaceae),
+Host,EPILVI,Epilachna vigintioctomaculata (as Solanaceae),
+Host,FRANCS,Frankliniella australis (as Solanaceae),
+Host,MELNCO,Melanotus communis,
+Host,MELGCH,Meloidogyne chitwoodi,"* Santo GS, O'Bannon JH, Finley AM, Golden AM (1980) Occurrence and host range of a new root-knot nematode (Meloidogyne chitwoodi) in the Pacific northwest. Plant Disease 64, 951-952."
+Host,PSEAPE,Pseudaulacaspis pentagona,"* García Morales M, Denno BD, Miller DR, Miller GL, Ben-Dov Y, Hardy NB (2016) ScaleNet: A literature-based model of scale insect biology and systematics. Database. doi: 10.1093/database/bav118. http://scalenet.info [accessed 2026-02].
+
+* Miller DR & Davidson JA (2005) Armored Scale Insect Pests of Trees and Shrubs. Cornell Univ. Press Ithaca, NY 442 pp."
+Host,ROTYRE,Rotylenchulus reniformis,"* Carrillo-Fasio JA, Báez-Sañudo MA, Valdez-Morales MT (2026) Estrategias biorracionales para el manejo de Meloidogyne enterolobii y Rotylenchulus reniformis en tomate, chile y pepino en Sinaloa, México. Revista Bioc Scientia 2(1). https://doi.org/10.63622/RBS.2516"
+Host,PRODOR,Spodoptera ornithogalli,"* Brito R, Specht A, Gonçalves GL, Moreira GRP, Carneiro E, Santos FL, Roque-Specht VF, Mielke OHH, Casagrande MM (2019) Spodoptera marima: a new synonym of Spodoptera ornithogalli (Lepidoptera: Noctuidae), with notes on adult morphology, host plant use and genetic variation along its geographic range. Neotropical Entomology 48(3), 433-448.
+
+* Heppner JB (2007) Lepidoptera of Florida. Part 1. Introduction and catalog. Gainesville, Florida Department of Agriculture & Consumer Services, p 670."
+Host,ARGPLE,Thaumatotibia leucotreta,"* Fritsch E (1988) Biologische Bekämpfung des Falschen Apfelwicklers, Cryptophlebia leucotreta (Meyrick) (Lep., Tortricidae), mit Granuloseviren. Mitteilungen der Deutschen Gesellschaft fur Allgemeine und Angewandte Entomologie 6 (1-3), 280-283.
+
+* Adom M, Fening K, Billah M, Wilson D, Hevi W, Clottey V,  Ansah-Amprofi F, Bruce A (2021) Pest status, bio-ecology and management of the false codling moth, Thaumatotibia leucotreta (Meyrick) (Lepidoptera: Tortricidae) and its implication for international trade. Bulletin of Entomological Research, 111(1), 17-30. doi:10.1017/S0007485320000358
+------- frequently intercepted on Capsicum."

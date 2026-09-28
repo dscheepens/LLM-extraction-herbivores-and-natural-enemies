@@ -1,0 +1,26 @@
+type,EPPOCode,Pref_name,References
+Host,HELIVI,Chloridea virescens,"* Capinera JL (2001) Heliothis virescens (Fabricius) (Insecta: Lepidoptera: Noctuidae) EENY-219 (latest revision Dec. 2018). Featured Creatures. University of Florida. https://entnemdept.ufl.edu/creatures/field/tobacco_budworm.htm
+
+* Hambleton EJ (1944) Heliothis virescens as a pest of cotton, with notes on host plants in Peru. Journal of Economic Entomology 37, 660-666.
+
+* Kogan M, Helm CG, Kogan J, Brewer E (1989) Distribution and economic importance of Heliothis virescens and Heliothis zea in North, Central, and South America and of their Natural Enemies and Host Plants. pp 241-297 In Proceedings of the Workshop on Biological Control of Heliothis: Increasing the effectiveness of natural enemies. USDA.
+
+* Ventura MU, Roberto SR, Hoshino AT, Carvalho MG, Hata FT, Genta W (2016) First record of Heliothis virescens (Lepidoptera: Noctuidae) damaging table grape bunches. Florida Entomologist 98(2), 783-786.
+
+* EPPO (2024) EPPO Technical Document No. 1091. Pest risk analysis for Chloridea virescens. EPPO, Paris. Available at https://gd.eppo.int/taxon/HELIVI/documents
+------- Main host (evidence that the plant supports populations of the pest in several generations or years, i.e. true hosts, or plant mentioned as common or preferred host – see PRA for further details on the host)
+"
+Host,DITYDI,Ditylenchus dipsaci,"* Goodey JB, Franklin MT, Hooper DJ (1965) T. Goodey's: The Nematode Parasites of Plants Catalogued Under Their Hosts. Commonwealth Agricultural Bureaux, Farnham Royal, Bucks, England. Third edition, 214 pp."
+Host,ELASLI,Elasmopalpus lignosellus,* Sandhu HS (2010) Biology and cultural control of lesser cornstalk borer on sugarcane. PhD thesis. University of Florida. https://ufdcimages.uflib.ufl.edu/UF/E0/04/14/72/00001/sandhu_h.pdf
+Host,HELIAR,Helicoverpa armigera,"* Suvendu Kumar Roy, Suprakash Pal, Tulsi Saran Ghimiray, Ayon Roy (2017) Performance of flax genotypes with respect to infestation of capsule borer, Helicoverpa armigera (Hubner) and other yield parameters in the hills of Darjeeling, India. Journal of Entomology and Zoology Studies 5(5), 276-280.
+"
+Host,HELIZE,Helicoverpa zea (as Linum),"* Matthews M (1991) Classification of the Heliothinae. Bulletin of the Natural Resources Institute No. 44. Natural Resources Institute, Chatham, UK."
+Host,LIRIHU,Liriomyza huidobrensis,"* Spencer KA (1973) Agromyzidae (Diptera) of economic importance. Series Entomologica Volume 9. Dr. W. Junk B.V. The Hague, The Netherlands. 418 pp."
+Host,PRODER,Spodoptera eridania,"* Montezano DG, Specht A, Sosa-Gomez DR, Roque-Specht VF & de Barros NM (2014) Immature stages of Spodoptera eridania (Lepidoptera: Noctuidae): developmental parameters and host plants. Journal of Insect Science 14, 238. https://doi.org/10.1093/jisesa/ieu199"
+Host,LAPHFR,Spodoptera frugiperda,"* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300."
+Host,PRODLI,Spodoptera litura,
+Host,PRODOR,Spodoptera ornithogalli,"* Anonymous (1968) Cooperative Economic Insect Report 18(14), 256.
+
+* Brito R, Specht A, Gonçalves GL, Moreira GRP, Carneiro E, Santos FL, Roque-Specht VF, Mielke OHH, Casagrande MM (2019) Spodoptera marima: a new synonym of Spodoptera ornithogalli (Lepidoptera: Noctuidae), with notes on adult morphology, host plant use and genetic variation along its geographic range. Neotropical Entomology 48(3), 433-448."
+Host,THRIPL,Thrips palmi,"* Kunal AG, Goswami TN, Nirala RBP, Acharya SS (2019) Insect herbivores and their natural enemies in linseed and their population dynamics. Indian Journal of Entomology 81(3), 458-462."
+Wild/Weed,MARGVI,Margarodes vitis (as Linaceae),"* Giliomee J, de Klerk C & Watson GW (2022) 3.3.4 Margarodes spp. In: Encyclopedia of Scale Insect Pests (Eds Kondo T & Watson GW), pp. 69-73. CAB International, Wallingford (UK)."

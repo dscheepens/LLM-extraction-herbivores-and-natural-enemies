@@ -1,0 +1,61 @@
+type,EPPOCode,Pref_name,References
+Host,ACRGVI,Acrogonia virescens,"* Keil CB, Lozada PW (2021) Cicadellinae of Ecuador and Cicadellidae of Galápagos, Neotropical Biodiversity 7(1), 23-38."
+Host,ALECWO,Aleurocanthus woglumi,"* Dietz HF, Zetek J (1920) The blackfly of citrus and other subtropical plants. USDA Bulletin 885, 1-55.
+
+* Dubey AK, Ko CC (2012) Sexual dimorphism among species of Aleurocanthus Quaintance & Baker (Hemiptera: Aleyrodidae) in Taiwan, with one new species and an identification key. Zootaxa 3177, 1–23."
+Host,BRVPPA,Brevipalpus papayensis,"* Aguilar-Piedra H, Solano-Guevara AM (2020) Nuevos hospederos y registros de ácaros fitófagos para Costa Rica: período 2013-2018. Agronomía Costarricense, 44(1), 9-28."
+Host,BRVPST,Brevipalpus phoenicis sensu stricto,"* Aguilar-Piedra H, Solano-Guevara AM (2020) Nuevos hospederos y registros de ácaros fitófagos para Costa Rica: período 2013-2018. Agronomía Costarricense, 44(1), 9-28."
+Host,PHYPPL,‘Candidatus Phytoplasma palmicola’,"* Bertaccini A, Contaldo N, Feduzi G, Andeme AM, Yankey EN, Rovesti L (2023) Molecular identification of ‘Candidatus Phytoplasma palmicola’ associated with coconut lethal yellowing in Equatorial Guinea. Annals of Applied Biology 183(3), 262-270. https://doi.org/10.1111/aab.12854
+------- mild symptoms. "
+Host,ERNTTH,Erionota thrax,
+Host,MYNDCR,Haplaxius crudus,"* Mena E, Martínez G (1977) Identificación del insecto vector de la Marchitez sorpresiva de la palma africana Elaeis guineensis Jacq. Fitopatología Colombiana 6(1), 1-14.
+-------- Adult host."
+Host,METAHE,Metamasius hemipterus,"* Dionisio LF, Lima AC, de Morais EG, Correia RG, dos Santos AV, Ximenes CD (2015) Distribuição espacial de Metamasius hemipterus (Coleoptera: Curculionidae) em plantio de dendê (Elaeis guineensis Jacq) em Roraima. Revista Agroambiente On-line, Boa Vista, 9(3) 327-336.  https://doi.org/10.18227/1982-8470ragro.v9i3.2517"
+Host,MUSSNV,Mussidia nigrivenella,
+Host,OCTDNI,Octodonta nipae,
+Host,ORYCBO,Oryctes boas,
+Host,ORYCMO,Oryctes monoceros,
+Host,PHYP56,Palm lethal yellowing type syndromes,
+Host,PARYMI,Paraleyrodes minei,"* Sundararaj R, Krishnan S, Sumalatha BV (2021) Invasion and expansion of exotic whiteflies (Hemiptera: Aleyrodidae) in India and their economic importance. Phytoparasitica 49(5), 851-863."
+Host,PROHCU,Promecotheca cumingi,
+Host,RADOSI,Radopholus similis,"* EFSA Panel on Plant Health (2017) Pest risk assessment of Radopholus similis for the EU territory. EFSA Journal 15(8), e04879. https://doi.org/10.2903/j.efsa.2017.4879Digital Object Identifier (DOI) "
+Host,RAOIIN,Raoiella indica,"* Melo JWS, Navia D, Mendes, Rosenya JA, Filgueiras MC,. Teodoro AV, Ferreira JMS, Guzzo EC, de Souza IV, de Mendonça RS, Calvet EC, Paz Neto AA, Gondim MGC, de Morais EGF, Godoy MS, dos Santos JR, Silva RIR, da Silva VB, Norte RF, Oliva AB, dos Santos RDP, Domingos CA (2018) The invasive red palm mite, Raoiella indica Hirst (Acari: Tenuipalpidae), in Brazil: range extension and arrival into the most threatened area, the Northeast Region, International Journal of Acarology, 44:4-5, 146-149, DOI: 10.1080/01647954.2018.1474945"
+Host,SPPHOB,Rhabdoscelus obscurus,
+Host,RHYCFE,Rhynchophorus ferrugineus,"* Esteban-Duran J, Yela JL, Beitia Crespo F & Jimenez Alvarez A (1998) [Exotic curculionids liable to be introduced into Spain and other EU countries through imported vegetables.] Boletín de Sanidad Vegetal, Plagas 24, 23 – 40 (in Spanish).
+
+* Wahizatul AA, Chong JL, Zakeri HA, Norhayai Y, Wan BWO, Yong KW, Ainatun NZ, Modh HH (2017) The red palm weevil, Rhynchophorus ferrugineus: current issues and challenges in Malaysia. Oil Palm Bulletin 74, 17-24."
+Host,RICASC,Ricania speculum,
+Host,HELYBU,Rotylenchus buxophilus,
+Host,LAPHFR,Spodoptera frugiperda,"* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300."
+Host,TETRME,Tetranychus mexicanus,"* Aguilar-Piedra H, Solano-Guevara AM (2020) Nuevos hospederos y registros de ácaros fitófagos para Costa Rica: período 2013-2018. Agronomía Costarricense, 44(1), 9-28.
+------- confirmed host (in a greenhouse).
+
+* Santana DLQ, Flechtmann CHW (1998) Mite (Arthropoda, Acari) associates of palms (Arecaceae) in Brazil I: present status and new records. Revista Brasileira de Zoologia, 15(4), 959–963. https://doi.org/10.1590/s0101-81751998000400014"
+Host,THRIHA,Thrips hawaiiensis,"* Sartiami D, Mound LA (2013) Identification of the terebrantian thrips (Insecta, Thysanoptera) associated with cultivated plants in Java, Indonesia. ZooKeys 306, 1–21. https://doi.org/10.3897/zookeys.306.5455
+------- Collected from this plant in Java (Indonesia)."
+Host,XYLSCO,Xylosandrus compactus,"* Dole SA, Cognato AI (2010) Phylogenetic revision of Xylosandrus Reitter (Coleoptera: Curculionidae: Scolytinae: Xyleborina). Proceedings of the California Academy of Sciences 61(7), 451-545."
+Major host,RHAACO,Bursaphelenchus cocophilus,
+Major host,COELEL,Coelaenomenodera minuta,
+Major host,DIOCFR,Diocalandra frumenti,"* Salomone Suárez F, Carnero Hernández A, Marrero Ferrer M, González Hernández A (2000) Presence in the palearctic zone of Diocalandra frumenti Fabricius, (Coleoptera, Curculionidae). Boletín de la asociación Espaňola de Entomología 24, 263-264."
+Major host,CASTDA,Eupalamides cyparissias,
+Major host,PACMCA,Pachymerus cardo,
+Major host,PACMLA,Pachymerus lacerdae,
+Major host,PACMNU,Pachymerus nucleorum,
+Major host,PHMNST,Phytomonas staheli,
+Major host,PIMAGH,Pimelephila ghesquierei,
+Major host,RHYCPA,Rhynchophorus palmarum,"* de la Torre ARC, de la Torre JAA, Moya OM (2010) Biologia, habitos y manejo de Rhynchophorus palmarum. Boletin Tecnico no. 23, Centro de Investigación en Palma de Aceite, Cenipalma, Colombia, 53 pp.
+
+* Faleiro JR, Jaques JA, Carrillo D, Giblin-Davis R, Mannion CM, Peña-Rojas E, Peña JE (2016) Integrated Pest Management (IPM) of palm pests. In: Abrol DP (ed) Integrated Pest Management in the Tropics; pp. 439-497.
+
+* Korytkowski GCA, Ruiz AER (1979) [Current status of the pests of oil palm (Elaeis guineensis Jacquin) in Tananta (Huallaga Central, San Martin, Peru)]. Revista Peruana de Entomologia 22(1), 17-20 (in Spanish).
+
+* Lepesme P (1947) Les insectes des palmiers. Paul Lechevalier editeur, Paris, 903 pp.
+
+* Moura JIL, dos Santos  LP, bittencourt MAL, Krug C (2013) [Preference of palm weevils for oil palm, caiaué, and for their interspecific hybrid]. Pesquisa Agropecuária Brasileira 48(4), 454-456 (in Portuguese).
+
+* Plata-Rueda A, Martinez LC, Fernandes FL, de Sousa Ramalho F, Zanuncio JC, Serrao JE (2016) Interactions between the bud rot disease of oil palm and Rhynchophorus palmarum (Coleoptera: Curculionidae). Journal of Economic Entomology 109(2), 962-965.
+
+* Wattanapongsiri, A. (1966) A revision of the Genera Rhynchophorus and Dynamis. Department of Agricultural Science Bulletin, Bangkok, Thailand."
+Major host,RHYCPH,Rhynchophorus phoenicis,"* Commander TN, Stanley DON (2022) Population dynamics of African palm weevil (Rhynchophorus phoenicis F.) on breeding sites of oil palm (Elaeis guineensis Jacq.) in Niger Delta, Nigeria. International Journal of Entomology and Nematology Research 6, 1-10.
+
+* Hil, DS (1983) Agricultural insect pests of the tropics and their control., Ed. 2Cambridge, UK: Cambridge University Press. 746 pp."

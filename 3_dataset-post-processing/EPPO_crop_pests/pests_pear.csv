@@ -1,0 +1,187 @@
+type,EPPOCode,Pref_name,References
+Doubtful host,AGRLMA,Agrilus mali (as Pyrus),"* EPPO (2024) EPPO Technical Document No. 1093. Pest risk analysis for Agrilus mali (Coleoptera: Buprestidae). EPPO, Paris. Available at https://gd.eppo.int/taxon/AGRLMA/documents
+------- not confirmed host."
+Doubtful host,CERTRO,Ceratitis rosa,"* De Meyer M, Mwatawala M, Copeland RS, Virgilio M (2016) Description of new Ceratitis species (Diptera: Tephritidae) from Africa, or how morphological and DNA data are complementary in discovering unknown species and matching sexes. European Journal of Taxonomy 233, 1-23
+-------Past records for C. rosa sensu lato, now attributed to C. quilicii
+
+* Mentioned a host in experiment in Geldenhuys M (2015) Fruit fly (Diptera: Tephritidae) ecology in the Western Cape, South Africa (Doctoral dissertation)."
+Doubtful host,LASPPA,Grapholita packardi,"Brown (2022) lists “Pyrus communis L. (as Malus domestica) “ as a host of G. packardi. However Pyrus communis is not a synonym of Malus domestica, and the references used to support this listing (MacKay, 1959) only mention “apples, rose, hawthorn, and possibly peach”
+
+* Brown JW (2022) A review of host plants for the tortricid tribe Grapholitini, with a synopsis of host utilization by genus (Lepidoptera: Tortricidae). Insecta Mundi 0944, 1 –75.
+* MacKay MR (1959) Larvae of the North American Olethreutidae (Lepidoptera). Canadian Entomologist Supplement 10,  1–338.
+"
+Doubtful host,ARGPLE,Thaumatotibia leucotreta,"* Pringle KL, Heunis JM (2015) De Villiers M (Phytosanitary host status of apples as a host for false codling moth, Thaumatotibia leucotreta (Meyrick) (Lepidoptera: Tortricidae). African Entomology 23( 1).
+------- Blomefield (1989) and Newton (1998) are cited in publication mentionning apples or pear as host. However, these last two authors did not actually mention apples or pears as hosts for T. leucotreta.  Publications by Timm 2005; Timm et al. 2007; Timm et al. 2010 refers to traps in orchards, no finding in fruits."
+Host,CAPURE,Adoxophyes orana,
+Host,ALECSN,Aleurocanthus spiniferus,"* Cioffi M, Cornara D, Corrado I, Jansen MGM & Porcelli F (2013) The status of Aleurocanthus spiniferus from its unwanted introduction in Italy to date. Bulletin of Insectology 66, 273-281."
+Host,ALECWO,Aleurocanthus woglumi,"* Shaw JG (1950) Hosts of the citrus blackfly in Mexico. United States Bureau of Entomology and Plant Quarantine. E-793, 3 pp."
+Host,ANARLI,Anarsia lineatella,
+Host,ANARLI,Anarsia lineatella (as Pyrus),
+Host,ANSTLU,Anastrepha ludens,"* Baker AC, Stone WE, Plummer CC, McPhail M (1944) A review of studies on the Mexican fruitfly and related Mexican species. USDA Miscellaneous Publications, 155 pp.
+
+* Eskafi FM, Cunningham RT (1987) Host plants of fruit flies (Diptera: Tephritidae) of economic importance in Guatemala. Florida Entomologist 70, 116-123.
+
+* Mackie DB (1928) An investigation of the Mexican fruit fly, Anastrepha ludens (Loew), in the lower Rio Grande valley of Texas. Monthly Bulletin of the California Department of Agriculture 17, 295-323."
+Host,ANSTSU,Anastrepha suspensa,"* Anonymous (1968) [Host records for Tephritidae]. United States Department of Agriculture Cooperative Economic Insect Report, 18, 54, 153, 260, 365, 452, 926, 950.
+
+* Anonymous (1968) [Host records for Tephritidae]. United States Department of Agriculture Cooperative Economic Insect Report, 18, 54, 153, 260, 365, 452, 926, 950.
+
+* Swanson RW, Baranowski RM (1972) Host range and infestation by the Caribbean fruit fly, Anastrepha suspensa (Diptera: Tephritidae), in south Florida. Proceedings of the Florida State Horticultural Society, 271-273."
+Host,ANTHPO,Anthonomus pomorum,
+Host,TACYQU,Anthonomus quadrigibbus,"* Buckell ER (1930) The apple curculio as a pear pest in British Columbia. Canadian Entomologist 62, 47-49.
+
+* Maier CT (1990) Native and exotic rosaceous hosts of apple, plum, and quince curculio larvae (Coleoptera: Curculionidae) in the Northeastern United States. Journal of Economic Entomology 83, 1326–1332."
+Host,TOXOCI,Aphis citricidus,"* Michaud JP (1998) A review of the literature on Toxoptera citricida (Kirkaldy) (Homoptera: Aphididae). Florida Entomologist 81(1), 37-61.
+
+* Singh G, Singh R (2017) Food plant records of Aphidini (Aphidinae: Aphididae: Hemiptera) in India. Journal of Entomology and Zoology Studies 5(2), 1280-1302."
+Host,APRICI,Apriona cinerea (as Pyrus),"* Singh AP, Bhandari RS, Verma TD (2004) Important insect pests of poplars in agroforestry and strategies for their management in northwestern India. Agroforestry Systems 63, 15–26."
+Host,APRIGE,Apriona germari (as Pyrus),"* Lim J, Jung S-Y, Lim J-S, Jang J, Kim K-M, Lee Y-M, Lee B-W (2014) A review of host plants of Cerambycidae (Coleoptera: Chrysomeloidea) with new host records for fourteen Cerambycids, including the Asian longhorn beetle (Anoplophora glabripennis Motschulsky), in Korea. Korean Journal of Applied Entomology 53(2), 111-133."
+Host,DACUDO,Bactrocera dorsalis,"* Han P, Wang X, Niu CY, Dong YC, Zhu JQ, Desneux N (2011) Population dynamics, phenology, and overwintering of Bactrocera dorsalis (Diptera: Tephritidae) in Hubei Province, China. Journal of Pest Science 84, 289-295."
+Host,DACUTR,Bactrocera tryoni,"* Hancock D, Hamacek EL, Lloyd AC, Elson-Harris MM (2000) The distribution and host plants of fruit flies (Diptera: Tephritidae) in Australia. Queensland Department of Primary Industries, 75 pp."
+Host,DACUZO,Bactrocera zonata,"* Kapoor VC (1993) Indian fruit flies (Insecta: Diptera: Tephritidae). Oxford & IBH Publishing, 228 pp,"
+Host,TORTPR,Cacoecimorpha pronubana,
+Host,CCPSCH,Cacopsylla chinensis,"* Wei M, Chi H, Guo Y, Li X, Zhao L, Ma R (2022) Demography of Cacopsylla chinensis (Hemiptera: Psyllidae) reared on four cultivars of Pyrus bretschneideri (Rosales: Rosaceae) and P. communis pears with estimations of confidence intervals of specific life table statistics. Journal of Economic Entomology 113(5), 2343–2353, https://doi.org/10.1093/jee/toaa149
+------- less favorable host than Pyrus bretschneideri."
+Host,CCPSCH,Cacopsylla chinensis (as Pyrus),
+Host,CARSSA,Carposina sasakii,
+Host,CARSSA,Carposina sasakii (as Pyrus),"* Wang YZ, Li BY, Hoffmann AA, Cao LJ, Gong YJ, Song W, Zhu JY, Wei SJ (2017) Patterns of genetic variation among geographic and host-plant associated populations of the peach fruit moth Carposina sasakii (Lepidoptera: Carposinidae). BMC Ecology and Evolution 17, 265 (2017). https://doi.org/10.1186/s12862-017-1116-7"
+Host,CERTCA,Ceratitis capitata,"* De Meyer M., Copeland RS, Lux SA, Mansell M, Quilici S, Wharton R, White IM, Zenz NJ (2002) Annotated check list of host plants for Afrotropical fruit flies (Diptera: Tephritidae) of the genus Ceratitis. Zoologische Documentatie Koninklijk Museum voor Midden Afrika 27, 1-91."
+Host,CERTMA,Ceratitis malgassa,"* Rasolofoarivao H, Raveloson Ravaomanarivo LH, Delatte H (2022) Host plant ranges of fruit flies (Diptera: Tephritidae) in Madagascar. Bulletin of Entomological Research 112, 1–12. https://doi.org/10.1017/S0007485321000511"
+Host,CERTQI,Ceratitis quilicii,"* De Meyer M, Mwatawala M, Copeland RS, Virgilio M (2016) Description of new Ceratitis species (Diptera: Tephritidae) from Africa, or how morphological and DNA data are complementary in discovering unknown species and matching sexes. European Journal of Taxonomy 233, 1-23. 
+------- Confirmed host."
+Host,CERPCE,Ceroplastes ceriferus,"* Karpun NN, Zhuravleva YeN, Volkovitsh МG, Procenko VYe, Musolin DL (2017) To the fauna and biology of new alien insect pest species of woody plants in humid subtropics of Russia. Izvestia Sankt-Peterburgskoj Lesotehniceskoj Akademii, 2017, is. 220, pp. 169–185 (in Russian with English summary)."
+Host,CHONRO,Choristoneura rosaceana,"* Chapman PJ, Lienk SE (1971) Tortricid fauna of apple in New York (Lepidoptera: Tortricidae); including an account of apple's occurrence in the state, especially as a naturalized plant. Special Publication Geneva, NY, New York Agricultural Experiment Station, 122 pp."
+Host,CHRBFE,Chrysobothris femorata,"* EPPO (2021) EPPO Technical Document No. 1083. Pest risk analysis for Chrysobothris femorata and C. mali. EPPO, Paris. Available at https://gd.eppo.int/taxon/CHRBFE/documents
+------- confirmed true host of Chrysobothis femorata sensu stricto
+
+* Wellso SG & Manley GV (2007) A revision of the Chrysobothris femorata (Olivier, 1790) species group from North America, north of Mexico (Coleoptera: Buprestidae). Zootaxa, 26(1652), 1–26."
+Host,CHRBMA,Chrysobothris mali,"* EPPO (2021) EPPO Technical Document No. 1083. Pest risk analysis for Chrysobothris femorata and C. mali. EPPO, Paris. Available at https://gd.eppo.int/taxon/CHRBMA/documents
+------- confirmed true host of Chrysobothis mali
+
+* Homan HW (2020) Pacific Flathead Borer. Retrieved from treefruit.wsu.edu/crop-protection/opm/pacific-flathead-borer/
+
+* Kron CR, Murillo AD, Gonçalves CG, Zoller BG, Addesso K, Klingeman WE, Moulton JK (2025) DNA barcoding helps establish a novel host-plant association for Chrysobothris mali Horn, 1886 (Coleoptera: Buprestidae) larvae found infesting Pyrus communis L.‘Bartlett’(Rosaceae) fruit in Lake County, California orchards. The Pan-Pacific Entomologist 101(3), 262-272. 
+------- fruit as larval host. "
+Host,QUADPE,Comstockaspis perniciosa,"* Ben-Dov Y, German V (2003) A systemic catalogue of the Diaspididae (armoured scale insects) of the world, subfamilies Aspidiotinae, Comstockiellinae and Odonaspidinae. Intercept Ltd, Andover UK, 1111 pp."
+Host,CONHNE,Conotrachelus nenuphar,"* Brown MW (2005) Host utilization and phenology of injury by plum curculio (Coleoptera: Curculionidae) in West Virginia. Journal of Entomological Science 40(2), 149–157.
+
+* Leskey TC, Wright SE (2007) Host preference of the plum curculio. Entomologia Experimentalis et Applicata 123(3), 217-227.
+
+* Maier CT (1990) Native and exotic rosaceous hosts of apple, plum and quince curculio larvae (Coleoptera: Curculionidae) in the northeastern United States. Environmental Entomology 83(4), 1326–1332."
+Host,CRTHAR,Corythucha arcuata,"* Csóka G, Hirka A, Mutun S, Glavendekić M, Mikó Á, Szőcs L, Paulin M, Eötvös CB, Gáspár C, Csepelényi M, Szénási Á, Franjević M, Gninenko Y, Dautbašić M, Muzejinović O, Zúbrik M, Netoiu C, Buzatu A, Bălăcenoiu F, Jurc M, Jurc D, Bernardinelli I, Streito JC, Avtzis D, Hrašovec B (2020), Spread and potential host range of the invasive oak lace bug [Corythucha arcuata (Say, 1832) – Heteroptera: Tingidae] in Eurasia. Agricultural and Forest Entomology, 22: 61-74. https://doi.org/10.1111/afe.12362
+------- Confirmed host.
+
+* Torres-Miller L (1995) Additions to the West Virginia tingid fauna (Hemiptera: Heteroptera: Tingidae). Insecta Mundi 9(3-4), 281-282."
+Host,CARPPO,Cydia pomonella,"* Wearing CH, Hansen JD, Whyte C, Miller CE, Brown J (2001) The potential for spread of codling moth (Lepidoptera: Tortricidae) via commercial sweet cherry fruit: a critical review and risk assessment. Crop Protection 20(6), 465-488. https://doi.org/10.1016/S0261-2194(01)00023-0"
+Host,EOTELE,Eotetranychus lewisi,"* Flechtmann CHW (1996) Rediscovery of Tetranychus abacae Baker & Pritchard, additional description and notes on South American spider mites (Acari, Prostigmata, Tetranychidae). Revista Brasileira de Zoologia, 13: 569-578."
+Host,EPIOIO,Epichoristodes acerbella,
+Host,TORTPO,Epiphyas postvittana,
+Host,EURHBR,Eurhizococcus brasiliensis,"* García Morales M, Denno BD, Miller DR, Miller GL, Ben-Dov Y, Hardy NB (2016) ScaleNet: A literature-based model of scale insect biology and systematics. Database. doi 10.1093/database/bav118. http://scalenet.info
+------- citing original references
+
+* Soria SJ, Gallotti BJ (1986) O margarodes da videira Eurhizococcus brasiliensis (Homoptera: Margarodidae): biologia, ecologia e controle no Sul do Brasil. Embrapa, Centro Nacional de Pesquisa de Uva e Vinho, Bento Gonçalves, Brazil. CNPUV Circular Técnica 13. 22 pp."
+Host,EUTEOR,Eutetranychus orientalis,"* Gupta SK, Gupta YN (1994) A taxonomic review of Indian Tetranychidae (Acari: Prostgmata) with description of new species and redescriptions of known species, keys to genera and species. Memoirs of the Zoological Survey of India 18, 1-196.
+
+* Nassar OA, Ghai S (1981) Taxonomic studies on tetranychoid mites infesting vegetable and fruit crops in Delhi and surrounding areas. Oriental Insects 15(4), 333-396."
+Host,EUWAWH,Euwallacea fornicatus sensu stricto,"* Engelbrecht K, Raubenheimer I, Paap T, Neethling E, Roets F (2024) Detection of Fusarium euwallaceae and its vector Euwallacea fornicatus on pear (Pyrus communis) and in deciduous fruit orchards in South Africa. Australasian Plant Disease Notes 19(1), 3 pp. https://doi.org/10.1007/s13314-023-00524-z
+------- able to establish breeding colonies on pear trees, but apparently at a low frequency and without causing symptoms of dieback "
+Host,EUZOSE,Euzophera semifuneralis,"* Biddinger DJ, Howitt AJ (1992) The food plants and distribution of the American plum borer (Lepidoptera: Pyralidae). The Great Lakes Entomologist 25(3), 149-158. https://scholar.valpo.edu/tgle/vol25/iss3/2"
+Host,CYDIIN,Grapholita inopinata,"* Biosecurity New Zealand (2009) Import Risk Analysis: Pears (Pyrus bretschneideri, Pyrus pyrifolia, and Pyrus sp. nr. communis) fresh fruit from China Final. 462 pp"
+Host,CYDIIN,Grapholita inopinata (as Pyrus),
+Host,LASPMO,Grapholita molesta,
+Host,LASPMO,Grapholita molesta (as Pyrus),
+Host,LASPPR,Grapholita prunivora (as Pyrus),
+Host,HALYHA,Halyomorpha halys,"* Bariselli M, Bugiani R, Maistrello L (2016) Distribution and damage caused by Halyomorpha halys in Italy. EPPO Bulletin 46(2), 332–334.
+
+* Holthouse MC, Spears LR, Alston DG (2021) Urban host plant utilisation by the invasive Halyomorpha halys (Stål) (Hemiptera, Pentatomidae) in northern Utah. NeoBiota 64, 87–101. https://doi.org/10.3897/neobiota.64.60050"
+Host,HELIZE,Helicoverpa zea,"* Quaintance AL, Brues CT (1905) The cotton bollworm. US Depatment of Agriculture. Bureau of entomology. Bulletin 50. 155 pp."
+Host,HOMLTR,Homalodisca vitripennis,"* Turner WF, Pollard HN (1959) Life histories and behavior of five insect vectors of phony peach disease. United States Department of Agriculture, Technical Bulletin 1188, 28 pp.
+-------- Feeding host."
+Host,HYPHCU,Hyphantria cunea (as Pyrus),
+Host,LEUCSC,Leucoptera malifoliella,"* Bajec D, Rodič K, Peterlin A (2009) Wide range of host plants of pear leaf blister moth (Leucoptera malifoliella [O. Costa]). Zbornik predavanj in referatov 9. Slovenskega Posvetovanja o Varstvu Rastlin, Nova Gorica, Slovenije, 4-5 marec 2009, 431-434. (abst.)"
+Host,LEUCSC,Leucoptera malifoliella (as Pyrus),
+Host,LYMADI,Lymantria dispar,
+Host,PHENHI,Maconellicoccus hirsutus,"* Chang LWH, Miller CE (1996) Pathway Risk Assessment: Pink mealybug from the Caribbean. Animal and Plant Health Inspection Service, U.S. Dept. of Agriculture 61 pp."
+Host,MALADI,Malacosoma disstria (as Pyrus),
+Host,MALAPA,Malacosoma parallela,"* Kuznetsov VI (1999) 14. Fam. Lasiocampidae - The tent caterpillars. In Insects and Mites - Pests of Agricultural Plants (ed Kuznetsov VI), vol. 3, part 2. Lepidoptera, pp. 185-200. Nauka, Saint Petersburg (RU) (in Russian)"
+Host,PLTPMU,Megaplatypus mutatus,"* Giménez RA, Etiennot AE (2003) Host range of Platypus mutatus. Entomotropica 18, 89–94.
+
+* INTERNET
+Sistema Nacional Argentino de Vigilancia y Monitoreo de plagas. Megaplatypus mutatus. https://www.sinavimo.gov.ar/plaga/megaplatypus-mutatus"
+Host,PLTPMU,Megaplatypus mutatus (as Pyrus),"* Allegro G, Griffo R (2008) I rischi di diffusione di Megaplatypus mutatus. L'informatore Agrario no. 13, 73-76."
+Host,CNIDFL,Monema flavescens,"* Collins CW (1933) The oriental moth (Cnidocampa [Monema] flavescens walk.) and its control, Circular. United States Department of Agriculture
+
+* EFSA Panel on Plant Health (PLH), Bragard C, Baptista P, Chatzivassiliou E, Di Serio F, Gonthier P, Jaques Miret JA, Justesen AF, Magnusson CS, Milonas P, Navas‐Cortes JA (2024) Pest categorisation of Monema flavescens. EFSA Journal. 22(7), e8831"
+Host,GRAGLE,Naupactus leucoloma,"* Chadwick CF (1965) Checklist of the Brachyderinae (Col. Curculionidae) occurring in Australia. Journal of the Entomological Society of Australia (NSW) 2, 21-34."
+Host,NAUPXA,Naupactus xanthographus,"* Caballero VC (1972) Algunos aspectos de la biología y control de Naupactus xanthographus Germar (Coleoptera: Curculionidae) en durazneros en Chile. Rev Peru Entomol. 15(1): 190–194
+
+* González (1989) Insectos y acaros de importancia agricola y cuarentenaria en Chile. Universidad de Chile: 310 pp
+------- confirmed host (as peral)
+
+* Sinavimo (2019) Naupactus xanthographus Sistema Nacional Argentino de Vigilancia y Monitoreo de plagas. Available at: https://www.sinavimo.gov.ar/plaga/naupactus-xanthographus
+------- causing damage on buds, flower, leaves, shoots, roots."
+Host,OEMOHI,Oemona hirta,"* Lu W, Wang Q (2005) Systematics of the New Zealand longicorn beetle genus Oemona Newman with discussion of the taxonomic position of the Australian species, O. simplex White (Coleoptera: Cerambycidae: Cerambycinae). Zootaxa 971, 1-31.
+
+* Plant-SyNZ. Landcare Research (NZ). Host plants of a herbivore -Oemona hirta. http://plant-synz.landcareresearch.co.nz/index.asp). Last accessed 2021-06."
+Host,OLIGPU,Oligonychus punicae,"* Migeon A, Dorkeld F (2024) Spider Mites Web: a comprehensive database for the Tetranychidae.  https://www1.montpellier.inrae.fr/CBGP/spmweb"
+Host,CHEIBR,Operophtera brumata,
+Host,PRABMY,Parabemisia myricae,
+Host,PLAAST,Platynota stultana,"* Varela L, Elkins RB, van Steenwyk RA (2012) Agriculture. Pear Pest Management Guidelines. Omnivorous leafroller, Platynota stultana. UC ANR Publication 3455. https://www2.ipm.ucanr.edu/agriculture/pear/omnivorous-leafroller/"
+Host,POCZSH,Pochazia shantungensis,"* Iguchi M, Kodama H (2025) Host plants of Pochazia shantungensis (Hemiptera: Ricaniidae) in Wakayama Prefecture, Japan. Ann. Kansai Plant Prot. Soc. 67, 117–120. https://doi.org/10.4165/kapps.67.117 (in Japanese)
+------- host for oviposition"
+Host,PSECGA,Pseudococcus calceolariae,
+Host,PSECCO,Pseudococcus comstocki,"* Pellizzari G, Duso C, Rainato A, Pozzebon A, Zanini G (2012) Phenology, ethology and distribution of Pseudococcus comstocki, an invasive pest in northeastern Italy. Bulletin of Insectology.65(2), 209-215."
+Host,PSECCO,Pseudococcus comstocki (as Pyrus),
+Host,RHAGPO,Rhagoletis pomonella,"* Prokopy RJ, Bush GL (1972) Apple maggot infestation of pear. Journal of Economic Entomology 65, 597.
+------- confirmed host.
+
+* Yee WL, Norrbom AL (2017) Provisional List of Suitable Host Plants of the Apple Maggot Fly, Rhagoletis pomonella (Walsh) (Diptera: Tephritidae), Version 1.0, 20pp, in USDA Compendium of Fruit Fly Host Information (CoFFHI)
+Edition 2.0; https://coffhi.cphst.org/. 
+------- confirmed host.
+
+* Yee WL, Goughnour RB (2006)  New host records for the apple maggot, Rhagoletis pomonella (Walsh) (Diptera: Tephritidae), in Washington State.  Pan-Pacific Entomologist  82: 54–60.
+------- host as 'European pear'"
+Host,SAPECN,Saperda candida,"* Hess AD (1940) The biology and control of the round-headed apple-tree borer, Saperda candida Fabricius. New York State Agricultural Experiment Station Bulletin no. 688, 93 pp.
+
+* Monné MA & Nearns EH (2021) Catalogue of the Cerambycidae (Coleoptera) of Canada and United States of America. Part IV. Subfamily Lamiinae. https://cerambycids.com/default.asp?action=show_catalog (last accessed 2021-11)."
+Host,SCITDO,Scirtothrips dorsalis,"* López-Lima D, Tejeda-Reyes MA, Rodríguez-Málaga RD, López-Bautista E, Salinas-Castro A, Illescas-Riquelme CP (2023) New hosts, distribution, and color trap preferences of the invasive thrips Scirtothrips dorsalis (Thysanoptera: Thripidae) in Mexico. Journal of Entomological Science 58(4), 400-411. https://doi.org/10.18474/JES23-11
+------- reproductive host. "
+Host,SCOLSH,Scolytus schevyrewi (as Pyrus),
+Host,PRODER,Spodoptera eridania,"* Montezano DG, Specht A, Sosa-Gomez DR, Roque-Specht VF & de Barros NM (2014) Immature stages of Spodoptera eridania (Lepidoptera: Noctuidae): developmental parameters and host plants. Journal of Insect Science 14, 238. https://doi.org/10.1093/jisesa/ieu255"
+Host,LAPHFR,Spodoptera frugiperda,"* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300."
+Host,PRODPR,Spodoptera praefica,"* Robinson GS, Ackery PR, Kitching IJ, Beccaloni GW & Hernández LM (2010) HOSTS - A database of the World's lepidopteran hostplants. Natural History Museum, London. http://www.nhm.ac.uk/hosts"
+Host,TETRFI,Tetranychus fijiensis,
+Host,TETRME,Tetranychus mexicanus,"* Paschoal A (1970) Revisão da família Tetranychidae no Brasil (Arachnida: Acarina). Anais Da Escola Superior de Agricultura Luiz de Queiroz, XXVII, 457–483."
+Host,THRIHA,Thrips hawaiiensis (as Pyrus),
+Host,THRIIM,Thrips imaginis,
+Host,THRIPL,Thrips palmi,"* Kalpana Tillekaratne, Edirisinghe JP, Gunatilleke CVS, Karunaratne AIP (2011) A checklist of thrips species of Sri Lanka. Ceylon Journal of Science (Bio. Sci.) 40(2), 89-108."
+Host,HESOCA,Trichoferus campestris (as Pyrus),"* Iwata R & Yamada F (1990) Notes on the biology of Hesperophanes campestris, a drywood borer in Japan. Material und Organismen 25, 305–313."
+Host,ZAPRTU,Zaprionus tuberculatus,"* Özbek Çatal B, Çalişkan Keçe AF, Ulusoy MR (2021) Distribution and host plants of Drosophilidae (Diptera) species detected in fruit orchards of the Eastern Mediterranean Region of Turkey. Mustafa Kemal University Journal of Agricultural Sciences 26(2), 431-442. https://doi.org/10.37908/mkutbd.873838"
+Major host,NUMOPI,Acrobasis pirivorella,"* Shutova NN (1977) [The pear pyralid]. Zashchita Rastenii 9, 38."
+Major host,ANSTFR,Anastrepha fraterculus,"* Baker EW (1945) Studies on the Mexican fruitfly known as Anastrepha fraterculus. Journal of Economic Entomology 38, 95–100.
+
+* Campos RF (1960) Las moscas (Brachycera) del Ecuador. Revista Ecuatoriana Higiene y Medicina Tropical 17, 1–66.
+
+* Garcia FRM, Norrbom AL (2011) Tephritoid flies (Diptera, Tephritoidea) and their plant hosts from the state of Santa Catarina in southern Brazil. Florida Entomologist 94, 151–157.
+
+* Korytkowski C, Ojeda-Pena D (1970) Especies del género Anastrepha Schiner 1968 en el nor-oeste Peruano. Revista Peruana de Entomologia (Lima) 11, 32-70.
+
+* Nasca AJ, Zamora JA, Vergara LE, Jaldo HE (1996) Hospederos de moscas de los frutos en el Valle de Antinaco-Los Colorados, Provincia de La Rioja, República Argentina. Revista de Investigación 10, 19–24.
+
+* Raga A, Souza-Filho MFD, Machado RA, Sato ME, Siloto RC (2011) Host ranges and infestation indices of fruit flies (Tephritidae) and lance flies (Lonchaeidae) in São Paulo State, Brazil. Florida Entomologist 94, 787–794.
+
+* Souza-Filho MF, Raga A, Zucchi RA (2000) Moscas-das-frutas nos estados brasileiros: São Paulo. In : Moscas-das-frutas de importância econômica no Brasil. Conhecimento básico e aplicado, A. Malavasi & R. A. Zucchi (eds.) 277–283. Holos Ed, Riberão Preto, Brazil.
+
+* Wille TJE (1952) Entomología Agrícola del Perú. Dirección General de Agricultura, Lima, 543 pp."
+Major host,ANOLCN,Anoplophora chinensis (as Pyrus),"* Sjöman H, Östberg J & Nilsson J (2014) Review of host trees for the wood-boring pests Anoplophora glabripennis and Anoplophora chinensis: an urban forest perspective. Arboriculture & Urban Forestry 40(3), 143–164."
+Major host,ANTHPY,Anthonomus piri,
+Major host,APRICI,Apriona cinerea,"* Singh P, Prasad G (1985) Poplar stem borer, Apriona cinerea Chevrolat (Coleoptera: Cerambycidae) its biology, ecology and control. Indian
+Forester 111(7), 517-524."
+Major host,PSYLPI,Cacopsylla pyri,
+Major host,HYPHCU,Hyphantria cunea,
+Major host,HEMELE,Orgyia leucostigma,"* Belton EM (1988) Lepidoptera on fruit crops in Canada, Simon Fraser University, Dept. of Biological Sciences, Pest Management Program, Burnaby, BC. 105 pp.
+
+* Heppner JB (2003) Lepidoptera of Florida. Part 1. Introduction and catalog. Volume 17 of Arthropods of Florida and neighboring land areas. Division of Plant Industry. Florida Department of Agriculture and Consumer Services. Gainesville, Florida. 670 pp.
+
+* Robinson GS, Ackery PR, Kitching IJ, Beccaloni GW & Hernández LM (2010) HOST - A database of the world's Lepidopteran hostplants. Natural History Museum, London. https://www.nhm.ac.uk (Accessed on 7 December 2020 and 21 March 2021)"
+Major host,PSECOB,Pseudococcus viburni,

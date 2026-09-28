@@ -1,0 +1,52 @@
+type,EPPOCode,Pref_name,References
+Host,COSPFL,Anomis flava,
+Host,ANTHVE,Anthonomus vestitus,
+Host,APIOSL,Apion soleatum,
+Host,BEMITA,Bemisia tabaci (as Malvaceae),
+Host,CERTCA,Ceratitis capitata,"* Back EA, Pemberton CE (1918) The Mediterranean fruit fly in Hawaii. United States Department of Agriculture Bulletin 536,  119 pp."
+Host,CONHDE,Conotrachelus denieri,
+Host,CRODPL,Crocidosema plebejana,
+Host,HYLEPL,Delia platura,
+Host,DIABUN,Diabrotica undecimpunctata undecimpunctata,"* Clark SM, LeDoux DG, Seeno TN, Riley EG, Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada (Coleoptera: Megalopodidae, Orsodacnidae, Chrysomelidae, excluding Bruchinae). Coleopterists Society, Special Publication 2, 1-476.
+-------- Adult host."
+Host,DICHPU,Dichocrocis punctiferalis,
+Host,DIPACA,Diparopsis castanea,
+Host,DYSDCI,Dysdercus cingulatus,
+Host,DYSDFA,Dysdercus fasciatus,
+Host,DYSDPE,Dysdercus peruvianus,
+Host,DYSDPE,Dysdercus peruvianus (as Malvaceae),
+Host,EARIBI,Earias biplaga (as Malvaceae),
+Host,EARIIN,Earias insulana,
+Host,EARIVI,Earias vittella,
+Host,EUTIGO,Eutinobothrus gossypii,
+Host,GARGTO,Gargaphia torresi,"* Pinheiro RA, Cabral MJ, Aguilar VT, Freitas LS, Santos SV, Giordani SC, Souza PG, Santos JB, Zanuncio JC, Soares MA (2025) Phaseolus lunatus L., the new host of Gargaphia torresi Lima, 1922 (Hemiptera: Tingidae) in Brazil. Brazilian Journal of Biology 85, e289664. https://doi.org/10.1590/1519-6984.289664"
+Host,HORCNO,Horcias nobilellus,
+Host,EMPOLY,Jacobiasca lybica,"* Kouadio H, Kouakou M, Bini KK, Koffi KJ, Ossey CL, Kone PW, Adepo-Gourene AB, Ochou OG (2024) Annual and geographical variations in the specific composition of jassids and their damage on cotton in Ivory Coast. Scientific Reports 14(1), 2094. https://doi.org/10.1038/s41598-024-52127-y"
+Host,OXYAHY,Oxycarenus hyalinipennis,
+Host,OXYAHY,Oxycarenus hyalinipennis (as Malvaceae),
+Host,PECTGO,Pectinophora gossypiella,"* Madhu TN, Muralimohan K, Naik VC, Yadav DK (2025) Widespread distribution and infestation of pink bollworm, Pectinophora gossypiella (Saunders)(Lepidoptera: Gelechiidae), in Bt cotton growing regions of India. Crop Protection 195, 107257."
+Host,PECTGO,Pectinophora gossypiella (as Malvaceae),
+Host,PLAYSC,Pectinophora scutigera,
+Host,PLAYSC,Pectinophora scutigera (as Malvaceae),
+Host,PLAYSU,Platyedra subcinerea,
+Host,PSEAPE,Pseudaulacaspis pentagona,"* García Morales M, Denno BD, Miller DR, Miller GL, Ben-Dov Y, Hardy NB (2016) ScaleNet: A literature-based model of scale insect biology and systematics. Database. doi: 10.1093/database/bav118. http://scalenet.info [accessed 2026-02].
+
+* Miller DR & Davidson JA (2005) Armored Scale Insect Pests of Trees and Shrubs. Cornell Univ. Press Ithaca, NY 442 pp."
+Host,RICASC,Ricania speculum,
+Host,ROTYRE,Rotylenchulus reniformis,"* Faske TR, Kandel Y, Allen TW, Grabau ZJ, Hu J, Kemerait RC, Lawrence GW, Lawrence KS, Mehl HL, Overstreet C, Thiessen LD (2022) Meta-Analysis of the Field Efficacy of Seed-and Soil-Applied Nematicides on Meloidogyne incognita and Rotylenchulus reniformis Across the US Cotton Belt. Plant Disease 106(8), 2228-2238."
+Host,SCITAU,Scirtothrips aurantii,"* Mound LA, Palmer JM (1981) Identification, distribution and host-plants of the pest species of Scirtothrips (Thysanoptera: Thripidae). Bulletin of Entomological Research 71, 467-479."
+Host,SPODLI,Spodoptera littoralis,"* Abdel-Salam FA, Elbadry EA, Abo Elghar MR, Hassan SM, Asal MA (1971) The effect of four host plants on the pupal development and adult fecundity of the cotton leafworm Spodoptera littoralis (Boisd.). Zeitschrift fur Angewandte Entomologie 68(3), 326-330."
+Host,SPODMA,Spodoptera mauritia,
+Host,TETRME,Tetranychus mexicanus,"* Ochoa R, Aguilar H & Vargas C (1994) Phytophagous mites of America Central: an illustrated guide. CATIE.
+
+* Aranda B & Flechtman C (1971) A report on the Tetranychidae of Paraguay. Proceedings of the Entomological Society of Washington, 73, 29–33."
+Host,TETRPA,Tetranychus pacificus,
+Host,ARGPLE,Thaumatotibia leucotreta,"* Reed W (1974) The false codling moth, Cryptophlebia leucotreta Mayr. (Lepidoptera: Olethreutidae) as a pest of cotton in Uganda. Cotton Growing Review 51: 213-225.
+
+* Hamburger M, Zarabi L, Weiss M, Argaman Q, Kuslitzky W & Klein K (2001) False codling moth (Cryptophlebia leucotreta) in Israel. Phytoparasitica, 29(1): 84-84."
+Host,TYLRCL,Tylenchorhynchus claytoni,
+Host,ZEUZCO,Zeuzera coffeae,
+Major host,EMPOBI,Amrasca biguttula,"* Esquivel I, Bryant T, Malone S, Jacobson AL, Graham SH, Gimenez-Cremonez PS, Roberts P, Paula-Moreas S, Reisig D, Huseth A, Greene J (2025) First report of two-spot cotton leafhopper (Amrasca biguttula Ishida)(Hemiptera: Cicadellidae) on commercial cotton in the southeastern United States. Insects 16(9), 966. https://doi.org/10.3390/insects16090966 "
+Wild/Weed,DYSDCI,Dysdercus cingulatus (as Malvaceae),"* Encarnacion DT (1970) Biology of the cotton stainer, Dysdercus cingulatus Fabricius (Pyrrhocoridae, Hemiptera). Philippine Entomologist, 1(5), 341-349"
+Wild/Weed,SACAPY,Sacadodes pyralis,
+Wild/Weed,SACAPY,Sacadodes pyralis (as Malvaceae),

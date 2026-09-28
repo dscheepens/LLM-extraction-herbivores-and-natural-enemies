@@ -1,0 +1,35 @@
+type,EPPOCode,Pref_name,References
+Host,AREAM,Arceuthobium americanum,
+Host,AREDO,Arceuthobium douglasii,
+Host,ARELA,Arceuthobium laricis,
+Host,AREPU,Arceuthobium pusillum,
+Host,BEASTY,Beastie the Bug (as Pinales),
+Host,PHECPI,Chionaspis pinifoliae,"* INTERNET
+ScaleNet. Chionaspis pinifoliae. http://scalenet.info/catalogue/Chionaspis%20pinifoliae/"
+Host,CHONFU,Choristoneura fumiferana,"* Furniss RL, Carolin VM (1977) Western Forest Insects. USDA , Forest Service Miscellaneous Publication no. 1339, 654 pp."
+Host,DENCRU,Dendroctonus rufipennis,
+Host,GNAHSU,Gnathotrichus sulcatus (as Pinaceae),"* Furniss RL, Carolin VM (1977) Western forest insects (Scolytidae, Platypodidae). Miscellaneous Publications, United States Department of Agriculture, Forest Service No. 1339, pp. 1-654"
+Host,IPSXHA,Ips hauseri,"* Douglas HB, Cognato AI, Grebennikov V, Savard K (2019) Dichotomous and matrix-based keys to the Ips bark beetles of the World (Coleoptera: Curculionidae: Scolytinae). Canadian Journal of Arthropod Identification 38, 234 pp. http://cjai.biologicalsurvey.ca/dcgs_38/factsheets/Ips_hauseri.pdf"
+Host,IPSXFA,Ips subelongatus,
+Host,MONCGA,Monochamus galloprovincialis,
+Host,MONCIM,Monochamus impluviatus,"* Pavlovskii EN, Shtakelberg AA (Eds.) (1955) Forest pests. Guide. V 2, p. 422–1097. Publishing House of the Academy of Sciences of the USSR, Moscow-Leningrad (URSS) (in Russian). 
+
+* Plavilshchikov NN (1958) Monochamus impluviatus Motsch. Siberian speckled sawyer. In Fauna of the USSR. Coleoptera. V. XXIII. Part I. Longhorn Beetles. Part 3. Sub-family Lamiinae. Part I., pp. 526–528. Nauka Publishing House, Leningrad (URSS) (in Russian).  "
+Host,MONCMR,Monochamus marmorator,"* Akbulut S, Stamps WT (2012) Insect vectors of the pinewood nematode: a review of the biology and ecology of Monochamus species. Forest Pathology 42(2), 89-99. https://doi.org/10.1111/j.1439-0329.2011.00733.x"
+Host,MONCNI,Monochamus nitens,"* Akbulut S, Togashi K & Linit MJ (2017) Cerambycids as plant disease vectors with special reference to pine wilt. In Cerambycidae of the world, pp. 209-252. CRC Press, Boca Raton, Florida."
+Host,MONCST,Monochamus scutellatus,"* Monné MA, Nearns EH (2021) Catalogue of the Cerambycidae (Coleoptera) of Canada and United States of America. Part IV. Subfamily Lamiinae. https://cerambycids.com/catalog/Monne&Nearns_2021_NearcticCat_part_IV.pdf"
+Host,MONCSU,Monochamus sutor,"* Lim J, Jung S-Y, Lim J-S, Jang J, Kim K-M, Lee Y-M, Lee B-W (2014) A review of host plants of Cerambycidae (Coleoptera: Chrysomeloidea) with new host records for fourteen Cerambycids, including the Asian longhorn beetle (Anoplophora glabripennis Motschulsky), in Korea. Korean Journal of Applied Entomology 53(2), 111-133."
+Host,MONCTI,Monochamus titillator,"* Akbulut S, Stamps WT (2012) Insect vectors of the pinewood nematode: a review of the biology and ecology of Monochamus species. Forest Pathology 42(2), 89-99. https://doi.org/10.1111/j.1439-0329.2011.00733.x
+
+* Duffy EAJ (1960) A monograph of the immature stages of neotropical timber beetles. London: British Museum (Natural History), 327 pp."
+Host,PRISAB,Pristiphora abietina,
+Host,SIRXNO,Sirex noctilio,
+Host,TETOGR,Tetropium gracilicorne,
+Host,HESOCA,Trichoferus campestris,"* Iwata R & Yamada F (1990) Notes on the biology of Hesperophanes campestris, a drywood borer in Japan. Material und Organismen 25, 305–313.
+------- Living host."
+Major host,BURSMU,Bursaphelenchus mucronatus,
+Major host,MONCSL,Monochamus saltuarius,"* Lim J, Jung S-Y, Lim J-S, Jang J, Kim K-M, Lee Y-M, Lee B-W (2014) A review of host plants of Cerambycidae (Coleoptera: Chrysomeloidea) with new host records for fourteen Cerambycids, including the Asian longhorn beetle (Anoplophora glabripennis Motschulsky), in Korea. Korean Journal of Applied Entomology 53(2), 111-133."
+Major host,MONCUR,Monochamus urussovii,
+Major host,HEMELE,Orgyia leucostigma,"* Heppner JB (2003) Lepidoptera of Florida. Part 1. Introduction and catalog. Volume 17 of Arthropods of Florida and neighboring land areas. Division of Plant Industry. Florida Department of Agriculture and Consumer Services. Gainesville, Florida. 670 pp
+
+* Maier CT, Lemmon CR, Fengler JM, Schweitzer DF, Reardon RC, (2004) Caterpillars on the Foliage of Conifers in the Northeastern United States. Morgantown, WV. USDA Forest Service. Forest Health Technology Enterprise Team Connecticut Agricultural Experiment Station. FHTET-2004-01. March 2004. 151 p."

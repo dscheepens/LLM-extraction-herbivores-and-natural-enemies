@@ -1,0 +1,113 @@
+type,EPPOCode,Pref_name,References
+Doubtful host,APLOFR,Aphelenchoides fragariae,"The only reference mentionning Allium cepa association with A. fragariae is:
+Peroche NB, Villaneuva LM, Waele DD (2013) Plant-parasitic nematodes associated with semi-temperate vegetables in the highlands of Benguet Province, Philippines. Archives of phytopathology and plant protection (3), 278-294.
+However, they mention that A. fragariae was detected in low frequencies in the rhizosphere of onion and attribute this finding to the previous cultivation of the host plant strawberry."
+Host,ACROAS,Acrolepiopsis assectella (as Allium),
+Host,ATHEOR,Atherigona orientalis,"* Sabra IM (2012) Effect of some practices on onion bulb pests in Fayoum governorate. Egyptian Journal of Agricultural Research 90(2), 597-604."
+Host,HYLEAN,Delia antiqua (as Allium),
+Host,HYLEFG,Delia florilega,"* Salgado LD, Hesler N, Vetrovec O, Grundberg E, Wilson RG, McDonald MR, Waters TD, Reitz S, Nault BA (2026) Composition and relative abundance of Delia spp. (Diptera: Anthomyiidae) infesting onions in selected onion-producing regions. Environmental Entomology 55(2), nvag015."
+Host,DELIHI,Delia hirticrura (as Allium),
+Host,HYLEPL,Delia platura (as Allium),
+Host,DITYDI,Ditylenchus dipsaci,"* Andaloussi FA, Bachikh J (2001) Studies on the host range of Ditylenchus dipsaci in Morocco. Nematologia Mediterranea 29, 51-57.
+
+* Hooper D.J (1972) Ditylenchus dipsaci. CIH Descriptions of Plant-parasitic Nematodes Set 1, No. 14.
+
+* Poirier S, Dauphinais N, Van Der Heyden H, Véronneau PY, Bélair G, Gravel V, Mimee B (2019) Host range and genetic characterization of Ditylenchus dipsaci populations from eastern Canada. Plant Disease 103(3), 456-460.
+
+* Yavuzaslanoglu E, Ates Sonmezoglu O, Genc N, Akar Z, Terzi B (2018) Molecular characterization of Ditylenchus dipsaci on onion in Turkey. European Journal of Plant Pathology 151(1), 195-200.
+
+* Goodey JB, Franklin MT, Hooper DJ (1965) T. Goodey's: The Nematode Parasites of Plants Catalogued Under Their Hosts. Commonwealth Agricultural Bureaux, Farnham Royal, Bucks, England. Third edition, 214 pp."
+Host,DYSPUL,Dyspessa ulula (as Allium),
+Host,FRANOC,Frankliniella occidentalis,
+Host,FRANOC,Frankliniella occidentalis (as Allium),"* Porta B, Vosman B, Visser RG, Galván GA, Scholten OE (2023) Genetic diversity of thrips populations on Allium species around the world. Plos one 18(8), e0289984. https://doi.org/10.1371/journal.pone.0289984
+"
+Host,HELIAR,Helicoverpa armigera,"* Cunningham JP, Zalucki MP (2014) Understanding heliothine (Lepidoptera: Heliothinae) pests: what is a host plant? Journal of Economic Entomology 107, 881–896."
+Host,LIRIHU,Liriomyza huidobrensis,"* Andersen A, An TTT, Nordhus E (2008) Distribution and importance of polyphagous Liriomyza species (Diptera: Agromyzidae) in vegetables in Vietnam. Norwegian Journal of Entomology 55, 149-164.
+
+* Echevarria A, Gimeno C, Jimenez R (1994) Liriomyza huidobrensis (Blanchard, 1926) (Diptera: Agromyzidae) una nueva plaga en cultivos valencianos. Boletin de Sanidad Vegetal. Plagas 20, 103-109.
+
+* Foba CN, Salifu D, Lagat ZP, Gitonga LM, Akutse KS, Fiaboe KKM (2015) Species composition, distribution and seasonal abundance of Liriomyza leafminers (Diptera: Agromyzidae) under different vegetable production systems and agroecological zones in Kenya. Environmental Entomology 44, 223-232.
+------- Confirmed host. Reared from infested leaves collected in the field.
+
+* Hidalgo JE, Carballo VM (1991) Influence of weeds on the natural control agents of Liriomyza huidobrensis (Blanchard), (Diptera: Agromyzidae). Manejo Integrado de Plagas 20-21, 49-54.
+
+* Korytkowski C (1982) Contribución al conocimiento de los Agromyzidae (Diptera: Acalyptratae) en el Perú. MS Thesis, Universidad Nacional Agraria, La Molina, Lima, 237 pp.
+------- Allium cepa aggregatum.
+
+* Kuhnke KH, Wulfert I, Opitz B (1998) The ability to survive outdoors of Liriomyza huidobrensis. Gesunde Pflanzen 50, 129-132.
+
+* Osorio A, Torres A, de la Riva F (1983) Tomato production (Lycopersicon esculentum, Mill) irrigated with drip, furrow and ‘Caracol’ methods, in the Azapa Valley, Chile. IDESia (Chile) 7, 15-24.
+
+* Pang BP, Gao JP, Zhou XR, Wang J (2006) Relationship between host plant preference of Liriomyza huidobrensis (Blanchard) (Diptera: Agromyzidae) and secondary plant compounds and trichomes of host foliage. Acta Entomologica Sinica 49, 810-815.
+
+* Rauf A, Shepard BM, Johnson MW (2000) Leafminers in vegetables, ornamental plants and weeds in Indonesia: surveys of host crops, species composition and parasitoids. International Journal of Pest Management 46, 257-266.
+------- Allium cepa aggregatum. Confirmed host. Reared from infested leaves collected in the field.
+
+* Scheffer SJ, Lewis ML, Joshi RC (2006) DNA barcoding applied to invasive leafminers (Diptera: Agromyzidae) in the Philippines. Annals of the Entomological Society of America 99, 204-210.
+
+* Shiao SF, Wu WJ (2000) Liriomyza huidobrensis (Blanchard), a newly invaded insect of economic importance to Taiwan (Diptera: Agromyzidae). Plant Protection Bulletin Taipei 42, 249-254.
+
+* Spencer KA (1973) Agromyzidae (Diptera) of economic importance. Series Entomologica Volume 9. Dr. W. Junk B.V. The Hague, The Netherlands. 418 pp.
+
+* Verjel-Manzano L, Mejia-Florez LA (2000) Desarrollo de los sistemas de produccion cebolla de bulbo (Ocanera) e frijol rosado o Zaragoza mediante una agricultura organica libre de agroquimicos. Seminario de Entrega de Resultados para una Agricultura Sostenible en Santander, Norte de Santander y Boyaca (Bucaramanga, CO, 1998-11-27).
+
+* Weintraub PG, Scheffer SJ, Visser D, Valladares G, Soares Correa A, Shepard BM, Rauf A, Murphy ST, Mujica N, MacVean C, Kroschel J (2017) The invasive Liriomyza huidobrensis (Diptera: Agromyzidae): understanding its pest status and management globally. Journal of Insect Science 17(1), 1-27. https://doi.org/10.1093/jisesa/iew130"
+Host,LIRITR,Liriomyza trifolii,"* Spencer KA (1973) Agromyzidae (Diptera) of economic importance. Series Entomologica Volume 9. Dr. W. Junk B.V. The Hague, The Netherlands. 418 pp."
+Host,MELGCH,Meloidogyne chitwoodi,"* O’Bannon JH, Santo GS, Nyczepir AP (1982) Host range of the Columbia root-knot nematode. Plant Disease 66, 1045-1048."
+Host,MELGMY,Meloidogyne enterolobii,"* Poudel N, Davis RF, McAvoy T, Dutta B, Chowdhury IA (2025) Reproduction of Meloidogyne enterolobii on onion and potential yield suppression. Journal of Nematology 57(1), 20250005. https://doi.org/10.2478/jofnem-2025-0005
+------- confirmed host. "
+Host,MELGEX,Meloidogyne exigua,
+Host,MELGGC,Meloidogyne graminicola,"* Nguyen TH, Masson AS, Moulin L, Trinh QP, Ha VC, Bellafiore S (2020) Root knot nematode infections promoted by agricultural practice modifications in Vietnam and the impacts on rice production. Academia Journal of Biology, 42, 31-42. 
+------- confirmed host (reproduction factor = 3.96)
+
+* Rusinque L, Maleita C, Abrantes I, Palomares-Rius JE, Inácio ML (2021) Meloidogyne graminicola - A threat to rice production: review update on distribution, biology, identification, and management. Biology 10, 1163. https://doi.org/10.3390/biology10111163"
+Host,MELGLC,Meloidogyne luci,"* Sen F, Aydinli (2021) Host status of cultivated crops to Meloidogyne luci. European Journal of Plant Pathology 161(3), 607-618.
+------- In experiments, cv. Bt Depocu was found to be a poor host.
+
+* Strajnar P, Širca S, Geric Stare B & Urek G (2009) Characterization of the root-knot nematode, Meloidogyne ethiopica Whitehead, 1968, from Slovenia. Russian Journal of Nematology 17, 135-142.
+-------As Allium cepa var. cepa."
+Host,MELGNA,Meloidogyne naasi,
+Host,GRAGLE,Naupactus leucoloma,"* Lanteri AA, Marvaldi AE, Suárez SM (2002) Gorgojos de la Argentina y sus plantas huéspedes. Tomo I: Apionidae y Curculionidae. Publicación Especial de la Sociedad Entomológica Argentina 1, 98 pp."
+Host,PHAEBR,Phaedon brassicae,
+Host,PHLYCA,Phlyctinus callosus,"* PPIN (2020); Plant Pest Information Network Database. https://www.mpi.govt.nz/news-and-resources/resources/registers-and-lists/plant-pest-information-network/
+------- larvae and adults."
+Host,NAPOGY,Phytomyza gymnostoma,"* Nault BA, Sandhi RK, Harding RS, Grundberg EA, Rusinek T (2022) Optimizing Spinosyn Insecticide Applications for Allium Leafminer (Diptera: Agromyzidae) Management in Allium Crops. Journal of Economic Entomology 115(2), 618-623."
+Host,PRDILO,Prodiplosis longifila,"* Dhileepan K, Neser S, Rumiz D, Raman A, Sharma A (2017) Host associations of gall-inducing Prodiplosis longifila (Diptera: Cecidomyiidae) from Bolivia: Implications for its use as a biological control agent for Jatropha gossypiifolia (Euphorbiaceae). Florida Entomologist, 100(4), 777-786.
+
+* Diaz-Silva F (2011) [Agroecological aspects for the integrated management of Prodiplosis longifila Gagné in the irrigation of Chavimochic]. Escuela de Ciencias Biológicas, Universidad de Trujillo, Trujillo, PERU (in Spanish)."
+Host,SCITDO,Scirtothrips dorsalis,"* Ananthakrishnan TN (1984) Bioecology of thrips. India  Publishing House, Oak Park, Michigar, 223 pp."
+Host,PRODER,Spodoptera eridania,"* Montezano DG, Specht A, Sosa-Gomez DR, Roque-Specht VF & de Barros NM (2014) Immature stages of Spodoptera eridania (Lepidoptera: Noctuidae): developmental parameters and host plants. Journal of Insect Science 14, 238. https://doi.org/10.1093/jisesa/ieu103"
+Host,LAPHFR,Spodoptera frugiperda,"* Cokola MC, Ndjadi SS, Bisimwa EB, Ahoton LE, Francis F (2021) First report of Spodoptera frugiperda (Lepidoptera: Noctuidae) on onion (Allium cepa L.) in South Kivu, Eastern DR Congo. Revista Brasileira de Entomologia 65(1), e20200083. https://doi.org/10.1590/1806-9665-rbent-2020-0083
+
+* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300."
+Host,SPODLI,Spodoptera littoralis,"* Prasad J, Bhattacharya AK (1975) Growth and development of Spodoptera littoralis (Boisd.) (Lepidoptera, Noctuidae) on several plants. Zeitschrift für Angewandte Entomologie 79, 34-48."
+Host,PRODLI,Spodoptera litura,"* Ahmad M, Ghaffar A, Rafiq M (2013) Host plants of leaf worm, Spodoptera litura (Fabricius)(Lepidoptera: Noctuidae) in Pakistan. Asian Journal of Agriculture and Biology 1(1), 23-28."
+Host,PRODOR,Spodoptera ornithogalli,"* Brito R, Specht A, Gonçalves GL, Moreira GRP, Carneiro E, Santos FL, Roque-Specht VF, Mielke OHH, Casagrande MM (2019) Spodoptera marima: a new synonym of Spodoptera ornithogalli (Lepidoptera: Noctuidae), with notes on adult morphology, host plant use and genetic variation along its geographic range. Neotropical Entomology 48(3), 433-448.
+
+* Capinera JL (2017) Yellowstriped Armyworm, Spodoptera ornithogalli (Guenée) (Insecta: Lepidoptera: Noctuidae). Department of Entomology and Nematology, University of Florida /IFAS Extension, EENY216, 4p. https://edis.ifas.ufl.edu/pdffiles/IN/IN37300.pdf
+
+* Coto D, Saunders JL, Vargas-S CL, King ABS (1995) Plagas invertebradas de cultivos tropicales con énfasis em América Central-Um invetário. Turrialba, CATIE, 200 pp.
+
+* Crumb SE (1929) Tobacco cutworms. USDA Technical Bulletin 88, p 179.
+
+* Heppner JB (2007) Lepidoptera of Florida. Part 1. Introduction and catalog. Gainesville, Florida Department of Agriculture & Consumer Services, p 670.
+
+* Poveda BD, Schwitzer DA (1964) Estudio biológico del Prodenia ornithogalli Guen. y del Prodenia sunia (Guen.) en três hospedeiros. Acta Agronômica 14(1), 71-101.
+
+* Robinson GS, Ackery PR, Kitching IJ, Beccaloni GW, Hernández LM (2010) HOSTS - A Database of the World's Lepidopteran Hostplants. Natural History Museum, London. http://www.nhm.ac.uk/hosts
+
+* Tietz HM (1972) An index to the described life histories, early stages and hosts of the Macrolepidoptera of the continental United States and Canada, 536 pp."
+Host,PRODPR,Spodoptera praefica,"* Robinson GS, Ackery PR, Kitching IJ, Beccaloni GW & Hernández LM (2010) HOSTS - A database of the World's lepidopteran hostplants. Natural History Museum, London. http://www.nhm.ac.uk/hosts"
+Host,THRIPL,Thrips palmi,"* Duran IC, Mesa NC, Estrada EI (1999) [Life cyle of Thrips palmi (Thysanoptera: Thripidae) and host plant registered in the Cauca Valley]. Revista Colombiana de Entomologia 25(3/4), 109-120 (in Spanish).
+
+* Elizondo AI, Murguido CA, Pérez I, Piedra F, Peña E, Martínez M, Martell M, de los Ángeles Fernández M, Sariol H, Rodríguez S, Jiménez R, Granda G, Palacios F (2003) Thrips palmi Karny en la agricultura cubana. Fitosanidad 7(2), 1-9.
+
+* Seal DR (2004) Management of melon thrips, Thrips palmi Karny (Thysanoptera: Thripidae): an integrated approach using chemical, cultural, and biological agents. Proceedings of the Florida State Horticultural Society 117, 63-68."
+Host,THRIPV,Thrips parvispinus,"* Saini S, Raj K, Saini AK, Kumar R, Saini A, Khan A, Kumar P, Devi G, Bhambhu MK, McKenzie CL, Lal M (2024) Unravelling the synergistic interaction of Thrips tabaci and newly recorded, Thrips parvispinus with Alternaria porri (Ellis.) Cif., inciting onion purple blotch. Frontiers in Microbiology 15, 1321921. https://doi.org/10.3389/fmicb.2024.1321921"
+Major host,ACROAS,Acrolepiopsis assectella,
+Major host,APLOBE,Aphelenchoides besseyi,"* Bridge J, Plowright RA, Peng D (2005) Nematode parasites of rice. In: Plant parasitic nematodes in subtropical and tropical agriculture (eds Luc M, Sikora RA, Bridge J), pp. 87-130."
+Major host,TRIZTE,Bactericera tremblayi,"* Kazemi MH, Jafarloo MM (2008) Laboratory investigation of the biology of Bactericera tremblayi Wag. (Homoptera: Triozidae) a new pest in onion ﬁelds of Iran. American Journal of Agricultural and Biological Sciences 3, 686–688."
+Major host,BRCCAB,Brachycerus albidentatus,
+Major host,HYLEAN,Delia antiqua,"* Salgado LD, Hesler N, Vetrovec O, Grundberg E, Wilson RG, McDonald MR, Waters TD, Reitz S, Nault BA (2026) Composition and relative abundance of Delia spp. (Diptera: Anthomyiidae) infesting onions in selected onion-producing regions. Environmental Entomology 55(2), nvag015."
+Major host,HYLEPL,Delia platura,"* Salgado LD, Hesler N, Vetrovec O, Grundberg E, Wilson RG, McDonald MR, Waters TD, Reitz S, Nault BA (2026) Composition and relative abundance of Delia spp. (Diptera: Anthomyiidae) infesting onions in selected onion-producing regions. Environmental Entomology 55(2), nvag015."
+Major host,NEOTFO,Neotoxoptera formosana,

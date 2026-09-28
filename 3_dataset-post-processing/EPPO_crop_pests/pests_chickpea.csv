@@ -1,0 +1,59 @@
+type,EPPOCode,Pref_name,References
+Doubtful host,HIRSOR,Hirschmanniella oryzae,"* Prasad JS, Panwar MS, Rao YS (1987) Nematode problems of rice in India. International Journal of Pest Management 33, 127-136.
+------- 'Collected from', but it is not specified whether the nematode was found in the roots or in the soil."
+Doubtful host,LEUIOR,Leucinodes orbonalis,"* EFSA Plant Health Panel (2024) Pest risk assessment of Leucinodes orbonalis for the European Union.  EFSA Journal 22(3), e8498. doi 10.2903/j.efsa.2024.8498
+-------  mentions 1 literature reference considering this plant as host. No confirmed feeding or confirmed completion of life cycle. ""Records of L. orbonalis on non-Solanaceae host plants appear to be incidental, and the species is unlikely to complete its life cycle on these plants"""
+Experimental,MELGMY,Meloidogyne enterolobii,"* Bernardes Neto JF, Pinheiro JB, Silva GO, Biscaia D, Macedo AG, Silva PP, Nascimento WM (2019) Reação de genótipos de grão-de-bico aos nematoides-das-galhas Meloidogyne incognita raça 1 e Meloidogyne enterolobii (Reaction of chickpea genotypes to root-knot nematodes Meloidogyne incognita race 1 and Meloidogyne enterolobii). Revista Agraria Academica 2, 63-70."
+Host,CHRXER,Chrysodeixis eriosoma,
+Host,DITYDI,Ditylenchus dipsaci,"* Andaloussi FA, Bachikh J (2001) Studies on the host range of Ditylenchus dipsaci in Morocco. Nematologia Mediterranea 29, 51-57.
+
+* Behmand T, Berger J, Elekci̇oğlu İH, Aydogan A, Kahraman A (2022) Molecular identification and population dynamics of the stem and bulb nematode Ditylenchus dipsaci species on chickpea in Turkey. Phytoparasitica 50(4), 823-835."
+Host,HELIAR,Helicoverpa armigera,"* Cunningham JP, Zalucki MP (2014) Understanding heliothine (Lepidoptera: Heliothinae) pests: what is a host plant? Journal of Economic Entomology 107, 881–896."
+Host,HELIZE,Helicoverpa zea,"* Blanco CA, Terán-Vargas AP, López Jr JD, Kauffman JV, Wei X (2007) Densities of Heliothis virescens and Helicoverpa zea (Lepidoptera: Noctuidae) in three plant hosts. Florida Entomologist 90(4), 742-750."
+Host,HETDGL,Heterodera glycines,"* Borges Pinheiro J, Olegario da Silva G, Gomes Macêdo A, Gomes de Jesus J, Raulino L, da Cruz Magalhães C, Biscaia D, de Castro e Melo RA, Pereira da Silva P, Nascimento WM (2021) Population dynamics of the nematodes Heterodera glycines and Pratylenchus brachyurus in a succession crop of soybean and chickpea. Agronomía Colombiana 39(3),337-342.
+-------- Non-host for race 5.
+
+* Poromarto SH, Gramig GG, Nelson BD,  Jain S (2015) Evaluation of weed species from the Northern Great Plains as hosts of soybean cyst nematode. Plant Health Progress 16, 23-28.
+------- Poor host for race 3."
+Host,LIRIHU,Liriomyza huidobrensis,"* Andersen A, An TTT, Nordhus E (2008) Distribution and importance of polyphagous Liriomyza species (Diptera: Agromyzidae) in vegetables in Vietnam. Norwegian Journal of Entomology 55, 149-164.
+
+* Avalos DS, Ricobelli G, Palacios SM, Defago MT (2013) Assessment of preference Liriomyza spp. in different chickpea genotypes and effect of Melia azedarach L. extract: preliminary results. Revista de la Facultad de Ciencias Agrarias de la Universidad Nacional de Cuyo 45(2), 65-73.
+
+* Echevarria A, Gimeno C, Jimenez R (1994) Liriomyza huidobrensis (Blanchard, 1926) (Diptera: Agromyzidae) una nueva plaga en cultivos valencianos. Boletin de Sanidad Vegetal. Plagas 20, 103-109.
+
+* Koch CK, Waterhouse DF (2000) The distribution and importance of arthropods associated with agriculture and forestry in Chile. ACIAR Monograph no. 68, 234 pp."
+Host,LIRISA,Liriomyza sativae,"* Medina R, Partida L, Palacios RE, Ail CE, Díaz T, Velázquez TJ (2014) First Report of Liriomyza sativae (Diptera: Agromizidae) Mining the Leaves of Cicer arietinum. Southwestern Entomologist 39(1), 197-199.
+
+* Mujica M, Kroschel J (2011) Leafminer fly (Diptera: Agromyzidae) occurrence, distribution, and parasitoid associations in field and vegetable crops along the Peruvian coast. Environmental Entomology 40, 217-230."
+Host,MEGTUS,Megalurothrips usitatus,"* Sartiami D, Mound LA (2013) Identification of the terebrantian thrips (Insecta, Thysanoptera) associated with cultivated plants in Java, Indonesia. ZooKeys 306, 1–21. https://doi.org/10.3897/zookeys.306.5455
+------- Collected from this plant in Java (Indonesia)."
+Host,MELGLC,Meloidogyne luci,"* Sen F, Aydinli (2021) Host status of cultivated crops to Meloidogyne luci. European Journal of Plant Pathology 161(3), 607-618.
+------- In experiments, cv. San 98 was found to be a good host.
+
+* Kefelegn H, Couvreur M, Meressa BH, Wesemael WM, Teklu MG, Bert W (2025) First report of the root-knot nematode, Meloidogyne luci parasitizing chickpea (Cicer arietinum L.) in Ethiopia. Plant Disease (early view) https://doi.org/10.1094/PDIS-01-25-0096-PDN 
+------natural infection
+"
+Host,GRAGLE,Naupactus leucoloma,"* Lanteri AA, Marvaldi AE, Suárez SM (2002) Gorgojos de la Argentina y sus plantas huéspedes. Tomo I: Apionidae y Curculionidae. Publicación Especial de la Sociedad Entomológica Argentina 1, 98 pp."
+Host,PRODER,Spodoptera eridania,"* Montezano DG, Specht A, Sosa-Gomez DR, Roque-Specht VF & de Barros NM (2014) Immature stages of Spodoptera eridania (Lepidoptera: Noctuidae): developmental parameters and host plants. Journal of Insect Science 14, 238. https://doi.org/10.1093/jisesa/ieu142"
+Host,LAPHFR,Spodoptera frugiperda,"* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300."
+Host,PRODOR,Spodoptera ornithogalli,"* Brito R, Specht A, Gonçalves GL, Moreira GRP, Carneiro E, Santos FL, Roque-Specht VF, Mielke OHH, Casagrande MM (2019) Spodoptera marima: a new synonym of Spodoptera ornithogalli (Lepidoptera: Noctuidae), with notes on adult morphology, host plant use and genetic variation along its geographic range. Neotropical Entomology 48(3), 433-448.
+
+* Coto D, Saunders JL, Vargas-S CL, King ABS (1995) Plagas invertebradas de cultivos tropicales con énfasis em América Central-Um invetário. Turrialba, CATIE, 200 pp."
+Host,TRIHVI,Trichodorus viruliferus,
+Host,TROGGA,Trogoderma granarium,"* Athanassiou CG, Phillips TW, Wakil W (2019) Biology and Control of the Khapra Beetle, Trogoderma granarium, a Major Quarantine Threat to Global Food Security. Annual Review of Entomology 64, 131-148. Supplemental Table 1.
+
+* Global Invasive Species Database (2025) Species profile: Trogoderma granarium. http://www.iucngisd.org/gisd/species.php?sc=142 (27-02-2025)."
+Major host,HELIVI,Chloridea virescens,"* Alvarez Hernández U, Pérez García L, González Pérez M, Cruz Limonte A, Gómez Sousa J, Alvarez Medero JM (2010) Biología de Heliothis virescens (Fabricius) en garbanzo (Cicer arietinum L.). Centro Agrícola 37(3), 89-92.
+
+* Blanco CA, Terán-Vargas AP, López JD, Kauffman JV, Wei X (2007) Densities of Heliothis virescens and Helicoverpa zea (Lepidoptera: Noctuidae) in three plant hosts. Florida Entomologist 90(4), 742-750.
+
+* Borella Júnior C, Correa F, Silva AR, Siqueira APS, Nascimento WM, Almeida ACS, Jesus FG (2022) Resistance of chickpea cultivars to Chloridea virescens (Lepidoptera: Noctuidae). Acta Scientiarum - Agronomy 44, e54619.
+
+* Kogan M, Helm CG, Kogan J, Brewer E (1989) Distribution and economic importance of Heliothis virescens and Heliothis zea in North, Central, and South America and of their Natural Enemies and Host Plants. pp 241-297 In Proceedings of the Workshop on Biological Control of Heliothis: Increasing the effectiveness of natural enemies. USDA.
+
+* Pérez JC, Suris M (2012) Ciclo de vida y reproducción de Heliothis virescens (F.) (Lepidoptera: Noctuidae) sobre garbanzo. Rev. Protección Veg. 27(2), 85-89.
+------- true host
+
+* EPPO (2024) EPPO Technical Document No. 1091. Pest risk analysis for Chloridea virescens. EPPO, Paris. Available at https://gd.eppo.int/taxon/HELIVI/documents
+------- Main host (evidence that the plant supports populations of the pest in several generations or years, i.e. true hosts, or plant mentioned as common or preferred host – see PRA for further details on the host)
+"

@@ -1,0 +1,14 @@
+type,EPPOCode,Pref_name,References
+Host,BAGRHI,Bagrada hilaris (as Fabaceae),
+Host,BEMITA,Bemisia tabaci (as Fabaceae),
+Host,FRANCS,Frankliniella australis (as Fabaceae),
+Host,HELIZE,Helicoverpa zea,"* Matthews M (1991) Classification of the Heliothinae. Bulletin of the Natural Resources Institute No. 44. Natural Resources Institute, Chatham, UK."
+Host,LAMDBO,Lampides boeticus (as Fabaceae),
+Host,LEPLAU,Leptoglossus australis (as Fabaceae),
+Host,MARUTE,Maruca vitrata (as Fabaceae),
+Host,MEDYSU,Medythia suturalis (as Fabaceae),
+Host,PRODPR,Spodoptera praefica,"* Berry RE (1998) Western yellowstriped armyworm. Spodoptera praefica. Insects and Mites or Economic Importance in the Northwest. Oregon State University Bookstore, p 221 (online modified version). http://uspest.org/potato/wystriparmyworm.pdf
+
+* British Columbia Ministry of Agriculture. Western yellowstriped armyworm (Spodoptera praefica). https://rdno.civicweb.net/document/127358/western-yellowstriped-armyworm.pdf?handle=3CD053B4F8D54F9CBB93F8D6D5572C27"
+Host,DACUCU,Zeugodacus cucurbitae (as Fabaceae),
+Wild/Weed,MARGVI,Margarodes vitis (as Fabaceae),"* Giliomee J, de Klerk C & Watson GW (2022) 3.3.4 Margarodes spp. In: Encyclopedia of Scale Insect Pests (Eds Kondo T & Watson GW), pp. 69-73. CAB International, Wallingford (UK)."

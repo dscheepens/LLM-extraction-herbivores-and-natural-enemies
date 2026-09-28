@@ -1,0 +1,253 @@
+type,EPPOCode,Pref_name,References
+Doubtful host,CHRBMA,Chrysobothris mali,"* Burke HE (1929) The Pacific Flathead Borer. Technical Bulletin - United States Department of Agriculture, Washington D.C., (83).
+-------as P. gratissima
+
+* EPPO (2021) EPPO Technical Document No. 1083. Pest risk analysis for Chrysobothris femorata and C. mali. EPPO, Paris. Available at https://gd.eppo.int/taxon/CHRBMA/documents
+------- very uncertain host. Record relates only to the presence of adults, or the life stages are not indicated."
+Doubtful host,SCITCI,Scirtothrips citri,"* Alarcón-Utrera D, López-Lima D, Cerdán-Cabrera CR, Alvarado-Castillo G, Salinas-Castro A, Carrión G. (2025) Thrips (Insecta: Thysanoptera) species associated with avocado orchards in central Veracruz, Mexico. International Journal of Tropical Insect Science. 45(6), 3159-3167.
+------ found in infloresences."
+Experimental,RHYCPA,Rhynchophorus palmarum,"* Hagley EAC (1965) On the life history and habits of the palm weevil, Rhynchophorus palmarum. Annals of the Entomological Society of America 58(1), 22-28.
+------- Adult feeding on ripe fruit.
+
+* Wattanapongsiri A (1966) A revision of the genera Rhynchophorus and Dynamis. Department of Agricultural Science Bulletin, Bangkok, Thailand.
+"
+Host,ALECSN,Aleurocanthus spiniferus,"* Gillespie PS (2012) A review of the whitefly genus Aleurocanthus Quaintance & Baker (Hemiptera: Aleyrodidae) in Australia. Zootaxa 3252, 1-42."
+Host,ALECWO,Aleurocanthus woglumi,"* Dietz HF, Zetek J (1920) The blackfly of citrus and other subtropical plants. USDA Bulletin 885, 1-55.
+
+* Dubey AK, Ko CC (2012) Sexual dimorphism among species of Aleurocanthus Quaintance & Baker (Hemiptera: Aleyrodidae) in Taiwan, with one new species and an identification key. Zootaxa 3177, 1–23.
+
+* Shaw JG (1950) Hosts of the citrus blackfly in Mexico. United States Bureau of Entomology and Plant Quarantine. E-793, 3 pp."
+Host,ALEDDI,Aleurodicus dispersus,"* Boopathi T (2022) New host plants, natural enemy complex and newly distributed potential areas of exotic spiralling whitefly (Hemiptera: Aleyrodidae) in India. Phytoparasitica 50(2), 335-357."
+Host,ALEDDU,Aleurodicus dugesii,
+Host,ANSTFR,Anastrepha fraterculus,"* Putruele MTG (1996) Hosts for Ceratitis capitata and Anastrepha fraterculus in the northeastern Province of Entre Ríos, Argentina. In Fruit Fly Pests: A World Assessment of Their Biology and Management, BA McPheron & GJ Steck (Eds.), pp. 343–345. St. Lucie Press, Delray Beach, FL.
+
+* Rust EW (1918) Anastrepha fraterculus Wied. (Trypetidae)—A severe menace to the southern United States. Journal of Economic Entomology 11, 457–467.
+
+* Wille TJE (1952) Entomología Agrícola del Perú. Dirección General de Agricultura, Lima, 543 pp."
+Host,ANSTLU,Anastrepha ludens,"* Aluja M, Diaz-Fleisher F, Arredondo J (2004) Non-host status of Persea americana ‘Hass’ to Anastrepha ludens, Anastrepha obliqua, Anastrepha serpentina, and Anastrepha striata (Diptera: Tephritidae) in Mexico. Journal of Economic Entomology 97, 293-309.
+------- 'Hass' avocado is a NON-HOST.
+
+* Baker AC, Stone WE, Plummer CC, McPhail M (1944) A review of studies on the Mexican fruitfly and related Mexican species. USDA Miscellaneous Publications, 155 pp. 
+
+* Bush G (1957) Some notes on the susceptibility of avocados in Mexico to attack by the Mexican fruit fly. Journal of the Rio Grande Valley Horticultural Society 6, 75-95. 
+
+* Bush GL (1962) The cytotaxonomy of the larvae of some Mexican fruit flies in the genus Anastrepha (Tephritidae, Diptera). Psyche 69(3), 87-101. 
+
+* Stone A (1942) The fruitflies of the genus Anastrepha. USDA Miscellaneous Publications 439, 112 pp."
+Host,ANSTSE,Anastrepha serpentina,
+Host,ANSTSU,Anastrepha suspensa,"* Anonymous (1966) [Host records for Tephritidae]. United States Department of Agriculture Cooperative Economic Insect Report, 16, 32, 83, 225, 469, 498, 525, 556, 589, 652, 683, 712, 738, 818, 888, 965, 980, 1034, 1118, 1158. 
+------- Incidental host.
+
+* Swanson RW, Baranowski RM (1972) Host range and infestation by the Caribbean fruit fly, Anastrepha suspensa (Diptera: Tephritidae), in south Florida. Proceedings of the Florida State Horticultural Society, 271-273.
+------- Incidental host.
+
+* Weems HV Jr (1966) Caribbean fruit fly. Proceedings of the Florida State Horticulture Society 79, 401-405.
+------- Incidental host."
+Host,ANOLCN,Anoplophora chinensis (as Persea),"* Sjöman H, Östberg J & Nilsson J (2014) Review of host trees for the wood-boring pests Anoplophora glabripennis and Anoplophora chinensis: an urban forest perspective. Arboriculture & Urban Forestry 40(3), 143–164."
+Host,ATHEOR,Atherigona orientalis,"* Hibbard KL, Overholt WA, Cuda JP (2012) Pepper fruit fly Atherigona orientalis (Schiffner)(Insecta: Diptera: Muscidae). IFAS Extension. University of Florida EENY 5391.
+------- reared from fruit of this species in Florida. "
+Host,BCTRCB,Bactrocera carambolae,"* Allwood AJ, Chinajariyawong A, Drew RAI., Hamacek EL., Hancock DL., Hengsawad C, Jipanin JC, Jirasurat M, Kong Krong C, Kritsaneepaiboon S, Leong CTS, Vijaysegaran S (1999) Host plant records for fruit flies (Diptera: Tephritidae) in South East Asia. The Raffles Bulletin of Zoology suppl 7, 1-92.   
+
+* Liquido NJ, McQuate GT, Nakamichi KA, Kurashima RS, Birnbaum AL, Hanlin MA (2016) Provisional list of suitable host plants of carambola fruit fly, Bactrocera (Bactrocera) carambolae Drew & Hancock (Diptera: Tephritidae), Version 1.1. Available online at USDA Compendium of Fruit Fly Host Information (CoFFHI)."
+Host,BCTRCR,Bactrocera caryeae,"* Ramani S, David KJ, Viraktamath CA, Kumar ARV (2008) Identity and distribution of Bactrocera caryeae (Kapoor) (Insecta: Diptera: Tephritidae) - A species under the Bactrocera dorsalis complex in India. Biosystematica 2, 49-57."
+Host,DACUDO,Bactrocera dorsalis,"* Allwood AJ, Chinajariyawong A, Kritsaneepaiboon S, Drew RAI, Hamacek EL, Hancock DL, Hengsawad C, Jinapin JC, Jirasurat M, Krong CK, Leong CTS, Vijaysegaran S (1999) Host plant records for fruit flies (Diptera: Tephritidae) in Southeast Asia. The Raffles Bulletin of Zoology 47(7), 1-92.
+
+* Leblanc L (2022) The dacine fruit flies (Diptera: Tephritidae: Dacini) of Oceania. Insecta Mundi 0948, 1-167. https://journals.flvc.org/mundi/article/view/131965/135549"
+Host,BCTRKA,Bactrocera kandiensis,"* Tsuruta K, White IM, Bandara HMJ, Rajapakse H, Sundaraperuma SAH, Kahawatta SBMUC, Rajapakse GBJP (1997) A preliminary notes on the host-plants of fruit flies of the tribe Dacini (Diptera, Tephritidae) in Sri Lanka. Esakia 37, 149-160."
+Host,DACULA,Bactrocera latifrons,"* Hendrival H, Aryani DS, Saputri N (2020) Diversity and host range of fruit flies (Diptera: Tephritidae) in horticultural commodities in Lembah Seulawah District, Aceh Besar Regency, Aceh Province, Indonesia. Journal of Tropical Horticulture 3(1), 6-11. http://dx.doi.org/10.33089/jthort.v3i1.38
+------- confirmed host. 
+"
+Host,BCTRPA,Bactrocera passiflorae,"* Leblanc L (2022) The dacine fruit flies (Diptera: Tephritidae: Dacini) of Oceania. Insecta Mundi 0948, 1-167. https://journals.flvc.org/mundi/article/view/131965/135549."
+Host,DACUTR,Bactrocera tryoni,"* Hancock D, Hamacek EL, Lloyd AC, Elson-Harris MM (2000) The distribution and host plants of fruit flies (Diptera: Tephritidae) in Australia. Queensland Department of Primary Industries, 75 pp.
+
+* Leblanc L, Vueti ET, Drew AI, Allwood AJ (2012) Host plant records for fruit flies (Diptera: Tephritidae: Dacini) in the Pacific islands. Proceedings of the Hawaiian Society 44, 11-53."
+Host,DACUZO,Bactrocera zonata,"* Duyck PF, David P, Pavoine S, Quilici S (2008) Can host-range allow niche differentiation of invasive polyphagous fruit flies (Diptera: Tephritidae) in La Réunion? Ecological Entomology 33(4), 439-452."
+Host,BRVPYO,Brevipalpus yothersi,"* Beard JJ, Ochoa R, Braswell WE, Bauchan GR (2015) Brevipalpus phoenicis (Geijskes) species complex (Acari: Tenuipalpidae) – a closer look. Zootaxa 3944(1), 67 pp. DOI: 10.11646/zootaxa.3944.1.1"
+Host,TORTPR,Cacoecimorpha pronubana,"* Swirski E, Wysoki M, Izhar Y (1995) Avocado pests in Israel. Proceedings of The World Avocado Congress III, Israel, 419-428.
+
+* Waite GK, Barrera RM (2002) Insect and mite pests. In: Whiley AW, Schaffer B, Wolstenholm BN(eds.), The avocado: Botany, production and uses. CAB International, Wallingford (GB), 432 pp.
+
+* Wysoki M, Izhar Y (1976) The carnation leaf-roller Cacoecimorpha (Cacoecia) pronubana Huebner (Lepidoptera, Tortricidae) on avocado trees in Israel. Special Publication, Agricultural Research Organization, Israel. No. 65, 91-93."
+Host,CERTAN,Ceratitis anonae,"* INTERNET
+True Fruit Flies (Diptera: Tephritidae) of the Afrotropical Region. Ceratitis anonae. Specimens. http://projects.bebif.be/fruitfly/taxoninfo.html?id=56
+------- Confirmed host.
+
+* Nanga Nanga S, Hanna R, Fotso Kuate A, Fiaboe KK, Nchoutnji I, Ndjab M, Gnanvossou D, Mohamed SA, Ekesi S, Djieto-Lordon C (2022) Tephritid fruit fly species composition, seasonality, and fruit infestations in two central African agro-ecological zones. Insects 13(11), 1045. https://doi.org/10.3390/insects13111045"
+Host,CERTCA,Ceratitis capitata,"* De Meyer M., Copeland RS, Lux SA, Mansell M, Quilici S, Wharton R, White IM, Zenz NJ (2002) Annotated check list of host plants for Afrotropical fruit flies (Diptera: Tephritidae) of the genus Ceratitis. Zoologische Documentatie Koninklijk Museum voor Midden Afrika 27, 1-91.
+
+* de Graaf J (2009) Host status of avocado (‘Hass’) to Ceratitis capitata, Ceratitis rosa, and Ceratitis cosyra (Diptera: Tephritidae) in South Africa. Journal of Economic Entomology 102(4), 1448-1459. 
+------- considered as ""conditional nonhost""."
+Host,CERTCO,Ceratitis cosyra,"* de Graaf J (2009) Host status of avocado (‘Hass’) to Ceratitis capitata, Ceratitis rosa, and Ceratitis cosyra (Diptera: Tephritidae) in South Africa. Journal of Economic Entomology 102(4), 1448-1459. 
+------- poor host.
+
+* Mwatawala MW, De Meyer M, Makundi RH, Maerere AP (2009) Host range and distribution of fruit-infesting pestiferous fruit flies (Diptera, Tephritidae) in selected areas of Central Tanzania. Bulletin of entomological research 99(6), 629-641."
+Host,CERTFA,Ceratitis fasciventris,"* INTERNET
+True Fruit Flies (Diptera: Tephritidae) of the Afrotropical Region. Ceratitis fasciventris. Specimens. http://projects.bebif.be/fruitfly/taxoninfo.html?id=63
+------- Confirmed host."
+Host,CERTMA,Ceratitis malgassa,"* Rasolofoarivao H, Raveloson Ravaomanarivo LH, Delatte H (2022) Host plant ranges of fruit flies (Diptera: Tephritidae) in Madagascar. Bulletin of Entomological Research 112, 1–12. https://doi.org/10.1017/S0007485321000511"
+Host,CERTQI,Ceratitis quilicii,"* INTERNET
+True Fruit Flies (Diptera: Tephritidae) of the Afrotropical Region. Ceratitis quilicii. Specimens. http://projects.bebif.be/fruitfly/taxoninfo.html?id=434
+------- Confirmed host."
+Host,CERTRO,Ceratitis rosa,"* de Graaf J (2009) Host status of avocado (‘Hass’) to Ceratitis capitata, Ceratitis rosa, and Ceratitis cosyra (Diptera: Tephritidae) in South Africa. Journal of Economic Entomology 102(4), 1448-1459. 
+------- poor host.
+
+* INTERNET
+True Fruit Flies (Diptera: Tephritidae) of the Afrotropical Region. Ceratitis rosa. Specimens. http://projects.bebif.be/fruitfly/taxoninfo.html?id=62
+------- Confirmed host.
+"
+Host,CRTZBR,Ceratothripoides brunneus,"* Ebratt-Ravelo EE, Castro-Avila AP, Vaca-Uribe JL, Corredor-Pardo D, Hance T, Goldarazena A (2019) Composition and structure of Thripidae populations in crops of three geographical regions in Colombia, Journal of Insect Science, 19(1), 27. https://doi.org/10.1093/jisesa/iez009
+------- found on avocado in Colombia"
+Host,CERPCE,Ceroplastes ceriferus,
+Host,CERPDE,Ceroplastes destructor,
+Host,VINSST,Ceroplastes stellifer,
+Host,CHRYFI,Chrysomphalus aonidum,"* Ülgentürk S, Ercan C, Yaşar B, Kaydan MB (2022) Checklist of Turkish Coccoidea (Hemiptera: Sternorryncha) species. Trakya University Journal of Natural Sciences 23(Special Issue), S113-S129. https://doi.org/10.23902/trkjnat.1123152"
+Host,CRYBGN,Cryptoblabes gnidiella,"* Ben Yehuda S, Wysoki M, Rosen D (1991) Phenology of the honeydew moth, Cryptoblabes gnidiella (Milliere) (Lepidoptera: Pyralidae), on avocado in Israel. Israel Journal of Entomology 25-26, 149-160. "
+Host,DIABUN,Diabrotica undecimpunctata undecimpunctata,"* Clark SM, LeDoux DG, Seeno TN, Riley EG, Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada (Coleoptera: Megalopodidae, Orsodacnidae, Chrysomelidae, excluding Bruchinae). Coleopterists Society, Special Publication 2, 1-476.
+-------- Adult host."
+Host,DPREAB,Diaprepes abbreviatus,"* EFSA PLH Panel (EFSA Panel on Plant Health) (2023) Pest categorisation of Diaprepes abbreviatus. EFSA Journal 21(11), 1–42. https://doi.org/10.2903/j.efsa.2023.83
+-------only adult feeding."
+Host,SPHAPE,Elsinoë perseae,"* Fan XL, Barreto RW, Groenewald JZ, Bezerra JD, Pereira OL, Cheewangkoon R, Mostert L, Tian CM, Crous PW (2017)  Phylogeny and taxonomy of the scab and spot anthracnose fungus Elsinoë (Myriangiales, Dothideomycetes). Studies in Mycology 87(1), 1-41.
+
+* Jenkins AE (1934) Sphaceloma perseae the cause of avocado scab. Journal of Agricultural Research 49(10), 859-869."
+Host,PLTPPA,Euplatypus parallelus,"* Carrillo D, Duncan RE, Pena JE (2012) Ambrosia beetles (Coleoptera: Curculionidae: Scolytinae) that breed in avocado wood in Florida. Florida Entomologist 95(3), 573-579,"
+Host,EURHCO,Eurhizococcus colombianus,"* Kondo T, Muñoz JA (2016) Scale insects (Hemiptera: Coccoidea) associated with avocado crop, Persea americana Mill. (Lauraceae) in Valle del Cauca and neighboring departments of Colombia. Insecta Mundi 0465, 1-24."
+Host,EUTEOR,Eutetranychus orientalis,"* Ben-David T, Ueckermann E, Gerson U (2013) An annotated list of the spider mites (Acari: Prostigmata: Tetranychidae) of Israel. Israel Journal of Entomology 43, 125-148."
+Host,XYLBFO,Euwallacea fornicatus sensu lato,"* Eskalen A, Stouthamer R, Lynch SC, Rugman-Jones PF, Twizeyimana M, Gonzalez A, Thibault T (2013) Host range of Fusarium dieback and its ambrosia beetle (Coleoptera: Scolytinae) vector in southern California. Plant Disease 97(7), 938-951.
+
+* Government of Western Australia. Department of Primary Industries and Regional Development. Polyphagous shot-hole borer (PSHB). Australian Host List (version 24.0 - 2024-09-30). https://www.agric.wa.gov.au/sites/gateway/files/PSHB-WA-Host-List_2.pdf
+------- Reproductive host in Western Australia.
+
+* List of Trees Impacted by Polyphagous Shot Hole Borer (PHSB) in South Africa (2019-07) https://polyphagous-shot-hole-borer.co.za/pshb-tree-list-july-2019/
+------- reproductive host in South Africa
+
+* University of California. Invasive shot hole borers. ISHB reproductive hosts. https://ucanr.edu/sites/pshb/pest-overview/ishb-reproductive-hosts/ (last accessed 2021-03)
+-------- Reproductive host (infection usually causes branch dieback)
+
+* van Rooyen E, Paap T, de Beer W, Townsend G, Fell S, Nel WJ, Morgan S, Hill M, Gonzalez A, Roets F (2021) The polyphagous shot hole borer beetle: Current status of a perfect invader in South Africa. South African Journal of Science 117(11/12). https://doi.org/10.17159/sajs.2021/9736
+------- As Euwallacea fornicatus sensu stricto. Reproductive host in South Africa."
+Host,EUWAWH,Euwallacea fornicatus sensu stricto,"* Covre LS, Atkinson TH, Johnson AJ, Flechtmann CAH (2024) Introduction and establishment of Euwallacea fornicatus (Coleoptera: Curculionidae: Scolytinae) in Brazil. Journal of Economic Entomology (early view). https://doi.org/10.1093/jee/toae081
+
+* Government of Western Australia. Department of Primary Industries and Regional Development. Polyphagous shot-hole borer (PSHB). Australian Host List (version 24.0 - 2024-09-30). https://www.agric.wa.gov.au/sites/gateway/files/PSHB-WA-Host-List_2.pdf
+------- Reproductive host in Western Australia.
+
+* Mendel Z, Lynch SC, Eskalen A, Protasov A, Maymon M, Freeman S (2021) What determines host range and reproductive performance of an invasive ambrosia beetle Euwallacea fornicatus; lessons from Israel and California. Frontiers in Forests and Global Change 4, 654702.
+------- Reproductive host tree in both California (US) and Israel.
+
+* Smith SM, Gomez DF, Beaver RA, Hulcr J, Cognato AI (2019) Reassessment of the species in the Euwallacea fornicatus (Coleoptera: Curculionidae: Scolytinae) complex after the rediscovery of the ‘lost’ type specimen. Insects 10, 261. https://doi.org/10.3390/insects10090261
+------- As host of PSHB (polyphagous shot hole borer).
+
+* van Rooyen E, Paap T, de Beer W, Townsend G, Fell S, Nel WJ, Morgan S, Hill M, Gonzalez A, Roets F (2021) The polyphagous shot hole borer beetle: Current status of a perfect invader in South Africa. South African Journal of Science 117(11/12). https://doi.org/10.17159/sajs.2021/9736
+------- Reproductive host."
+Host,EUWAKU,Euwallacea kuroshio (as Persea),"* Smith SM, Gomez DF, Beaver RA, Hulcr J, Cognato AI (2019) Reassessment of the species in the Euwallacea fornicatus (Coleoptera: Curculionidae: Scolytinae) complex after the rediscovery of the ‘lost’ type specimen. Insects 10, 261. https://doi.org/10.3390/insects10090261"
+Host,EUWAPE,Euwallacea perbrevis,"* Callaghan S, Carnegie AJ, Gillespie P, Mulholland S, Nagel M, Sargeant D, Daly A, Wildman O (2024) Response to the detection of Fusarium dieback associated with ambrosia beetles on Acer negundo in New South Wales. Australasian plant pathology 53(4), 345-352. https://doi.org/10.1007/s13313-024-00984-6"
+Host,ECDYAU,Gymnandrosoma aurantianum,"* EPPO (2020) Pest Risk Analysis for Gymnandrosoma aurantianum (Lepidoptera: Tortricidae), citrus fruit borer, macadamia fruit borer. EPPO, Paris. Available at https://gd.eppo.int/taxon/ECDYAU/documents
+------- Uncertain hosts. No evidence was found if the pest completes its life cycle.
+
+* White GL (1999) Sapindus saponaria L. (Sapindaceae), a new host of Ecdytolopha aurantianum (Lima) (Lepidoptera: Tortricidae: Olethreutinae). International Journal of Pest Management, 45(4), 287–291. https://doi.org/10.1080/096708799227699"
+Host,HELOAN,Helopeltis antonii,
+Host,HOMLTR,Homalodisca vitripennis,"* Hoddle MS, Triapitsyn SV, Morgan DJW (2003) Distribution and plant association records for Homalodisca coagulata (Hemiptera: Cicadellidae) in Florida. Florida Entomologist 86(1), 89-91."
+Host,ICERSE,Icerya seychellarum,"* Romero H, Planelló R, Díaz‐Pendón JA, Clercq PD, de la Peña E (2025) First records of Aulacaspis tubercularis, Icerya seychellarum and Protopulvinaria pyriformis on Persea indica. EPPO Bulletin 55(2), 328-334."
+Host,PHENHI,Maconellicoccus hirsutus,"* Chang LWH, Miller CE (1996) Pathway Risk Assessment: Pink mealybug from the Caribbean. Animal and Plant Health Inspection Service, U.S. Dept. of Agriculture 61 pp."
+Host,PLTPMU,Megaplatypus mutatus,"* Costilla MA, Venditti ME (1992) [Importance and control of taladrillo Platypus sulcatus (Coleoptera: Platypodidae), pest of citrus and avocado]. Revista Industrial y Agrícola de Tucumán 69(1-2), 163-166 (in Spanish)."
+Host,NAUPXA,Naupactus xanthographus,"* González (1989) Insectos y acaros de importancia agricola y cuarentenaria en Chile. Universidad de Chile: 310 pp
+------- confirmed host (as palto)
+
+* Lanteri A, del Río MG (2017) Naupactus xanthographus (Germar) species group (Curculionidae: Entiminae: Naupactini): a comprehensive taxonomic treatment. Journal of Natural History 51, 27-28.
+
+* Luppichini B P, Isla F, Henriquez IU, Olivares N, Fernando PY, Alvarez (2013) Manejo del Burrito de la vid, Naupactus xanthographus (Germar) y otros curculiónidos asociados a vides"
+Host,NSILGL,Neosilba glaberrima,"* Martins de Almeida LB, Coelho JB, Uchoa MA, Gisloti LJ (2019) Diversity of Fruit Flies (Diptera: Tephritoidea) and Their Host Plants in a Conservation Unit from Midwestern Brazil. Florida Entomologist, 102(3), 562-570. https://doi.org/10.1653/024.102.0333
+------- confirmed host"
+Host,NSILZA,Neosilba zadolicha,"* Martins de Almeida LB, Coelho JB, Uchoa MA, Gisloti LJ (2019) Diversity of Fruit Flies (Diptera: Tephritoidea) and Their Host Plants in a Conservation Unit from Midwestern Brazil. Florida Entomologist, 102(3), 562-570. https://doi.org/10.1653/024.102.0333
+------- confirmed host"
+Host,OEMOHI,Oemona hirta,* Plant-SyNZ. Landcare Research (NZ). Host plants of a herbivore -Oemona hirta. http://plant-synz.landcareresearch.co.nz/index.asp). Last accessed 2021-06.
+Host,OLIGPU,Oligonychus punicae,"* Bolland HR, Gutierrez J, Flechtmann CH (1988) World catalogue of the spider mite family (Acari: Tetranychidae). Brill, 392 pp.
+
+* Gutierrez J,  Etienne J (1986) Les Tetranychidae de l'île de la Réunion et quelques-uns de leurs prédateurs. Agronomie Tropicale 41(1), 84-91.
+
+* Migeon A, Dorkeld F (2024) Spider Mites Web: a comprehensive database for the Tetranychidae.  https://www1.montpellier.inrae.fr/CBGP/spmweb"
+Host,SAISNI,Parasaissetia nigra,"* Beltran-Moreno M, Llacctas A, Huanca J, Evans G (2025)﻿ A survey of scale insects (Hemiptera, Coccoidea) on avocados, olives, and grapes in the Peruvian region of Arequipa. ZooKeys 1257, 91–125."
+Host,PETHBE,Penthimiola bella,"* Dupont FMAS, Dennill GB (1996) An ecological study of the damage done to avocado fruits by citrus leafhopper Penthimiola bella (Cicadellidae) and coconut bug Pseudotheraptus wayi (Coreidae) in South Africa. International Journal of Pest Management 42(2), 107-112 "
+Host,PLAAST,Platynota stultana,"* Hoover GA, Biddinger DJ (2014) Omnivorous leafroller, Platynota stultana (Lepidoptera: Tortricidae). Penn State Extension Pest Alert. https://ento.psu.edu/files/omnivorous-leafroller/view
+
+* Nelson RH (1936) Observations on the life history of Platynota stultana Wlsm. on greenhouse rose. Journal of Economic Entomology 29, 306–312.
+
+* Powell JA (1983) Expanding geographical and ecological range of Platynota stultana in California. Pan–Pacific Entomologist 59, 233–239."
+Host,PLSOCO,Plesiommata corniculata,"* Young DA Jr. (1977) Taxonomic study of the Cicadellinae (Homoptera: Cicadellidae). Part 2. New World Cicadellini and the genus Cicadella. Technical Bulletin of the North Carolina Agricultural Experiment Station 239, 1-1135.
+------- collected on"
+Host,PRDILO,Prodiplosis longifila,"* Dhileepan K, Neser S, Rumiz D, Raman A, Sharma A (2017) Host associations of gall-inducing Prodiplosis longifila (Diptera: Cecidomyiidae) from Bolivia: Implications for its use as a biological control agent for Jatropha gossypiifolia (Euphorbiaceae). Florida Entomologist, 100(4), 777-786.
+
+* Diaz-Silva F (2011) [Agroecological aspects for the integrated management of Prodiplosis longifila Gagné in the irrigation of Chavimochic]. Escuela de Ciencias Biológicas, Universidad de Trujillo, Trujillo, PERU (in Spanish).
+
+* Valarezo O, Cañarte E, Navarrete B, Arias M (2003) [Prodiplosis longifila (Diptera: Cecidomyiidae) main tomato pest in Ecuador.] Manual 51, INIAP, Ecuador. (in Spanish)"
+Host,RADOSI,Radopholus similis,"* O'Bannon JH (1977) Worldwide dissemination of Radopholus similis and its importance in crop production. Journal of nematology.9(1), 16-25"
+Host,RADOCI,Radopholus similis citrus race,"* Brooks TL (1954) Host Range of the Burrowing Nematode Internationally and in Florida. Proceedings of the Florida State Horticultural Society 67, 81-82.
+
+* DuCharme EP, Suit RF (1953) Nematodes associated with avocado roots in citrus spreading decline areas. Plant Disease Reporter 37(8), 427-428.
+"
+Host,SCITAU,Scirtothrips aurantii,"* Bara GT, Laing MD (2019) Determination of the natural host status of avocado fruit to pestiferous thrips (Thysanoptera: Thripidae) in KwaZulu-Natal, South Africa. African Entomology, 27(1), 245-253 https://doi.org/10.4001/003.027.0245
+------- confirmed host
+
+* NPPO of Portugal (2024) Lista de vegetais hospedeiros de Scirtothrips aurantii Faure.  https://www.dgav.pt/wp-content/uploads/2024/03/Lista-de-hospedeiros-S.aurantii_marco24.pdf"
+Host,SCITDO,Scirtothrips dorsalis,"* Kumar V,  Seal DR, Kakkar G, McKenzie CL,  Osborne LS (2012) New tropical fruit hosts of Scirtothrips dorsalis (Thysanoptera: Thripidae) and its relative abundance on them in South Florida. Florida Entomologist, 95(1):205-207.
+------- confirmed host (larvae and adults). 
+
+* López-Lima D, Tejeda-Reyes MA, Rodríguez-Málaga RD, López-Bautista E, Salinas-Castro A, Illescas-Riquelme CP (2023) New hosts, distribution, and color trap preferences of the invasive thrips Scirtothrips dorsalis (Thysanoptera: Thripidae) in Mexico. Journal of Entomological Science 58(4), 400-411. https://doi.org/10.18474/JES23-11
+------- only adults, not considered as reproductive host. "
+Host,PRODER,Spodoptera eridania,"* Montezano DG, Specht A, Sosa-Gomez DR, Roque-Specht VF & de Barros NM (2014) Immature stages of Spodoptera eridania (Lepidoptera: Noctuidae): developmental parameters and host plants. Journal of Insect Science 14, 238. https://doi.org/10.1093/jisesa/ieu234"
+Host,LAPHFR,Spodoptera frugiperda,"* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300."
+Host,TETRME,Tetranychus mexicanus,"* Aranda BR and Flechtman CHW (1971) A report on the Tetranychidae of Paraguay. Proceedings of the Entomological Society of Washington, 73: 29-33.
+------- confirmed host"
+Host,ARGPLE,Thaumatotibia leucotreta,"* Grové T, De Beer MS & Joubert PH (2010) Developing a Systems Approach for Thaumatotibia leucotreta (Lepidoptera: Tortricidae) on ‘Hass’ Avocado in South Africa. Journal of Economic Entomology, 103(4), 1112–1128, https://doi.org/10.1093/jee/103.4.1112
+
+* Grové T Steyn WP & Beer MS de (2000) Host status of Hass avocado fruit for the false codling moth, Cryptophlebia leucotreta (Meyrick) (Lepidoptera: Tortricidae) South African Avocado Growers’ Association Yearbook 2000. 23:99-102
+------- poor host of T. leucotreta. When moths lay eggs on young fruits the caterpillars usually die and thus large caterpillars are seldom found, however, the caterpillars are able to develop if fruits are approaching maturity when infested.
+
+* Shikoshi JG, Philipo M, Ndakidemi PA, Mtei KM, Mkindi AG, Mbega ER (2025) Population and infestation status of Thaumatotibia leucotreta (Meyrick) in small-scale avocado growing in northern and southern zones of Tanzania. Cogent Food & Agriculture 11(1), 2526084. https://doi.org/10.1080/23311932.2025.2526084
+------- economic host in Tanzania "
+Host,THRIHA,Thrips hawaiiensis,"* Sartiami D, Mound LA (2013) Identification of the terebrantian thrips (Insecta, Thysanoptera) associated with cultivated plants in Java, Indonesia. ZooKeys 306, 1–21. https://doi.org/10.3897/zookeys.306.5455
+------- Collected from this plant in Java (Indonesia)."
+Host,THRIPL,Thrips palmi,"* Duran IC, Mesa NC, Estrada EI (1999) [Life cyle of Thrips palmi (Thysanoptera: Thripidae) and host plant registered in the Cauca Valley]. Revista Colombiana de Entomologia 25(3/4), 109-120 (in Spanish).
+
+* Seal DR (2004) Management of melon thrips, Thrips palmi Karny (Thysanoptera: Thripidae): an integrated approach using chemical, cultural, and biological agents. Proceedings of the Florida State Horticultural Society 117, 63-68."
+Host,UNASCI,Unaspis citri,"* Ballou CH (1945) Notas sobre insectos daninos observados en Venezuela - 1938-43 -Coccidae. Proceedings 3d Conferencia Interamericana de Agricultura, Caracas 34, 151 pp."
+Host,XIPHCA,Xiphinema californicum,"* Alkemade JRM, Loof PAA (1990) The genus Xiphinema cobb, 1913 (Nematoda: Longidoridae) in Perú. Revue de Nématologie 13, 339-348."
+Host,XYLBGR,Xyleborus glabratus,"* Brar GS, Capinera JL, Kendra PE, McLean S, Peña JE (2013) Life cycle, development, and culture of Xyleborus glabratus (Coleoptera: Curculionidae: Scolytinae). Florida Entomologist 96(3), 1158-1167."
+Host,XYLBNE,Xyleborus neivai,
+Host,XYLBPE,Xyleborus perforans,
+Host,XYLSCO,Xylosandrus compactus,"* Dole SA, Cognato AI (2010) Phylogenetic revision of Xylosandrus Reitter (Coleoptera: Curculionidae: Scolytinae: Xyleborina). Proceedings of the California Academy of Sciences 61(7), 451-545."
+Host,XYLBCR,Xylosandrus crassiusculus,"* Nel WJ, De Beer ZW, Wingfield MJ, Duong TA (2020) The granulate ambrosia beetle, Xylosandrus crassiusculus (Coleoptera: Curculionidae, Scolytinae), and its fungal symbiont found in South Africa. Zootaxa, 4838(3), 427–435. https://doi.org/10.11646/zootaxa.4838.3.7
+------- confirmed host in South Africa."
+Host,ZAPRIN,Zaprionus indianus,
+Host,ZEUZCO,Zeuzera coffeae,
+Major host,ALTRTR,Aleurothrixus trachoides,* Evans GA (2007) The whiteflies (Hemiptera: Aleyrodidae) of the world and their host plants and natural enemies. USDA/Animal Plant Health Inspection Service (APHIS). http://keys.lucidcentral.org/keys/v3/whitefly/PDF_PwP%20ETC/world-whitefly-catalog-Evans.pdf
+Major host,AMBPLU,Amblypelta lutescens,"* Lindsay KR, Zalucki MP, Newton IR, Furlong MJ (2019) Spatial and Temporal Dynamics of the Native Banana-Spotting Bug, Amblypelta lutescens lutescens (Hemiptera: Coreidae), in Avocado Crops in North Queensland, Australia, Journal of Economic Entomology 112(4), 1812–1820. https://doi.org/10.1093/jee/toz084
+------- confirmed host"
+Major host,CONHAG,Conotrachelus aguacatae,"* Silva AV, Martínez NB, Riquelme CP, Carrasco JM, Vildózola ÁC (2019) Conotrachelus Species of Agricultural and Quarantine Importance for Mexico. Southwestern Entomologist 43(1), 45-55."
+Major host,CONHPE,Conotrachelus perseae,"* Castañeda-Vildózola Á, Franco-Mora O, Alemán JC, Ruiz-Montiel C, Váldez-Carrasco J, Equihua-Martínez A (2015) New distribution records of the small avocado seed weevil, Conotrachelus perseae Barber (Coleóptera: Curculionidae), in Mexico and notes on its biology. The Coleopterists Bulletin 69(2), 267-271."
+Major host,RAFFLA,Harringtonia lauricola,"* Ploetz RC, Inch SA, Pérez Martínez JM, White Jr TL (2012) Systemic infection of avocado, Persea americana, by Raffaelea lauricola, does not progress into fruit pulp or seed. Journal of Phytopathology 160(9), 491-495
+
+* Ploetz RC, Pérez Martínez JM, Smith JA, Hughes M, Dreaden TJ, Inch SA, Fu Y (2012) Responses of avocado to laurel wilt, caused by Raffaelea lauricola. Plant Pathology 61(4), 801-808."
+Major host,HEILLA,Heilipus lauri,"* Ortega-Licona A, Equihua-Martínez A, Estrada-Venegas EG, Castañeda-Vildózola Á, Sánchez-Escudero J (2016) Primer Registro de Heilipus lauri, Conotrachelus perseae, y Cryptaspasma perseana, como Plagas del Aguacate en la Región Este del Estado de Hidalgo, México. Southwestern Entomologist 41(3), 865-870."
+Major host,COPUAG,Macrocopturus aguacatae,"* Lozano GJ, España LMP, Balleza CJJ, Liñan QBM (2015) Biodiversidad de coleópteros en árboles de aguacate de aramberri, Nuevo León, México.Entomología Mexicana, 2392-396."
+Major host,OLIGPA,Oligonychus perseae,"* Bender GS (1993) A new mite problem in avocados. California Avocado Society Yearbook 1993, 73-77.
+
+* Ferreira dos Anjos M , Brazao CI, Franqhino Aguiar AM (2004) [First report of Oligonychus perseae Tuttle, Baker, Abbatiello (Acari: Tetranychidae) in Madeira Island]. Agronomia Lusitana 51, 219-222 (in Portuguese).
+
+* Naves P, Nóbrega F, Auger P (2021) Updated and annotated review of Tetranychidae occurring in mainland Portugal, the Azores, and Madeira Archipelagos. Acarologia 61(2), 380-393.
+
+* Tanako-Lee M, Hoddle MS (2002) Oligonychus perseae (Acari: Tetranychidae) population responses to cultural control attempts in an avocado orchard. Florida Entomologist, 85(1), 216-226."
+Major host,PRABMY,Parabemisia myricae,
+Major host,PARYMI,Paraleyrodes minei,"* Bellows TS, Meisenbacher C, Headrick DH (1998) Field biology of Paraleyrodes minei (Homoptera: Aleyrodidae) in Southern California. Environmental Entomology 27(2), 277-281."
+Major host,PSEYPE,Pseudacysta perseae,"* INTERNET (last retrieved 2023-04)
+- University of Florida (US). Featured Creatures. Pseudacysta perseae (Heidemann) (Insecta: Hemiptera: Tingidae). Avocado lace bug. https://entnemdept.ufl.edu/creatures/fruit/avocado_lace_bug.htm
+
+* Peña JE, Duncan RE, Roltsch WJ, Carrillo D (2012) Mortality factors of the avocado lace bug, Pseudacysta perseae (Heteroptera: Tingidae), in Florida. Florida. Entomologist 95(1), 179-182."
+Major host,SCITPE,Scirtothrips perseae,
+Major host,SLENRU,Selenothrips rubrocinctus,"* Dennill GB, Erasmus MJ (1992) Basis for a practical technique for monitoring thrips in avocado orchards. Crop protection 11(1), 89-91.
+
+* Mille CG, Cazères S , Jourdan H, Mound LA (2025) Biosecurity in a biodiversity hotspot: an updated checklist of the Thysanoptera fauna of New Caledonia. Advances in Entomology 13(1), 1-47. https://doi.org/10.4236/ae.2025.131001"
+Major host,STENCA,Stenoma catenifer,"* Hoddle MK, Hoddle CA (2012) Surveys for Stenoma catenifer (Lepidoptera: Elachistidae) and associated parasitoids infesting avocados in Peru. Journal of Economic Entomology 105(2), 402-409.
+
+* Hoddle MK, Hoddle CA (2008) Bioecology of Stenoma catenifer (Lepidoptera: Elachistidae) and associated larval parasitoids reared from Hass avocados in Guatemala. Journal of Economic Entomology 101(3), 692-698."
+Major host,TETLPE,Tetraleurodes perseae,
+Major host,XYLSMO,Xylosandrus morigerus,

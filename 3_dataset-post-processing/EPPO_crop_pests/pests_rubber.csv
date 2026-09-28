@@ -1,0 +1,38 @@
+type,EPPOCode,Pref_name,References
+Host,BRVPYO,Brevipalpus yothersi (as Hevea),"* Beard JJ, Ochoa R, Braswell WE, Bauchan GR (2015) Brevipalpus phoenicis (Geijskes) species complex (Acari: Tenuipalpidae) – a closer look. Zootaxa 3944(1), 67 pp. DOI: 10.11646/zootaxa.3944.1.1"
+Host,PLTPPA,Euplatypus parallelus,"* Hiremath SR, Prathapan KD (2019) First report of the invasive South American pinhole borer, Euplatypus parallelus (Fabricius) (Coleoptera: Curculionidae: Platypodinae), on rubber in India. The Coleopterists Bulletin 73(3), 714–717.
+
+* Lai SC, Duan B, Li Y, Hong-Chang A, Wang L, Dai XH, Wang JG (2019) [Survey of Euplatypus parallelus (Fabricius, 1801) from rubber forest in Yunnan and Guangxi province]. Journal of Environmental Entomology 41(5), 999-1005 (in Chinese).
+
+* Li Y, Zhou X, Lai S, Yin T, Ji Y, Wang S, Wang J, Hulcr J (2018) First record of Euplatypus parallelus (Coleoptera: Curculionidae) in China. Florida Entomologist 101(1), 141-143.
+
+* Silva JCP, Putz P, Silveria E de C, Flechtmann CAH (2013) Biological aspects of Euplatypus parallelus (F.) (Coleoptera, Curculionidae, Platypodinae) attacking Hevea brasiliensis (Willd. ex A. Juss.) in São Paulo northwest, Brazil. Proceedings of the III Congresso Brasileiro de Heveicultura (Guarapari, BR, 2013-07-24/26), 4 pp."
+Host,EUTEBA,Eutetranychus banksi,* Migeon A & Dorkeld F (2024) Spider Mites Web: a comprehensive database for the Tetranychidae. Available from https://www1.montpellier.inrae.fr/CBGP/spmweb (Accessed 2024/04/23)
+Host,EUTEOR,Eutetranychus orientalis,"* Liu Y, Nie Y, Chen J, Lu T, Niu L, Jia J, Ye Z, Fu Y (2022) Genetic diversity of three major spider mites damaging rubber trees. Systematic and Applied Acarology 27(10), 2025-2037."
+Host,XYLBFO,Euwallacea fornicatus sensu lato,"* Li Y, Gu X, Kasson MT, Bateman CC, Guo J, Huang YT, Li Q, Rabaglia RJ, Hulcr J (2016) Distribution, host records, and symbiotic fungi of Euwallacea fornicatus (Coleoptera: Curculionidae: Scolytinae) in China. Florida Entomologist 99(4), 801-804."
+Host,ACHAFU,Lissachatina fulica,
+Host,PHENHI,Maconellicoccus hirsutus,"* Martins dos S. D, Fornazier MJ, Peronti ALBG, Culik MP, Souza CAS, Taques RC, Zanuncio Jr JS, Queiroz RB (2019) Maconellicoccus hirsutus (Hemiptera: Pseudococcidae) in Brazil: recent spread, natural enemies, and new hosts. Florida Entomologist 102(2), 438-443.  https://doi.org/10.1653/024.102.0225
+------- Confirmed host in Brazil."
+Host,MELGEX,Meloidogyne exigua (as Hevea),
+Host,CORTSA,Necator salmonicolor,
+Host,SAISNI,Parasaissetia nigra,
+Host,INESLE,Phryneta leprosa,
+Host,PSDTDE,Pseudotheraptus devastans,
+Host,SCITDO,Scirtothrips dorsalis,
+Host,SLENRU,Selenothrips rubrocinctus,"* Babu A, Thattanteparambil R, Babu A, Deka B, Bharathi NS (2025) Thysanoptera Associated with Plantation Crops. Indian Journal of Entomology. 87(Special Issue (December), 150-157. https://doi.org/10.55446/IJE.2025.3390"
+Host,SINOCO,Sinoxylon unidentatum,
+Host,LAPHFR,Spodoptera frugiperda,"* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300."
+Host,TETRME,Tetranychus mexicanus,"* Feria NJ & Moraes GJ (2002) Ácaros (Arachnida, Acari) da seringueira (Hevea brasiliensis Muell. Arg.) no Estado do Mato Grosso, Brasil. Revista Brasileira de Zoologia, v.19, n.3, p.867 - 888. Ácaros (Arachnida, Acari) da seringueira (Hevea brasiliensis Muell. Arg.) no Estado do Mato Grosso, Brasil. <http://www.scielo.br/pdf/rbzool/v19n3/v19n3a25.pdf>
+------- confirmed host
+
+* Feres RJ. (2000) Levantamento e observações naturalísticas da acarofauna (Acari, Arachnida) de seringueiras cultivadas (Hevea spp., Euphorbiaceae) no Brasil. Revista Brasileira de Zoologia, 17(1), 157–173.
+
+* Paschoal A (1970) Revisão da família Tetranychidae no Brasil (Arachnida: Acarina). Anais Da Escola Superior de Agricultura Luiz de Queiroz, XXVII, 457–483."
+Host,TIRAPL,Tiracola plagiata,
+Host,XYLBFE,Xyleborus ferrugineus,
+Host,XYLSCO,Xylosandrus compactus,
+Host,XYLBCR,Xylosandrus crassiusculus,"* Beaver RA (1988) Biological studies on ambrosia beetles of the Seychelles (Col., Scolytidae and Platypodidae). Journal of Applied Entomology 105, 62-73.
+
+* Wood SL, Bright DE (1992) A catalogue of Scolytidae and Platypodidae (Coleoptera). Great Basin Naturalist Memoirs no. 13. Part 2: Taxonomic Index, volume A, p 791."
+Major host,BATCRB,Batocera rubus,
+Major host,LPPHHE,Leptopharsa heveae,

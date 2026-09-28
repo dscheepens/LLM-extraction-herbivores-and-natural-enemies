@@ -1,0 +1,74 @@
+type,EPPOCode,Pref_name,References
+Doubtful host,HIRSOR,Hirschmanniella oryzae,"* Prasad JS, Panwar MS, Rao YS (1987) Nematode problems of rice in India. International Journal of Pest Management 33, 127-136.
+------- 'Collected from', but it is not specified whether the nematode was found in the roots or in the soil."
+Doubtful host,LEUIOR,Leucinodes orbonalis,"* EFSA Plant Health Panel (2024) Pest risk assessment of Leucinodes orbonalis for the European Union.  EFSA Journal 22(3), e8498. doi 10.2903/j.efsa.2024.8498
+-------  mentions 1 literature reference considering this plant as host. No confirmed feeding or confirmed completion of life cycle. ""Records of L. orbonalis on non-Solanaceae host plants appear to be incidental, and the species is unlikely to complete its life cycle on these plants"""
+Experimental,MELGMY,Meloidogyne enterolobii,"* Moreira FJC, Albuquerque AM, Almeida BKS, Souza IMS, Araujo BA, Guedes FL (2018) Reacao de genotipos de guandu (Cajanus cajan (L.) Millspaugh) ao nematoide das galhas (Meloidoygne enterolobii). Summa Phytopatholica 44(4), 380-385. https://doi.org/10.1590/0100-5405/170978"
+Host,ALEDDI,Aleurodicus dispersus,"* Boopathi T (2022) New host plants, natural enemy complex and newly distributed potential areas of exotic spiralling whitefly (Hemiptera: Aleyrodidae) in India. Phytoparasitica 50(2), 335-357."
+Host,EMPOBI,Amrasca biguttula,"* Kamble CS, Sathe TV (2015) Incidence and host plants for Amrasca biguttula (Ishida) from Kolhapur region, India. International Journal of Development Research 5(3), 3658-3661."
+Host,ANOLCN,Anoplophora chinensis,"* Sjöman H, Östberg J & Nilsson J (2014) Review of host trees for the wood-boring pests Anoplophora glabripennis and Anoplophora chinensis: an urban forest perspective. Arboriculture & Urban Forestry 40(3), 143–164."
+Host,ANOLCN,Anoplophora chinensis (as Cajanus),"* Sjöman H, Östberg J & Nilsson J (2014) Review of host trees for the wood-boring pests Anoplophora glabripennis and Anoplophora chinensis: an urban forest perspective. Arboriculture & Urban Forestry 40(3), 143–164."
+Host,ANOLGL,Anoplophora glabripennis,"* Lim J, Jung S-Y, Lim J-S, Jang J, Kim K-M, Lee Y-M, Lee B-W (2014) A review of host plants of Cerambycidae (Coleoptera: Chrysomeloidea) with new host records for fourteen Cerambycids, including the Asian longhorn beetle (Anoplophora glabripennis Motschulsky), in Korea. Korean Journal of Applied Entomology 53(2), 111-133."
+Host,APRIGE,Apriona germari,
+Host,APRIGE,Apriona germari (as Cajanus),"* Lim J, Jung S-Y, Lim J-S, Jang J, Kim K-M, Lee Y-M, Lee B-W (2014) A review of host plants of Cerambycidae (Coleoptera: Chrysomeloidea) with new host records for fourteen Cerambycids, including the Asian longhorn beetle (Anoplophora glabripennis Motschulsky), in Korea. Korean Journal of Applied Entomology 53(2), 111-133."
+Host,BRAPSU,Brachyplatys subaeneus,"* Aiello A, Saltonstall K, Young V (2016) Brachyplatys vahlii (Fabricius, 1787), an introduced bug from Asia: first report in the Western Hemisphere (Hemiptera: Plataspidae: Brachyplatidinae). BioInvasions Records 5(1), 7-12.
+
+* Añino YJ, Zumba-Zhongor M, Naranjo-Morán JA, Rodríguez R, Santos-Murgas A, Zachrisson B (2020) Primer reporte de Brachyplatys subaeneus (Westwood) (Heteroptera: Plataspidae) en Ecuador y el listado sinóptico de sus plantas hospedantes. IDESIA (Chile) 38(1), 113-118.
+
+* Carmona-Ríos MG (2019) Primer registro de Brachyplatys subaeneus (Westwood) (Hemiptera: Plataspidae) en Costa Rica. Revista Chilena de Entomología 45(4), 583–586."
+Host,HELIVI,Chloridea virescens,"* Guzmán R, Denis López L, Taveras R (2018) Mosca asiática, Melanagromyza obtusa (Malloch) (Diptera: Agromyzidae), sus enemigos naturales y otras plagas asociadas al cultivo del guandul en R.D. pp. 53-66 In Consejo Nacional de Investigaciones Agropecuarias y Forestales (CONIAF). Socialización de Resultados de Investigación en Manejo Integrado de Plagas. Cepeda Ureña., J. (Ed.). Santo Domingo. DO. 104 pp.
+
+* Hambleton EJ (1944) Heliothis virescens as a pest of cotton, with notes on host plants in Peru. Journal of Economic Entomology 37, 660-666.
+
+* Kogan M, Helm CG, Kogan J, Brewer E (1989) Distribution and economic importance of Heliothis virescens and Heliothis zea in North, Central, and South America and of their Natural Enemies and Host Plants. pp 241-297 In Proceedings of the Workshop on Biological Control of Heliothis: Increasing the effectiveness of natural enemies. USDA.
+
+* Korytkowski CA, Torres BM (1966) Insectos que Atacan al Cultivo del Frijol de Palo (Cajanus cajan) en el Perú. Revista Peruana De Entolomogía, 9(1), 3–9.
+
+* Viteri DM, Sarmiento L, Linares AM, Cabrera I (2019) Efficacy of biological control agents, synthetic insecticides, and their combinations to control tobacco budworm [Heliothis virescens (Lepidoptera: Noctuidae)] in pigeon pea. Crop Protection 122, 175-179.
+
+* EPPO (2024) EPPO Technical Document No. 1091. Pest risk analysis for Chloridea virescens. EPPO, Paris. Available at https://gd.eppo.int/taxon/HELIVI/documents
+------- Main host (evidence that the plant supports populations of the pest in several generations or years, i.e. true hosts, or plant mentioned as common or preferred host – see PRA for further details on the host)
+"
+Host,ACAMTO,Clavigralla tomentosicollis,
+Host,DPREAB,Diaprepes abbreviatus,
+Host,EUTEBA,Eutetranychus banksi,* Migeon A & Dorkeld F (2024) Spider Mites Web: a comprehensive database for the Tetranychidae. Available from https://www1.montpellier.inrae.fr/CBGP/spmweb (Accessed 2024/04/23)
+Host,EXELAT,Exelastis atomosa,
+Host,HELIAR,Helicoverpa armigera,"* Cunningham JP, Zalucki MP (2014) Understanding heliothine (Lepidoptera: Heliothinae) pests: what is a host plant? Journal of Economic Entomology 107, 881–896."
+Host,HELIZE,Helicoverpa zea,"* Lopez Jr JD, Hartstack Jr AW, Beach R (1984) Comparative pattern of emergence of Heliothis zea and H. virescens (Lepidoptera: Noctuidae) from overwintering pupae. Journal of economic entomology 77(6), 1421-1426."
+Host,HETDGL,Heterodera glycines,"* Rossi CE, Ferraz LC (2001) Efeito de diferentes plantas hospedeiras sobre a morfometria de uma população brasileira de Heterodera glycines. Arquivos do Instituto Biológico 68(1), 95-102."
+Host,STEHHA,Hypothenemus hampei,"* Damon A (2000) A review of the biology and control of the coffee berry borer, Hypothenemus hampei (Coleoptera: Scolytidae). Bulletin of Entomological Research 90(6), 453-465.
+
+* Marchioro M, Vallotto D, Ruzzier E, Besana L, Rossini M, Ortis G, Faccoli M, Martinez-Sañudo I (2023) Scolytinae former Cryphalini host plant dataset. Avalaible in Zenodo. https://doi.org/10.5281/zenodo.7925274 "
+Host,LAGRVL,Lagria villosa,"* Spilman TJ (1978) Lagria villosa in Brazil, with new descriptions and illustrations of the larva and pupa (Coleoptera, Lagriidae). Ciencia e cultura, Sao Paulo 30(3), 342–347"
+Host,LAMDBO,Lampides boeticus,
+Host,LIRISA,Liriomyza sativae,"* Spencer KA (1973) Agromyzidae (Diptera) of economic importance. Series Entomologica Volume 9. Dr. W. Junk B.V. The Hague, The Netherlands. 418 pp.
+
+* Stegmaier CE (1966) Host plants and parasites of Liriomyza munda in Florida (Diptera: Agromyzidae). Florida Entomologist 49(2), 81-86.
+------- confirmed host. Rearing record"
+Host,PHENHI,Maconellicoccus hirsutus,"* Chang LWH, Miller CE (1996) Pathway Risk Assessment: Pink mealybug from the Caribbean. Animal and Plant Health Inspection Service, U.S. Dept. of Agriculture 61 pp."
+Host,MARUTE,Maruca vitrata,"* Khokhar S, Taggar GK, Singh R (2024) Maruca vitrata (Fabricius)(Lepidoptera: Crambidae): comparative infestation and seasonal population fluctuations on different pigeonpea genotypes in Punjab, India. International Journal of Tropical Insect Science. (early view) https://doi.org/10.1007/s42690-024-01198-5"
+Host,COPSCR,Megacopta cribraria,
+Host,MEGTUS,Megalurothrips usitatus,"* Halbert SE (2020) Entomology Specimen Report. Tri-ology 59(2), 9-10.
+
+* Reyes CP (1994) Thysanoptera (Hexapoda) of the Philippine Islands. Raffles Bulletin of Zoology 42(2), 107-507.
+
+* Tillekaratne K, Edirisinghe JP, Gunatilleke CVS, Karunaratne WAP (2011) Survey of thrips in Sri Lanka: A checklist of thrips species, their distribution and host plants. Ceylon Journal of Science 40(2), 89-108."
+Host,MEAGCH,Melanagromyza chalcosoma,
+Host,MELGET,Meloidogyne ethiopica,"* Lima E A, Mattos J K, Moita A W, Carneiro R G & Carneiro R M D G (2009) Host status of different crops for Meloidogyne ethiopica control. Tropical Plant Pathology 34, 152-157.
+-------In experiments, cvs. 'PPI 832' and 'IAPAR43’ were considered as resistant (RF<=0.1)"
+Host,GRAGLE,Naupactus leucoloma,"* Chadwick CF (1965) Checklist of the Brachyderinae (Col. Curculionidae) occurring in Australia. Journal of the Entomological Society of Australia (NSW) 2, 21-34."
+Host,MEAGPH,Ophiomyia phaseoli,
+Host,PHENSO,Phenacoccus solenopsis,
+Host,PLANKE,Planococcus kenyae,
+Host,PSEAPE,Pseudaulacaspis pentagona,"* García Morales M, Denno BD, Miller DR, Miller GL, Ben-Dov Y, Hardy NB (2016) ScaleNet: A literature-based model of scale insect biology and systematics. Database. doi: 10.1093/database/bav118. http://scalenet.info [accessed 2026-02]."
+Host,ROTYRE,Rotylenchulus reniformis,
+Host,LAPHFR,Spodoptera frugiperda,"* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300."
+Host,XYLSCO,Xylosandrus compactus,"* Dole SA, Cognato AI (2010) Phylogenetic revision of Xylosandrus Reitter (Coleoptera: Curculionidae: Scolytinae: Xyleborina). Proceedings of the California Academy of Sciences 61(7), 451-545."
+Major host,ACEICJ,Aceria cajani,
+Major host,CLAGEL,Clavigralla elongata,
+Major host,CLAGGI,Clavigralla gibbosa,
+Major host,ACAMHO,Clavigralla horrida,
+Major host,ACAMBR,Clavigralla scutellaris,
+Major host,CLAGSH,Clavigralla shadabi,
+Major host,HETDCJ,Heterodera cajani,
+Major host,MEAGOP,Melanagromyza obtusa,"* Shanower TG, Lal SS, Bhagwat VR (1998) Biology and management of Melanagromyza obtusa (Malloch)(Diptera: Agromyzidae). Crop Protection 17(3), 249-263."

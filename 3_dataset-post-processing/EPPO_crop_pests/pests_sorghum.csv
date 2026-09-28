@@ -1,0 +1,49 @@
+type,EPPOCode,Pref_name,References
+Host,TOMAPO,Aeneolamia contigua (as Poaceae),
+Host,ATHEOZ,Atherigona oryzae,
+Host,BAGRHI,Bagrada hilaris,
+Host,BUSSFU,Busseola fusca,
+Host,HYLECO,Delia coarctata (as Poaceae),
+Host,DIABVZ,Diabrotica virgifera zeae,"* Clark SM, LeDoux DG, Seeno TN, Riley EG, Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada (Coleoptera: Megalopodidae, Orsodacnidae, Chrysomelidae, excluding Bruchinae). Coleopterists Society, Special Publication 2, 615 pp.
+------- Larval host."
+Host,EURYIN,Eurygaster integriceps (as Poaceae),
+Host,ANMLOR,Exomala orientalis (as Poaceae),
+Host,HALODE,Halotydeus destructor (as Poaceae),
+Host,HAPLTR,Haplothrips tritici (as Poaceae),
+Host,HETDZE,Heterodera zeae (as Poaceae),
+Host,HETRAR,Heteronychus arator (as Poaceae),"* King PD, Mercer CF, Meekings JS (1981) Ecology of black beetle, Heteronychus arator (Coleoptera: Scarabaeidae)—influence of pasture species on oviposition site preference. New Zealand Journal of Zoology 8 (1), 119-122. "
+Host,LEPRAC,Leptocorisa acuta (as Poaceae),
+Host,MELOME,Melolontha melolontha (as Poaceae),
+Host,PSDCHE,Oculimacula yallundae (as Poaceae),
+Host,OMOPLE,Omophlus lepturoides (as Poaceae),
+Host,LEMAME,Oulema melanopus (as Poaceae),
+Host,POPIJA,Popillia japonica (as Poaceae),------- Larval hosts.
+Host,SPPHOB,Rhabdoscelus obscurus (as Poaceae),
+Host,SCIPAU,Scirpophaga nivella (as Poaceae),
+Host,SESAIN,Sesamia inferens (as Poaceae),
+Host,LAPHEX,Spodoptera exempta (as Poaceae),
+Host,SPODMA,Spodoptera mauritia (as Poaceae),
+Host,CONTSO,Stenodiplosis sorghicola,
+Host,STRLU,Striga asiatica (as Poaceae),
+Host,ARGPLE,Thaumatotibia leucotreta,
+Host,THRIIM,Thrips imaginis (as Poaceae),
+Host,TIPUOL,Tipula oleracea (as Poaceae),
+Host,TYLRCL,Tylenchorhynchus claytoni (as Poaceae),
+Major host,AGRILI,Agriotes lineatus (as Poaceae),
+Major host,AGRIOB,Agriotes obscurus (as Poaceae),
+Major host,AGRISU,Agriotes sputator (as Poaceae),
+Major host,MELGMI,Meloidogyne minor (as Poaceae),
+Wild/Weed,ATHEOZ,Atherigona oryzae (as Poaceae),
+Wild/Weed,CHILZO,Chilo partellus (as Poaceae),
+Wild/Weed,CHILSU,Chilo suppressalis (as Poaceae),
+Wild/Weed,CICDMB,Cicadulina mbila (as Poaceae),
+Wild/Weed,DIATSA,Diatraea saccharalis (as Poaceae),
+Wild/Weed,LISSOR,Lissorhoptrus oryzophilus (as Poaceae),
+Wild/Weed,MARGTR,Margarodes trimeni (as Poaceae),"* Giard A (1897) Sur la distribution géographique de cochenilles du genre Margarodes et sur deux espèces nouvelles de ce genre. Comptes Rendus des Séances de la Société de Biologie 4, 683-685.
+
+* Jakubski AW -1965) A critical revision of the families of Margarodidae and Termitococcidae (Hemiptera, Coccoidea). British Museum (Nat. Hist.) London, 187 pp."
+Wild/Weed,MARGVI,Margarodes vitis (as Poaceae),"* Giliomee J, de Klerk C & Watson GW (2022) 3.3.4 Margarodes spp. In: Encyclopedia of Scale Insect Pests (Eds Kondo T & Watson GW), pp. 69-73. CAB International, Wallingford (UK)."
+Wild/Weed,MAYEDE,Mayetiola destructor (as Poaceae),
+Wild/Weed,PSEDSE,Mythimna separata (as Poaceae),
+Wild/Weed,PYRLPE,Pyrilla perpusilla (as Poaceae),
+Wild/Weed,SOGAFU,Sogatella furcifera (as Poaceae),

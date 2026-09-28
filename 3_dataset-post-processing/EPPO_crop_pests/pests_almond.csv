@@ -1,0 +1,113 @@
+type,EPPOCode,Pref_name,References
+Doubtful host,ERSHMU,Garella musculana,"* EFSA Panel on Plant Health (2021) Commodity risk assessment of Juglans regia plants from Turkey. EFSA Journal 19(6), 6665, 99 pp. https://doi.org/10.2903/j.efsa.2021.6665
+------- as 'almond', citing Esonbaev et al. (2020).
+
+* Esonbaev Sh, Hasanov A and Ruzikolov D (2020) Almond and medicinal plants in forest agrobiotsenosis and methods of management of their quantities. Solid State Technology, 63, 624–629.
+------- as 'Amygdalus cammunis' (sic). Reported to cause damage on almond fruit. 
+This record needs to be confirmed: the journal is not a recognized one in plant health, it is not known if it if peer-reviewed, the quality of English makes it difficult to understand the text. There are no data how the identity of the pest was assessed, and no pictures of damage. "
+Host,ALEDDI,Aleurodicus dispersus (as Prunus),
+Host,ANARLI,Anarsia lineatella,"* Vulchi R, Daane KM, Wenger JA (2021) Development of DNA Melt Curve Analysis for the identification of Lepidopteran pests in almonds and pistachios. Insects 12(6), 553. https://doi.org/10.3390/insects12060553"
+Host,ANARLI,Anarsia lineatella (as Prunus),
+Host,ANSTFR,Anastrepha fraterculus,"* Gonzalez Mendoza R (1952) Contribucion al estudio de las moscas Anastrepha en Colombia. Revista Facultad Nacional de Agronomía 12, 423–549.
+
+* Nasca AJ, Zamora JA, Vergara LE, Jaldo HE (1996) Hospederos de moscas de los frutos en el Valle de Antinaco-Los Colorados, Provincia de La Rioja, República Argentina. Revista de Investigación 10, 19–24."
+Host,APRICI,Apriona cinerea (as Prunus),"* Singh AP, Bhandari RS, Verma TD (2004) Important insect pests of poplars in agroforestry and strategies for their management in northwestern India. Agroforestry Systems 63, 15–26."
+Host,CAPNTE,Capnodis tenebrionis,
+Host,CARSSA,Carposina sasakii,"* Cho SW, Park K T (1990) The systematics of Korean Carposinidae (Lepidoptera). Insecta Koreana 7, 87-103."
+Host,CARSSA,Carposina sasakii (as Prunus),
+Host,CERTCA,Ceratitis capitata,"* Nasca, AJ, Zamora JA, Vergara LE, Jaldo EH (1996) Hospederos de moscas de los frutos en el Valle de Antinaco-Los Colorados, provincia de La Rioja, República Argentina. Revista de Investigación - Centro de Investigaciones para la Regulación de Poblaciones de Organismos Nocivos 10(1-4), 19-24."
+Host,CERTCA,Ceratitis capitata (as Prunus),
+Host,CHRBMA,Chrysobothris mali,"* Burke HE (1929) The Pacific Flathead Borer. Technical Bulletin - United States Department of Agriculture, Washington D.C., (83). as P. amygdalus
+
+* EPPO (2021) EPPO Technical Document No. 1083. Pest risk analysis for Chrysobothris femorata and C. mali. EPPO, Paris. Available at https://gd.eppo.int/taxon/CHRBMA/documents
+------- confirmed true host of Chrysobothis mali
+
+* Strand L & Ohlendorf B (2002) Integrated Pest Management for Almonds, 2nd Edition. University of California Agriculture and Natural Resources
+
+* UC (1999) Crop Profile for Almonds in California - UCANR, 35 pp. Available at https://ucanr.edu/datastoreFiles/391-12.pdf"
+Host,QUADPE,Comstockaspis perniciosa,"* Ben-Dov Y, German V (2003) A systemic catalogue of the Diaspididae (armoured scale insects) of the world, subfamilies Aspidiotinae, Comstockiellinae and Odonaspidinae. Intercept Ltd, Andover UK, 1111 pp."
+Host,CARPPO,Cydia pomonella,"* Wearing CH, Hansen JD, Whyte C, Miller CE, Brown J (2001) The potential for spread of codling moth (Lepidoptera: Tortricidae) via commercial sweet cherry fruit: a critical review and risk assessment. Crop Protection 20(6), 465-488. https://doi.org/10.1016/S0261-2194(01)00023-0"
+Host,DIABSC,Diabrotica speciosa (as Prunus),
+Host,DIABUN,Diabrotica undecimpunctata undecimpunctata,"* Clark SM, LeDoux DG, Seeno TN, Riley EG, Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada (Coleoptera: Megalopodidae, Orsodacnidae, Chrysomelidae, excluding Bruchinae). Coleopterists Society, Special Publication 2, 1-476.
+-------- Adult host."
+Host,EPIOIO,Epichoristodes acerbella (as Prunus),
+Host,TORTPO,Epiphyas postvittana (as Prunus),
+Host,EUPRCH,Euproctis chrysorrhoea (as Prunus),
+Host,EURTSA,Eurytoma samsonovi,"* Zerova MD, Fursov VN (1991) The Palaearctic species of Eurytoma (Hymenoptera: Eurytomidae) developing in stone fruits (Rosaceae: Prunoideae). Bulletin of Entomological Research 81, 209-219.
+------- As Amygdalus communis."
+Host,EUTEBA,Eutetranychus banksi,* Migeon A & Dorkeld F (2024) Spider Mites Web: a comprehensive database for the Tetranychidae. Available from https://www1.montpellier.inrae.fr/CBGP/spmweb (Accessed 2024/04/23)
+Host,EUTEOR,Eutetranychus orientalis,"* Ben-David T, Ueckermann E, Gerson U (2013) An annotated list of the spider mites (Acari: Prostigmata: Tetranychidae) of Israel. Israel Journal of Entomology 43, 125-148.
+
+* Khanjani M, Khanjani M, Seeman OD (2017) New spider mites (Acari: Tetranychidae) of the genera Paraplonobia and Eurytetranychus from Iran, and a description of all life stages of Eutetranychus orientalis (Klein). Acarologia 57(3), 465-491, https://doi.org/10.24349/acarologia/20174167."
+Host,EUWAWH,Euwallacea fornicatus sensu stricto,"* de Jager MM, Roets F (2022) Pathogenicity of Fusarium euwallaceae, symbiont of the polyphagous shot hole borer beetle, to selected stone fruit trees in South Africa. Journal of Plant Pathology 105(1), 15-13.
+------- Breeding host."
+Host,EUZOSE,Euzophera semifuneralis,"* Biddinger DJ, Howitt AJ (1992) The food plants and distribution of the American plum borer (Lepidoptera: Pyralidae). The Great Lakes Entomologist 25(3), 149-158. https://scholar.valpo.edu/tgle/vol25/iss3/2
+
+* van Steenwyk RA, Hendricks LC, Barclay LW, Younce EL (1986) Borer control in young almond trees. California Agriculture 40(3-4), 10-11."
+Host,LASPFU,Grapholita funebrana,
+Host,LASPFU,Grapholita funebrana (as Prunus),
+Host,LASPMO,Grapholita molesta,
+Host,LASPMO,Grapholita molesta (as Prunus),
+Host,LASPPA,Grapholita packardi (as Prunus),"* Brown JW (2022) A review of host plants for the tortricid tribe Grapholitini, with a synopsis of host utilization by genus (Lepidoptera: Tortricidae). Insecta Mundi 0944, 1 –75."
+Host,LASPPR,Grapholita prunivora (as Prunus),
+Host,HALYHA,Halyomorpha halys,"* Bergmann E, Bernhard KM, Bernon G, Bickerton M, Gill S, Gonzales C, Hamilton GC, Hedstrom C, Kamminga K, Koplinka-Loehr C, Krawczyk G, Kuhar TP, Kunkel B, Lee J, Leskey TC, Martinson H, Nielsen AL, Raupp M, Shearer P, Shrewsbury P, Walgenbach J, Whalen J, Wiman N (online) Host Plants of the Brown Marmorated Stink Bug in the U.S. https://www.stopbmsb.org/where-is-bmsb/host-plants
+
+* Stahl JM, Scaccini D, Daane KM (2021) Field survival of the brown marmorated stink bug Halyomorpha halys (Hemiptera: Pentatomidae) on California tree crops. Environmental Entomolog 50(5), 1187-1193.
+------- Confirmed host."
+Host,HELIZE,Helicoverpa zea (as Prunus),"* Matthews M (1991) Classification of the Heliothinae. Bulletin of the Natural Resources Institute No. 44. Natural Resources Institute, Chatham, UK."
+Host,HOMLTR,Homalodisca vitripennis,"* Almeida RPP, Purcell AH (2003) Homalodisca coagulata (Hemiptera, Cicadellidae) transmission of Xylella fastidiosa to almond. Plant Disease 87, 1255-1259."
+Host,HYPHCU,Hyphantria cunea (as Prunus),
+Host,LYMADI,Lymantria dispar (as Prunus),
+Host,MALAAM,Malacosoma americanum (as Prunus),"* Blatt SE, Knox DA, Harmsen R (2000) Apple or cherry? Host selection quandary for the eastern tent caterpillar. Proceedings of the Entomological Society of Ontario 131, 123-131.
+
+* Britton WE (1935) The eastern tent caterpillar. Connecticut Agricultural Experiment Station Bulletin 378, 65-82.
+------- as 'other species of cherry and plum'
+
+* Fitzgerald TD (1995) The Tent Caterpillars. Cornell University Press, Ithaca, USA.
+------- listed amongst ovipositional hosts"
+Host,MALADI,Malacosoma disstria (as Prunus),
+Host,MALAPA,Malacosoma parallela (as Prunus),"* Kuznetsov VI (1999) 14. Fam. Lasiocampidae - The tent caterpillars. In Insects and Mites - Pests of Agricultural Plants (ed Kuznetsov VI), vol. 3, part 2. Lepidoptera, pp. 185-200. Nauka, Saint Petersburg (RU) (in Russian)"
+Host,MELGFL,Meloidogyne floridensis,"* Westphal A, Maung ZT, Doll DA, Yaghmour MA, Chitambar JJ, Subbotin SA (2019) First report of the peach root-knot nematode, Meloidogyne floridensis infecting almond on root-knot nematode resistant ‘Hansen 536’and ‘Bright's hybrid 5’ rootstocks in California, USA. Journal of Nematology 51, 1-3."
+Host,NAUPXA,Naupactus xanthographus,"* Ripa R (1992) Burrito de los frutales Naupactus xanthographus (Germar), INIA, La Cruz, Chile."
+Host,OEMOHI,Oemona hirta,"* Lu W, Wang Q (2005) Systematics of the New Zealand longicorn beetle genus Oemona Newman with discussion of the taxonomic position of the Australian species, O. simplex White (Coleoptera: Cerambycidae: Cerambycinae). Zootaxa 971, 1-31.
+
+* Plant-SyNZ. Landcare Research (NZ). Host plants of a herbivore -Oemona hirta. http://plant-synz.landcareresearch.co.nz/index.asp). Last accessed 2021-06."
+Host,OMOPLE,Omophlus lepturoides (as Prunus),
+Host,HEMELE,Orgyia leucostigma (as Prunus),"* Dedes J (2014). Whitemarked tussock moth (Orgyia leucostigma). Natural Resources Canada, Canadian Forest Service, Great Lakes Forestry Centre, Sault Ste. Marie, Ontario. Insect Production Services 2 p. https://cfs.nrcan.gc.ca/publications?id=35692 
+------- as ''cherry''."
+Host,PRABMY,Parabemisia myricae (as Prunus),
+Host,PSEAPE,Pseudaulacaspis pentagona,"* García Morales M, Denno BD, Miller DR, Miller GL, Ben-Dov Y, Hardy NB (2016) ScaleNet: A literature-based model of scale insect biology and systematics. Database. doi: 10.1093/database/bav118. http://scalenet.info [accessed 2026-02]."
+Host,PSEAPE,Pseudaulacaspis pentagona (as Prunus),"* García Morales M, Denno BD, Miller DR, Miller GL, Ben-Dov Y, Hardy NB (2016) ScaleNet: A literature-based model of scale insect biology and systematics. Database. doi: 10.1093/database/bav118. http://scalenet.info [accessed 2026-02].
+
+* Miller DR & Davidson JA (2005) Armored Scale Insect Pests of Trees and Shrubs. Cornell Univ. Press Ithaca, NY 442 pp."
+Host,PSECGA,Pseudococcus calceolariae (as Prunus),
+Host,PSECCO,Pseudococcus comstocki (as Prunus),
+Host,REPTPA,Reptalus panzeri (as Prunus),
+Host,RHAGCI,Rhagoletis cingulata (as Prunus),
+Host,RHAGFA,Rhagoletis fausta (as Prunus),
+Host,SCOLMU,Scolytus multistriatus (as Prunus),"* Tezcan S, Sarıkaya O (2024) New locality records for some bark beetles (Coleoptera: Curculionidae: Scolytinae) of Türkiye along with updated checklist. Munis Entomology & Zoology 19(1), 175-187."
+Host,SCOLSH,Scolytus schevyrewi (as Prunus),
+Host,TETRPA,Tetranychus pacificus,"* Haviland DR, Rill SM, Gordon CA (2021) Treatment thresholds for Tetranychus pacificus (Acari: Tetranychidae) in California almonds based on monitoring for the natural enemy Scolothrips sexmaculatus (Thysanoptera: Thripidae). Journal of Economic Entomology 114(4), 1834-1841."
+Host,THEBPI,Theba pisana,
+Host,AELSSA,Trirachys sartus,"* Ahmad MI, Hafiz IA, Chaudhry MI (1977) Biological studies of Aeolesthes sarta Solksy attacking poplars in Pakistan. Pakistan Journal of Forestry 27, 123-129. 
+
+* Duffy EAJ (1968) A monograph of the immature stages of Oriental timber beetles (Cerambycidae). Trustees of the British Museum (Natural History), London.
+
+* Farashiani ME, Sadeghi SE, Abaii M (2001) Geographic distribution and hosts of sart longhorn beetle, Aeolesthes sarta Solsky (Col.: Cerambycidae) in Iran. Journal of Entomological Society of Iran 20, 81-96. 
+
+* Gaffar SA, Bhat AA (1991) Management of stem borer, Aeolesthes sarta (Solsky), infesting walnut trees in Kashmir. Indian Journal of Forestry 14, 138- 141.
+
+* Mustafa AM, Janjua NA (1942) Almond growing in Baluchistan. Indian Farming 3, 539-542.
+
+"
+Host,TROGGA,Trogoderma granarium,* Global Invasive Species Database (2025) Species profile: Trogoderma granarium. http://www.iucngisd.org/gisd/species.php?sc=142 (27-02-2025).
+Host,XIPHAA,Xiphinema americanum sensu stricto (as Prunus),"* Taylor CE & Brown DJF (1997) Nematode vectors of plant viruses. CABI, Wallingford, UK, 278 pp."
+Major host,ANOLCN,Anoplophora chinensis (as Prunus),"* Lim J, Jung S-Y, Lim J-S, Jang J, Kim K-M, Lee Y-M, Lee B-W (2014) A review of host plants of Cerambycidae (Coleoptera: Chrysomeloidea) with new host records for fourteen Cerambycids, including the Asian longhorn beetle (Anoplophora glabripennis Motschulsky), in Korea. Korean Journal of Applied Entomology 53(2), 111-133.
+
+* Sjöman H, Östberg J & Nilsson J (2014) Review of host trees for the wood-boring pests Anoplophora glabripennis and Anoplophora chinensis: an urban forest perspective. Arboriculture & Urban Forestry 40(3), 143–164."
+Major host,AROMBU,Aromia bungii,"* NPPO of Italy (2022-04).
+"
+Major host,EURTAM,Eurytoma amygdali,"* Zerova MD, Fursov VN (1991) The Palaearctic species of Eurytoma (Hymenoptera: Eurytomidae) developing in stone fruits (Rosaceae: Prunoideae). Bulletin of Entomological Research 81, 209-219."
+Major host,MALAPA,Malacosoma parallela,"* Kuznetsov VI (1999) 14. Fam. Lasiocampidae - The tent caterpillars. In Insects and Mites - Pests of Agricultural Plants (ed Kuznetsov VI), vol. 3, part 2. Lepidoptera, pp. 185-200. Nauka, Saint Petersburg (RU) (in Russian)"
+Major host,PSECOB,Pseudococcus viburni (as Prunus),
+Major host,XYLONM,Xylotrechus namanganensis,

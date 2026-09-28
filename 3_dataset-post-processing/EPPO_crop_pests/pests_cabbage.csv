@@ -1,0 +1,116 @@
+type,EPPOCode,Pref_name,References
+Experimental,MELGMY,Meloidogyne enterolobii,"* Brito JA, Stanley J, Cetintas R, Powers T, Inserra R, McAvoy G, Mendes ML, Crow B, Dickson D (2004) Identification and host preference of Meloidogyne mayaguensis and other root-knot nematodes from Florida, and their susceptibility to Pasteuria penetrans. Journal of Nematology, 36 308-309.
+------- artificial host, recorded as Brassica oleracea var. sylvestris."
+Host,ADORSI,Adoretus sinicus (as Brassica),
+Host,AGROSE,Agrotis segetum (as Brassicaceae),
+Host,ALEDDI,Aleurodicus dispersus,"* Boopathi T (2022) New host plants, natural enemy complex and newly distributed potential areas of exotic spiralling whitefly (Hemiptera: Aleyrodidae) in India. Phytoparasitica 50(2), 335-357."
+Host,ALEUPR,Aleyrodes proletella (as Brassica),
+Host,ATALCO,Athalia rosae (as Brassicaceae),* CABI (2019) Datasheet on Athalia rosae (cabbage leaf sawfly). https://doi.org/10.1079/cabicompendium.7651
+Host,ATHEOR,Atherigona orientalis,"* Al-Fayyadh MJ (2020) Diagnostic of Pepper Fruit Fly Atherigona orientalis (Schiner)(Insecta: Diptera: Muscidae) on greenhouse crops from Thi-Qar Province (South of Iraq). Plant Archives, 20(sup 1), 2537-2538. 
+------- reported as major pest of Brassica oleracea in Karbala province."
+Host,BEMITA,Bemisia tabaci,"* McKenzie CL, Sparks Jr AN, Roberts P, Oetting RD, Osborne LS (2020) Survey of Bemisia tabaci (Hemiptera: Aleyrodidae) in agricultural ecosystems in Georgia. Journal of Entomological Science 55(2), 163-170."
+Host,BEMITA,Bemisia tabaci (as Brassicaceae),
+Host,TORTPR,Cacoecimorpha pronubana,"* Gardiner BOC (1982) Cacoecimorpha pronubana Hnb. (Lep.: Tortricidae) successfully reared on artificial diet, with a note on its diapause requirements. Entomologist’s Record and Journal of Variation 94, 122-123."
+Host,CEUTPL,Ceutorhynchus assimilis (as Brassicaceae),
+Host,CEUTSL,Ceutorhynchus sulcicollis (as Brassicaceae),
+Host,HELIVI,Chloridea virescens,"* Capinera JL (2001) Heliothis virescens (Fabricius) (Insecta: Lepidoptera: Noctuidae) EENY-219 (latest revision Dec. 2018). Featured Creatures. University of Florida. https://entnemdept.ufl.edu/creatures/field/tobacco_budworm.htm
+
+* Edde PA (2018) Principal Insects Affecting Tobacco Plants in the Field. Contributions to Tobacco Research 28, 117-165.
+
+* EPPO (2024) EPPO Technical Document No. 1091. Pest risk analysis for Chloridea virescens. EPPO, Paris. Available at https://gd.eppo.int/taxon/HELIVI/documents
+------- Likely host (reported as host in the literature but lacking evidence to consider it as main host – see PRA for further details on the host)."
+Host,CHRXER,Chrysodeixis eriosoma,
+Host,CONTNA,Contarinia nasturtii (as Brassicaceae),
+Host,HYLEFL,Delia floralis (as Brassica),
+Host,HYLEFL,Delia floralis (as Brassicaceae),
+Host,HYLEFG,Delia florilega (as Brassicaceae),
+Host,HYLEPL,Delia platura (as Brassicaceae),
+Host,DIABUN,Diabrotica undecimpunctata undecimpunctata,"* Clark SM, LeDoux DG, Seeno TN, Riley EG, Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada (Coleoptera: Megalopodidae, Orsodacnidae, Chrysomelidae, excluding Bruchinae). Coleopterists Society, Special Publication 2, 1-476.
+-------- Adult host."
+Host,DITYDI,Ditylenchus dipsaci,"* Goodey JB, Franklin MT, Hooper DJ (1965) T. Goodey's: The Nematode Parasites of Plants Catalogued Under Their Hosts. Commonwealth Agricultural Bureaux, Farnham Royal, Bucks, England. Third edition, 214 pp."
+Host,EPIXTU,Epitrix tuberis,"* Clark SM,  LeDoux DG, Seeno TN,  Riley EG,  Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada.  Special Publications of the Coleopterists Society, 2, 476 pp.
+------- feeding of adults"
+Host,EURDOL,Eurydema oleraceum (as Brassicaceae),
+Host,EURDOR,Eurydema ornata (as Brassicaceae),
+Host,FRANCS,Frankliniella australis (as Brassicaceae),
+Host,HALYHA,Halyomorpha halys,"* Bergmann E, Bernhard KM, Bernon G, Bickerton M, Gill S, Gonzales C, Hamilton GC, Hedstrom C, Kamminga K, Koplinka-Loehr C, Krawczyk G, Kuhar TP, Kunkel B, Lee J, Leskey TC, Martinson H, Nielsen AL, Raupp M, Shearer P, Shrewsbury P, Walgenbach J, Whalen J, Wiman N (online) Host Plants of the Brown Marmorated Stink Bug in the U.S. https://www.stopbmsb.org/where-is-bmsb/host-plants"
+Host,HELIAR,Helicoverpa armigera,"* Cunningham JP, Zalucki MP (2014) Understanding heliothine (Lepidoptera: Heliothinae) pests: what is a host plant? Journal of Economic Entomology 107, 881–896."
+Host,HELIZE,Helicoverpa zea,"* Quaintance AL, Brues CT (1905) The cotton bollworm. US Depatment of Agriculture. Bureau of entomology. Bulletin 50. 155 pp."
+Host,HELPRU,Helophorus rufipes (as Brassicaceae),
+Host,HETDSC,Heterodera schachtii (as Brassica),
+Host,LIRIHU,Liriomyza huidobrensis,"* Echevarria A, Gimeno C, Jimenez R (1994) Liriomyza huidobrensis (Blanchard, 1926) (Diptera: Agromyzidae) una nueva plaga en cultivos valencianos. Boletin de Sanidad Vegetal. Plagas 20, 103-109.
+
+* Foba CN, Salifu D, Lagat ZP, Gitonga LM, Akutse KS, Fiaboe KKM (2015) Species composition, distribution and seasonal abundance of Liriomyza leafminers (Diptera: Agromyzidae) under different vegetable production systems and agroecological zones in Kenya. Environmental Entomology 44, 223-232.
+
+* Rauf A, Shepard BM, Johnson MW (2000) Leafminers in vegetables, ornamental plants and weeds in Indonesia: surveys of host crops, species composition and parasitoids. International Journal of Pest Management 46, 257-266.
+------- Confirmed host. Reared from infested leaves collected in the field.
+
+* Scheffer SJ, Wiejesekara A, Visser D, Hallett RH (2001) Polymerase chain reaction-restriction fragment-length polymorphism method to distinguish Liriomyza huidobrensis from L. langei (Diptera: Agromyzidae) applied to three recent leafminer invasions. Journal of Economic Entomology 94, 1177-1182.
+
+* Spencer KA (1983) Leaf mining Agromyzidae (Diptera) in Costa Rica. Revista de Biologia Tropical 31, 41-67.
+
+* Wei J, Zou L, Kuang R, He L (2000) Influence of leaf tissue structure on host feeding selection by pea leafminer Liriomyza huidobrensis (Diptera: Agromyzidae). Zoological Studies 39, 295-300."
+Host,LIRITR,Liriomyza trifolii (as Brassica),
+Host,LISTCO,Listroderes costirostris,"* Morrone JJ (2011) Annotated checklist of the tribe Listroderini (Coleoptera: Curculionidae: Cyclominae). Zootaxa 3119, 1-68."
+Host,LISTDI,Listroderes difficilis,"* Morrone JJ (2011) Annotated checklist of the tribe Listroderini (Coleoptera: Curculionidae: Cyclominae). Zootaxa 3119, 1-68."
+Host,BARABR,Mamestra brassicae (as Brassica),
+Host,MELGGC,Meloidogyne graminicola,"* Rusinque L, Maleita C, Abrantes I, Palomares-Rius JE, Inácio ML (2021) Meloidogyne graminicola - A threat to rice production: review update on distribution, biology, identification, and management. Biology 10, 1163. https://doi.org/10.3390/biology10111163"
+Host,NACOBA,Nacobbus aberrans sensu lato,"* Manzanilla-López RH, Costilla MA, Doucet M, Inserra RN, Lehman PS, Cid del Prado-Vera I, Souza RM, Evans K (2002) The genus Nacobbus Thorne & Allen, 1944 (Nematoda: Pratylenchidae): systematics, distribution, biology and management. Nematropica 32, 149-226."
+Host,PALEMA,Nephrotoma appendiculata (as Brassicaceae),
+Host,NYSIHU,Nysius huttoni (as Brassica),
+Host,OMOPLE,Omophlus lepturoides (as Brassica),
+Host,OTALLA,Otala lactea (as Brassicaceae),
+Host,PHYEAT,Phyllotreta atra (as Brassicaceae),
+Host,PHYECR,Phyllotreta cruciferae (as Brassicaceae),
+Host,PHYYRU,Phytomyza rufipes (as Brassicaceae),
+Host,PIERBR,Pieris brassicae (as Brassica),
+Host,PIERBR,Pieris brassicae (as Brassicaceae),
+Host,PLADBR,Plasmodiophora brassicae (as Brassica),
+Host,PLADBR,Plasmodiophora brassicae (as Brassicaceae),
+Host,LEPTMA,Plenodomus lingam (as Brassicaceae),"* Claassen BJ, Berry PA, Thomas WJ, Mallory-Smith C, Ocamb CM (2021) Black Leg and Chlorotic Leaf Spot Occurrence on Brassicaceae Crop and Weed Hosts. Plant Disease 105(11), 3418-3425."
+Host,PRDILO,Prodiplosis longifila,"* Diaz-Silva F (2011) [Agroecological aspects for the integrated management of Prodiplosis longifila Gagné in the irrigation of Chavimochic]. Escuela de Ciencias Biológicas, Universidad de Trujillo, Trujillo, PERU (in Spanish).
+
+* Valarezo O, Cañarte E, Navarrete B, Arias M (2003) [Prodiplosis longifila (Diptera: Cecidomyiidae) main tomato pest in Ecuador.] Manual 51, INIAP, Ecuador. (in Spanish)"
+Host,PSYICH,Psylliodes chrysocephala (as Brassicaceae),
+Host,PRODLI,Spodoptera litura,"* Ahmad M, Ghaffar A, Rafiq M (2013) Host plants of leaf worm, Spodoptera litura (Fabricius)(Lepidoptera: Noctuidae) in Pakistan. Asian Journal of Agriculture and Biology 1(1), 23-28."
+Host,SPODMA,Spodoptera mauritia (as Brassicaceae),
+Host,PRODOR,Spodoptera ornithogalli,"* Brito R, Specht A, Gonçalves GL, Moreira GRP, Carneiro E, Santos FL, Roque-Specht VF, Mielke OHH, Casagrande MM (2019) Spodoptera marima: a new synonym of Spodoptera ornithogalli (Lepidoptera: Noctuidae), with notes on adult morphology, host plant use and genetic variation along its geographic range. Neotropical Entomology 48(3), 433-448.
+
+* Capinera JL (2017) Yellowstriped Armyworm, Spodoptera ornithogalli (Guenée) (Insecta: Lepidoptera: Noctuidae). Department of Entomology and Nematology, University of Florida /IFAS Extension, EENY216, 4p. https://edis.ifas.ufl.edu/pdffiles/IN/IN37300.pdf
+
+* Comstock JA (1965) Ciclo biologico de Prodenia ornithogalli Guenée (Lepidoptera: Noctuidae). Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoologia 36, 199-202.
+
+* Crumb SE (1929) Tobacco cutworms. USDA Technical Bulletin 88, p 179.
+
+* Heppner JB (2007) Lepidoptera of Florida. Part 1. Introduction and catalog. Gainesville, Florida Department of Agriculture & Consumer Services, p 670.
+
+* Poveda BD, Schwitzer DA (1964) Estudio biológico del Prodenia ornithogalli Guen. y del Prodenia sunia (Guen.) en três hospedeiros. Acta Agronômica 14(1), 71-101.
+
+* Robinson GS, Ackery PR, Kitching IJ, Beccaloni GW, Hernández LM (2010) HOSTS - A Database of the World's Lepidopteran Hostplants. Natural History Museum, London. http://www.nhm.ac.uk/hosts
+
+* Tietz HM (1972) An index to the described life histories, early stages and hosts of the Macrolepidoptera of the continental United States and Canada, 536 pp."
+Host,TATOAU,Tatochila autodice (as Brassicaceae),
+Host,THRIPL,Thrips palmi,"* Duran IC, Mesa NC, Estrada EI (1999) [Life cyle of Thrips palmi (Thysanoptera: Thripidae) and host plant registered in the Cauca Valley]. Revista Colombiana de Entomologia 25(3/4), 109-120 (in Spanish)."
+Host,THRISE,Thrips setosus,
+Host,TYLOBR,Tyloderma brassicae (as Brassicaceae),
+Major host,BAGRHI,Bagrada hilaris (as Brassica),
+Major host,HYLEFL,Delia floralis,
+Major host,LIRIBO,Liriomyza bryoniae,
+Major host,BARABR,Mamestra brassicae,
+Major host,MELGET,Meloidogyne ethiopica,"* O’Bannon J H (1975) Nematode survey in Ethiopia. Institute of Agricultural Research, Addis Ababa, Ethiopia and FAO, Rome, [unpubl.].
+
+* Whitehead AG (1968) Taxonomy of Meloidogyne (Nematoda: Heteroderidae) with description of four new species. Transactions of the Zoological Society of London 31, 263-401.
+
+* Whitehead A G (1969) The distribution of root-knot nematodes (Meloidogyne spp.) in tropical Africa. Nematologica 15, 315-333.
+
+* Carneiro R M D G, Correa V R, Almeida M R A, Gomes A C M M, Deimi A M, Castagnone-Sereno P & Karssen G (2014) Meloidogyne luci n. sp. (Nematoda: Meloidogynidae), a root-knot nematode parasitising different crops in Brazil, Chile and Iran. Nematology 16, 289-301."
+Major host,PHYECR,Phyllotreta cruciferae,
+Major host,PIERBR,Pieris brassicae,
+Major host,LEPTMA,Plenodomus lingam,"* Claassen BJ, Berry PA, Thomas WJ, Mallory-Smith C, Ocamb CM (2021) Black Leg and Chlorotic Leaf Spot Occurrence on Brassicaceae Crop and Weed Hosts. Plant Disease 105(11), 3418-3425."
+Major host,SPODLI,Spodoptera littoralis,"* El-Khayat EF, Dahi HF, Tawfik MM, El-Shewy M (2020) Effect of different host plants on the different haemocyte counts and haemocyte viability of larvae of Spodoptera littoralis and Agrotis ipsilon. Egyptian Academic Journal of Biological Sciences 13(4), 57-63.
+
+* Faraghaly DS, El-Sharkawy AZ, Abbas AA, Abdel-Wahab HA, El-Mewafy HA (2015) Biological aspects and life table parameters of the cotton leaf-worm, Spodoptera littoralis (Boisd.) on different vegetable host plants. Journal of Plant Protection and Pathology, Mansoura University 6(4), 597-603.
+
+* Gacemi A, Taibi A, El Houda Abed N, M'hammedi Bouzina M, Bellague D, Tarmoul K (2019) Effect of four host plants on nutritional performance of cotton leafworm, Spodoptera littoralis (Lepidoptera: Noctuidae). Journal of Crop Protection 8(3), 361-371.
+
+* Mohamed HA, Alkordy MW, Atta AA (2019) Effect of host plants on biology of Spodoptera littoralis (Boisd.). Egyptian Academic Journal of Biological Sciences 12(6), 65-73."

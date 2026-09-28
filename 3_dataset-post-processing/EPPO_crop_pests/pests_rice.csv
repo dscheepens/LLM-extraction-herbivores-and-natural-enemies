@@ -1,0 +1,135 @@
+type,EPPOCode,Pref_name,References
+Host,BRAPSU,Brachyplatys subaeneus,"* Rédei D (2016) The identity of the Brachyplatys species recently introduced to Panama, with a review of bionomics (Hemiptera: Heteroptera: Plataspidae). Zootaxa 4136(1), 141-154."
+Host,CHILAG,Chilo agamemnon,
+Host,DIATIN,Chilo infuscatellus,
+Host,CHILZO,Chilo partellus,
+Host,PROSPO,Chilo polychrysus,
+Host,ONCMMI,Dechacona missionum,"* Paradell SL, Virla EG, Logarzo GA, Dellapé G (2012) Proconiini Sharpshooters of Argentina, with notes on its distribution, host plants, and natural enemies. Journal of Insect Science 12, 116. http://www.insectscience.org/12.116"
+Host,HYLEPL,Delia platura,
+Host,DIABLO,Diabrotica barberi,"* Branson TF, Ortman EE (1971) Host range of larvae of the northern corn rootworm: further studies. Journal of the Kansas Entomological Society 44(1), 50-52.
+------- Completed its immature stages."
+Host,DIABUH,Diabrotica undecimpunctata howardi,"* Clark SM, LeDoux DG, Seeno TN, Riley EG, Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada (Coleoptera: Megalopodidae, Orsodacnidae, Chrysomelidae, excluding Bruchinae). Coleopterists Society, Special Publication 2, 1-476.
+------- Larval host."
+Host,DIABUN,Diabrotica undecimpunctata undecimpunctata,"* Clark SM, LeDoux DG, Seeno TN, Riley EG, Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada (Coleoptera: Megalopodidae, Orsodacnidae, Chrysomelidae, excluding Bruchinae). Coleopterists Society, Special Publication 2, 1-476.
+------- Larval host."
+Host,DIATSA,Diatraea saccharalis,
+Host,DIOPTH,Diopsis thoracica,
+Host,DITYAN,Ditylenchus angustus,
+Host,EARIIN,Earias insulana,
+Host,ELASLI,Elasmopalpus lignosellus,"* Gill HK, Capinera JL, McSorley R (2017) Featured Creatures. Lesser cornstalk borer. Elasmopalpus lignosellus (Zeller) (Insecta: lepidoptera: Pyralidae). University of Florida (US). http://entnemdept.ufl.edu/creatures/field/lesser_cornstalk_borer.htm
+
+* Sandhu HS (2010) Biology and cultural control of lesser cornstalk borer on sugarcane. PhD thesis. University of Florida. https://ufdcimages.uflib.ufl.edu/UF/E0/04/14/72/00001/sandhu_h.pdf"
+Host,ELDASA,Eldana saccharina,
+Host,HALYHA,Halyomorpha halys,"* Lupi D, Dioli P, Limonta L (2017) First evidence of Halyomorpha halys (Stål) (Hemiptera Heteroptera, Pentatomidae) feeding on rice (Oryza sativa L.). Journal of Entomological and Acarological Research 49, 67-71."
+Host,HELIAR,Helicoverpa armigera,"* Cunningham JP, Zalucki MP (2014) Understanding heliothine (Lepidoptera: Heliothinae) pests: what is a host plant? Journal of Economic Entomology 107, 881–896."
+Host,HELIZE,Helicoverpa zea,"* Matthews M (1991) Classification of the Heliothinae. Bulletin of the Natural Resources Institute No. 44. Natural Resources Institute, Chatham, UK."
+Host,HETDZE,Heterodera zeae,
+Host,LAGRVL,Lagria villosa,"* Ruzzier E, Martinez-Munoz CA (2021) First record of the invasive Lagria villosa (Fabricius, 1781) (Coleoptera: Tenebrionidae: Lagriinae) in Europe. Zootaxa 4908(1), 147-150. https://doi.org/10.11646/zootaxa.4908.1.11 
+
+* Spilman TJ (1978) Lagria villosa in Brazil, with new descriptions and illustrations of the larva and pupa (Coleoptera, Lagriidae). Ciencia e cultura, Sao Paulo 30(3), 342–347
+"
+Host,CALGMA,Laodelphax striatellus,"* Hu SJ, Fu DY, Liu XJ, Zhao T, Han ZL, Lü JP, Wan HL, Ye H (2012) Diversity of planthoppers associated with the winter rice agroecosystems in southern Yunnan, China. Journal of Insect Science 12(1), 29."
+Host,LEMAOR,Lema oryzae,
+Host,LEPRAC,Leptocorisa acuta,
+Host,LEPROR,Leptocorisa oratorius,
+Host,LEPLAU,Leptoglossus australis,
+Host,MELGET,Meloidogyne ethiopica,"* Lima E A, Mattos J K, Moita A W, Carneiro R G & Carneiro R M D G (2009) Host status of different crops for Meloidogyne ethiopica control. Tropical Plant Pathology 34, 152-157.
+-------In experiments, cv 'Pelotas' was found to be moderatly resistant (But with RF >=1)"
+Host,MELGEX,Meloidogyne exigua,
+Host,MELGLC,Meloidogyne luci,"* Sen F, Aydinli (2021) Host status of cultivated crops to Meloidogyne luci. European Journal of Plant Pathology 161(3), 607-618.
+------- In experiments, cv. Efe was found to be a good host.
+"
+Host,MCCTAB,Microcephalothrips abdominalis,"* Sartiami D, Mound LA (2013) Identification of the terebrantian thrips (Insecta, Thysanoptera) associated with cultivated plants in Java, Indonesia. ZooKeys 306, 1–21. https://doi.org/10.3897/zookeys.306.5455
+------- Collected from this plant in Java (Indonesia)."
+Host,OOSPOR,Oospora oryzetorum,
+Host,PARNGU,Parnara guttata,
+Host,POOPCO,Poophilus costalis," * Koudamiloro, Nwilene FE, Silue D, Togola A, Oyetunji O, Sere Y,  Akogbeto M (2014) Identification of insect vectors of Rice yellow mottle virus (RYMV) in Benin. Journal of Entomology 11(3), 153-162.
+
+* Pawar AD, Bhalla OP (1974) Pest complex of rice in Himachal Pradesh. Indian Journal of Entomology 36(4), 358-359.
+
+* Shih HT, Tsay HC, Yang JT (2005) Notes on the geographic distribution and host plants for Poophilus costalis (Walker, 1851) (Hemiptera: Cercopoidea: Aphrophoridae). Plant Protection Bulletin 47, 171–178."
+Host,SCIPIN,Scirpophaga innotata,
+Host,SCIPAU,Scirpophaga nivella,
+Host,SCOTLU,Scotinophara lurida,
+Host,SESACA,Sesamia calamistis,
+Host,SESACR,Sesamia cretica,
+Host,SESAIN,Sesamia inferens,
+Host,PRODER,Spodoptera eridania,"* Montezano DG, Specht A, Sosa-Gomez DR, Roque-Specht VF & de Barros NM (2014) Immature stages of Spodoptera eridania (Lepidoptera: Noctuidae): developmental parameters and host plants. Journal of Insect Science 14, 238. https://doi.org/10.1093/jisesa/ieu227"
+Host,PRODLI,Spodoptera litura,
+Host,PRODOR,Spodoptera ornithogalli,"* Brito R, Specht A, Gonçalves GL, Moreira GRP, Carneiro E, Santos FL, Roque-Specht VF, Mielke OHH, Casagrande MM (2019) Spodoptera marima: a new synonym of Spodoptera ornithogalli (Lepidoptera: Noctuidae), with notes on adult morphology, host plant use and genetic variation along its geographic range. Neotropical Entomology 48(3), 433-448.
+
+* Coto D, Saunders JL, Vargas-S CL, King ABS (1995) Plagas invertebradas de cultivos tropicales con énfasis em América Central-Um invetário. Turrialba, CATIE, 200 pp."
+Host,PRODPR,Spodoptera praefica,"* Grigarick AA (1984) General problems with rice invertebrate pests and their control in the United States. Protection Ecology 7(2/3),  105-114.
+
+* Robinson GS, Ackery PR, Kitching IJ, Beccaloni GW & Hernández LM (2010) HOSTS - A database of the World's lepidopteran hostplants. Natural History Museum, London. http://www.nhm.ac.uk/hosts"
+Host,STRLU,Striga asiatica,
+Host,THRIPL,Thrips palmi,"* Takai M, Futagami T, Kawamura M, Kegasawa K (1983) Injuries of rice plant by Thrips palmi Karny. Proceedings of the Association for Plant Protection of Shikoku 18, 53-60 (in Japanese)."
+Host,THRISE,Thrips setosus,
+Host,TRCASE,Trichispa sericea,
+Major host,AGMYOR,Agromyza oryzae,
+Major host,APLOBE,Aphelenchoides besseyi,"* Çelik ES, Tülek A, Devran Z (2020) Development of a novel scale based on qPCR for rapid and accurate prediction of the number of Aphelenchoides besseyi in paddy rice. Crop Protection 127,104975."
+Major host,ATHEOZ,Atherigona oryzae,
+Major host,BALAOS,Balansia oryzae-sativae,"* Booth C (1998) CMI descriptions of pathogenic fungi and bacteria. CMI Descriptions of Pathogenic Fungi and Bacteria no. 640,  CABI (GB)."
+Major host,DIATAU,Chilo auricilius,
+Major host,CHILSU,Chilo suppressalis,
+Major host,HISPAR,Dicladispa armigera,
+Major host,DIMOPI,Dimorphopterus pilosus,
+Major host,EORELO,Eoreuma loftini,"* Stout MJ, McCarter K, Villegas JM, Wilson BE (2024) Natural incidence of stem borer damage in US rice varieties. Crop Protection 177, 106565."
+Major host,GONAAC,Gonocephalum acutangulum,
+Major host,GONADE,Gonocephalum depressum,
+Major host,GONASI,Gonocephalum simplex,
+Major host,HETDEL,Heterodera elachista,"* Nobbs JM, Ibrahim SK, Rowe J (1992) A morphological and biochemical comparison of the four cyst nematode species, Heterodera elachista, H. oryzicola, H. oryzae and H. sacchari (Nematoda: Heteroderidae) known to attack rice (Oryza sativa). Fundamental and applied Nematology 15(6), 551-562.
+
+* Oshima Y (1974) Heterodera elachista n. sp., an upland rice cyst nematode from Japan. Japanese Journal of Nematology 4, 51-56."
+Major host,HETDOR,Heterodera oryzae,
+Major host,HIRSIM,Hirschmanniella imamuri,"* Babatola JO and Bridge J (1979) Pathogenicity of Hirschmanniella oryzae, H. spinicaudata, and H. imamuri on rice. Journal of Nematology 11, 128–132."
+Major host,HIRSMU,Hirschmanniella mucronata,"* Bridge J, Luc M, Plowright RA (1990). Nematode parasites of rice. In Plant Parasitic Nematodes in Subtropical and Tropical Agriculture (eds. Luc M, Sikora RA, Bridge J). CAB International, Wallingford, UK. 630 pp.
+
+* Fortuner R, Merny G (1979) Root-parasitic nematodes of rice. Revue de Nématologie 2(1), 79-102.
+
+* Liao JL,  Feng ZX, Li SM, HuYM (2000) Species of Hirschmanniella on rice and their distribution in China. Nematologia Mediterranea 28, 107-110."
+Major host,HIRSOR,Hirschmanniella oryzae,"* Babatola JO and Bridge J (1979) Pathogenicity of Hirschmanniella oryzae, H. spinicaudata, and H. imamuri on rice. Journal of Nematology 11, 128–132.
+
+* Maung ZTZ, Win PP, Kyi PP, Myint YY, de Waele D (2013) Occurrence of the rice root nematode Hirschmanniella oryzae on monsoon rice in Myanmar. Archives of Phytopathology and Plant Protection 46 (3), 348-356.
+
+* Anwar SA, McKenry MV, Yasin SI (2011) Rice-root nematode, Hirschmaniella oryzae, infecting rice selections and weed genotypes. Pakistan Journal of Zoology 43, 373-378.
+
+* Babatola JO (1979) Varietal reaction of rice and other food crops to the rice-root nematodes, Hirschmanniella oryzae, H. imamuri and H. spinicaudata. Nematropica 9, 123-128.
+------- Experiments.
+
+* Goswami BK, Singh A, Singh N & Singh S (2015) Infestation of an endoparasitic migratory rice root nematode, Hirschmanniella oryzae- a serious threat to the paddy growers of western U.P. -A first report. Plant Archives 15, 1195-1196.
+
+* Liao JL,  Feng ZX, Li SM, HuYM (2000) Species of Hirschmanniella on rice and their distribution in China. Nematologia Mediterranea 28, 107-110.
+
+* Maung ZTZ, Win PP, Kyi PP, Myint YY & de Waele D (2013) Population dynamics of the rice root nematode Hirschmanniella oryzae on monsoon rice in Myanmar. Archives of Phytopathology and Plant Protection 46, 348-356."
+Major host,HIRSSC,Hirschmanniella spinicaudata,"* Babatola JO, Bridge J (1979) Pathogenicity of Hirschmanniella oryzae, H. spinicaudata, and H. imamuri on rice. Journal of Nematology 11, 128–132."
+Major host,LISSOR,Lissorhoptrus oryzophilus,"* Stout MJ, Rice WC, Linscombe SD, Bollich PK (2011) Identification of rice cultivars resistant to Lissorhoptrus oryzophilus (Coleoptera: Curculionidae), and their use in an integrated management program. Journal of economic entomology 94(4), 963-970."
+Major host,MLNMGM,Melanomma glumarum,
+Major host,MELGGC,Meloidogyne graminicola,"* Tian ZL, Maria M, Barsalote EM, Castillo P, Zheng JW (2018) Morphological and molecular characterization of the rice root-knot nematode, Meloidogyne graminicola, Golden and Birchfeild, 1965 occurring in Zhejiang, China. Journal of integrative agriculture, 17(12), 2724-2733."
+Major host,PSEDSE,Mythimna separata,
+Major host,NEPHCI,Nephotettix cincticeps,
+Major host,NEPHNI,Nephotettix nigropictus,
+Major host,NEPHPA,Nephotettix parvus,
+Major host,NEPHIM,Nephotettix virescens,
+Major host,NILALU,Nilaparvata lugens,"* Iamba K, Dono D (2021) A review on brown planthopper (Nilaparvata lugens Stål), a major pest of rice in Asia and Pacific. Asian Journal of Research in Crop Science, 6 (4), 7-19. https://doi.org/10.9734/ajrcs/2021/v6i430122"
+Major host,PACHOR,Orseolia oryzae,
+Major host,POMACA,Pomacea canaliculata,"* Halwart M (1994) The golden apple snail Pomacea canaliculata in Asian rice farming systems: present impact and future threat. International Journal of Pest Management 40(2), 199-206."
+Major host,POMAIN,Pomacea maculata,"* Arfan AG, Muhamad R, Omar D, Nor Azwady AA, Manjeri G (2015) Comparative life cycle studies of Pomacea maculata and Pomacea canaliculata on rice (Oryza sativa). Pakistan Journal of Agricultural Sciences 52(4), 1075-1079.
+
+* Horgan FG (2018) The ecophysiology of apple snails in rice: implications for crop management and policy. Annals of Applied Biology 172(3), 245-267."
+Major host,SCHOBI,Scirpophaga incertulas,
+Major host,SOGAFU,Sogatella furcifera,
+Major host,LAPHEX,Spodoptera exempta,
+Major host,LAPHFR,Spodoptera frugiperda,"* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300.
+
+* Valdez EM, Joshi RC, Rillon GS, Donayre DKM, Martin EC, dela Cruz KB, Sandoval FR, Quilang EJP, Aquino MF, Mariano J, Pascual MK, Faheem M, Annamalai S (2023) Rice: a new host of fall armyworm Spodoptera frugiperda (J.E. Smith) and its strains in the Philippines. Insect Environment 26(2), 129-136."
+Major host,SPODMA,Spodoptera mauritia,
+Major host,THRIOR,Stenchaetothrips biformis,
+Major host,SOGAOR,Tagosodes orizicola,"* Way MO, Vyavhare SS, Mock C, Mock W, Metz K, McKamey SH, Porter P (2016) Outbreak of Tagosodes orizicolus (Muir) in Texas rice. Southwestern Entomologist, 41(3), 871-874."
+Major host,TROGGA,Trogoderma granarium,"* Athanassiou CG, Phillips TW, Wakil W (2019) Biology and Control of the Khapra Beetle, Trogoderma granarium, a Major Quarantine Threat to Global Food Security. Annual Review of Entomology 64, 131-148. Supplemental Table 1.
+
+* Lindgren D, Vincent L, Krohne H (1955) The khapra beetle, Trogoderma granarium Everts. Hilgardia 24(1), 1-36.
+
+* Global Invasive Species Database (2025) Species profile: Trogoderma granarium. http://www.iucngisd.org/gisd/species.php?sc=142 (27-02-2025)."
+Wild/Weed,NILALU,Nilaparvata lugens (as Oryza),"* Iamba K, Dono D (2021) A review on brown planthopper (Nilaparvata lugens Stål), a major pest of rice in Asia and Pacific. Asian Journal of Research in Crop Science, 6 (4), 7-19. https://doi.org/10.9734/ajrcs/2021/v6i430122"
+Wild/Weed,PACHOR,Orseolia oryzae (as Oryza),

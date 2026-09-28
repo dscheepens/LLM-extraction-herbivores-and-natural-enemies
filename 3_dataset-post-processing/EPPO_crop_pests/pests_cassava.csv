@@ -1,0 +1,65 @@
+type,EPPOCode,Pref_name,References
+Host,ALECSN,Aleurocanthus spiniferus,"* Gillespie PS (2012) A review of the whitefly genus Aleurocanthus Quaintance & Baker (Hemiptera: Aleyrodidae) in Australia. Zootaxa 3252, 1-42."
+Host,ALEDDI,Aleurodicus dispersus,"* Boopathi T (2022) New host plants, natural enemy complex and newly distributed potential areas of exotic spiralling whitefly (Hemiptera: Aleyrodidae) in India. Phytoparasitica 50(2), 335-357."
+Host,AMBPCO,Amblypelta cocophaga,
+Host,AMBPLU,Amblypelta lutescens,
+Host,AUACAB,Aulacophora abdominalis,
+Host,CYLAFO,Cylas formicarius,
+Host,DPREAB,Diaprepes abbreviatus,"* EFSA PLH Panel (EFSA Panel on Plant Health) (2023) Pest categorisation of Diaprepes abbreviatus. EFSA Journal 21(11), 1–42. https://doi.org/10.2903/j.efsa.2023.83
+-------Host plants most probably supporting the whole life cycle (where larvae but not all life stages have been observed)."
+Host,DITYDI,Ditylenchus dipsaci,"* Goodey JB, Franklin MT, Hooper DJ (1965) T. Goodey's: The Nematode Parasites of Plants Catalogued Under Their Hosts. Commonwealth Agricultural Bureaux, Farnham Royal, Bucks, England. Third edition, 214 pp."
+Host,EURHBR,Eurhizococcus brasiliensis,"* García Morales M, Denno BD, Miller DR, Miller GL, Ben-Dov Y, Hardy NB (2016) ScaleNet: A literature-based model of scale insect biology and systematics. Database. doi 10.1093/database/bav118. http://scalenet.info
+------- citing original references
+
+* Soria SJ, Gallotti BJ (1986) O margarodes da videira Eurhizococcus brasiliensis (Homoptera: Margarodidae): biologia, ecologia e controle no Sul do Brasil. Embrapa, Centro Nacional de Pesquisa de Uva e Vinho, Bento Gonçalves, Brazil. CNPUV Circular Técnica 13. 22 pp."
+Host,EUTEBA,Eutetranychus banksi,* Migeon A & Dorkeld F (2024) Spider Mites Web: a comprehensive database for the Tetranychidae. Available from https://www1.montpellier.inrae.fr/CBGP/spmweb (Accessed 2024/04/23)
+Host,EUTEOR,Eutetranychus orientalis,"* Bhaskar H, Mohan M, Gouthami D, Swathi P, Poulose A, Sreelakshmi UK, Gowda CC, Vidya CV, Mathew D (2025) A catalogue of spider mite (Prostigmata: Tetranychidae) fauna associated with agricultural ecosystems of Kerala, South India with a taxonomic key. Acarologia 65(2), 534-546.
+
+* Gutierrez J, Etienne J (1981) Quelques données sur les acariens Tetranychidae attaquant les plantes cultivées au Sénégal. Agronomie Tropicale 36 (4), 391-394."
+Host,XYLBFO,Euwallacea fornicatus sensu lato,"* Eskalen A, Stouthamer R, Lynch SC, Rugman-Jones PF, Twizeyimana M, Gonzalez A, Thibault T (2013) Host range of Fusarium dieback and its ambrosia beetle (Coleoptera: Scolytinae) vector in southern California. Plant Disease 97(7), 938-951."
+Host,EUWAWH,Euwallacea fornicatus sensu stricto,"* Mendel Z, Lynch SC, Eskalen A, Protasov A, Maymon M, Freeman S (2021) What determines host range and reproductive performance of an invasive ambrosia beetle Euwallacea fornicatus; lessons from Israel and California. Frontiers in Forests and Global Change 4, 654702.
+------- Non reproductive host tree in California (US)."
+Host,HELOBE,Helopeltis bergrothi,
+Host,HELOSC,Helopeltis schoutedeni,
+Host,LEPLAU,Leptoglossus australis,
+Host,ACHAFU,Lissachatina fulica,"* Thiengo SC, Faraco FA, Salgado NC, Cowie RH, Fernandez MA (2007) Rapid spread of an invasive snail in South America: the giant African snail, Achatina fulica, in Brasil. Biological Invasions 9, 693-702."
+Host,PHENHI,Maconellicoccus hirsutus,"* Chang LWH, Miller CE (1996) Pathway Risk Assessment: Pink mealybug from the Caribbean. Animal and Plant Health Inspection Service, U.S. Dept. of Agriculture 61 pp."
+Host,MELGMY,Meloidogyne enterolobii,"* Ferreira DS (2019) Reação de acessos de Manihot spp. ao nematoide das galhas (Meloidogyne spp.) (Reaction of accessions of Manihot spp. to root-knot nematodes (Meloidogyne spp.)) Dissertacao de Mestrado em Fitopatologia. Universidade de Brasilia, DF, Brasil. 57p.
+
+* Rosa JMO, Oliveira SA, Jordao AL, Siveiro A, Oliveira CMG (2014) Nematodes fitoparasitas associados a mandioca na Amazonia brasileira (Plant-parasitic nematodes on cassava in the Brazilian Amazon. Acta Amazonica 44(2), 271-278.   
+------ Not clear in this paper if indeed the nematodes were found inside of the cassava roots.
+
+* Oyetunde AK, Kolombia YA, Adewuyi O, Afolami SO, Coyne D (2022) First report of Meloidogyne enterolobii infecting cassava (Manihot esculenta) resulting in root galling damage in Africa. Plant Disease 106(5), 1533.
+------- These studies confirmed the host status of M. esculenta."
+Host,METAHE,Metamasius hemipterus,
+Host,PARYMI,Paraleyrodes minei,"* Sundararaj R, Krishnan S, Sumalatha BV (2021) Invasion and expansion of exotic whiteflies (Hemiptera: Aleyrodidae) in India and their economic importance. Phytoparasitica 49(5), 851-863."
+Host,INESLE,Phryneta leprosa (as Manihot),
+Host,PROETR,Prostephanus truncatus,
+Host,PSEAPE,Pseudaulacaspis pentagona,"* García Morales M, Denno BD, Miller DR, Miller GL, Ben-Dov Y, Hardy NB (2016) ScaleNet: A literature-based model of scale insect biology and systematics. Database. doi: 10.1093/database/bav118. http://scalenet.info [accessed 2026-02]."
+Host,PSEAPE,Pseudaulacaspis pentagona (as Manihot),"* García Morales M, Denno BD, Miller DR, Miller GL, Ben-Dov Y, Hardy NB (2016) ScaleNet: A literature-based model of scale insect biology and systematics. Database. doi: 10.1093/database/bav118. http://scalenet.info [accessed 2026-02].
+
+* Miller DR & Davidson JA (2005) Armored Scale Insect Pests of Trees and Shrubs. Cornell Univ. Press Ithaca, NY 442 pp."
+Host,ROTYRE,Rotylenchulus reniformis,
+Host,SCITDO,Scirtothrips dorsalis,"* Rajamma P, Palaniswami MS, Jayaprakas CA (2004) Chilli thrips (Scirtothrips dorsalis Hood)(Thripidae: Thysanoptera) as a pest on cassava and taro. Journal of Root Crops 30(1), 74-75."
+Host,SINOCO,Sinoxylon unidentatum,
+Host,PRODER,Spodoptera eridania,"* Montezano DG, Specht A, Sosa-Gomez DR, Roque-Specht VF & de Barros NM (2014) Immature stages of Spodoptera eridania (Lepidoptera: Noctuidae): developmental parameters and host plants. Journal of Insect Science 14, 238. https://doi.org/10.1093/jisesa/ieu207"
+Host,LAPHFR,Spodoptera frugiperda,"* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300."
+Host,PRODOR,Spodoptera ornithogalli,"* Brito R, Specht A, Gonçalves GL, Moreira GRP, Carneiro E, Santos FL, Roque-Specht VF, Mielke OHH, Casagrande MM (2019) Spodoptera marima: a new synonym of Spodoptera ornithogalli (Lepidoptera: Noctuidae), with notes on adult morphology, host plant use and genetic variation along its geographic range. Neotropical Entomology 48(3), 433-448.
+
+* Coto D, Saunders JL, Vargas-S CL, King ABS (1995) Plagas invertebradas de cultivos tropicales con énfasis em América Central-Um invetário. Turrialba, CATIE, 200 pp."
+Host,TETRME,Tetranychus mexicanus,"* Vasconcelos G (2011) Diversidade de ácaros em agroecossistemas e testes para o controle alternativo do ácaro branco, Polyphagotarsonemus latus (Acari, Tarsonemidae) na região de Manaus. Universidade de Sao Paulo.
+
+* Paschoal A & Reis P (1968) Relaçao de ácaros encontrados em plantas. Revista de Agricultura, 137–139.
+
+* Paschoal A (1970) Revisão da família Tetranychidae no Brasil (Arachnida: Acarina). Anais Da Escola Superior de Agricultura Luiz de Queiroz, XXVII, 457–483."
+Host,THRIPL,Thrips palmi,"* Duran IC, Mesa NC, Estrada EI (1999) [Life cyle of Thrips palmi (Thysanoptera: Thripidae) and host plant registered in the Cauca Valley]. Revista Colombiana de Entomologia 25(3/4), 109-120 (in Spanish)."
+Host,TIRAPL,Tiracola plagiata,
+Host,TRIAAB,Trialeurodes abutiloneus,
+Host,ZEUZCO,Zeuzera coffeae,
+Major host,AONMAL,Aonidomytilus albus,
+Major host,BEMITA,Bemisia tabaci,"* Casinga CM, Wosula EN, Sikirou M, Shirima RR, Munyerenkana CM, Nabahungu LN, Bashizi BK, Ugentho H, Monde G, Legg JP (2022) Diversity and distribution of whiteflies colonizing cassava in Eastern Democratic Republic of Congo. Insects 13, 849. https://doi.org/10.3390/insects13090849"
+Major host,CALHMA,Caliothrips masculinus,
+Major host,MONNTA,Mononychellus tanajoa,"* Ashitha N, Baskaran V, Sumathi E, Velmurugan M, Mohankumar S, Murugan M, Alagar M, Shanmugam PS, Srinivasan T, Saravanan PA, Sathyaseelan V (2024. A Review of the Economic Impact and Sustainable Strategies for Mitigation of the Cassava Mite Complex1. Journal of Entomological Science 60(4), 1-23. DOI: 10.18474/JES24-55"
+Major host,OLIGPE,Oligonychus peruvianus,
+Major host,PHENMA,Phenacoccus manihoti,"* Gupta A, Sampathkumar M, Mohan M, Shylesha AN, Venkatesan T, Shashank PR, Dhanyakumar O, Ramkumar P, Sakthivel N, Geetha B (2021) Assessing adverse impact of the native biological control disruptors in the colonies of the recent invasive pest Phenacoccus manihoti Matile-Ferrero (Hemiptera: Pseudococcidae) in India. Global Ecology and Conservation 32, e01878. https://doi.org/10.1016/j.gecco.2021.e01878"
+Major host,PSDTDE,Pseudotheraptus devastans,

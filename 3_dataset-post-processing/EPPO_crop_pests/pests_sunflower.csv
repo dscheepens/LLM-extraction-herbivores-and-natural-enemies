@@ -1,0 +1,98 @@
+type,EPPOCode,Pref_name,References
+Experimental,MELGFL,Meloidogyne floridensis,"* Khanal C, Sagar GC, Harshman D (2024) Host suitability of summer cover crops and peach rootstocks to the peach root-knot nematode, Meloidogyne floridensis. Plant Disease 108(3), 582-586.
+-------good host in pot experiments."
+Host,AGROSE,Agrotis segetum,
+Host,EMPOBI,Amrasca biguttula,"* Kamble CS, Sathe TV (2015) Incidence and host plants for Amrasca biguttula (Ishida) from Kolhapur region, India. International Journal of Development Research 5(3), 3658-3661.
+
+* Saeed R, Razaq M, Hardy IC (2015) The importance of alternative host plants as reservoirs of the cotton leaf hopper, Amrasca devastans, and its natural enemies. Journal of Pest Science 88, 517–531."
+Host,BRVPYO,Brevipalpus yothersi,"* Beard JJ, Ochoa R, Braswell WE, Bauchan GR (2015) Brevipalpus phoenicis (Geijskes) species complex (Acari: Tenuipalpidae) – a closer look. Zootaxa 3944(1), 67 pp. DOI: 10.11646/zootaxa.3944.1.1"
+Host,HELIVI,Chloridea virescens,"* Fitt GP (1989) The cology of Heliothis species in relation to agroecosystems. Annual Review of Entomology 34, 17-52.
+
+* Kogan M, Helm CG, Kogan J, Brewer E (1989) Distribution and economic importance of Heliothis virescens and Heliothis zea in North, Central, and South America and of their Natural Enemies and Host Plants. pp 241-297 In Proceedings of the Workshop on Biological Control of Heliothis: Increasing the effectiveness of natural enemies. USDA.
+
+* EPPO (2024) EPPO Technical Document No. 1091. Pest risk analysis for Chloridea virescens. EPPO, Paris. Available at https://gd.eppo.int/taxon/HELIVI/documents
+------- Main host (evidence that the plant supports populations of the pest in several generations or years, i.e. true hosts, or plant mentioned as common or preferred host – see PRA for further details on the host)"
+Host,CHONRO,Choristoneura rosaceana,"* Food Plant Database for the Leafrollers of the World (Lepidoptera: Tortricidae). http://www.tortricidae.com/foodplantreferences.asp
+------- BMNH collection. Based on identified reared specimens in the collection of The Natural History Museum, London; identifications by staff of the Lepidoptera Section."
+Host,CHRXER,Chrysodeixis eriosoma,
+Host,CRTHMA,Corythucha marmorata,"* Cho G, Kim W, Kwon YS, Lee S (2020) Check list of lace bugs (Hemiptera: Tingidae) of Korea. Journal of Asia-Pacific Entomology 23(3), 736-745.
+
+* Kim DE, Kil J (2014) Geographical distribution and host plants of Corythucha marmorata (Uhler) (Hemiptera: Tingidae) in Korea. Korean Journal of Applied Entomology 53(2), 185-191 (in Korean).
+
+* Zhou W, Chen W (2022) Early starvation contributes to the adaptive capacity of Corythucha marmorata (Uhler), an emerging pest in China. Biology 11, 80. https://doi.org/10.3390/biology"
+Host,DIABUH,Diabrotica undecimpunctata howardi,"* Clark SM, LeDoux DG, Seeno TN, Riley EG, Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada (Coleoptera: Megalopodidae, Orsodacnidae, Chrysomelidae, excluding Bruchinae). Coleopterists Society, Special Publication 2, 1-476.
+------- Larval host."
+Host,DIABVZ,Diabrotica virgifera zeae,"* Clark SM, LeDoux DG, Seeno TN, Riley EG, Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada (Coleoptera: Megalopodidae, Orsodacnidae, Chrysomelidae, excluding Bruchinae). Coleopterists Society, Special Publication 2, 615 pp.
+------- Adult host."
+Host,DITYDI,Ditylenchus dipsaci,"* Goodey JB, Franklin MT, Hooper DJ (1965) T. Goodey's: The Nematode Parasites of Plants Catalogued Under Their Hosts. Commonwealth Agricultural Bureaux, Farnham Royal, Bucks, England. Third edition, 214 pp."
+Host,EPIXTU,Epitrix tuberis,"* Hoerner JL & Gillette CP (1928) The potato flea beetle. Colorado Experiment Station. Entomology Section. Bulletin 337. 
+------- feeding of adults"
+Host,EPIXTU,Epitrix tuberis (as Helianthus),"* Hill RE, Tate AD (1942) Life history and habits of potato flea beetle in Western Nebraska. Journal of Economic Entomology 35, 879-884.
+------- feeding of adults"
+Host,EUTEOR,Eutetranychus orientalis,"* Chaudhri WM, Akbar S, Rasool A (1974) Taxonomic studies of the mites belonging to the families Tenuipalpidae, Tetranychidae, Tuckerellidae, Caligonellidae, Stigmaeidae and Phytoseiidae. Project Project No. A 17 -ENT -26 . University of Agriculture, Lyallpur, Pakistan. 250 pp.
+
+* Sanyal AK, Gupta SK, Sarkar BJ, Bhattacharya D (2013) Diversity and Ecology of Plant Mites and Damages Caused by them on Ornamental and Garden Plants in South Bengal. Records of the Zoological Survey of India 113(Part 3), 109-112."
+Host,FRANOC,Frankliniella occidentalis,"* Chyzik R, Ben-Dov Y, Nakache Y, Klein M (1995) Association of the western flower thrips (Frankliniella occidentalis) with cultivated sunflower (Helianthus annuus) in Israel. Phytoparasitica 23(2), 147-155."
+Host,GARGTO,Gargaphia torresi,"* Pinheiro RA, Cabral MJ, Aguilar VT, Freitas LS, Santos SV, Giordani SC, Souza PG, Santos JB, Zanuncio JC, Soares MA (2025) Phaseolus lunatus L., the new host of Gargaphia torresi Lima, 1922 (Hemiptera: Tingidae) in Brazil. Brazilian Journal of Biology 85, e289664. https://doi.org/10.1590/1519-6984.289664"
+Host,GRCPAT,Graphocephala atropunctata,"* Wistrom C, Purcell AH (2005) The fate of Xylella fastidiosa in vineyard weeds and other alternate hosts in California. Plant Disease 89, 994-999."
+Host,HALYHA,Halyomorpha halys,"* Holthouse MC, Spears LR, Alston DG (2021) Urban host plant utilisation by the invasive Halyomorpha halys (Stål) (Hemiptera, Pentatomidae) in northern Utah. NeoBiota 64, 87–101. https://doi.org/10.3897/neobiota.64.60050"
+Host,HELIAR,Helicoverpa armigera,"* Cunningham JP, Zalucki MP (2014) Understanding heliothine (Lepidoptera: Heliothinae) pests: what is a host plant? Journal of Economic Entomology 107, 881–896."
+Host,HELIZE,Helicoverpa zea,"* Hardwick DF (1965) The corn earworm complex. Memoirs of the Entomological Society of Canada, 97, 5–247."
+Host,HIRSMU,Hirschmanniella mucronata,"* Luqman KM, Neelam K, Harpreet K (2011) Occurrence of Hirschmanniella gracilis and H. mucronata Infesting Sunflower (Helianthus annus) in Malwa Region of Punjab. Indian Journal of Nematology 41(1), 102-104.
+
+* Thakur N, Kaur H, Luqman K (2015) Nematode Diversity in Oilseed Crops from Malwa Region of Punjab, India. Indian Journal of Nematology 45(1), 16-22."
+Host,HOMLTR,Homalodisca vitripennis,"* Chen W, Leopold RA, Boetel AM (2010) Host plant effects on development and reproduction of the glassy-winged sharpshooter, Homalodisca vitripennis (Homoptera: Cicadellidae). Environmental Entomology 39(5), 1545-1553.
+------- Sustain life cycle.
+
+* Hoddle MS, Triapitsyn SV, Morgan DJW (2003) Distribution and plant association records for Homalodisca coagulata (Hemiptera: Cicadellidae) in Florida. Florida Entomologist 86(1), 89-91."
+Host,HOMLTR,Homalodisca vitripennis (as Helianthus),"* Turner WF, Pollard HN (1959) Life histories and behavior of five insect vectors of phony peach disease. United States Department of Agriculture, Technical Bulletin 1188, 28 pp.
+-------- Oviposition and feeding host."
+Host,LIRIHU,Liriomyza huidobrensis,"* Korytkowski C (1982) Contribución al conocimiento de los Agromyzidae (Diptera: Acalyptratae) en el Perú. MS Thesis, Universidad Nacional Agraria, La Molina, Lima, 237 pp.
+
+* Valladares G, Salvo A, Videla M (1999) Moscas minadoras en cultivos de Argentina. Horticultura Argentina 18(44- 45), 56-61.
+
+* Wei J, Zou L, Kuang R, He L (2000) Influence of leaf tissue structure on host feeding selection by pea leafminer Liriomyza huidobrensis (Diptera: Agromyzidae). Zoological Studies 39, 295-300."
+Host,LIRISA,Liriomyza sativae,"* Eiseman CS, Lonsdale O (2018) New State and Host Records for Agromyzidae (Diptera) in the United States, with the Description of Thirty New Species. Zootaxa 4479(1), 1-156.
+
+* Frick KE (1957) Nearctic species in the Liriomyza pusilla complex, No. 2, L. munda and two other species attacking crops in California (Diptera: Agromyzidae). The Pan-Pacific Entomologist 33(2), 59-70."
+Host,LIRITR,Liriomyza trifolii,"* Stegmaier CEJ (1966) Host plants and parasites of Liriomyza trifolii in Florida (Diptera: Agromyzidae). Florida Entomologist 49(2), 75-80."
+Host,PHENHI,Maconellicoccus hirsutus,"* Chang LWH, Miller CE (1996) Pathway Risk Assessment: Pink mealybug from the Caribbean. Animal and Plant Health Inspection Service, U.S. Dept. of Agriculture 61 pp."
+Host,MELGCH,Meloidogyne chitwoodi,"* Ferris H, Carlson HL, Viglierchio DR, Westerdahl BB, Wu FW, Anderson CE, Juurma A, Kirby DW (1993) Host status of selected crops to Meloidogyne chitwoodi. Journal of Nematology 25, 849-857."
+Host,MELGLC,Meloidogyne luci,"* Sen F, Aydinli (2021) Host status of cultivated crops to Meloidogyne luci. European Journal of Plant Pathology 161(3), 607-618.
+------- In experiments, cv. Bosfora was found to be a good host.
+
+
+* Strajnar P, Širca S, Geric Stare B & Urek G (2009) Characterization of the root-knot nematode, Meloidogyne ethiopica Whitehead, 1968, from Slovenia. Russian Journal of Nematology 17, 135-142."
+Host,NAUPXA,Naupactus xanthographus,"* Sinavimo (2019) Naupactus xanthographus Sistema Nacional Argentino de Vigilancia y Monitoreo de plagas. Available at: https://www.sinavimo.gov.ar/plaga/naupactus-xanthographus
+------- On leaves and seedlings."
+Host,HEMELE,Orgyia leucostigma (as Helianthus),"* Heppner JB (2003) Lepidoptera of Florida. Part 1. Introduction and catalog. Volume 17 of Arthropods of Florida and neighboring land areas. Division of Plant Industry. Florida Department of Agriculture and Consumer Services. Gainesville, Florida. 670 pp
+
+* Robinson GS, Ackery PR, Kitching IJ, Beccaloni GW & Hernández LM (2010) HOST - A database of the world's Lepidopteran hostplants. Natural History Museum, London. https://www.nhm.ac.uk (Accessed on 7 December 2020 and 21 March 2021)"
+Host,PHENSO,Phenacoccus solenopsis,
+Host,POCZSH,Pochazia shantungensis,"* Kim DE, Lee H, Kim MJ, Lee DH (2015) Predicting the potential habitat, host plants, and geographical distribution of Pochazia shantungensis (Hemiptera: Ricaniidae) in Korea. Korean Journal of Applied Entomology 54, 179–189."
+Host,PRODER,Spodoptera eridania,"* Montezano DG, Specht A, Sosa-Gomez DR, Roque-Specht VF & de Barros NM (2014) Immature stages of Spodoptera eridania (Lepidoptera: Noctuidae): developmental parameters and host plants. Journal of Insect Science 14, 238. https://doi.org/10.1093/jisesa/ieu180"
+Host,LAPHFR,Spodoptera frugiperda,"* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300."
+Host,SPODLI,Spodoptera littoralis,"* Prasad J, Bhattacharya AK (1975) Growth and development of Spodoptera littoralis (Boisd.) (Lepidoptera, Noctuidae) on several plants. Zeitschrift für Angewandte Entomologie 79, 34-48."
+Host,PRODOR,Spodoptera ornithogalli,"* Brito R, Specht A, Gonçalves GL, Moreira GRP, Carneiro E, Santos FL, Roque-Specht VF, Mielke OHH, Casagrande MM (2019) Spodoptera marima: a new synonym of Spodoptera ornithogalli (Lepidoptera: Noctuidae), with notes on adult morphology, host plant use and genetic variation along its geographic range. Neotropical Entomology 48(3), 433-448.
+
+* Capinera JL (2017) Yellowstriped Armyworm, Spodoptera ornithogalli (Guenée) (Insecta: Lepidoptera: Noctuidae). Department of Entomology and Nematology, University of Florida /IFAS Extension, EENY216, 4p. https://edis.ifas.ufl.edu/pdffiles/IN/IN37300.pdf
+
+* Poveda BD, Schwitzer DA (1964) Estudio biológico del Prodenia ornithogalli Guen. y del Prodenia sunia (Guen.) en três hospedeiros. Acta Agronômica 14(1), 71-101.
+
+* Robinson GS, Ackery PR, Kitching IJ, Beccaloni GW, Hernández LM (2010) HOSTS - A Database of the World's Lepidopteran Hostplants. Natural History Museum, London. http://www.nhm.ac.uk/hosts"
+Host,PRODPR,Spodoptera praefica,* British Columbia Ministry of Agriculture. Western yellowstriped armyworm (Spodoptera praefica). https://rdno.civicweb.net/document/127358/western-yellowstriped-armyworm.pdf?handle=3CD053B4F8D54F9CBB93F8D6D5572C27
+Host,THRIPL,Thrips palmi,"* Elizondo AI, Murguido CA, Pérez I, Piedra F, Peña E, Martínez M, Martell M, de los Ángeles Fernández M, Sariol H, Rodríguez S, Jiménez R, Granda G, Palacios F (2003) Thrips palmi Karny en la agricultura cubana. Fitosanidad 7(2), 1-9.
+
+* Kalpana Tillekaratne, Edirisinghe JP, Gunatilleke CVS, Karunaratne AIP (2011) A checklist of thrips species of Sri Lanka. Ceylon Journal of Science (Bio. Sci.) 40(2), 89-108."
+Major host,MELGET,Meloidogyne ethiopica,"* Lima E A, Mattos J K, Moita A W, Carneiro R G & Carneiro R M D G (2009) Host status of different crops for Meloidogyne ethiopica control. Tropical Plant Pathology 34, 152-157.
+------In experiments, cvs. Helio250 and Embrapa122 were found to be excellent hosts"
+Major host,AMAZMA,Nemorimyza maculosa,"* Eiseman CS, Lonsdale O (2018) New state and host records for Agromyzidae (Diptera) in the United States, with the description of thirty new species. Zootaxa 4479 (1), 1-156. https://doi.org/10.11646/zootaxa.4479.1.1
+
+* Frick KE (1959) Synopsis of the species of Agromyzid leaf-miners described from North America (Diptera). Proceedings of the US Natural Museum 108(3407), 347-465.
+
+* Stegmaier CE Jr (1967) Some new host plant records and parasites of Phytobia (Amauromyza) maculosa in Florida (Diptera: Agromyzidae). Florida Entomologist 50(2), 99-101.
+
+* Valladares G, Salvo A, Saini E (2011) Moscas minadoras del girasol y sus enemigos naturales. Revista de Investigaciones Agropecuarias 37(2):180–188.
+
+* Valladares G, Salvo A, Videla M (1999) Moscas minadoras en cultivos de Argentina. Horticultura Argentina 18(44- 45), 56-61."
+Major host,STRALO,Strauzia longipennis,

@@ -1,0 +1,45 @@
+For each natural enemy, provide the following information:
+
+1. Taxonomy: Phylum, Class, Order, Family, Genus, Species (latin binomial), Common Name. Fill in the applicable. 
+
+2. Feeding Mode (choose from: predation, parasitism, NA): Select if the species is a natural enemy through predation or parasitism (which includes parasitoidism). This may be inferred from the taxonomy (e.g. families of parasitoid wasps or predators). If not mentioned in the text or unclear, select NA.
+
+3. Herbivorous Prey Species: List the names (latin binomials, if possible) of the herbivorous species that the natural enemy is stated to predate upon, use as host, consume/attack/control/regulate, etc., if stated in the text. These species may be individual species or they may be pest groups such as maize borers, wood boring weevils, etc., if only stated as such in the text. Look out for mentions of consumption: If a natural enemy is stated to consume a herbivorous species, then it can be assumed to be a natural enemy of this species. 
+For each herbivorous species individually, answer the following: 
+- Prey Species (latin binomial if possible).
+- Important Natural Enemy: Is the natural enemy stated to be an important natural enemy of this herbivorous prey/host (True or False)? Select True if the natural enemy is mentioned to be an important, dominant, frequent, common (etc.) natural enemy, is noted to exert important/effective/significant suppression/predation/parasitism, makes up a large proportion of the predation/parasitism of this herbivore, or has the potential to control/reduce/suppress the herbivore. Note: If the predation/parasitism of the natural enemy is found to be comparable to (or not found to be significantly different from) another species that is held to be an important natural enemy, then both species are important natural enemies.
+- Biological Control: Does the text state that the natural enemy provides biological control of this herbivorous prey/host (True or False)? Important: Select True ONLY if the natural enemy has been shown to provide/exert control of this herbivore or is successfully used as a biological control agent of this herbivore. If the text simply states that the natural enemy is a biological control agent of the herbivore, then assume that this means that it is successful - however, if the text mentions that the species was subsequently found not to provide effective control, then Biological Control should be False.
+
+Important: If a natural enemy is mentioned to have 'potential' to control a herbivorous pest, then this makes it an important natural enemy of the herbivore (Important Natural Enemy is True) - however, it does not suffice for Biological Control to be True. Biological Control should only be True if the natural enemy is found to effectively control the herbivorous pest, or if it is used or has been used successfully as a biological control agent. 
+
+4. Associated Plants: List of any plants associated with this natural enemy (e.g., where it is found to occur) or its herbivorous prey/hosts of (e.g., the affected crops, fruits, trees, flowers, etc.). Only select plants that are stated in the main abstract text - ignore plants that are only mentioned in the keywords.
+
+5. Associated Industries: List of any industries that are related to the host plants or crops associated with this natural enemy and/or its herbivorous prey/hosts. Choose from: 
+- Arable crops
+- Greenhouse production
+- Pasture
+- Fruit plantations
+- Forestry and timber production
+- Stored grains
+- Ornamental and horticultural plants
+- Unspecified agriculture
+- Other
+If none of these industries are mentioned explicitly, choose whichever industries are most applicable to the plants/crops associated with this natural enemy or its prey/hosts. Choose 'unspecified agriculture' if agriculture is only mentioned in a general sense and no specific host plants are mentioned, and choose 'other' if none apply or it's an industry other than agriculture or forestry. Choose NA if no information about this is provided in the text whatsoever.
+
+6. Hyperparasitoids: If the natural enemy is a parasitoid and the text mentions any hyperparasitoids parasitising this natural enemy, then list these hyperparasitoids here. 
+
+7. Vectors: If the natural enemy is a natural enemy of a herbivore due to vectoring a symbiotic bacterium/pathogen/disease that leads to mortality of the herbivorous prey/hosts, state it here.
+
+8. Synonyms: Any latin synonyms of this species stated in the text. These must be latin binomials, not common names.
+
+For any piece of information: If nothing about it is mentioned or suggested in the text, leave it empty or select NA.
+
+
+### TL;DR (the “cheat‑sheet”)
+
+1. **Identify the noun the control‑related clause attaches to.**  
+2. **If the noun is “key”, “review”, “assemblage”, or a plural group → the statement applies to *all* taxa listed.**  
+3. **If the noun is a single species name → the statement applies only to that species.**  
+4. **Potential → Important = True, Biological = False.**  
+5. **Proven control → Biological = True (and Important = True).**  
+6. **No control mention → both flags = False.** 

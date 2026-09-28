@@ -1,0 +1,37 @@
+type,EPPOCode,Pref_name,References
+Experimental,HIRSOR,Hirschmanniella oryzae,"* Babatola JO (1979) Varietal reaction of rice and other food crops to the rice-root nematodes, Hirschmanniella oryzae, H. imamuri and H. spinicaudata. Nematropica 9, 123-128.
+------- As Pennisetum typhoides. Experiments.
+
+* Sharma SB (2001) Plant parasitic nematodes in rice-wheat based cropping systems in South Asia. Journal of Crop Production 4, 227-247. 
+------- It is not specified whether the nematode was found in the roots or in the soil.
+
+* Prasad JS, Panwar MS, Rao YS (1987) Nematode problems of rice in India. International Journal of Pest Management 33, 127-136.
+------- 'Collected from', but it is not specified whether the nematode was found in the roots or in the soil."
+Experimental,MELGFL,Meloidogyne floridensis,"* Khanal C, Sagar GC, Harshman D (2024) Host suitability of summer cover crops and peach rootstocks to the peach root-knot nematode, Meloidogyne floridensis. Plant Disease 108(3), 582-586.
+-------good host in pot experiments (as Pennisetum glaucum)."
+Host,ATHEOZ,Atherigona oryzae,
+Host,HELIVI,Chloridea virescens,"* Blanco CA, Rosario-Lebron A, O’Donnell CA, Portilla M, Gullbronson C, Mowery J, Smith-Pardo AH, Stocks I, Nadel H, Trozzo LR, Haslem PS, Young JD, Downes S, Parker T, Walsh T, Tay WT, Oppenheim S (2019) Improving Risk Assessment of Noctuid Pests at North American Ports and Farms by Differentiating Egg Morphology. Annals of the Entomological Society of America 112(5), 443-450.
+------- as Pennisetum glaucum. Citing Martin et al. (1976).
+
+* EPPO (2024) EPPO Technical Document No. 1091. Pest risk analysis for Chloridea virescens. EPPO, Paris. Available at https://gd.eppo.int/taxon/HELIVI/documents
+------- Likely host (reported as host in the literature but lacking evidence to consider it as main host – see PRA for further details on the host)."
+Host,DIABUH,Diabrotica undecimpunctata howardi,"* Clark SM, LeDoux DG, Seeno TN, Riley EG, Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada (Coleoptera: Megalopodidae, Orsodacnidae, Chrysomelidae, excluding Bruchinae). Coleopterists Society, Special Publication 2, 1-476.
+------- Larval host. As Pennisetum americanum."
+Host,DIABVI,Diabrotica virgifera virgifera,"* Fora CG, Lauer KF (2013) Host plants for the Western corn rootworm Diabrotica virgifera virgifera (Coleoptera: Chrysomelidae). Romanian Agricultural Research 30, 291-295.
+------- As Setaria glauca."
+Host,HELIAR,Helicoverpa armigera,"* Favetti BM, Braga-Santos TL, Massarolli A, Specht A, Butnariu AR (2017) Pearl millet: a green bridge for lepidopteran pests. Journal of Agricultural Sciences 9(6), 92-97.
+
+* Specht A, Sosa-Gómez DR, Roque-Specht VF, da Silva FA, Querino RB (2025) Bridging the overwintering dry season in pupal diapause by Heliothinae pests in the Brazilian savanna. Phytoparasitica. 53(4), 1-4."
+Host,HELIZE,Helicoverpa zea,"* Dourado PM, Pantoja‐Gomez LM, Horikoshi RJ, Carvalho RA, Omoto C, Corrêa AS, Kim JH, Martinelli S, Head GP (2021) Host plant use of Helicoverpa spp. (Lepidoptera: Noctuidae) in the Brazilian agricultural landscape. Pest Management Science 77(2), 780-794."
+Host,MELGET,Meloidogyne ethiopica,"* Lima E A, Mattos J K, Moita A W, Carneiro R G & Carneiro R M D G (2009) Host status of different crops for Meloidogyne ethiopica control. Tropical Plant Pathology 34, 152-157.
+-------As Pennisetum glaucum. In experiments, cv 'ADR 500' was found to be moderatly resistant (But with RF >=1)
+
+* Gabriel M, Kulczynski SM, Belle C, Kirsch VG & Calderan-Bisognin A (2018) Reação de gramíneas forrageiras a Meloidogyne spp. e Pratylenchus brachyurus. Nematropica 48(2), 155-163.
+-------As Pennisetum glaucum. In experiments, cv. BRS1501 was found to be a poor host (0.1< RF <1.0)."
+Host,MELGGC,Meloidogyne graminicola,"* Rusinque L, Maleita C, Abrantes I, Palomares-Rius JE, Inácio ML (2021) Meloidogyne graminicola - A threat to rice production: review update on distribution, biology, identification, and management. Biology 10, 1163. https://doi.org/10.3390/biology10111163
+
+* Soares MR, Carneiro RM, Dias-Arieira C (2022) Response of different crops and weeds to three biotypes of Meloidogyne graminicola: crop rotation and succession strategies for irrigated rice fields. Nematology 24(5), 589-597.
+-------poor host in experiments (as Pennisetum glaucum)."
+Host,POOPCO,Poophilus costalis,"* Tanzubil PB, Yakubu EA (2010) Insect pests of millet in Northern Ghana. 1. Farmers' perceptions and damage potential. International Journal of Pest Management 43(2), 133-136."
+Host,PROETR,Prostephanus truncatus,"* Muatinte BL, Van den Berg J (2022) Modeling the influence of abiotic and biotic factors on spatial and temporal fluctuations of Prostephanus truncatus (Coleoptera: Bostrichidae) populations in Mozambique. Environmental Entomology 51(1), 118-131."
+Host,LAPHFR,Spodoptera frugiperda,"* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300."

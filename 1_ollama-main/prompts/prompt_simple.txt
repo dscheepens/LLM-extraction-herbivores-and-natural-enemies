@@ -1,0 +1,31 @@
+Based on this abstract, you are tasked with identifying any herbivorous species and their natural enemies. Let's think through the following tasks step by step.
+
+
+# Herbivorous species
+
+Your first task is to determine if there are any mentions of herbivorous (i.e., phytophagous) species in the text.
+- If there are mentions of pests, you are looking only for species that are pests due to their herbivory, so ignore livestock pests such as flesh flies, vectors of human diseases, or any pest that isn't related directly to herbivory, such as fungi, bacteria or viruses.
+- Ideally, the species is mentioned in association with a particular industry (e.g. field crops, greenhouse production, pasture, fruit plantations, forestry and timber production, stored grains, ornamental and horticultural plants, etc.) or affect/host crop or plant (e.g. corn, apple, pine trees, stored wheat, etc.).
+- Herbivory does not have to be stated explicitly: If the pest belongs to an order or family of known herbivores, then herbivory may be inferred.
+- You are only interested in herbivores that are mentioned at the genus or species level (latin binomials): Ignore herbivores that are only mentioned at the family or order level, or that are only mentioned with their common name (e.g. spiders, mice, aphids, etc.). 
+
+If the text mentions any herbivorous species at the genus or species level, list these. Only list herbivores from the main abstract - don't list species that are only mentioned in the keywords.
+
+
+# Natural enemies
+
+Your second task is to determine if there are any natural enemies (e.g., predators and parasitoids) of herbivores. 
+- Natural enemies may be biological control agents of a herbivorous pest, but any mention or implication of predation, parasitism, or otherwise preying on, attacking or regulating a herbivore suffices as evidence for being a natural enemy of this herbivore.
+- Look out for mentions of consumption: If a species is found to consume a herbivorous species, this is evidence for the species being a natural enemy of the herbivore. 
+- Only list natural enemies of herbivorous species: Ignore species that are solely mentioned as hyperparasitoids or predators that predate on other predators. 
+- You are only interested in natural enemies that are mentioned at the genus or species level (latin binomials or genus only): Ignore natural enemies that are only mentioned at the family or order level, or that are only mentioned with their common name (e.g. spiders, mice, aphids, etc.). 
+
+If the text mentions any natural enemies at the genus or species level, list these. Only list natural enemies from the main abstract - don't list species that are only mentioned in the keywords. 
+
+
+# Important
+
+- Ignore any species that are plants, bacteria, fungi or viruses.
+- Only list species that are mentioned at the genus or species level. 
+- Only list species from the main abstract - don't list species that are only mentioned in the keywords.
+- If the text mentions multiple synonyms of a species, only list one (ideally the more common/newest one).

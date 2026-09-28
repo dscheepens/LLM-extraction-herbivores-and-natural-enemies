@@ -1,0 +1,116 @@
+type,EPPOCode,Pref_name,References
+Experimental,RHYCPA,Rhynchophorus palmarum,"* Wattanapongsiri, A. (1966) A revision of the Genera Rhynchophorus and Dynamis. Department of Agricultural Science Bulletin, Bangkok, Thailand."
+Host,ALEDDI,Aleurodicus dispersus,"* Boopathi T (2022) New host plants, natural enemy complex and newly distributed potential areas of exotic spiralling whitefly (Hemiptera: Aleyrodidae) in India. Phytoparasitica 50(2), 335-357."
+Host,ALTRTR,Aleurothrixus trachoides,* Evans GA (2007) The whiteflies (Hemiptera: Aleyrodidae) of the world and their host plants and natural enemies. USDA/Animal Plant Health Inspection Service (APHIS). http://keys.lucidcentral.org/keys/v3/whitefly/PDF_PwP%20ETC/world-whitefly-catalog-Evans.pdf
+Host,AMBPCO,Amblypelta cocophaga,
+Host,ANSTFR,Anastrepha fraterculus,"* Caraballo CJ (1981) Las moscas de frutas del género Anastrepha Schiner, 1868 (Diptera: Tephritidae) de Venezuela. MSc Dissertation, Universidad Central de Venezuela, Maracay, 210 p.
+
+* Hernández Ortiz V, Morales Valles P (2004) Distribución geográfica y plantas hospederas de Anastrepha fraterculus (Diptera: Tephritidae) en Venezuela Folia Entomológica Mexicana 43(2), 181-189."
+Host,APOGCR,Apogonia cribricollis,
+Host,DACUDO,Bactrocera dorsalis,"* Allwood AJ, Chinajariyawong A, Kritsaneepaiboon S, Drew RAI, Hamacek EL, Hancock DL, Hengsawad C, Jinapin JC, Jirasurat M, Krong CK, Leong CTS, Vijaysegaran S (1999) Host plant records for fruit flies (Diptera: Tephritidae) in Southeast Asia. The Raffles Bulletin of Zoology 47(7), 1-92."
+Host,BCTRPA,Bactrocera passiflorae,"* Leblanc L (2022) The dacine fruit flies (Diptera: Tephritidae: Dacini) of Oceania. Insecta Mundi 0948, 1-167. https://journals.flvc.org/mundi/article/view/131965/135549."
+Host,BRVPYO,Brevipalpus yothersi,"* Escobar ­Garcia HA, de Andrade Jr D, Carrillo D, Ochoa R (2021) Theobroma cacao, a new host for Brevipalpus yothersi (Acari: Tenuipalpidae) in Peru. Acarologia 61(2), 211­216. https://doi.org/10.24349/acarologia/20214427"
+Host,CERTAN,Ceratitis anonae,"* INTERNET
+True Fruit Flies (Diptera: Tephritidae) of the Afrotropical Region. Ceratitis anonae. Specimens. http://projects.bebif.be/fruitfly/taxoninfo.html?id=56
+------- Confirmed host."
+Host,CERTCA,Ceratitis capitata,"* Liquido NJ, McQuate GT, Hanlin MA, Suiter KA (2020) Host plants of the Mediterranean fruit fly, Ceratitis capitata (Wiedemann), Version 4.0. Available online at: USDA Compendium of Fruit Fly Host Information (CoFFHI), https://coffhi.cphst.org/"
+Host,CERTFA,Ceratitis fasciventris,"* INTERNET
+True Fruit Flies (Diptera: Tephritidae) of the Afrotropical Region. Ceratitis fasciventris. Specimens. http://projects.bebif.be/fruitfly/taxoninfo.html?id=63
+------- Confirmed host."
+Host,CRTZBR,Ceratothripoides brunneus,
+Host,CHCMST,Characoma stictigrapta,
+Host,DICHPU,Dichocrocis punctiferalis,"* Alagar M, Rachana KE, Bhat SK, Rahman S, Rajesh MK (2013) Biology, damage potential and molecular identification of Conogethes punctiferalis Guenee in cocoa. Journal of Plantation Crops, 41(3), 350-356."
+Host,EARIBI,Earias biplaga,
+Host,EUTEBA,Eutetranychus banksi,* Migeon A & Dorkeld F (2024) Spider Mites Web: a comprehensive database for the Tetranychidae. Available from https://www1.montpellier.inrae.fr/CBGP/spmweb (Accessed 2024/04/23)
+Host,XYLBFO,Euwallacea fornicatus sensu lato,"* Li Y, Gu X, Kasson MT, Bateman CC, Guo J, Huang YT, Li Q, Rabaglia RJ, Hulcr J (2016) Distribution, host records, and symbiotic fungi of Euwallacea fornicatus (Coleoptera: Curculionidae: Scolytinae) in China. Florida Entomologist 99(4), 801-804.
+
+* Schuler H, Witkowski R, van de Vossenberg B, Hoppe B, Mittelbach M, Bukovinszki T, Schwembacher S, van de Meulengraaf B, Lange U, Rode S, Andriolo A (2022) Recent invasion and eradication of two members of the Euwallacea fornicatus species complex (Coleoptera: Curculionidae: Scolytinae) from tropical greenhouses in Europe. Biological Invasions. https://doi.org/10.1007/s10530-022-02929-w"
+Host,EUWAPE,Euwallacea perbrevis (as Theobroma),"* Smith SM, Gomez DF, Beaver RA, Hulcr J, Cognato AI (2019) Reassessment of the species in the Euwallacea fornicatus (Coleoptera: Curculionidae: Scolytinae) complex after the rediscovery of the ‘lost’ type specimen. Insects 10, 261. https://doi.org/10.3390/insects10090261"
+Host,HELOAN,Helopeltis antonii,
+Host,STEHHA,Hypothenemus hampei,"* Marchioro M, Vallotto D, Ruzzier E, Besana L, Rossini M, Ortis G, Faccoli M, Martinez-Sañudo I (2023) Scolytinae former Cryphalini host plant dataset. Avalaible in Zenodo. https://doi.org/10.5281/zenodo.7925274 
+
+* Vega FE, Davis AP, Jaramillo J (2012) From forest to plantation? Obscure articles reveal alternative host plants for the coffee berry borer, Hypothenemus hampei (Coleoptera: Curculionidae). Biological Journal of the Linnean Society 107(1), 86-94."
+Host,LAGRVL,Lagria villosa,"* Majer, JD (1975) A list of insects and other invertebrates associated with cocoa (Theobroma cacao) in a Ghana cocoa farm. Proceedings of the 4th Conference of West African Cocoa Entomologists Ghana, 89-101"
+Host,LEPLAU,Leptoglossus australis,
+Host,PHENHI,Maconellicoccus hirsutus,"* Martins dos S. D, Fornazier MJ, Peronti ALBG, Culik MP, Souza CAS, Taques RC, Zanuncio Jr JS, Queiroz RB (2019) Maconellicoccus hirsutus (Hemiptera: Pseudococcidae) in Brazil: recent spread, natural enemies, and new hosts. Florida Entomologist 102(2), 438-443.  https://doi.org/10.1653/024.102.0225
+------- Confirmed host in Brazil."
+Host,MALNDO,Mallodon downesi,
+Host,CORTSA,Necator salmonicolor,
+Host,OOTHMU,Ootheca mutabilis,
+Host,PANYPL,Pantorhytes plutus,
+Host,PSEAPE,Pseudaulacaspis pentagona (as Theobroma),"* García Morales M, Denno BD, Miller DR, Miller GL, Ben-Dov Y, Hardy NB (2016) ScaleNet: A literature-based model of scale insect biology and systematics. Database. doi: 10.1093/database/bav118. http://scalenet.info [accessed 2026-02].
+
+* Miller DR & Davidson JA (2005) Armored Scale Insect Pests of Trees and Shrubs. Cornell Univ. Press Ithaca, NY 442 pp."
+Host,PSDTDE,Pseudotheraptus devastans,
+Host,PSDTWA,Pseudotheraptus wayi,
+Host,RICASC,Ricania speculum,
+Host,SCITDO,Scirtothrips dorsalis,"* Nakayama K, Lindner MF (2022) Ocorrência do tripes da pimenta (Scirtothrips dorsalis Hood, [Thysanoptera: Thripidae]) em cacaueiro (Theobroma cacao L.). Agrotrópica 34(2), 121 - 130."
+Host,LAPHFR,Spodoptera frugiperda,"* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300."
+Host,PRODLI,Spodoptera litura,"* Madhu TN,  Thava Prakasa Pandian R,  Elain Apshara S, Bhavishya A, Josephrajkumar A,  Nirmal Kumar BJ, Santhosh Kumar P (2023) New occurrence of the Spodoptera litura (Fabricius) (Lepidoptera: Noctuidae) infestation on cocoa in India, The Journal of the Lepidopterists' Society 77(2), 110-115.
+------- Defoliation on cocoa saplings."
+Host,PRODOR,Spodoptera ornithogalli,"* Sermeno-Chicas JM, Rodriguez-Urrutia EA, Joyce AL, Parada-Berrios FA, Pérez D, Quintanilla-Quintanilla JR (2017) Gusano cuerudo Spodoptera ornithogalli (Guenée 1852) (Lepidoptera: Noctuidae) en cacao Theobroma cacao L. en El Salvador. Revista Minerva no. 1, 62-72."
+Host,TETRME,Tetranychus mexicanus,"* Flechtmann CHW & Baker EW (1970) A preliminary report on the Tetranychidae (Acarina) of Brazil. Ann. Entomol. Soco Amer. 63 (I): 156- 163
+
+* Paschoal A (1970) Revisão da família Tetranychidae no Brasil (Arachnida: Acarina). Anais Da Escola Superior de Agricultura Luiz de Queiroz, XXVII, 457–483.
+
+* Flechtmann C & Abreu J (1973) Ácaros Fitófagos do Estado da Bahia, Brasil (Notas preliminares). Ciência e Cultura, 25(3), 244–251.
+
+* Suárez A (2004) Catálogo de ácaros de la provincia de Guantánamo. Fitosanidad, 8(1), 23–31.
+
+* Flechtmann C (1967) Contribuição para o conhecimento dos ácaros de plantas de algumas regiões do Estado de São Paulo. Universidade de Sao Paulo."
+Host,ARGPLE,Thaumatotibia leucotreta,"* EPPO PRA for Thaumatotibia leucotreta. EPPO, Paris. Available at https://gd.eppo.int/taxon/ARGPLE/documents
+------- listed by Venette et al. (2003) as a host, but not supported by evidence Considered doubtful.
+
+* Venette R, Davis CEE, DaCosta M, Heisler H & Larson M (2003) Mini Risk Assessment: False codling moth, Thaumatotibia (=Cryptophlebia) leucotreta (Meyrick) [Lepidoptera: Tortricidae]. University of Minnesota, Department of Entomology, CAPS PRA. 1-30 pp. 
+"
+Host,XYLBCR,Xylosandrus crassiusculus,"* Horn S, Horn GN (2006) New host record of the Asian Ambrosia beetle, Xylosandrus crassiusculus (Motschulsky) (Coleoptera: Curculionidae). Journal of Entomological Science 10(1), 90-91.
+
+* Thube SH, Pandian RTP, Josephrajkumar A, Bhavishya A, Nirmal Kumar BJ, Firake DM, Shah V, Madhu TN, Ruzzier E (2022) Xylosandrus crassiusculus (Motschulsky) on cocoa pods (Theobroma cacao L.): matter of bugs and fungi. Insects 13, 809. https://doi.org/10.3390/insects13090809
+------- On cocoa pods (Theobroma cacao), infestation was probably triggered by previous attacks by bugs (Helopeltis theivora - Hemiptera: Miridae).
+
+* Wood SL, Bright DE (1992) A catalogue of Scolytidae and Platypodidae (Coleoptera). Great Basin Naturalist Memoirs no. 13. Part 2: Taxonomic Index, volume A, p 791."
+Host,ZEUZCO,Zeuzera coffeae,
+Major host,BATHTA,Bathycoelia thalassina,
+Major host,BRYPLA,Bryocoropsis laticollis,
+Major host,CSSV00,Cacao swollen shoot disease,"* Ameyaw GA, Domfeh O, Gyamera E (2024) Epidemiology and diagnostics of cacao swollen shoot disease in Ghana: Past research achievements and knowledge gaps to guide future research. Viruses 16(1), 43. https://doi.org/10.3390/v16010043
+
+* Brunt AA, Kenten RH (1971) Viruses infecting cacao. Review of Plant Pathol.ogy 50, 591–602."
+Major host,COCCVI,Coccus viridis,
+Major host,AROCCR,Conopomorpha cramerella,"* Day RK (1989) Effect of cocoa pod borer, Conopomorpha cramerella, on cocoa yield and quality in Sabah, Malaysia. Crop Protection 8(5), 332-339.
+
+* Niogret J, Ekayanti A, Kendra PE, Ingram K, Lambert S, Epsky ND, Marelli JP (2020), Host preferences of the cocoa pod borer, Conopomorpha cramerella, the main threat to cocoa production in Southeast Asia. Entomologia Experimentalis et Applicata 168,  221-227."
+Major host,DISTTH,Distantiella theobroma,
+Major host,EUWAPE,Euwallacea perbrevis,"* Thube SH, Pandian RT, Rajkumar M, Babu M, Josephrajkumar A, Santhoshkumar P, Kumar BN, Hegde V, Patil B, Rajashekara H, Prabhulinga T. (2024) Euwallacea perbrevis (Schedl, 1951) and associated novel fungal symbiont, Fusarium sp.: A potential cause of wilting in cocoa, Theobroma cacao in India. Crop Protection 184, 106754."
+Major host,ECDYAU,Gymnandrosoma aurantianum,"* Adamski D & Brown JW (2001) Systematic revision of the Ecdytolopha group of genera (Lepidoptera: Tortricidae: Grapholitini) in the New World. Entomologica Scandinavica Supplement, 58, 86 pp.
+------- Confirmed host.
+
+* Nakayama K (2018) Surto de lepidobrocas atacando frutos de cacaueiro. Ilhéus, BA, CEPLAC/CEPEC. Boletim Técnico nº 210, 26 pp.
+------- Confirmed host."
+Major host,HELOBE,Helopeltis bergrothi,
+Major host,HELOBR,Helopeltis bradyi,
+Major host,HELOTH,Helopeltis theivora,
+Major host,MONAAN,Monalonion annulipes,
+Major host,MONAAT,Monalonion  atratum,
+Major host,MONABO,Monalonion bondari,
+Major host,MUSSNV,Mussidia nigrivenella,"* Silvie P (1990) Mussidia nigrivenella Ragonot (Pyralidae, Phycitinae): a little known cotton pest. Coton et Fibres Tropicales 45(4), 323-333."
+Major host,PSECNJ,Planococcoides njalensis,
+Major host,PLANKE,Planococcus kenyae,
+Major host,PLANLI,Planococcus lilacinus,
+Major host,SAHLSI,Sahlbergella singularis,
+Major host,SLENRU,Selenothrips rubrocinctus,"* Giard A (1901) Sur un Thrips (Physopus rubrocincta n. sp.) nuisible au cacaoyer.(Thys.). Bulletin de la Société entomologique de France  6(15), 263-265.
+
+* Reyes C (2020) Inventory of Philippine Thrips (Insecta: Order Thysanoptera). Philippine Journal of Science 150 (S1): 183-215, Special Issue on Biodiversity."
+Major host,STENDE,Stenoma decora,
+Major host,TIRAPL,Tiracola plagiata,
+Major host,XYLBFE,Xyleborus ferrugineus,
+Major host,XYLSCO,Xylosandrus compactus,"* Asman A, Rosmana A, bin Purung MH, Amiruddin A, Amin N, Sjam S, Dewi VS (2021) The occurrence of Xylosandrus compactus and its associated fungi on cacao from South Sulawesi, Indonesia: A preliminary study of an emerging threat to the cacao industry. Journal of Plant Diseases and Protection, 128(1), 303-309.
+------- Confirmed host.
+
+* Delgado C, Couturier G (2017) [First record of Xylosandrus compactus (Coleoptera: Curculionidae: Scolytinae) on cocoa in Peru]. Revista Colombiana de Entomología 43(1), 121-124 (in Spanish).
+
+* Dole SA, Cognato AI (2010) Phylogenetic revision of Xylosandrus Reitter (Coleoptera: Curculionidae: Scolytinae: Xyleborina). Proceedings of the California Academy of Sciences 61(7), 451-545.
+
+* Oliveira CM, Flechtmann CAH, Frizzas MR (2008) First record of Xylosandrus compactus (Eichhoff) (Coleoptera: Curculionidae: Scolytinae) on soursop, Annona muricata L. (Annonaceae) in Brazil, with a list of host plants. Coleopterists Bulletin 62(1), 45-48.
+
+* Torrez AA, Imakawa AM, Barbosa ML, Souza LA, Sampaio PD (2022) Traps efficiency in the capture of Xylosandrus compactus (Eichhoff, 1875)(Coleoptera: Curculionidae: Scolytinae) during the early development of Aniba rosaeodora Ducke. Research Society and Development 11(1), e48911125186. http://dx.doi.org/10.33448/rsd-v11i1.25186"
+Major host,XYLSMO,Xylosandrus morigerus,

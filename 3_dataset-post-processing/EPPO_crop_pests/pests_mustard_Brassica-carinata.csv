@@ -1,0 +1,38 @@
+type,EPPOCode,Pref_name,References
+Host,ADORSI,Adoretus sinicus (as Brassica),
+Host,AGROSE,Agrotis segetum (as Brassicaceae),
+Host,ALEUPR,Aleyrodes proletella (as Brassica),
+Host,ATALCO,Athalia rosae (as Brassicaceae),* CABI (2019) Datasheet on Athalia rosae (cabbage leaf sawfly). https://doi.org/10.1079/cabicompendium.7651
+Host,BEMITA,Bemisia tabaci (as Brassicaceae),
+Host,CEUTPL,Ceutorhynchus assimilis (as Brassicaceae),
+Host,CEUTSL,Ceutorhynchus sulcicollis (as Brassicaceae),
+Host,HELIVI,Chloridea virescens,"* Baldwin JM, Paula-Moraes SV, Mulvaney MJ, Meagher RL (2021) Occurrence of arthropod pests associated with Brassica carinata and impact of defoliation on yield. GCB Bioenergy 13, 570-581.
+
+* EPPO (2024) EPPO Technical Document No. 1091. Pest risk analysis for Chloridea virescens. EPPO, Paris. Available at https://gd.eppo.int/taxon/HELIVI/documents
+------- Likely host (reported as host in the literature but lacking evidence to consider it as main host – see PRA for further details on the host)."
+Host,CONTNA,Contarinia nasturtii (as Brassicaceae),
+Host,HYLEFL,Delia floralis (as Brassica),
+Host,HYLEFL,Delia floralis (as Brassicaceae),
+Host,HYLEFG,Delia florilega (as Brassicaceae),
+Host,HYLEPL,Delia platura (as Brassicaceae),
+Host,EURDOL,Eurydema oleraceum (as Brassicaceae),
+Host,EURDOR,Eurydema ornata (as Brassicaceae),
+Host,FRANCS,Frankliniella australis (as Brassicaceae),
+Host,HELPRU,Helophorus rufipes (as Brassicaceae),
+Host,HETDSC,Heterodera schachtii (as Brassica),
+Host,LIRITR,Liriomyza trifolii (as Brassica),
+Host,BARABR,Mamestra brassicae (as Brassica),
+Host,PALEMA,Nephrotoma appendiculata (as Brassicaceae),
+Host,NYSIHU,Nysius huttoni (as Brassica),
+Host,OMOPLE,Omophlus lepturoides (as Brassica),
+Host,OTALLA,Otala lactea (as Brassicaceae),
+Host,PHYEAT,Phyllotreta atra (as Brassicaceae),
+Host,PHYECR,Phyllotreta cruciferae (as Brassicaceae),
+Host,PHYYRU,Phytomyza rufipes (as Brassicaceae),
+Host,PIERBR,Pieris brassicae (as Brassica),
+Host,PIERBR,Pieris brassicae (as Brassicaceae),
+Host,PSYICH,Psylliodes chrysocephala (as Brassicaceae),
+Host,SPODMA,Spodoptera mauritia (as Brassicaceae),
+Host,TATOAU,Tatochila autodice (as Brassicaceae),
+Host,TYLOBR,Tyloderma brassicae (as Brassicaceae),
+Major host,BAGRHI,Bagrada hilaris (as Brassica),

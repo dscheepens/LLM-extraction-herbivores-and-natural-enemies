@@ -1,0 +1,118 @@
+type,EPPOCode,Pref_name,References
+Doubtful host,CHONRO,Choristoneura rosaceana,"* Powell JA (2006) Database of Lepidoptera rearing lots, 1960-2005. University of California Berkeley (US)."
+Experimental,DENDSI,Dendrolimus sibiricus,"* Kirichenko NI, Baranchikov YN, Vidal S (2009) Host plant preference and performance of the potentially invasive Siberian moth (Dendrolimus superans sibiricus) on European coniferous species. Agricultural and Forest Entomology 11, 247-254.
+------- Artificial / potential highly suitable host in Europe (laboratory trial).
+
+* Kirichenko NI, Flament J, Baranchikov YN, Grégoire JC (2008) Native and exotic coniferous species in Europe – possible host plants for the potentially invasive Siberian moth, Dendrolimus sibiricus Tschtv. (Lepidoptera, Lasiocampidae). EPPO Bulletin 38, 259-263.
+------- Artificial / potential highly suitable host in Europe (laboratory trial).
+
+* Kirichenko NI, Flament J, Baranchikov YN, Grégoire JC (2011) Larval performances and life cycle completion of the Siberian moth, Dendrolimus sibiricus (Lepidoptera: Lasiocampidae), on potential host plants in Europe: a laboratory study on potted trees. European Journal of Forest Research 130(6), 1067-1074.
+------- Artificial / potential highly suitable host in Europe (laboratory trial)."
+Experimental,LEPGPO,Leptographium ponderosum,"* Harrington TC, Cobb FW (1984) Host specialization of three morphological variants of Verticicladiella wageneri. Phytopathology 74, 286-290.
+------- in experiments"
+Experimental,LEPGWG,Leptographium wageneri,"* Harrington TC, Cobb FW (1984) Host specialization of three morphological variants of Verticicladiella wageneri. Phytopathology 74, 286-290.
+------- in experiments"
+Experimental,LYMAMA,Lymantria mathura,"* Zlotina MA (1999) Biology and behavior of Lymantria mathura Moore (Lepidoptera: Lymantriidae). (1999). Doctoral Dissertations 1896 - February 2014. 5673. Accessed 9 June 2023 from: https://scholarworks.umass.edu/dissertations_1/5679
+------- Indoor test, unusual host, larval survival (33%).
+
+* Zlotina MA, Mastro VC, Leonard DE, Elkinton JS (1998) Survival and development of Lymantria mathura on North American, Asian, and European tree species. Journal of Economic Entomology 91, 1162–1166.
+------- Indoor test, unusual host, moderatly suitable host, larval survival (33%)"
+Host,ACLRGL,Acleris gloverana,"* Powell JA (1962) Taxonomic studies on the Acleris gloverana - variana complex, the black-headed budworms (Lepidoptera: Tortricidae). Canadian Entomologist 94, 833-840."
+Host,APHRPE,Aphrophora permutata,"* Hamilton KGA (1982) The spittlebugs of Canada. The Insects and Arachnids of Canada – Part 10. Biosystematics Research Institute Ottawa, Ontario Research Branch Agriculture Canada. Publication 1740. 102 pp.
+------- nymphs and adults"
+Host,ARETS,Arceuthobium tsugense,"* Hawksworth FG, Wiens D (1996) Dwarf mistletoes: Biology, pathology, and systematics. USDA - Forest Service. Agriculture Handbook 709, 429 pp.
+------- Rare host for A. tsugense subsp. tsugense."
+Host,BURSXY,Bursaphelenchus xylophilus,
+Host,BURSXY,Bursaphelenchus xylophilus (as Pseudotsuga),
+Host,PHECPI,Chionaspis pinifoliae,"* INTERNET
+ScaleNet. Chionaspis pinifoliae. http://scalenet.info/catalogue/Chionaspis%20pinifoliae/
+
+* Gwiazdowski RA, Vea MI, Andersen CJ & Normark BB (2011) Discovery of cryptic species among North American pine-feeding Chionaspis scale insects (Hemiptera: Diaspididae). Biological Journal of the Linnean Society of London 104(1), 47–62.
+* Normark BB, Okusu A, Morse GE, Peterson DA, Itioka T & Schneider SA (2019) Phylogeny and classification of armored scale insects (Hemiptera: Coccomorpha: Diaspididae). Zootaxa 4616(1), 1–98.
+* Shour MH & Schuder DL (1987) Host range and geographic distribution of Chionaspis heterophyllae Cooley and C. pinifoliae (Fitch) (Homoptera: Diaspididae). Indiana Academy of Science 96, 297–304."
+Host,CHONCA,Choristoneura carnana,"* Powell JA (1980) Nomenclature of Nearctic conifer-feeding Choristoneura (Lepidoptera: Tortricidae): historical review and present status. Canada United States Spruce Budworms Program. US Department of Agriculture Forest Service, Pacific Northwest Forest and Range Experiment Station, General Technical Report PNW-100. 18 pp.
+
+* Powell JA (1995) Biosystematic Studies of Conifer-feeding Choristoneura (Lepidoptera:Tortricidae) in the Western United States. University of California Publications in Entomology 115. University of California Press. 284 pp.
+
+"
+Host,CHONFU,Choristoneura fumiferana,"* Llewellyn-Jones JRJ (1935) Some food plants of lepidopterous larvae. Proceedings of the Entomological Society of British Columbia 31, 28-32.
+------- as Pseudotsuga taxifolia."
+Host,CHONRE,Choristoneura retiniana,"* Brown JW, Robinson G, Powell JA (2008) Food plant database of the leafrollers of the world (Lepidoptera: Tortricidae) (Version 1.0). http://www.tortricid.net/foodplants.asp.
+------- citing Powell JA (2006) Database of Lepidoptera rearing lots, 1960-2005. University of California Berkeley, CA
+
+* Volney WJA, Liebhold AM, Waters WE (1984). Host associations, phenotypic variation, and mating compatibility of Choristoneura occidentalis and C. retiniana (Lepidoptera: Tortricidae) populations in south-central Oregon. The Canadian Entomologist 116(6), 813-826."
+Host,CHRBMA,Chrysobothris mali,"* Rudolph EA, Wiman NG (2023) Insights from specimen data for two economic Chrysobothris species (Coleoptera: Buprestidae) in the western United States. Annals of the Entomological Society of America (early view). https://doi.org/10.1093/aesa/saad009
+------- Study on museum specimen labels (collected on logs of this species).
+
+* EPPO (2021) EPPO Technical Document No. 1083. Pest risk analysis for Chrysobothris femorata and C. mali. EPPO, Paris. Available at https://gd.eppo.int/taxon/CHRBMA/documents
+------- conifers are not attacked. Therefore the record in Rudolph & Wiman (2023) was added under doubtful hosts."
+Host,DENCMI,Dendroctonus micans,"* Grégoire JC (1988) The greater European spruce beetle. In: Dynamics of forest insect populations (Ed. by Berryman A) Plenum Publishing Corporation, New York, USA. pp. 455-478."
+Host,GNAHSU,Gnathotrichus sulcatus,"* Furniss RL, Carolin VM (1977) Western forest insects (Scolytidae, Platypodidae). Miscellaneous Publications, United States Department of Agriculture, Forest Service No. 1339, pp. 1-654"
+Host,GNAHSU,Gnathotrichus sulcatus (as Pinaceae),"* Furniss RL, Carolin VM (1977) Western forest insects (Scolytidae, Platypodidae). Miscellaneous Publications, United States Department of Agriculture, Forest Service No. 1339, pp. 1-654"
+Host,IPSXDU,Ips duplicatus,"* Kašák J, Foit J (2015) Double-spined bark beetle (Ips duplicatus) (Coleoptera: Curculionidae): a new host – Douglas fir (Pseudotsuga menziesii) – Short Communication. Journal of Forest Science 61(6), 274-276."
+Host,IPSXTY,Ips typographus,
+Host,LEPLOC,Leptoglossus occidentalis (as Pseudotsuga),
+Host,MONCMC,Monochamus maculosus,"Furniss RL, Carolin VM (1977) Western Forest Insects. USDA Forest Service. Miscellaneous Publication no. 1339, 654 pp."
+Host,MONCNO,Monochamus notatus,"* Monné MA, Nearns EH (2021) Catalogue of the Cerambycidae (Coleoptera) of Canada and United States of America. Part IV. Subfamily Lamiinae. https://cerambycids.com/catalog/Monne&Nearns_2021_NearcticCat_part_IV.pdf"
+Host,MONCOB,Monochamus obtusus,"* Akbulut S, Stamps WT (2012) Insect vectors of the pinewood nematode: a review of the biology and ecology of Monochamus species. Forest Pathology 42(2), 89-99. https://doi.org/10.1111/j.1439-0329.2011.00733.x
+
+* Keen FP (1952) Insect Enemies of Western Forests. Miscellaneous Publication no. 273. USDA, 209 pp.
+
+* Linsley EG, Chemsak JA (1984) The Cerambycidae of North America, Part VII, No. 1: taxonomy and classification of the subfamily Lamiinae, tribes Parmenini through Acanthoderini. University of California Publications in Entomology 102, 258 pp.
+
+* Monné MA, Nearns EH (2021) Catalogue of the Cerambycidae (Coleoptera) of Canada and United States of America. Part IV. Subfamily Lamiinae. https://cerambycids.com/catalog/Monne&Nearns_2021_NearcticCat_part_IV.pdf
+------- Monochamus obtusus obtusus."
+Host,MONCST,Monochamus scutellatus,"* Monné MA, Nearns EH (2021) Catalogue of the Cerambycidae (Coleoptera) of Canada and United States of America. Part IV. Subfamily Lamiinae. https://cerambycids.com/catalog/Monne&Nearns_2021_NearcticCat_part_IV.pdf"
+Host,NEODAB,Neodiprion abietis,"* Sánchez-Martínez G, González-Gaona E, López-Martínez V, Espinosa-Zaragoza S, López-Baez O, Sanzón-Gómez D, Pérez-De la O NB (2022) Climatic suitability and distribution overlap of sawflies (Hymenoptera: Diprionidae) and threatened populations of Pinaceae. Forests 13, 1067. https://doi.org/10.3390/f1307106
+------- Recorded as a host in Mexico."
+Host,GUIGLA,Neofusicoccum laricinum,"* Ito K (1963) Shoot blight of larch. A destructive disease in larch plantations of Japan I. Bulletin of the Government Forest Experimental Station Tokyo 159, 89-103.
+------- Experimental host.
+
+* Sato K, Shouji T (1962) Ditto V (Preliminary report). Pathogenicity of Guignardia laricina, the causal fungus of the disease. Transactions of the 73rd Annual Meeting of the  Japanese Forestry Society, 217-219 (in Japanese).
+------- Experimental host.
+
+* Sato K, Yokozawa Y, Shoji T (1963) Studies on the shoot blight disease of larch. Bulletin of the Government Forest Experimental Station Tokyo 156, 85–137.
+------- Confirmed host."
+Host,NECTMA,Neonectria neomacrospora,"* Mantiri FR, Samuels GJ, Rahe JE, Honda BM (2001) Phylogenetic relationships in Neonectria species having Cylindrocarpon anamorphs inferred from mitochondrial ribosomal DNA sequences. Canadian Journal of Botany 79, 334-340."
+Host,PHARGA,Nothophaeocryptopus gaeumannii,"* Stone JK, Capitano BR, Kerrigan JL (2008) The histopathology of Phaeocryptopus gaeumannii on Douglas-fir needles. Mycologia 100(3), 431-444"
+Host,PISOFA,Pissodes fasciatus,"* Deyrup MA (1978) Notes on the biology of Pissodes fasciatus LeConte and its insect associates (Coleoptera: Curculionidae). The Pan-Pacific Entomologist 54, 103-106.
+
+* Hopkins AD (1911) Technical papers on miscellaneous forest insects. I. Contributions toward a monograph of the bark-weevils of the genus Pissodes. Technical Series No. 20, Part I. United States Department of Agriculture, Bureau of Entomology, Washington, DC, x + 68 pp + 22 plates.
+
+* Jacobi WR (1992) Potential insect vectors of black stain root disease pathogen on southern Vancouver Island. Journal of the Entomological Society of British Columbia 89, 54-56.
+
+* Miller DR, Heppner D (1999) Attraction of Pissodes affinis and P. fasciatus (Coleoptera: Curculionidae) to pityol and a-pinene in a coastal stand of western white pine and Douglas-fir. Journal of the Entomological Society of British Columbia 99, 73-76.
+
+* Witkosky JJ (1989) Root beetles, stand disturbance, and management of black-stain root disease in plantations of Douglas fir. In Insects affecting reforestation: biology and damage (eds Alfaro R & Glover SG), p. 58-70. Forestry Canada, Pacific Forestry Centre, Victoria, British Columbia (Canada).
+
+* Witkosky JJ, Hansen EM (1985) Root-colonizing insects recovered from Douglas-fir in various stages of decline due to black-stain root disease. Phytopathology 75, 399-402.
+
+* Wikosky JJ, Schowalter TD, Hansen EM (1986) The influence of time of precommercial thinning on the colonization of Douglas-fir by three species of root-colonizing insects. Canadian Journal of Forest Research 16, 745-749.
+
+* Witkosky JJ, Schowalter TD, Hansen EM (1986) Hylastes nigrinus (Coleoptera: Scolytidae), Pissodes fasciatus and Steremnius carinatus (Coleoptera: Curculionidae) as vectors of black-stain root disease of Douglas-fir. Environmental Entomology 15, 1090-1095."
+Host,PISOST,Pissodes strobi,* Masiuk M (2001) White pine weevil. Woody ornamentals IPM Fact Sheets. The Pennsylvania State University. 2 pp.
+Host,SIRXNO,Sirex noctilio (as Pseudotsuga),
+Host,XYLBGE,Xylosandrus germanus,
+Major host,AREDO,Arceuthobium douglasii,
+Major host,ARCHOC,Choristoneura occidentalis occidentalis,"* Brunet B, Sperling FAH (2013) Identification and ecological characterisation of Choristoneura occidentalis (Lepidoptera: Tortricidae) populations in southwestern Alberta, Canada. Canadian Entomologist 145, 521-528.
+
+* Furniss RL, Carolin VM (1977) Western Forest Insects. USDA , Forest Service Miscellaneous Publication no. 1339, 654 pp.
+
+* Nealis V (2005) Diapause and voltinism in western and 2-year cycle spruce budworms (Lepidoptera: Tortricidae) and their hybrid progeny. The Canadian Entomologist 137, 584-597."
+Major host,CONTPS,Contarinia pseudotsugae,"* Furniss RL, Carolin VM (1977) Western Forest Insects. USDA-Forest Service. Miscellaneous Publication no. 273, 654 pp."
+Major host,DENCPS,Dendroctonus pseudotsugae,"* Freeman MB, Labarge A, Tobin PC (2020) Phenology of Douglas-Fir Beetle (Coleoptera: Curculionidae) and Its Role in Douglas-Fir Mortality in Western Washington.  Environmental Entomology, 49(1), 246–254, https://doi.org/10.1093/ee/nvz146"
+Major host,LEPGWA,Grosmannia wageneri,"* Choi D, Harrington TC, Shaw DC, Stewart JE, Klopfenstein NB, Kroese DR, Kim MS (2023) Phylogenetic analyses allow species-level recognition of Leptographium wageneri varieties that cause black stain root disease of conifers in western North America. Frontiers in Plant Science 14, 1286157.
+
+* Harrington TC, Cobb FW (1984) Host specialization of three morphological variants of Verticicladiella wageneri. Phytopathology 74, 286-290.
+------- in experiments L. wageneri var. wageneri and var. ponderosum
+
+* Webber JF, Hansen EM (1990) Susceptibility of European and N.W. American conifers to the North American vascular pathogen Leptographium wageneri. European Journal of Forest Pathology 20, 347-354.
+-------L. wagneri var pseudostugae"
+Major host,LEPLOC,Leptoglossus occidentalis,
+Major host,LEPGPS,Leptographium pseudotsugae,"* Choi D, Harrington TC, Shaw DC, Stewart JE, Klopfenstein NB, Kroese DR, Kim MS (2023) Phylogenetic analyses allow species-level recognition of Leptographium wageneri varieties that cause black stain root disease of conifers in western North America. Frontiers in Plant Science 14, 1286157.
+
+* Webber JF, Hansen EM (1990) Susceptibility of European and N.W. American conifers to the North American vascular pathogen Leptographium wageneri. European Journal of Forest Pathology 20, 347-354.
+-------L. wagneri var pseudostugae"
+Major host,ORGYPS,Orgyia pseudotsugata,"* Hansen EM (1995) Douglas-Fir Tussock Moth (Orgyia pseudotsugata McDunnough) on Subalpine Fir in Northern Utah. Great Basin Naturalist 515(2), 158-163.
+
+* Sugden BA (1957) A brief history of outbreaks of the Douglas-fir tussock moth, Hemerocampa pseudotsugata McD., in British Columbia. Entomological Society of British Columbia, Proceedings 54, 37-39."

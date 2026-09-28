@@ -1,0 +1,458 @@
+[2025-11-01 21:52:27] Iteration 0 	EID: 2-s2.0-0000101789
+[2025-11-01 21:52:41] species list is empty: Trying again...
+[2025-11-01 21:52:43] species list is empty: Trying again...
+[2025-11-01 21:52:46] species list is empty.
+[2025-11-01 21:52:46] Iteration 1 	EID: 2-s2.0-0000252648
+[2025-11-01 21:52:51] Herbivores: 4 		 Enemies: 1
+[2025-11-01 21:53:15] Iteration 2 	EID: 2-s2.0-0001688927
+[2025-11-01 21:53:18] Herbivores: 0 		 Enemies: 3
+[2025-11-01 21:53:30] Iteration 3 	EID: 2-s2.0-0005019556
+[2025-11-01 21:53:33] Herbivores: 2 		 Enemies: 0
+[2025-11-01 21:53:46] Iteration 4 	EID: 2-s2.0-0006182411
+[2025-11-01 21:53:52] Herbivores: 0 		 Enemies: 7
+[2025-11-01 21:54:14] Iteration 5 	EID: 2-s2.0-0008215387
+[2025-11-01 21:54:23] Herbivores: 1 		 Enemies: 9
+[2025-11-01 21:54:58] Iteration 6 	EID: 2-s2.0-0021593437
+[2025-11-01 21:55:02] Herbivores: 0 		 Enemies: 4
+[2025-11-01 21:55:13] Iteration 7 	EID: 2-s2.0-0024185618
+[2025-11-01 21:55:16] Herbivores: 1 		 Enemies: 2
+[2025-11-01 21:55:33] Iteration 8 	EID: 2-s2.0-0024939691
+[2025-11-01 21:55:36] Herbivores: 1 		 Enemies: 0
+[2025-11-01 21:55:49] Iteration 9 	EID: 2-s2.0-0027065837
+[2025-11-01 21:55:54] Herbivores: 1 		 Enemies: 4
+[2025-11-01 21:56:24] Iteration 10 	EID: 2-s2.0-0027708505
+[2025-11-01 21:56:27] Herbivores: 1 		 Enemies: 1
+[2025-11-01 21:56:44] Iteration 11 	EID: 2-s2.0-0027799605
+[2025-11-01 21:56:46] Herbivores: 0 		 Enemies: 2
+[2025-11-01 21:56:57] Iteration 12 	EID: 2-s2.0-0028166139
+[2025-11-01 21:57:13] Herbivores: 1 		 Enemies: 11
+[2025-11-01 21:58:02] Iteration 13 	EID: 2-s2.0-0028684035
+[2025-11-01 21:58:04] Herbivores: 0 		 Enemies: 1
+[2025-11-01 21:58:11] Iteration 14 	EID: 2-s2.0-0028993233
+[2025-11-01 21:58:15] Herbivores: 1 		 Enemies: 2
+[2025-11-01 21:58:34] Iteration 15 	EID: 2-s2.0-0028994795
+[2025-11-01 21:58:37] Herbivores: 0 		 Enemies: 5
+[2025-11-01 21:58:55] Iteration 16 	EID: 2-s2.0-0030237779
+[2025-11-01 21:58:59] Herbivores: 1 		 Enemies: 1
+[2025-11-01 21:59:13] Iteration 17 	EID: 2-s2.0-0030618395
+[2025-11-01 21:59:18] Herbivores: 2 		 Enemies: 2
+[2025-11-01 21:59:45] Iteration 18 	EID: 2-s2.0-0030618427
+[2025-11-01 21:59:48] Herbivores: 1 		 Enemies: 3
+[2025-11-01 22:00:11] Iteration 19 	EID: 2-s2.0-0031400560
+[2025-11-01 22:00:16] Herbivores: 0 		 Enemies: 8
+[2025-11-01 22:00:32] Iteration 20 	EID: 2-s2.0-0031432732
+[2025-11-01 22:00:36] Herbivores: 1 		 Enemies: 2
+[2025-11-01 22:00:53] Iteration 21 	EID: 2-s2.0-0031458929
+[2025-11-01 22:01:03] Herbivores: 15 		 Enemies: 1
+[2025-11-01 22:02:12] Iteration 22 	EID: 2-s2.0-0032794850
+[2025-11-01 22:02:18] Herbivores: 2 		 Enemies: 6
+[2025-11-01 22:02:53] Iteration 23 	EID: 2-s2.0-0032970080
+[2025-11-01 22:02:58] Herbivores: 4 		 Enemies: 7
+[2025-11-01 22:03:48] Iteration 24 	EID: 2-s2.0-0033135852
+[2025-11-01 22:03:53] Herbivores: 1 		 Enemies: 6
+[2025-11-01 22:04:23] Iteration 25 	EID: 2-s2.0-0034872127
+[2025-11-01 22:04:27] Herbivores: 1 		 Enemies: 2
+[2025-11-01 22:04:47] Iteration 26 	EID: 2-s2.0-0034889793
+[2025-11-01 22:04:57] Herbivores: 1 		 Enemies: 13
+[2025-11-01 22:05:49] Iteration 27 	EID: 2-s2.0-0034969773
+[2025-11-01 22:05:56] Herbivores: 2 		 Enemies: 5
+[2025-11-01 22:06:29] Iteration 28 	EID: 2-s2.0-0036212873
+[2025-11-01 22:06:34] Herbivores: 8 		 Enemies: 0
+[2025-11-01 22:07:00] Iteration 29 	EID: 2-s2.0-0036226278
+[2025-11-01 22:07:06] Herbivores: 3 		 Enemies: 0
+[2025-11-01 22:07:33] Iteration 30 	EID: 2-s2.0-0037304026
+[2025-11-01 22:07:36] Herbivores: 2 		 Enemies: 2
+[2025-11-01 22:08:01] Iteration 31 	EID: 2-s2.0-0037647595
+[2025-11-01 22:08:05] Herbivores: 0 		 Enemies: 6
+[2025-11-01 22:08:19] Iteration 32 	EID: 2-s2.0-0037800443
+[2025-11-01 22:08:24] Herbivores: 5 		 Enemies: 4
+[2025-11-01 22:09:08] Iteration 33 	EID: 2-s2.0-0037985469
+[2025-11-01 22:09:11] Herbivores: 2 		 Enemies: 2
+[2025-11-01 22:09:34] Iteration 34 	EID: 2-s2.0-0040041164
+[2025-11-01 22:09:40] Herbivores: 1 		 Enemies: 7
+[2025-11-01 22:10:12] Iteration 35 	EID: 2-s2.0-0040077872
+[2025-11-01 22:10:15] Herbivores: 1 		 Enemies: 2
+[2025-11-01 22:10:36] Iteration 36 	EID: 2-s2.0-0043286364
+[2025-11-01 22:10:40] species list is empty: Trying again...
+[2025-11-01 22:10:43] species list is empty: Trying again...
+[2025-11-01 22:10:46] species list is empty.
+[2025-11-01 22:10:46] Iteration 37 	EID: 2-s2.0-0141575349
+[2025-11-01 22:10:49] species list is empty: Trying again...
+[2025-11-01 22:10:51] species list is empty: Trying again...
+[2025-11-01 22:10:54] species list is empty.
+[2025-11-01 22:10:54] Iteration 38 	EID: 2-s2.0-0342326462
+[2025-11-01 22:10:57] species list is empty: Trying again...
+[2025-11-01 22:11:00] species list is empty: Trying again...
+[2025-11-01 22:11:02] species list is empty.
+[2025-11-01 22:11:02] Iteration 39 	EID: 2-s2.0-0346935993
+[2025-11-01 22:11:06] Herbivores: 1 		 Enemies: 1
+[2025-11-01 22:11:21] Iteration 40 	EID: 2-s2.0-11244319902
+[2025-11-01 22:11:24] Herbivores: 3 		 Enemies: 0
+[2025-11-01 22:11:40] Iteration 41 	EID: 2-s2.0-12544251548
+[2025-11-01 22:11:44] Herbivores: 1 		 Enemies: 3
+[2025-11-01 22:12:10] Iteration 42 	EID: 2-s2.0-13844298328
+[2025-11-01 22:12:15] Herbivores: 2 		 Enemies: 2
+[2025-11-01 22:12:41] Iteration 43 	EID: 2-s2.0-1842582919
+[2025-11-01 22:12:48] Herbivores: 1 		 Enemies: 9
+[2025-11-01 22:13:25] Iteration 44 	EID: 2-s2.0-19944366420
+[2025-11-01 22:13:37] Herbivores: 3 		 Enemies: 16
+[2025-11-01 22:15:04] Iteration 45 	EID: 2-s2.0-20544474790
+[2025-11-01 22:15:07] Herbivores: 1 		 Enemies: 2
+[2025-11-01 22:15:27] Iteration 46 	EID: 2-s2.0-23744478307
+[2025-11-01 22:15:33] Herbivores: 1 		 Enemies: 6
+[2025-11-01 22:16:02] Iteration 47 	EID: 2-s2.0-26244452013
+[2025-11-01 22:16:09] Herbivores: 1 		 Enemies: 9
+[2025-11-01 22:16:43] Iteration 48 	EID: 2-s2.0-33845325813
+[2025-11-01 22:16:47] Herbivores: 1 		 Enemies: 3
+[2025-11-01 22:17:09] Iteration 49 	EID: 2-s2.0-33845901783
+[2025-11-01 22:17:18] Herbivores: 18 		 Enemies: 0
+[2025-11-01 22:18:26] Iteration 50 	EID: 2-s2.0-33846223214
+[2025-11-01 22:18:29] Herbivores: 1 		 Enemies: 1
+[2025-11-01 22:18:45] Iteration 51 	EID: 2-s2.0-38749145887
+[2025-11-01 22:18:49] Herbivores: 1 		 Enemies: 1
+[2025-11-01 22:19:05] Iteration 52 	EID: 2-s2.0-39149089336
+[2025-11-01 22:19:11] Herbivores: 6 		 Enemies: 1
+[2025-11-01 22:19:44] Iteration 53 	EID: 2-s2.0-41149109636
+[2025-11-01 22:19:47] Herbivores: 2 		 Enemies: 1
+[2025-11-01 22:20:06] Iteration 54 	EID: 2-s2.0-4243173915
+[2025-11-01 22:20:10] Herbivores: 1 		 Enemies: 3
+[2025-11-01 22:20:29] Iteration 55 	EID: 2-s2.0-42449107774
+[2025-11-01 22:20:35] Herbivores: 3 		 Enemies: 0
+[2025-11-01 22:20:50] Iteration 56 	EID: 2-s2.0-60749111424
+[2025-11-01 22:20:54] Herbivores: 1 		 Enemies: 1
+[2025-11-01 22:21:11] Iteration 57 	EID: 2-s2.0-62149132967
+[2025-11-01 22:21:17] Herbivores: 3 		 Enemies: 2
+[2025-11-01 22:21:53] Iteration 58 	EID: 2-s2.0-62149141341
+[2025-11-01 22:22:00] Herbivores: 9 		 Enemies: 1
+[2025-11-01 22:22:33] Iteration 59 	EID: 2-s2.0-67650614649
+[2025-11-01 22:22:36] Herbivores: 1 		 Enemies: 1
+[2025-11-01 22:22:54] Iteration 60 	EID: 2-s2.0-70349578796
+[2025-11-01 22:22:57] Herbivores: 1 		 Enemies: 2
+[2025-11-01 22:23:19] Iteration 61 	EID: 2-s2.0-73449107754
+[2025-11-01 22:23:22] Herbivores: 1 		 Enemies: 0
+[2025-11-01 22:23:35] Iteration 62 	EID: 2-s2.0-74949088185
+[2025-11-01 22:23:49] Herbivores: 12 		 Enemies: 0
+[2025-11-01 22:24:41] Iteration 63 	EID: 2-s2.0-77952918346
+[2025-11-01 22:24:45] Herbivores: 0 		 Enemies: 3
+[2025-11-01 22:24:56] Iteration 64 	EID: 2-s2.0-77954115799
+[2025-11-01 22:24:59] Herbivores: 1 		 Enemies: 3
+[2025-11-01 22:25:17] Iteration 65 	EID: 2-s2.0-77957191872
+[2025-11-01 22:25:26] Herbivores: 1 		 Enemies: 16
+[2025-11-01 22:26:21] Iteration 66 	EID: 2-s2.0-78249255202
+[2025-11-01 22:26:31] Herbivores: 4 		 Enemies: 12
+[2025-11-01 22:27:54] Iteration 67 	EID: 2-s2.0-79953163648
+[2025-11-01 22:28:01] Herbivores: 5 		 Enemies: 2
+[2025-11-01 22:28:32] Iteration 68 	EID: 2-s2.0-80052846716
+[2025-11-01 22:28:36] Herbivores: 2 		 Enemies: 2
+[2025-11-01 22:29:02] Iteration 69 	EID: 2-s2.0-80053068062
+[2025-11-01 22:29:26] Herbivores: 9 		 Enemies: 15
+[2025-11-01 22:31:06] Iteration 70 	EID: 2-s2.0-84862596084
+[2025-11-01 22:31:11] Herbivores: 1 		 Enemies: 5
+[2025-11-01 22:31:41] Iteration 71 	EID: 2-s2.0-84867182242
+[2025-11-01 22:31:46] Herbivores: 1 		 Enemies: 4
+[2025-11-01 22:32:17] Iteration 72 	EID: 2-s2.0-84874176682
+[2025-11-01 22:32:22] Herbivores: 1 		 Enemies: 5
+[2025-11-01 22:32:47] Iteration 73 	EID: 2-s2.0-84877157394
+[2025-11-01 22:32:51] Herbivores: 1 		 Enemies: 0
+[2025-11-01 22:33:03] Iteration 74 	EID: 2-s2.0-84881063573
+[2025-11-01 22:33:09] Herbivores: 0 		 Enemies: 21
+[2025-11-01 22:34:05] Iteration 75 	EID: 2-s2.0-84881616302
+[2025-11-01 22:34:10] Herbivores: 2 		 Enemies: 5
+[2025-11-01 22:34:41] Iteration 76 	EID: 2-s2.0-84884520363
+[2025-11-01 22:34:47] Herbivores: 0 		 Enemies: 10
+[2025-11-01 22:35:21] Iteration 77 	EID: 2-s2.0-84909652967
+[2025-11-01 22:35:26] Herbivores: 1 		 Enemies: 4
+[2025-11-01 22:35:49] Iteration 78 	EID: 2-s2.0-84912026588
+[2025-11-01 22:35:55] Herbivores: 2 		 Enemies: 0
+[2025-11-01 22:36:10] Iteration 79 	EID: 2-s2.0-84947703534
+[2025-11-01 22:36:12] Herbivores: 1 		 Enemies: 0
+[2025-11-01 22:36:19] Iteration 80 	EID: 2-s2.0-84949793786
+[2025-11-01 22:36:21] species list is empty: Trying again...
+[2025-11-01 22:36:22] species list is empty: Trying again...
+[2025-11-01 22:36:23] species list is empty.
+[2025-11-01 22:36:23] Iteration 81 	EID: 2-s2.0-84957565933
+[2025-11-01 22:36:26] species list is empty: Trying again...
+[2025-11-01 22:36:29] species list is empty: Trying again...
+[2025-11-01 22:36:32] species list is empty.
+[2025-11-01 22:36:32] Iteration 82 	EID: 2-s2.0-84961163844
+[2025-11-01 22:36:37] Herbivores: 2 		 Enemies: 6
+[2025-11-01 22:37:16] Iteration 83 	EID: 2-s2.0-84963612982
+[2025-11-01 22:37:20] Herbivores: 1 		 Enemies: 5
+[2025-11-01 22:37:43] Iteration 84 	EID: 2-s2.0-84963699376
+[2025-11-01 22:37:47] Herbivores: 2 		 Enemies: 2
+[2025-11-01 22:38:14] Iteration 85 	EID: 2-s2.0-84976038709
+[2025-11-01 22:38:19] Herbivores: 1 		 Enemies: 4
+[2025-11-01 22:38:46] Iteration 86 	EID: 2-s2.0-84978132483
+[2025-11-01 22:38:51] species list is empty: Trying again...
+[2025-11-01 22:38:55] species list is empty: Trying again...
+[2025-11-01 22:39:00] species list is empty.
+[2025-11-01 22:39:00] Iteration 87 	EID: 2-s2.0-84979976527
+[2025-11-01 22:39:02] Herbivores: 1 		 Enemies: 0
+[2025-11-01 22:39:09] Iteration 88 	EID: 2-s2.0-84988695777
+[2025-11-01 22:39:17] Herbivores: 6 		 Enemies: 7
+[2025-11-01 22:40:09] Iteration 89 	EID: 2-s2.0-84992358973
+[2025-11-01 22:40:18] Herbivores: 0 		 Enemies: 11
+[2025-11-01 22:40:53] Iteration 90 	EID: 2-s2.0-85017461126
+[2025-11-01 22:40:54] Herbivores: 1 		 Enemies: 0
+[2025-11-01 22:41:04] Iteration 91 	EID: 2-s2.0-85019767155
+[2025-11-01 22:41:12] Herbivores: 1 		 Enemies: 11
+[2025-11-01 22:42:00] Iteration 92 	EID: 2-s2.0-85030858317
+[2025-11-01 22:42:03] Herbivores: 1 		 Enemies: 4
+[2025-11-01 22:42:24] Iteration 93 	EID: 2-s2.0-85043460278
+[2025-11-01 22:42:30] Herbivores: 3 		 Enemies: 4
+[2025-11-01 22:42:59] Iteration 94 	EID: 2-s2.0-85045837897
+[2025-11-01 22:43:03] Herbivores: 0 		 Enemies: 8
+[2025-11-01 22:43:19] Iteration 95 	EID: 2-s2.0-85052445922
+[2025-11-01 22:43:23] Herbivores: 4 		 Enemies: 1
+[2025-11-01 22:43:44] Iteration 96 	EID: 2-s2.0-85055082520
+[2025-11-01 22:43:54] Herbivores: 1 		 Enemies: 9
+[2025-11-01 22:44:32] Iteration 97 	EID: 2-s2.0-85065706587
+[2025-11-01 22:44:36] Herbivores: 0 		 Enemies: 3
+[2025-11-01 22:44:49] Iteration 98 	EID: 2-s2.0-85066828990
+[2025-11-01 22:44:53] Herbivores: 1 		 Enemies: 3
+[2025-11-01 22:45:13] Iteration 99 	EID: 2-s2.0-85152646786
+[2025-11-01 22:45:16] Herbivores: 1 		 Enemies: 1
+[2025-11-01 22:45:31] Finished in 53.07 minutes
+[2025-11-01 22:52:17] [2025-11-01 22:52:17] Iteration 0 	EID: 2-s2.0-0000101789
+[2025-11-01 22:52:30] [2025-11-01 22:52:30] Herbivores: 0 		 Enemies: 1
+[2025-11-01 22:52:36] [2025-11-01 22:52:36] Error in enemies: string indices must be integers, not 'str'.
+[2025-11-01 22:52:36] [2025-11-01 22:52:36] sp:
+[2025-11-01 22:52:36] [2025-11-01 22:52:36] natural_enemies
+[2025-11-01 22:52:36] [2025-11-01 22:52:36] sp_json:
+[2025-11-01 22:52:36] [2025-11-01 22:52:36] {'natural_enemies': [{'taxonomy': {'Phylum': 'Chordata', 'Class': 'Mammalia', 'Order': 'Diprotodontia', 'Family': 'Phalangeridae', 'Genus': 'Trichosurus', 'Species': 'Trichosurus vulpecula', 'Common Name': 'Brushtail possum'}, 'feeding_mode': 'predation', 'herbivorous_prey_species': ['Ficus macrophylla', 'Ficus rubiginosa'], 'important_natural_enemy': False, 'biological_control': False, 'associated_industries': ['Forestry', 'Horticulture'], 'associated_plants': ['Ficus macrophylla', 'Ficus rubiginosa'], 'vectors': 'NA'}]}
+[2025-11-01 22:52:36] [2025-11-01 22:52:36] Iteration 1 	EID: 2-s2.0-0000252648
+[2025-11-01 22:52:39] [2025-11-01 22:52:39] Herbivores: 4 		 Enemies: 1
+[2025-11-01 22:53:02] [2025-11-01 22:53:02] Error in herbivores: 'taxonomy'.
+[2025-11-01 22:53:02] [2025-11-01 22:53:02] sp:
+[2025-11-01 22:53:02] [2025-11-01 22:53:02] {'Taxonomy': {'Phylum': 'Mollusca', 'Class': 'Gastropoda', 'Order': 'Pulmonata', 'Family': 'Arionidae', 'Genus': 'Arion', 'Species': 'Arion ater', 'Common Name': 'NA'}, 'Feeding Mode': 'herbivory', 'Host plants': [{'Host plant name': 'Field crops', 'Herbivore is pest of plant': True, 'Pest importance': 'major', 'Plant is weed': False, 'Plant is invasive': False, 'Biological control agent': False}], 'Associated Industries': ['Field crops'], 'Is invasive': 'NA', 'Pathogen vector': 'NA'}
+[2025-11-02 09:18:54] [2025-11-02 09:18:54] model='gpt-oss:120b' modified_at=datetime.datetime(2025, 11, 2, 9, 18, 54, 446545, tzinfo=TzInfo(UTC)) digest='a951a23b46a1f6093dafee2ea481d634b4e31ac720a8a16f3f91e04f5a40ecd9' size=65369818941 details=ModelDetails(parent_model='', format='gguf', family='gptoss', families=['gptoss'], parameter_size='116.8B', quantization_level='MXFP4')
+
+
+[2025-11-02 09:20:05] [2025-11-02 09:20:05] {'herbivores': ['Zeiraphera canadensis', 'Zeiraphera diniana'], 'natural_enemies': ['Tycherus osculator', 'Earinus zeirapherae', 'Ascogaster sp.', 'Clinocentrus sp.', 'Lamachus sp.', 'Triclistus sp.']}
+[2025-11-02 09:22:38] [2025-11-02 09:22:38] {'herbivores': ['Galerucella nymphaeae', 'Myzus lythri', 'Poecilocapsus lineatus', 'Kleidocerys resedae', 'Ametastegia glabrata', 'Orgyia leucostigma', 'Lophocampa maculata', 'Spilosoma virginica', 'Simyra henrici', 'Dichomeris ligulella', 'Melanchra picta', 'Hyles galli', 'Biston betularia cognataria', 'Galerucella pusilia', 'Galerucella calmariensis'], 'natural_enemies': ['Apoecilus bracteatus']}
+[2025-11-02 09:42:35] [2025-11-02 09:42:35] {'herbivores': ['Galerucella nymphaeae', 'Myzus lythri', 'Poecilocapsus lineatus', 'Kleidocerys resedae', 'Ametastegia glabrata', 'Orgyia leucostigma', 'Lophocampa maculata', 'Spilosoma virginica', 'Simyra henrici', 'Dichomeris ligulella', 'Melanchra picta', 'Hyles galli', 'Biston betularia cognataria', 'Galerucella pusilia', 'Galerucella calmariensis'], 'natural_enemies': ['Apoecilus bracteatus']}
+[2025-11-02 09:58:24] [2025-11-02 09:58:24] {'herbivores': ['Pissodes castaneus', 'Pissodes strobi'], 'natural_enemies': ['Coeloides sordidator', 'Eubazus semirugosus']}
+[2025-11-02 10:02:08] [2025-11-02 10:02:08] {'herbivores': ['Mamestra configurata'], 'natural_enemies': ['Eurithia consobrina', 'Athrycia cinerea']}
+[2025-11-02 10:08:36] [2025-11-02 10:08:36] {'herbivores': [], 'natural_enemies': ['Abax parallelepipedus']}
+[2025-11-02 10:09:54] [2025-11-02 10:09:54] {'herbivores': ['Phoracantha semipunctata'], 'natural_enemies': ['Jarra phoracantha', 'Jarra maculipennis', 'Jarra bicolor', 'Doryctes diadoxi', 'Heterospilus nukunu', 'Callibracon moorei', 'Atanycolus tomentosus', 'Syngaster lepidus', 'Aventianella longoi']}
+[2025-11-02 10:11:41] [2025-11-02 10:11:41] {'herbivores': ['Phoracantha semipunctata'], 'natural_enemies': ['Jarra phoracantha', 'Jarra maculipennis', 'Jarra bicolor', 'Doryctes diadoxi', 'Heterospilus nukunu', 'Callibracon moorei', 'Atanycolus tomentosus', 'Syngaster lepidus', 'Callibracon fleviceps', 'Aventianella longoi']}
+[2025-11-02 10:12:41] [2025-11-02 10:12:41] {'herbivores': ['Phoracantha semipunctata'], 'natural_enemies': ['Jarra phoracantha', 'Jarra maculipennis', 'Jarra bicolor', 'Doryctes diadoxi', 'Heterospilus nukunu', 'Callibracon moorei', 'Aventianella longoi', 'Atanycolus tomentosus', 'Syngaster lepidus']}
+[2025-11-02 10:12:56] [2025-11-02 10:12:56] {'herbivores': ['Phoracantha semipunctata'], 'natural_enemies': ['Jarra phoracantha', 'Jarra maculipennis', 'Jarra bicolor', 'Doryctes diadoxi', 'Heterospilus nukunu', 'Callibracon moorei', 'Aventianella longoi', 'Atanycolus tomentosus', 'Syngaster lepidus']}
+[2025-11-02 10:13:09] [2025-11-02 10:13:09] {'herbivores': ['Phoracantha semipunctata'], 'natural_enemies': ['Jarra phoracantha', 'Jarra maculipennis', 'Jarra bicolor', 'Doryctes diadoxi', 'Heterospilus nukunu', 'Callibracon moorei', 'Aventianella longoi', 'Atanycolus tomentosus', 'Syngaster lepidus']}
+[2025-11-02 10:13:27] [2025-11-02 10:13:27] {'herbivores': ['Phoracantha semipunctata'], 'natural_enemies': ['Jarra phoracantha', 'Jarra maculipennis', 'Jarra bicolor', 'Doryctes diadoxi', 'Heterospilus nukunu', 'Callibracon moorei', 'Aventianella longoi', 'Atanycolus tomentosus', 'Syngaster lepidus']}
+[2025-11-02 10:13:39] [2025-11-02 10:13:39] {'herbivores': ['Phoracantha semipunctata'], 'natural_enemies': ['Jarra phoracantha', 'Jarra maculipennis', 'Jarra bicolor', 'Doryctes diadoxi', 'Heterospilus nukunu', 'Callibracon moorei', 'Aventianella longoi', 'Atanycolus tomentosus', 'Syngaster lepidus']}
+[2025-11-02 10:14:02] [2025-11-02 10:14:02] {'herbivores': ['Phoracantha semipunctata'], 'natural_enemies': ['Jarra phoracantha', 'Jarra maculipennis', 'Jarra bicolor', 'Doryctes diadoxi', 'Heterospilus nukunu', 'Callibracon moorei', 'Aventianella longoi', 'Atanycolus tomentosus', 'Syngaster lepidus']}
+[2025-11-02 10:16:48] [2025-11-02 10:16:48] {'herbivores': ['Pegomya solennis'], 'natural_enemies': []}
+[2025-11-02 10:17:34] [2025-11-02 10:17:34] {'herbivores': ['Arion ater', 'Arion hortensis', 'Deroceras', 'Milax'], 'natural_enemies': ['Abax parallelepipedus']}
+[2025-11-02 10:18:37] [2025-11-02 10:18:37] [2025-11-02 10:18:37] Iteration 0 	EID: 2-s2.0-0000101789
+[2025-11-02 10:18:41] [2025-11-02 10:18:41] [2025-11-02 10:18:41] species list is empty: Trying again...
+[2025-11-02 10:18:44] [2025-11-02 10:18:44] [2025-11-02 10:18:44] species list is empty: Trying again...
+[2025-11-02 10:18:47] [2025-11-02 10:18:47] [2025-11-02 10:18:47] species list is empty.
+[2025-11-02 10:18:47] [2025-11-02 10:18:47] [2025-11-02 10:18:47] Iteration 1 	EID: 2-s2.0-0000252648
+[2025-11-02 10:18:53] [2025-11-02 10:18:53] [2025-11-02 10:18:53] Herbivores: 4 		 Enemies: 1
+[2025-11-02 10:19:17] [2025-11-02 10:19:17] [2025-11-02 10:19:17] Iteration 2 	EID: 2-s2.0-0001688927
+[2025-11-02 10:19:21] [2025-11-02 10:19:21] [2025-11-02 10:19:21] Herbivores: 0 		 Enemies: 3
+[2025-11-02 10:19:33] [2025-11-02 10:19:33] [2025-11-02 10:19:33] Iteration 3 	EID: 2-s2.0-0005019556
+[2025-11-02 10:19:37] [2025-11-02 10:19:37] [2025-11-02 10:19:37] Herbivores: 2 		 Enemies: 0
+[2025-11-02 10:19:50] [2025-11-02 10:19:50] [2025-11-02 10:19:50] Iteration 4 	EID: 2-s2.0-0006182411
+[2025-11-02 10:19:55] [2025-11-02 10:19:55] [2025-11-02 10:19:55] Herbivores: 0 		 Enemies: 6
+[2025-11-02 10:20:14] [2025-11-02 10:20:14] [2025-11-02 10:20:14] Iteration 5 	EID: 2-s2.0-0008215387
+[2025-11-02 10:20:25] [2025-11-02 10:20:25] [2025-11-02 10:20:25] Herbivores: 1 		 Enemies: 8
+[2025-11-02 10:21:00] [2025-11-02 10:21:00] [2025-11-02 10:21:00] Iteration 6 	EID: 2-s2.0-0021593437
+[2025-11-02 10:21:04] [2025-11-02 10:21:04] [2025-11-02 10:21:04] Herbivores: 0 		 Enemies: 4
+[2025-11-02 10:21:18] [2025-11-02 10:21:18] [2025-11-02 10:21:18] Iteration 7 	EID: 2-s2.0-0024185618
+[2025-11-02 10:21:21] [2025-11-02 10:21:21] [2025-11-02 10:21:21] Herbivores: 1 		 Enemies: 2
+[2025-11-02 10:21:41] [2025-11-02 10:21:41] [2025-11-02 10:21:41] Iteration 8 	EID: 2-s2.0-0024939691
+[2025-11-02 10:21:43] [2025-11-02 10:21:43] [2025-11-02 10:21:43] Herbivores: 1 		 Enemies: 0
+[2025-11-02 10:21:54] [2025-11-02 10:21:54] [2025-11-02 10:21:54] Iteration 9 	EID: 2-s2.0-0027065837
+[2025-11-02 10:22:01] [2025-11-02 10:22:01] [2025-11-02 10:22:01] Herbivores: 1 		 Enemies: 4
+[2025-11-02 10:22:29] [2025-11-02 10:22:29] [2025-11-02 10:22:29] Iteration 10 	EID: 2-s2.0-0027708505
+[2025-11-02 10:22:32] [2025-11-02 10:22:32] [2025-11-02 10:22:32] Herbivores: 1 		 Enemies: 1
+[2025-11-02 10:22:50] [2025-11-02 10:22:50] [2025-11-02 10:22:50] Iteration 11 	EID: 2-s2.0-0027799605
+[2025-11-02 10:22:52] [2025-11-02 10:22:52] [2025-11-02 10:22:52] Herbivores: 0 		 Enemies: 2
+[2025-11-02 10:23:02] [2025-11-02 10:23:02] [2025-11-02 10:23:02] Iteration 12 	EID: 2-s2.0-0028166139
+[2025-11-02 10:23:11] [2025-11-02 10:23:11] [2025-11-02 10:23:11] Herbivores: 1 		 Enemies: 10
+[2025-11-02 10:23:49] [2025-11-02 10:23:49] [2025-11-02 10:23:49] Iteration 13 	EID: 2-s2.0-0028684035
+[2025-11-02 10:23:52] [2025-11-02 10:23:52] [2025-11-02 10:23:52] Herbivores: 0 		 Enemies: 1
+[2025-11-02 10:24:00] [2025-11-02 10:24:00] [2025-11-02 10:24:00] Iteration 14 	EID: 2-s2.0-0028993233
+[2025-11-02 10:24:03] [2025-11-02 10:24:03] [2025-11-02 10:24:03] Herbivores: 1 		 Enemies: 2
+[2025-11-02 10:24:25] [2025-11-02 10:24:25] [2025-11-02 10:24:25] Iteration 15 	EID: 2-s2.0-0028994795
+[2025-11-02 10:24:29] [2025-11-02 10:24:29] [2025-11-02 10:24:29] Herbivores: 0 		 Enemies: 5
+[2025-11-02 10:24:45] [2025-11-02 10:24:45] [2025-11-02 10:24:45] Iteration 16 	EID: 2-s2.0-0030237779
+[2025-11-02 10:24:49] [2025-11-02 10:24:49] [2025-11-02 10:24:49] Herbivores: 1 		 Enemies: 1
+[2025-11-02 10:25:04] [2025-11-02 10:25:04] [2025-11-02 10:25:04] Iteration 17 	EID: 2-s2.0-0030618395
+[2025-11-02 10:25:10] [2025-11-02 10:25:10] [2025-11-02 10:25:10] Herbivores: 2 		 Enemies: 2
+[2025-11-02 10:25:42] [2025-11-02 10:25:42] [2025-11-02 10:25:42] Iteration 18 	EID: 2-s2.0-0030618427
+[2025-11-02 10:25:46] [2025-11-02 10:25:46] [2025-11-02 10:25:46] Herbivores: 1 		 Enemies: 3
+[2025-11-02 10:26:10] [2025-11-02 10:26:10] [2025-11-02 10:26:10] Iteration 19 	EID: 2-s2.0-0031400560
+[2025-11-02 10:26:13] [2025-11-02 10:26:13] [2025-11-02 10:26:13] Herbivores: 0 		 Enemies: 8
+[2025-11-02 10:26:32] [2025-11-02 10:26:32] [2025-11-02 10:26:32] Iteration 20 	EID: 2-s2.0-0031432732
+[2025-11-02 10:26:36] [2025-11-02 10:26:36] [2025-11-02 10:26:36] Herbivores: 1 		 Enemies: 2
+[2025-11-02 10:26:53] [2025-11-02 10:26:53] [2025-11-02 10:26:53] Iteration 21 	EID: 2-s2.0-0031458929
+[2025-11-02 10:27:04] [2025-11-02 10:27:04] [2025-11-02 10:27:04] Herbivores: 15 		 Enemies: 1
+[2025-11-02 10:28:13] [2025-11-02 10:28:13] [2025-11-02 10:28:13] Iteration 22 	EID: 2-s2.0-0032794850
+[2025-11-02 10:28:18] [2025-11-02 10:28:18] [2025-11-02 10:28:18] Herbivores: 2 		 Enemies: 6
+[2025-11-02 10:28:59] [2025-11-02 10:28:59] [2025-11-02 10:28:59] Iteration 23 	EID: 2-s2.0-0032970080
+[2025-11-02 10:29:05] [2025-11-02 10:29:05] [2025-11-02 10:29:05] Herbivores: 4 		 Enemies: 7
+[2025-11-02 10:29:48] [2025-11-02 10:29:48] [2025-11-02 10:29:48] Iteration 24 	EID: 2-s2.0-0033135852
+[2025-11-02 10:29:53] [2025-11-02 10:29:53] [2025-11-02 10:29:53] Herbivores: 1 		 Enemies: 6
+[2025-11-02 10:30:23] [2025-11-02 10:30:23] [2025-11-02 10:30:23] Iteration 25 	EID: 2-s2.0-0034872127
+[2025-11-02 10:30:27] [2025-11-02 10:30:27] [2025-11-02 10:30:27] Herbivores: 1 		 Enemies: 2
+[2025-11-02 10:30:48] [2025-11-02 10:30:48] [2025-11-02 10:30:48] Iteration 26 	EID: 2-s2.0-0034889793
+[2025-11-02 10:30:58] [2025-11-02 10:30:58] [2025-11-02 10:30:58] Herbivores: 1 		 Enemies: 13
+[2025-11-02 10:31:44] [2025-11-02 10:31:44] [2025-11-02 10:31:44] Iteration 27 	EID: 2-s2.0-0034969773
+[2025-11-02 10:31:49] [2025-11-02 10:31:49] [2025-11-02 10:31:49] Herbivores: 2 		 Enemies: 5
+[2025-11-02 10:32:23] [2025-11-02 10:32:23] [2025-11-02 10:32:23] Iteration 28 	EID: 2-s2.0-0036212873
+[2025-11-02 10:32:28] [2025-11-02 10:32:28] [2025-11-02 10:32:28] Herbivores: 8 		 Enemies: 0
+[2025-11-02 10:32:57] [2025-11-02 10:32:57] [2025-11-02 10:32:57] Iteration 29 	EID: 2-s2.0-0036226278
+[2025-11-02 10:33:02] [2025-11-02 10:33:02] [2025-11-02 10:33:02] Herbivores: 3 		 Enemies: 0
+[2025-11-02 10:33:26] [2025-11-02 10:33:26] [2025-11-02 10:33:26] Iteration 30 	EID: 2-s2.0-0037304026
+[2025-11-02 10:33:29] [2025-11-02 10:33:29] [2025-11-02 10:33:29] Herbivores: 2 		 Enemies: 2
+[2025-11-02 10:33:53] [2025-11-02 10:33:53] [2025-11-02 10:33:53] Iteration 31 	EID: 2-s2.0-0037647595
+[2025-11-02 10:33:56] [2025-11-02 10:33:56] [2025-11-02 10:33:56] Herbivores: 0 		 Enemies: 6
+[2025-11-02 10:34:10] [2025-11-02 10:34:10] [2025-11-02 10:34:10] Iteration 32 	EID: 2-s2.0-0037800443
+[2025-11-02 10:34:15] [2025-11-02 10:34:15] [2025-11-02 10:34:15] Herbivores: 5 		 Enemies: 4
+[2025-11-02 10:35:02] [2025-11-02 10:35:02] [2025-11-02 10:35:02] Iteration 33 	EID: 2-s2.0-0037985469
+[2025-11-02 10:35:05] [2025-11-02 10:35:05] [2025-11-02 10:35:05] Herbivores: 2 		 Enemies: 2
+[2025-11-02 10:35:29] [2025-11-02 10:35:29] [2025-11-02 10:35:29] Iteration 34 	EID: 2-s2.0-0040041164
+[2025-11-02 10:35:35] [2025-11-02 10:35:35] [2025-11-02 10:35:35] Herbivores: 1 		 Enemies: 7
+[2025-11-02 10:36:08] [2025-11-02 10:36:08] [2025-11-02 10:36:08] Iteration 35 	EID: 2-s2.0-0040077872
+[2025-11-02 10:36:12] [2025-11-02 10:36:12] [2025-11-02 10:36:12] Herbivores: 1 		 Enemies: 2
+[2025-11-02 10:36:33] [2025-11-02 10:36:33] [2025-11-02 10:36:33] Iteration 36 	EID: 2-s2.0-0043286364
+[2025-11-02 10:36:40] [2025-11-02 10:36:40] [2025-11-02 10:36:40] Herbivores: 0 		 Enemies: 1
+[2025-11-02 10:36:49] [2025-11-02 10:36:49] [2025-11-02 10:36:49] Iteration 37 	EID: 2-s2.0-0141575349
+[2025-11-02 10:36:53] [2025-11-02 10:36:53] [2025-11-02 10:36:53] species list is empty: Trying again...
+[2025-11-02 10:36:55] [2025-11-02 10:36:55] [2025-11-02 10:36:55] species list is empty: Trying again...
+[2025-11-02 10:36:57] [2025-11-02 10:36:57] [2025-11-02 10:36:57] species list is empty.
+[2025-11-02 10:36:57] [2025-11-02 10:36:57] [2025-11-02 10:36:57] Iteration 38 	EID: 2-s2.0-0342326462
+[2025-11-02 10:37:01] [2025-11-02 10:37:01] [2025-11-02 10:37:01] species list is empty: Trying again...
+[2025-11-02 10:37:03] [2025-11-02 10:37:03] [2025-11-02 10:37:03] species list is empty: Trying again...
+[2025-11-02 10:37:06] [2025-11-02 10:37:06] [2025-11-02 10:37:06] species list is empty.
+[2025-11-02 10:37:06] [2025-11-02 10:37:06] [2025-11-02 10:37:06] Iteration 39 	EID: 2-s2.0-0346935993
+[2025-11-02 10:37:10] [2025-11-02 10:37:10] [2025-11-02 10:37:10] Herbivores: 1 		 Enemies: 1
+[2025-11-02 10:37:32] [2025-11-02 10:37:32] [2025-11-02 10:37:32] Iteration 40 	EID: 2-s2.0-11244319902
+[2025-11-02 10:37:35] [2025-11-02 10:37:35] [2025-11-02 10:37:35] Herbivores: 3 		 Enemies: 0
+[2025-11-02 10:37:50] [2025-11-02 10:37:50] [2025-11-02 10:37:50] Iteration 41 	EID: 2-s2.0-12544251548
+[2025-11-02 10:37:54] [2025-11-02 10:37:54] [2025-11-02 10:37:54] Herbivores: 1 		 Enemies: 3
+[2025-11-02 10:38:21] [2025-11-02 10:38:21] [2025-11-02 10:38:21] Iteration 42 	EID: 2-s2.0-13844298328
+[2025-11-02 10:38:26] [2025-11-02 10:38:26] [2025-11-02 10:38:26] Herbivores: 2 		 Enemies: 2
+[2025-11-02 10:38:57] [2025-11-02 10:38:57] [2025-11-02 10:38:57] Iteration 43 	EID: 2-s2.0-1842582919
+[2025-11-02 10:39:03] [2025-11-02 10:39:03] [2025-11-02 10:39:03] Herbivores: 1 		 Enemies: 10
+[2025-11-02 10:39:41] [2025-11-02 10:39:41] [2025-11-02 10:39:41] Iteration 44 	EID: 2-s2.0-19944366420
+[2025-11-02 10:39:53] [2025-11-02 10:39:53] [2025-11-02 10:39:53] Herbivores: 3 		 Enemies: 16
+[2025-11-02 10:41:21] [2025-11-02 10:41:21] [2025-11-02 10:41:21] Iteration 45 	EID: 2-s2.0-20544474790
+[2025-11-02 10:41:25] [2025-11-02 10:41:25] [2025-11-02 10:41:25] Herbivores: 1 		 Enemies: 2
+[2025-11-02 10:41:49] [2025-11-02 10:41:49] [2025-11-02 10:41:49] Iteration 46 	EID: 2-s2.0-23744478307
+[2025-11-02 10:41:54] [2025-11-02 10:41:54] [2025-11-02 10:41:54] Herbivores: 1 		 Enemies: 6
+[2025-11-02 10:42:22] [2025-11-02 10:42:22] [2025-11-02 10:42:22] Iteration 47 	EID: 2-s2.0-26244452013
+[2025-11-02 10:42:29] [2025-11-02 10:42:29] [2025-11-02 10:42:29] Herbivores: 1 		 Enemies: 9
+[2025-11-02 10:43:05] [2025-11-02 10:43:05] [2025-11-02 10:43:05] Iteration 48 	EID: 2-s2.0-33845325813
+[2025-11-02 10:43:10] [2025-11-02 10:43:10] [2025-11-02 10:43:10] Herbivores: 1 		 Enemies: 3
+[2025-11-02 10:43:32] [2025-11-02 10:43:32] [2025-11-02 10:43:32] Iteration 49 	EID: 2-s2.0-33845901783
+[2025-11-02 10:43:40] [2025-11-02 10:43:40] [2025-11-02 10:43:40] Herbivores: 18 		 Enemies: 0
+[2025-11-02 10:44:49] [2025-11-02 10:44:49] [2025-11-02 10:44:49] Iteration 50 	EID: 2-s2.0-33846223214
+[2025-11-02 10:44:53] [2025-11-02 10:44:53] [2025-11-02 10:44:53] Herbivores: 1 		 Enemies: 1
+[2025-11-02 10:45:08] [2025-11-02 10:45:08] [2025-11-02 10:45:08] Iteration 51 	EID: 2-s2.0-38749145887
+[2025-11-02 10:45:12] [2025-11-02 10:45:12] [2025-11-02 10:45:12] Herbivores: 1 		 Enemies: 1
+[2025-11-02 10:45:31] [2025-11-02 10:45:31] [2025-11-02 10:45:31] Iteration 52 	EID: 2-s2.0-39149089336
+[2025-11-02 10:45:38] [2025-11-02 10:45:38] [2025-11-02 10:45:38] Herbivores: 6 		 Enemies: 1
+[2025-11-02 10:46:15] [2025-11-02 10:46:15] [2025-11-02 10:46:15] Iteration 53 	EID: 2-s2.0-41149109636
+[2025-11-02 10:46:18] [2025-11-02 10:46:18] [2025-11-02 10:46:18] Herbivores: 2 		 Enemies: 1
+[2025-11-02 10:46:40] [2025-11-02 10:46:40] [2025-11-02 10:46:40] Iteration 54 	EID: 2-s2.0-4243173915
+[2025-11-02 10:46:45] [2025-11-02 10:46:45] [2025-11-02 10:46:45] Herbivores: 1 		 Enemies: 3
+[2025-11-02 10:47:08] [2025-11-02 10:47:08] [2025-11-02 10:47:08] Iteration 55 	EID: 2-s2.0-42449107774
+[2025-11-02 10:47:12] [2025-11-02 10:47:12] [2025-11-02 10:47:12] Herbivores: 3 		 Enemies: 0
+[2025-11-02 10:47:28] [2025-11-02 10:47:28] [2025-11-02 10:47:28] Iteration 56 	EID: 2-s2.0-60749111424
+[2025-11-02 10:47:31] [2025-11-02 10:47:31] [2025-11-02 10:47:31] Herbivores: 1 		 Enemies: 1
+[2025-11-02 10:47:48] [2025-11-02 10:47:48] [2025-11-02 10:47:48] Iteration 57 	EID: 2-s2.0-62149132967
+[2025-11-02 10:47:54] [2025-11-02 10:47:54] [2025-11-02 10:47:54] Herbivores: 3 		 Enemies: 2
+[2025-11-02 10:48:24] [2025-11-02 10:48:24] [2025-11-02 10:48:24] Iteration 58 	EID: 2-s2.0-62149141341
+[2025-11-02 10:48:30] [2025-11-02 10:48:30] [2025-11-02 10:48:30] Herbivores: 9 		 Enemies: 1
+[2025-11-02 10:49:07] [2025-11-02 10:49:07] [2025-11-02 10:49:07] Iteration 59 	EID: 2-s2.0-67650614649
+[2025-11-02 10:49:10] [2025-11-02 10:49:10] [2025-11-02 10:49:10] Herbivores: 1 		 Enemies: 1
+[2025-11-02 10:49:28] [2025-11-02 10:49:28] [2025-11-02 10:49:28] Iteration 60 	EID: 2-s2.0-70349578796
+[2025-11-02 10:49:32] [2025-11-02 10:49:32] [2025-11-02 10:49:32] Herbivores: 1 		 Enemies: 2
+[2025-11-02 10:49:52] [2025-11-02 10:49:52] [2025-11-02 10:49:52] Iteration 61 	EID: 2-s2.0-73449107754
+[2025-11-02 10:49:56] [2025-11-02 10:49:56] [2025-11-02 10:49:56] Herbivores: 1 		 Enemies: 0
+[2025-11-02 10:50:12] [2025-11-02 10:50:12] [2025-11-02 10:50:12] Iteration 62 	EID: 2-s2.0-74949088185
+[2025-11-02 10:50:22] [2025-11-02 10:50:22] [2025-11-02 10:50:22] Herbivores: 12 		 Enemies: 0
+[2025-11-02 10:51:23] [2025-11-02 10:51:23] [2025-11-02 10:51:23] Iteration 63 	EID: 2-s2.0-77952918346
+[2025-11-02 10:51:27] [2025-11-02 10:51:27] [2025-11-02 10:51:27] Herbivores: 0 		 Enemies: 3
+[2025-11-02 10:51:38] [2025-11-02 10:51:38] [2025-11-02 10:51:38] Iteration 64 	EID: 2-s2.0-77954115799
+[2025-11-02 10:51:42] [2025-11-02 10:51:42] [2025-11-02 10:51:42] Herbivores: 1 		 Enemies: 3
+[2025-11-02 10:52:03] [2025-11-02 10:52:03] [2025-11-02 10:52:03] Iteration 65 	EID: 2-s2.0-77957191872
+[2025-11-02 10:52:13] [2025-11-02 10:52:13] [2025-11-02 10:52:13] Herbivores: 1 		 Enemies: 16
+[2025-11-02 10:53:11] [2025-11-02 10:53:11] [2025-11-02 10:53:11] Iteration 66 	EID: 2-s2.0-78249255202
+[2025-11-02 10:53:19] [2025-11-02 10:53:19] [2025-11-02 10:53:19] Herbivores: 4 		 Enemies: 12
+[2025-11-02 10:54:42] [2025-11-02 10:54:42] [2025-11-02 10:54:42] Iteration 67 	EID: 2-s2.0-79953163648
+[2025-11-02 10:54:47] [2025-11-02 10:54:47] [2025-11-02 10:54:47] Herbivores: 5 		 Enemies: 2
+[2025-11-02 10:55:21] [2025-11-02 10:55:21] [2025-11-02 10:55:21] Iteration 68 	EID: 2-s2.0-80052846716
+[2025-11-02 10:55:25] [2025-11-02 10:55:25] [2025-11-02 10:55:25] Herbivores: 2 		 Enemies: 2
+[2025-11-02 10:55:54] [2025-11-02 10:55:54] [2025-11-02 10:55:54] Iteration 69 	EID: 2-s2.0-80053068062
+[2025-11-02 10:56:24] [2025-11-02 10:56:24] [2025-11-02 10:56:24] Herbivores: 19 		 Enemies: 18
+[2025-11-02 10:58:47] [2025-11-02 10:58:47] [2025-11-02 10:58:47] Iteration 70 	EID: 2-s2.0-84862596084
+[2025-11-02 10:58:51] [2025-11-02 10:58:51] [2025-11-02 10:58:51] Herbivores: 1 		 Enemies: 5
+[2025-11-02 10:59:21] [2025-11-02 10:59:21] [2025-11-02 10:59:21] Iteration 71 	EID: 2-s2.0-84867182242
+[2025-11-02 10:59:25] [2025-11-02 10:59:25] [2025-11-02 10:59:25] Herbivores: 1 		 Enemies: 4
+[2025-11-02 10:59:54] [2025-11-02 10:59:54] [2025-11-02 10:59:54] Iteration 72 	EID: 2-s2.0-84874176682
+[2025-11-02 11:00:00] [2025-11-02 11:00:00] [2025-11-02 11:00:00] Herbivores: 1 		 Enemies: 5
+[2025-11-02 11:00:27] [2025-11-02 11:00:27] [2025-11-02 11:00:27] Iteration 73 	EID: 2-s2.0-84877157394
+[2025-11-02 11:00:31] [2025-11-02 11:00:31] [2025-11-02 11:00:31] Herbivores: 1 		 Enemies: 0
+[2025-11-02 11:00:42] [2025-11-02 11:00:42] [2025-11-02 11:00:42] Iteration 74 	EID: 2-s2.0-84881063573
+[2025-11-02 11:00:53] [2025-11-02 11:00:53] [2025-11-02 11:00:53] Herbivores: 0 		 Enemies: 21
+[2025-11-02 11:01:46] [2025-11-02 11:01:46] [2025-11-02 11:01:46] Iteration 75 	EID: 2-s2.0-84881616302
+[2025-11-02 11:01:52] [2025-11-02 11:01:52] [2025-11-02 11:01:52] Herbivores: 2 		 Enemies: 5
+[2025-11-02 11:02:22] [2025-11-02 11:02:22] [2025-11-02 11:02:22] Iteration 76 	EID: 2-s2.0-84884520363
+[2025-11-02 11:02:30] [2025-11-02 11:02:30] [2025-11-02 11:02:30] Herbivores: 0 		 Enemies: 10
+[2025-11-02 11:02:51] [2025-11-02 11:02:51] [2025-11-02 11:02:51] Iteration 77 	EID: 2-s2.0-84909652967
+[2025-11-02 11:02:57] [2025-11-02 11:02:57] [2025-11-02 11:02:57] Herbivores: 1 		 Enemies: 4
+[2025-11-02 11:03:22] [2025-11-02 11:03:22] [2025-11-02 11:03:22] Iteration 78 	EID: 2-s2.0-84912026588
+[2025-11-02 11:03:27] [2025-11-02 11:03:27] [2025-11-02 11:03:27] Herbivores: 2 		 Enemies: 0
+[2025-11-02 11:03:40] [2025-11-02 11:03:40] [2025-11-02 11:03:40] Iteration 79 	EID: 2-s2.0-84947703534
+[2025-11-02 11:03:42] [2025-11-02 11:03:42] [2025-11-02 11:03:42] Herbivores: 1 		 Enemies: 0
+[2025-11-02 11:03:49] [2025-11-02 11:03:49] [2025-11-02 11:03:49] Iteration 80 	EID: 2-s2.0-84949793786
+[2025-11-02 11:03:52] [2025-11-02 11:03:52] [2025-11-02 11:03:52] species list is empty: Trying again...
+[2025-11-02 11:03:53] [2025-11-02 11:03:53] [2025-11-02 11:03:53] species list is empty: Trying again...
+[2025-11-02 11:03:55] [2025-11-02 11:03:55] [2025-11-02 11:03:55] species list is empty.
+[2025-11-02 11:03:55] [2025-11-02 11:03:55] [2025-11-02 11:03:55] Iteration 81 	EID: 2-s2.0-84957565933
+[2025-11-02 11:03:59] [2025-11-02 11:03:59] [2025-11-02 11:03:59] species list is empty: Trying again...
+[2025-11-02 11:04:02] [2025-11-02 11:04:02] [2025-11-02 11:04:02] species list is empty: Trying again...
+[2025-11-02 11:04:05] [2025-11-02 11:04:05] [2025-11-02 11:04:05] species list is empty.
+[2025-11-02 11:04:05] [2025-11-02 11:04:05] [2025-11-02 11:04:05] Iteration 82 	EID: 2-s2.0-84961163844
+[2025-11-02 11:04:11] [2025-11-02 11:04:11] [2025-11-02 11:04:11] Herbivores: 2 		 Enemies: 6
+[2025-11-02 11:04:54] [2025-11-02 11:04:54] [2025-11-02 11:04:54] Iteration 83 	EID: 2-s2.0-84963612982
+[2025-11-02 11:04:58] [2025-11-02 11:04:58] [2025-11-02 11:04:58] Herbivores: 1 		 Enemies: 5
+[2025-11-02 11:05:20] [2025-11-02 11:05:20] [2025-11-02 11:05:20] Iteration 84 	EID: 2-s2.0-84963699376
+[2025-11-02 11:05:24] [2025-11-02 11:05:24] [2025-11-02 11:05:24] Herbivores: 2 		 Enemies: 2
+[2025-11-02 11:05:51] [2025-11-02 11:05:51] [2025-11-02 11:05:51] Iteration 85 	EID: 2-s2.0-84976038709
+[2025-11-02 11:05:57] [2025-11-02 11:05:57] [2025-11-02 11:05:57] Herbivores: 1 		 Enemies: 4
+[2025-11-02 11:06:23] [2025-11-02 11:06:23] [2025-11-02 11:06:23] Iteration 86 	EID: 2-s2.0-84978132483
+[2025-11-02 11:06:28] [2025-11-02 11:06:28] [2025-11-02 11:06:28] species list is empty: Trying again...
+[2025-11-02 11:06:31] [2025-11-02 11:06:31] [2025-11-02 11:06:31] Herbivores: 0 		 Enemies: 3
+[2025-11-02 11:06:41] [2025-11-02 11:06:41] [2025-11-02 11:06:41] Iteration 87 	EID: 2-s2.0-84979976527
+[2025-11-02 11:06:44] [2025-11-02 11:06:44] [2025-11-02 11:06:44] Herbivores: 1 		 Enemies: 0
+[2025-11-02 11:06:51] [2025-11-02 11:06:51] [2025-11-02 11:06:51] Iteration 88 	EID: 2-s2.0-84988695777
+[2025-11-02 11:06:58] [2025-11-02 11:06:58] [2025-11-02 11:06:58] Herbivores: 6 		 Enemies: 7
+[2025-11-02 11:07:46] [2025-11-02 11:07:46] [2025-11-02 11:07:46] Iteration 89 	EID: 2-s2.0-84992358973
+[2025-11-02 11:07:56] [2025-11-02 11:07:56] [2025-11-02 11:07:56] Herbivores: 0 		 Enemies: 10
+[2025-11-02 11:08:25] [2025-11-02 11:08:25] [2025-11-02 11:08:25] Iteration 90 	EID: 2-s2.0-85017461126
+[2025-11-02 11:08:28] [2025-11-02 11:08:28] [2025-11-02 11:08:28] Herbivores: 1 		 Enemies: 0
+[2025-11-02 11:08:36] [2025-11-02 11:08:36] [2025-11-02 11:08:36] Iteration 91 	EID: 2-s2.0-85019767155
+[2025-11-02 11:08:46] [2025-11-02 11:08:46] [2025-11-02 11:08:46] Herbivores: 1 		 Enemies: 11
+[2025-11-02 11:09:39] [2025-11-02 11:09:39] [2025-11-02 11:09:39] Iteration 92 	EID: 2-s2.0-85030858317
+[2025-11-02 11:09:43] [2025-11-02 11:09:43] [2025-11-02 11:09:43] Herbivores: 1 		 Enemies: 4
+[2025-11-02 11:10:05] [2025-11-02 11:10:05] [2025-11-02 11:10:05] Iteration 93 	EID: 2-s2.0-85043460278
+[2025-11-02 11:10:11] [2025-11-02 11:10:11] [2025-11-02 11:10:11] Herbivores: 3 		 Enemies: 4
+[2025-11-02 11:10:44] [2025-11-02 11:10:44] [2025-11-02 11:10:44] Iteration 94 	EID: 2-s2.0-85045837897
+[2025-11-02 11:10:49] [2025-11-02 11:10:49] [2025-11-02 11:10:49] Herbivores: 0 		 Enemies: 8
+[2025-11-02 11:11:04] [2025-11-02 11:11:04] [2025-11-02 11:11:04] Iteration 95 	EID: 2-s2.0-85052445922
+[2025-11-02 11:11:07] [2025-11-02 11:11:07] [2025-11-02 11:11:07] Herbivores: 4 		 Enemies: 1
+[2025-11-02 11:11:31] [2025-11-02 11:11:31] [2025-11-02 11:11:31] Iteration 96 	EID: 2-s2.0-85055082520
+[2025-11-02 11:11:39] [2025-11-02 11:11:39] [2025-11-02 11:11:39] Herbivores: 1 		 Enemies: 9
+[2025-11-02 11:12:16] [2025-11-02 11:12:16] [2025-11-02 11:12:16] Iteration 97 	EID: 2-s2.0-85065706587
+[2025-11-02 11:12:21] [2025-11-02 11:12:21] [2025-11-02 11:12:21] Herbivores: 0 		 Enemies: 3
+[2025-11-02 11:12:37] [2025-11-02 11:12:37] [2025-11-02 11:12:37] Iteration 98 	EID: 2-s2.0-85066828990
+[2025-11-02 11:12:41] [2025-11-02 11:12:41] [2025-11-02 11:12:41] Herbivores: 1 		 Enemies: 3
+[2025-11-02 11:13:04] [2025-11-02 11:13:04] [2025-11-02 11:13:04] Iteration 99 	EID: 2-s2.0-85152646786
+[2025-11-02 11:13:09] [2025-11-02 11:13:09] [2025-11-02 11:13:09] Herbivores: 1 		 Enemies: 1
+[2025-11-02 11:13:25] [2025-11-02 11:13:25] [2025-11-02 11:13:25] Finished in 54.80 minutes

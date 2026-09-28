@@ -1,0 +1,154 @@
+type,EPPOCode,Pref_name,References
+Doubtful host,CERTRO,Ceratitis rosa,"* De Meyer M, Mwatawala M, Copeland RS, Virgilio M (2016) Description of new Ceratitis species (Diptera: Tephritidae) from Africa, or how morphological and DNA data are complementary in discovering unknown species and matching sexes. European Journal of Taxonomy 233, 1-23
+-------Past records for C. rosa sensu lato, now attributed to C. quilicii
+"
+Experimental,RADOSI,Radopholus similis,"* O'Bannon JH (1977) Worldwide dissemination of Radopholus similis and its importance in crop production. Journal of nematology.9(1), 16-25"
+Host,ALECWO,Aleurocanthus woglumi,"* Dubey AK, Ko CC (2012) Sexual dimorphism among species of Aleurocanthus Quaintance & Baker (Hemiptera: Aleyrodidae) in Taiwan, with one new species and an identification key. Zootaxa 3177, 1–23.
+
+* Shaw JG (1950) Hosts of the citrus blackfly in Mexico. United States Bureau of Entomology and Plant Quarantine. E-793, 3 pp."
+Host,ANSTBA,Anastrepha bahiensis,"* Norrbom AL, Kim KC (1988) A list of the reported host plants of the species Anastrepha (Diptera: Tephritidae). APHIS 81 – 52. United States Department of Agriculture. Pp 130"
+Host,ANSTFR,Anastrepha fraterculus,"* Castañeda MR, Osorio FA, Canal NA, Galeano PE (2010) [Species, distribution and host of the genus Anastrepha Schiner in the Department of Tolima, Colombia]. Agronomía Colombiana 28, 265–272 (in Spanish).
+
+* Hernández Ortiz V, Morales Valles P (2004) Distribución geográfica y plantas hospederas de Anastrepha fraterculus (Diptera: Tephritidae) en Venezuela Folia Entomológica Mexicana 43(2), 181-189.
+
+* Malavasi A, Morgante JS, Zucchi RA (1980) Biologia de “moscas-das-frutas” (Diptera, Tephritidae). I: lista de hospedeiros e ocorrência. Revista Brasileira de Biologia 40, 9–16.
+
+* Rodriguez PA, Arévalo E (2015) Las moscas de la fruta de importancia económica en Colombia. Instituto Colombiano Agropecuario. Boletín Técnico, Produmedios, Bogotá, 1–57.
+
+* Sarmiento EC, Aguirre H, Martínez J (2012) Anastrepha (Diptera: Tephritidae) y sus asociados: dinámica de emergencia de sus parasitoides en frutos de tres especies de plantas. Boletín Museo de Entomología de la Universidad del Valle 13, 25–32."
+Host,ANSTLU,Anastrepha ludens,"* Eskafi FM, Cunningham RT (1987) Host plants of fruit flies (Diptera: Tephritidae) of economic importance in Guatemala. Florida Entomologist 70, 116-123."
+Host,ANTEIN,Antestiopsis intricata (as Coffea),
+Host,ANTEOR,Antestiopsis thunbergii (as Coffea),
+Host,ANHOLE,Anthores leuconotus (as Coffea),
+Host,TOXOCI,Aphis citricidus,"* Singh G, Singh R (2017) Food plant records of Aphidini (Aphidinae: Aphididae: Hemiptera) in India. Journal of Entomology and Zoology Studies 5(2), 1280-1302."
+Host,APOGCR,Apogonia cribricollis (as Coffea),
+Host,DACUCR,Bactrocera curvipennis,"* Leblanc L (2022) The dacine fruit flies (Diptera: Tephritidae: Dacini) of Oceania. Insecta Mundi 0948, 1-167. https://journals.flvc.org/mundi/article/view/131965/135549"
+Host,DACUDO,Bactrocera dorsalis,"* Allwood AJ, Chinajariyawong A, Kritsaneepaiboon S, Drew RAI, Hamacek EL, Hancock DL, Hengsawad C, Jinapin JC, Jirasurat M, Krong CK, Leong CTS, Vijaysegaran S (1999) Host plant records for fruit flies (Diptera: Tephritidae) in Southeast Asia. The Raffles Bulletin of Zoology 47(7), 1-92."
+Host,DACULA,Bactrocera latifrons,"* McQuate GT, Liquido NJ (2016) Provisional list of suitable host plants of Bactrocera (Bactrocera) latifrons (Hendel) (Diptera: Tephritidae), Version 1.0. Available online at USDA Compendium of Fruit Fly Host Information (CoFFHI). 
+
+* McQuate GT, Liquido NJ (2013) Annotated World Bibliography of Host Fruits of Bactrocera latifrons (Hendel) (Diptera: Tephritidae). Insecta Mundi. Paper 792. http://digitalcommons.unl.edu/insectamundi/792
+------- Confirmed host, but low infestation (only 1 adult in 100O fruit)."
+Host,BCTRPA,Bactrocera passiflorae,"* Leblanc L (2022) The dacine fruit flies (Diptera: Tephritidae: Dacini) of Oceania. Insecta Mundi 0948, 1-167. https://journals.flvc.org/mundi/article/view/131965/135549."
+Host,BIXASI,Bixadus sierricola (as Coffea),
+Host,BRVPAZ,Brevipalpus azores,"* Aguilar-Piedra H, Solano-Guevara AM, Tassi AD, Ochoa R (2026) A survey of Brevipalpus mite species and their predators in Costa Rican citrus and coffee plantations. Experimental and Applied Acarology. 96(3), 28. https://doi.org/10.1007/s10493-025-01090-y"
+Host,BRVPAU,Brevipalpus californicus,"* Aguilar-Piedra H, Solano-Guevara AM, Tassi AD, Ochoa R (2026) A survey of Brevipalpus mite species and their predators in Costa Rican citrus and coffee plantations. Experimental and Applied Acarology. 96(3), 28. https://doi.org/10.1007/s10493-025-01090-y"
+Host,BRVPFE,Brevipalpus feresi,"* Nascimento RS, Souza KS, Melo EA, Tassi AD, Castro EB, Navia D, de Mendonca RS, Ochoa R, Oliveira AR (2023) Flat mites (Tenuipalpidae) from Bahia state, Northeastern Brazil-a checklist including new records and an illustrated key to species. Acarologia 63(3), 619-636."
+Host,BRVPPA,Brevipalpus papayensis,
+Host,BRVPYO,Brevipalpus yothersi,"* Aguilar-Piedra H, Solano-Guevara AM, Tassi AD, Ochoa R (2026) A survey of Brevipalpus mite species and their predators in Costa Rican citrus and coffee plantations. Experimental and Applied Acarology. 96(3), 28. https://doi.org/10.1007/s10493-025-01090-y"
+Host,BRVPYO,Brevipalpus yothersi (as Coffea),"* Beard JJ, Ochoa R, Braswell WE, Bauchan GR (2015) Brevipalpus phoenicis (Geijskes) species complex (Acari: Tenuipalpidae) – a closer look. Zootaxa 3944(1), 67 pp. DOI: 10.11646/zootaxa.3944.1.1"
+Host,CEPOHY,Cephonodes hylas (as Coffea),
+Host,CEPOHY,Cephonodes hylas (as Rubiaceae),
+Host,CERTCA,Ceratitis capitata,"* De Meyer M., Copeland RS, Lux SA, Mansell M, Quilici S, Wharton R, White IM, Zenz NJ (2002) Annotated check list of host plants for Afrotropical fruit flies (Diptera: Tephritidae) of the genus Ceratitis. Zoologische Documentatie Koninklijk Museum voor Midden Afrika 27, 1-91."
+Host,CERTFA,Ceratitis fasciventris,"* INTERNET
+True Fruit Flies (Diptera: Tephritidae) of the Afrotropical Region. Ceratitis fasciventris. Specimens. http://projects.bebif.be/fruitfly/taxoninfo.html?id=63
+------- Confirmed host."
+Host,CERTQI,Ceratitis quilicii,"* De Meyer M, Mwatawala M, Copeland RS, Virgilio M (2016) Description of new Ceratitis species (Diptera: Tephritidae) from Africa, or how morphological and DNA data are complementary in discovering unknown species and matching sexes. European Journal of Taxonomy 233, 1-23. 
+------- Confirmed host.
+
+* Tsatsu SK, Sutton GF, Serfontein L, Addison P, De Meyer M, Virgilio M, Manrakhan A (2024) Distribution and host ranges of Ceratitis rosa and Ceratitis quilicii (Diptera: Tephritidae) in South Africa. Bulletin of Entomological Research 1–11. https://doi.org/10.1017/S0007485324000294"
+Host,CRTZBR,Ceratothripoides brunneus,"* Ebratt-Ravelo EE, Castro-Avila AP, Vaca-Uribe JL, Corredor-Pardo D, Hance T, Goldarazena A (2019) Composition and structure of Thripidae populations in crops of three geographical regions in Colombia, Journal of Insect Science, 19(1), 27. https://doi.org/10.1093/jisesa/iez009
+------- found on coffee plants in Colombia"
+Host,CERPDE,Ceroplastes destructor (as Coffea),
+Host,COCCVI,Coccus viridis (as Coffea),
+Host,DPREAB,Diaprepes abbreviatus (as Coffea),
+Host,DTHOCO,Diarthrothrips coffeae,
+Host,DTHOCO,Diarthrothrips coffeae (as Coffea),
+Host,DICHCR,Dichocrocis crocodora (as Coffea),
+Host,EPIMMA,Epicampoptera marantica,
+Host,EPIMMA,Epicampoptera marantica (as Coffea),
+Host,EUTEBA,Eutetranychus banksi,* Migeon A & Dorkeld F (2024) Spider Mites Web: a comprehensive database for the Tetranychidae. Available from https://www1.montpellier.inrae.fr/CBGP/spmweb (Accessed 2024/04/23)
+Host,GASDBR,Gascardia brevicauda (as Coffea),
+Host,HABRGH,Habrochila ghesquierei (as Coffea),
+Host,HABRPL,Habrochila placida (as Coffea),
+Host,HELIAR,Helicoverpa armigera,"* Cunningham JP, Zalucki MP (2014) Understanding heliothine (Lepidoptera: Heliothinae) pests: what is a host plant? Journal of Economic Entomology 107, 881–896."
+Host,HOMOCO,Homona coffearia (as Coffea),"* Das T, Rahman A (2023) Lepidopteran pests of tea: Biology, geographical distribution, and management."" Phytoparasitica 51(3), 461-489."
+Host,STEHHA,Hypothenemus hampei,"* Dufour BP, Diman C, de San Mateo A, Mouttet R (2022) Le scolyte des fruits du caféier, Hypothenemus hampei (Ferr.) détecté en Guadeloupe. Cahiers Agricultures 31, 10. https://doi.org/10.1051/cagri/2022008
+
+* Marchioro M, Vallotto D, Ruzzier E, Besana L, Rossini M, Ortis G, Faccoli M, Martinez-Sañudo I (2023) Scolytinae former Cryphalini host plant dataset. Avalaible in Zenodo. https://doi.org/10.5281/zenodo.7925274 
+
+* Vega FE, Davis AP, Jaramillo J (2012) From forest to plantation? Obscure articles reveal alternative host plants for the coffee berry borer, Hypothenemus hampei (Coleoptera: Curculionidae). Biological Journal of the Linnean Society 107(1), 86-94."
+Host,LAGRVL,Lagria villosa,"* Azeredo EH, Cassino PCR (2004) Bioecologia e efeitos tróficos sobre Lagria villosa (Fabricius, 1783) (Coleoptera: Lagriidae) em áreas de batata, Solanum tuberosum L. Agronomia 38, 52–56.
+
+* Cordo HA, Logarzo G, Braun K, Di Iorio O (2004) Catálogo de insectos fitófagos de la Argentina y sus plantas asociadas. Sociedad Entomológica Argentina Ediciones, Buenos Aires, 734"
+Host,LYGUCO,Lamprocapsidea coffeae (as Coffea),
+Host,LEPLAU,Leptoglossus australis (as Coffea),
+Host,LEUCCA,Leucoptera caffeina (as Coffea),
+Host,LEUCCM,Leucoptera coma (as Coffea),
+Host,LEUCME,Leucoptera meyricki (as Coffea),
+Host,LIRITR,Liriomyza trifolii,"* Silva IW, Ribeiro L H, Gorri JER, Alves FM, Fernandes FL (2015) First Report on the Leafminer Fly Lyriomiza Trifolii (Diptera: Agromizydae) Attacking Coffee Plantations. Coffee Science, Lavras 10(2), 262-265.
+------- first host record, in several states of Brazil"
+Host,ACHAFU,Lissachatina fulica (as Coffea),
+Host,PHENHI,Maconellicoccus hirsutus,"* Arias de López M, Kondo T, Molina-Moreira N (2025) A new threat to Ecuadorian flora: first report of the pink hibiscus mealybug, Maconellicoccus hirsutus (Green, 1908)(Hemiptera: Pseudococcidae) and its potential biological control agent. Revista Brasileira de Entomologia 69, e20250007. https://doi.org/10.1590/1806-9665-RBENT-2025-0007
+
+* Chang LWH, Miller CE (1996) Pathway Risk Assessment: Pink mealybug from the Caribbean. Animal and Plant Health Inspection Service, U.S. Dept. of Agriculture 61 pp."
+Host,MEGTUS,Megalurothrips usitatus,"* Reyes CP (1994) Thysanoptera (Hexapoda) of the Philippine Islands. Raffles Bulletin of Zoology 42(2), 107-507."
+Host,MELGCO,Meloidogyne coffeicola (as Coffea),
+Host,MELGEX,Meloidogyne exigua (as Coffea),
+Host,CORTSA,Necator salmonicolor (as Coffea),
+Host,CERTCY,Neoceratitis cyanescens,"* Hassani IM, Delatte H, Ravaomanarivo LH, Nouhou S, Duyck PF (2022) Niche partitioning via host plants and altitude among fruit flies following the invasion of Bactrocera dorsalis. Agricultural and Forest Entomology. https://doi.org/10.1111/afe.12522
+"
+Host,OLIGCO,Oligonychus coffeae (as Coffea),
+Host,OLIGPU,Oligonychus punicae,"* Migeon A, Dorkeld F (2024) Spider Mites Web: a comprehensive database for the Tetranychidae.  https://www1.montpellier.inrae.fr/CBGP/spmweb"
+Host,OPOGSC,Opogona sacchari,"* Nelson S, Smith VE, Wright M (2005) Banana moth as a pest of coffee. Cooperative Extension Service. College of Tropcal agriculture and Human Ressources. University of Hawai'i at Manoa. Insect pests IP-21., 5pp."
+Host,HEMELE,Orgyia leucostigma,"* Robinson GS, Ackery PR, Kitching IJ, Beccaloni GW & Hernández LM (2010) HOST - A database of the world's Lepidopteran hostplants. Natural History Museum, London. https://www.nhm.ac.uk (Accessed on 7 December 2020 and 21 March 2021), Waller et al. (2007)"
+Host,PACNAZ,Pachnaeus azurescens (as Coffea),
+Host,PRABMY,Parabemisia myricae (as Coffea),
+Host,SAISNI,Parasaissetia nigra,
+Host,PARSVI,Parasa vivida (as Coffea),
+Host,LEUCCO,Perileucoptera coffeella (as Coffea),
+Host,PLANKE,Planococcus kenyae (as Coffea),
+Host,PLANLI,Planococcus lilacinus,
+Host,PLSOCO,Plesiommata corniculata,"* Defea, B, Paradell, SL, de Remes Lenicov, AM (2017) Genus Plesiommata Provancher (Hemiptera: Cicadellidae) in Argentina: first detailed description of the female genitalia and comparisons with its neotropical congeners. Austral Entomology 56, 64-69."
+Host,PRATCO,Pratylenchus coffeae (as Coffea),
+Host,PSECCO,Pseudococcus comstocki (as Coffea),
+Host,RICASC,Ricania speculum (as Coffea),
+Host,SCITCI,Scirtothrips citri,"* Infante F, Ortíz JA, Solis-Montero L, Mound LA, Vega FE (2017) Thrips (Thysanoptera) of coffee flowers. Annals of the Entomological Society of America 110(3), 329-336."
+Host,PRODER,Spodoptera eridania,"* Montezano DG, Specht A, Sosa-Gomez DR, Roque-Specht VF & de Barros NM (2014) Immature stages of Spodoptera eridania (Lepidoptera: Noctuidae): developmental parameters and host plants. Journal of Insect Science 14, 238. https://doi.org/10.1093/jisesa/ieu149"
+Host,LAPHFR,Spodoptera frugiperda,"* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300."
+Host,ARGPLE,Thaumatotibia leucotreta,"* Brown JW, Copeland RS, Aarvik L, Miller SE, Rosati ME, Luke Q (2014) Host records for fruit-feeding afrotropical Tortricidae (Lepidoptera). African Entomology, 22(2), 343–376.
+------- confirmed host."
+Host,THRIHA,Thrips hawaiiensis (as Coffea),
+Host,TIRAPL,Tiracola plagiata,
+Host,XYLBCR,Xylosandrus crassiusculus,"* Horn S, Horn GN (2006) New host record of the Asian Ambrosia beetle, Xylosandrus crassiusculus (Motschulsky) (Coleoptera: Curculionidae). Journal of Entomological Science 10(1), 90-91."
+Host,XYLSMO,Xylosandrus morigerus (as Coffea),
+Host,XYLOQP,Xylotrechus quadripes (as Coffea),"* Sreedevi K, Manisha Sharma, Kulanthaivel S (2016) Occurrence of longhorned beetles (Coleoptera: Cerambycidae) in the coffee ecosystem of Kodagu region, Karnataka, India.Current Biotica, 9(4) 388-391. http://www.currentbiotica.com/CB/Journals9-Issue-IV/CB-9-4-Short-notes-5.pdf"
+Host,ZEUZCO,Zeuzera coffeae (as Coffea),
+Major host,ANTEIN,Antestiopsis intricata,
+Major host,ANTEOR,Antestiopsis thunbergii,
+Major host,ANHOLE,Anthores leuconotus,
+Major host,ASTLCF,Asterolecanium coffeae,
+Major host,DACUTR,Bactrocera tryoni,"* Hancock D, Hamacek EL, Lloyd AC, Elson-Harris MM (2000) The distribution and host plants of fruit flies (Diptera: Tephritidae) in Australia. Queensland Department of Primary Industries, 75 pp."
+Major host,BIXASI,Bixadus sierricola,
+Major host,BRABSI,Bradybaena similaris,
+Major host,CEPOHY,Cephonodes hylas,
+Major host,CERPDE,Ceroplastes destructor,
+Major host,COCCVI,Coccus viridis,
+Major host,GONAAC,Gonocephalum acutangulum,
+Major host,GONADE,Gonocephalum depressum,
+Major host,GONASI,Gonocephalum simplex,
+Major host,ICERAE,Icerya aegyptiaca,
+Major host,LEUCCA,Leucoptera caffeina,
+Major host,LEUCME,Leucoptera meyricki,
+Major host,MELGMY,Meloidogyne enterolobii,"* Villain L, Sarah JL, Hernandez A, Charmetant P, Bertrand B, Anthony F, Topart P, Lashermes P, Anzueto F, Gomes CRMD (2006) Biodiversity of root knot nematodes, Meloidogyne spp., on coffee in Central America.  In : 21st International Conference on Coffee Science, Montpellier (France), 11th - 15th September 2006. (Abstract) Available online at https://agritrop.cirad.fr/540129/                   
+------- confirmed hos
+
+* Muniz MS, Campo VP, Moita AW, Goncalves W, Almeira MRA, De Souza FR, Carneiro RMDG (2009) Reaction of coffee genotypes to different populations of Meloidogyne spp.: detection of a naturally virulent M. exigua population. Tropical Plant Pathology 34, 370-378. DOI: 10.1590/S1982-56762009000600002
+------- greenhouse study
+
+* Villain L, Sarah JL, Hernández A, Bertrand B, Anthony F, Lashermes P, Charmetant P, Anzueto F, Figueroa P, Carneiro RMDG (2013) Diversity of root-knot nematodes associated with coffee orchards in Central America. Nematropica 43(2), 194-206.
+------- confirmed host."
+Major host,MELGEX,Meloidogyne exigua,
+Major host,OLIGCO,Oligonychus coffeae,
+Major host,LEUCCO,Perileucoptera coffeella,
+Major host,PSECNJ,Planococcoides njalensis,
+Major host,PLANKE,Planococcus kenyae,
+Major host,SOPCVE,Sophronica ventralis,
+Major host,XYLSCO,Xylosandrus compactus,"* Burbano EG, Wright MG, Gillette NE, Mori S, Dudley N, Jones T, Kaufmann M (2012) Efficacy of traps, lures and repellents for Xylosandrus compactus (Coleoptera: Curculionidae) and other Ambrosia beetles on Coffea arabica plantations and Acacia koa nurseries in Hawaii. Environmental Entomology 41(1), 133-140.
+
+* Dole SA, Cognato AI (2010) Phylogenetic revision of Xylosandrus Reitter (Coleoptera: Curculionidae: Scolytinae: Xyleborina). Proceedings of the California Academy of Sciences 61(7), 451-545.
+
+* Equihua-Martínez A, Robledo-Martínez JD, Barrera JF (2023) The presence of Xylosandrus compactus (Coleoptera: Curculionidae: Scolytinae) in the Sierra Negra of Puebla, Veracruz and Oaxaca, Mexico. Florida Entomologist 106(3), 192-194.
+
+* Túler A, Valbon W, Rodrigues H, Noia L, Santos L, Fogaça I, Rondelli V, Verdin Filho A (2019). Black twig borer, Xylosandrus compactus (Eichhoff), a potential threat to coffee production. Revista de Ciencias Agrícolas, 36(E), 5-16. https://revistas.udenar.edu.co/index.php/rfacia/article/view/4877/5774
+------ Confirmed host."
+Major host,XYLSMO,Xylosandrus morigerus,

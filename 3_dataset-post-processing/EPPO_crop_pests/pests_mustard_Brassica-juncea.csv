@@ -1,0 +1,66 @@
+type,EPPOCode,Pref_name,References
+Host,ADORSI,Adoretus sinicus (as Brassica),
+Host,AGROSE,Agrotis segetum (as Brassicaceae),
+Host,ALEUPR,Aleyrodes proletella (as Brassica),
+Host,ATALCO,Athalia rosae (as Brassicaceae),* CABI (2019) Datasheet on Athalia rosae (cabbage leaf sawfly). https://doi.org/10.1079/cabicompendium.7651
+Host,BEMITA,Bemisia tabaci (as Brassicaceae),
+Host,CEUTPL,Ceutorhynchus assimilis (as Brassicaceae),
+Host,CEUTSL,Ceutorhynchus sulcicollis (as Brassicaceae),
+Host,CONTNA,Contarinia nasturtii (as Brassicaceae),
+Host,HYLEFL,Delia floralis (as Brassica),
+Host,HYLEFL,Delia floralis (as Brassicaceae),
+Host,HYLEFG,Delia florilega (as Brassicaceae),
+Host,HYLEPL,Delia platura (as Brassicaceae),
+Host,DYSDCI,Dysdercus cingulatus,"* Mohommad A, Narendra K (2002) Incidence of red cotton bug, Dysdercus cingulatus Walker (Heteroptera) in glass house at 10500 feet altitude near Badrinath temple in Central Himalayas. Journal of Experimental Zoology, India.5(1), 87-88."
+Host,EURDOL,Eurydema oleraceum (as Brassicaceae),
+Host,EURDOR,Eurydema ornata (as Brassicaceae),
+Host,FRANCS,Frankliniella australis (as Brassicaceae),
+Host,HALYHA,Halyomorpha halys,"* Bergmann E, Bernhard KM, Bernon G, Bickerton M, Gill S, Gonzales C, Hamilton GC, Hedstrom C, Kamminga K, Koplinka-Loehr C, Krawczyk G, Kuhar TP, Kunkel B, Lee J, Leskey TC, Martinson H, Nielsen AL, Raupp M, Shearer P, Shrewsbury P, Walgenbach J, Whalen J, Wiman N (online) Host Plants of the Brown Marmorated Stink Bug in the U.S. https://www.stopbmsb.org/where-is-bmsb/host-plants"
+Host,HELPRU,Helophorus rufipes (as Brassicaceae),
+Host,HETDSC,Heterodera schachtii (as Brassica),
+Host,LIRIBO,Liriomyza bryoniae,"*Tran DH (2009) Agromyzid leaf miners and their parasitoids on vegetables in Central Vietnam. Journal of the International Society for Southeast Asian Agricultural Sciences 15(2), 21-33.
+------- confirmed host. Reared from infested leaves collected in commercial vegetable fields"
+Host,LIRIHU,Liriomyza huidobrensis,"* Andersen A, An TTT, Nordhus E (2008) Distribution and importance of polyphagous Liriomyza species (Diptera: Agromyzidae) in vegetables in Vietnam. Norwegian Journal of Entomology 55, 149-164.
+
+* Bahlai CA, Goodfellow SA, Stanley-Horn DE, Hallett RH (2006) Endoparasitoid assemblage of the pea leafminer, Liriomyza huidobrensis (Diptera: Agromyzidae), in southern Ontario. Environmental Entomology 35, 351-357.
+
+* Rauf A, Shepard BM, Johnson MW (2000) Leafminers in vegetables, ornamental plants and weeds in Indonesia: surveys of host crops, species composition and parasitoids. International Journal of Pest Management 46, 257-266.
+------- Confirmed host. Reared from infested leaves collected in the field.
+
+* Scheffer SJ, Lewis ML, Joshi RC (2006) DNA barcoding applied to invasive leafminers (Diptera: Agromyzidae) in the Philippines. Annals of the Entomological Society of America 99, 204-210.
+
+* Scheffer SJ, Wiejesekara A, Visser D, Hallett RH (2001) Polymerase chain reaction-restriction fragment-length polymorphism method to distinguish Liriomyza huidobrensis from L. langei (Diptera: Agromyzidae) applied to three recent leafminer invasions. Journal of Economic Entomology 94, 1177-1182.
+
+* Silva HOE (1993) Identification of the parasitoid complex on vegetable leaf miner Liriomyza huidobrensis (Blanchard) (Diptera: Agromyzidae) and some aspects of the biology of Euparacrias phytomyzae (Brethes) (Hymenoptera: Eulophidae). Agris.fao.org
+
+* Wei J, Zou L, Kuang R, He L (2000) Influence of leaf tissue structure on host feeding selection by pea leafminer Liriomyza huidobrensis (Diptera: Agromyzidae). Zoological Studies 39, 295-300."
+Host,LIRISA,Liriomyza sativae,"* Andersen A, Tran TTA, Nordhus E (2008) Distribution and importance of polyphagous Liriomyza species (Diptera, Agromyzidae) in vegetables in Vietnam. Norwegian Journal of Entomology 55, 149-164.
+------- confirmed host. Reared from infested leaves collected in the field
+
+* Mazumdar S, Bhuiya BA (2017) True flies: biology and plant hosts of vegetable leafminer Liriomyza sativae Blanchard (Diptera: Agromyzidae) from Bangladesh. Bugs R All no 159. In: Zoo’s Print 32(8), 12-21.
+
+* Tran DH (2009) Agromyzid leaf miners and their parasitoids on vegetables in Central Vietnam. Journal of the International Society for Southeast Asian Agricultural Sciences 15(2), 21-33.
+------- confirmed host. Reared from infested leaves collected in commercial vegetable fields"
+Host,LIRITR,Liriomyza trifolii,"* Andersen A, Tran TTA, Nordhus E (2008) Distribution and importance of polyphagous Liriomyza species (Diptera, Agromyzidae) in vegetables in Vietnam. Norwegian Journal of Entomology 55, 149-164.
+------- confirmed host. Reared from infested leaves collected in the field"
+Host,LIRITR,Liriomyza trifolii (as Brassica),
+Host,BARABR,Mamestra brassicae (as Brassica),
+Host,MELGCH,Meloidogyne chitwoodi,"* O’Bannon JH, Santo GS, Nyczepir AP (1982) Host range of the Columbia root-knot nematode. Plant Disease 66, 1045-1048."
+Host,MELGGC,Meloidogyne graminicola,"* Rusinque L, Maleita C, Abrantes I, Palomares-Rius JE, Inácio ML (2021) Meloidogyne graminicola - A threat to rice production: review update on distribution, biology, identification, and management. Biology 10, 1163. https://doi.org/10.3390/biology10111163"
+Host,NACOBA,Nacobbus aberrans sensu lato,"* Manzanilla-López RH, Costilla MA, Doucet M, Inserra RN, Lehman PS, Cid del Prado-Vera I, Souza RM, Evans K (2002) The genus Nacobbus Thorne & Allen, 1944 (Nematoda: Pratylenchidae): systematics, distribution, biology and management. Nematropica 32, 149-226."
+Host,PALEMA,Nephrotoma appendiculata (as Brassicaceae),
+Host,NYSIHU,Nysius huttoni (as Brassica),
+Host,OMOPLE,Omophlus lepturoides (as Brassica),
+Host,OTALLA,Otala lactea (as Brassicaceae),
+Host,PHAEBR,Phaedon brassicae,
+Host,PHYEAT,Phyllotreta atra (as Brassicaceae),
+Host,PHYECR,Phyllotreta cruciferae (as Brassicaceae),
+Host,PHYYRU,Phytomyza rufipes (as Brassicaceae),
+Host,PIERBR,Pieris brassicae (as Brassica),
+Host,PIERBR,Pieris brassicae (as Brassicaceae),
+Host,PSYICH,Psylliodes chrysocephala (as Brassicaceae),
+Host,PRODLI,Spodoptera litura,"* Ahmad M, Ghaffar A, Rafiq M (2013) Host plants of leaf worm, Spodoptera litura (Fabricius)(Lepidoptera: Noctuidae) in Pakistan. Asian Journal of Agriculture and Biology 1(1), 23-28."
+Host,SPODMA,Spodoptera mauritia (as Brassicaceae),
+Host,TATOAU,Tatochila autodice (as Brassicaceae),
+Host,TYLOBR,Tyloderma brassicae (as Brassicaceae),
+Major host,BAGRHI,Bagrada hilaris (as Brassica),

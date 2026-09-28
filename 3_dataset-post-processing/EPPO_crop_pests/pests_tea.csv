@@ -1,0 +1,64 @@
+type,EPPOCode,Pref_name,References
+Doubtful host,ARGPLE,Thaumatotibia leucotreta,"* EPPO PRA for Thaumatotibia leucotreta. EPPO, Paris. Available at https://gd.eppo.int/taxon/ARGPLE/documents
+------- listed by Bradley et al. (1979) as a host, but not supported by evidence Considered doubtful.
+
+* Bradley JD, Tremewan WG, Smith A (1979) British Tortricoid Moths. Tortricidae: Olethreutinae. London, UK.
+"
+Host,CAPURE,Adoxophyes orana,
+Host,ALECCA,Aleurocanthus camelliae,"* Andrianto E, Kasai A (2022) Wolbachia in black spiny whiteflies and their new parasitoid wasp in Japan: evidence of the distinct infection status on Aleurocanthus camelliae cryptic species complex. Insects, 13, 788. https://doi.org/10.3390/insects13090788
+
+* Kanmiya K, Ueda S, Kasai A, Yamashita K, Sato Y, Yoshiyasu Y (2011) Proposal of new specific status for tea-infesting populations of the nominal citrus spiny whitefly Aleurocanthus spiniferus (Homoptera: Aleyrodidae). Zootaxa 2797, 25–44.
+
+* Yamashita K , Kasai A , Suzuki Y , Yoshiyasu Y ( 2016) Population dynamics of the camellia spiny whitefly, Aleurocanthus camelliae (Hemiptera: Aleyrodidae), in tea fields during the early phase of invasion into Kyoto, Japan.  Applied Entomology and Zoology 51, 117–124."
+Host,ANOLCN,Anoplophora chinensis (as Camellia),"* Sjöman H, Östberg J & Nilsson J (2014) Review of host trees for the wood-boring pests Anoplophora glabripennis and Anoplophora chinensis: an urban forest perspective. Arboriculture & Urban Forestry 40(3), 143–164."
+Host,ANOLHO,Anoplophora horsfieldii,"* Lee S, Choi J, Jang H, Choi W, Kwon W, Kim D, Gim J, Park J, Park S, Kim S, Shin S, Lee S (2023) Establishment of non-native Anoplophora horsfieldii (Coleoptera: Cerambycidae) in South Korea, Journal of Integrated Pest Management 14(1) 9. https://doi.org/10.1093/jipm/pmad008"
+Host,AONDCI,Aonidiella citrina,
+Host,AONDCI,Aonidiella citrina (as Camellia),
+Host,TETTFE,Bothrogonia ferruginea,"* Huh EY, Kwon YJ (1994) Systematic and Biogeographic Studies on the Subfamily Cicadellinae from Korea (Homoptera: Cicadellidae). Insecta Koreana 11, 99-159."
+Host,BRVPPA,Brevipalpus papayensis,
+Host,BRVPYO,Brevipalpus yothersi,"* Beard JJ, Ochoa R, Braswell WE, Bauchan GR (2015) Brevipalpus phoenicis (Geijskes) species complex (Acari: Tenuipalpidae) – a closer look. Zootaxa 3944(1), 67 pp. DOI: 10.11646/zootaxa.3944.1.1"
+Host,CEPOHY,Cephonodes hylas,
+Host,CRTZBR,Ceratothripoides brunneus,
+Host,XYLSMU,Cnestus mutilatus (as Camellia),"* Oliver J, Youssef N, Basham J, Bray A, Copley K, Hale F, Klingeman W, Halcomb M, Haun W (2012) Camphor Shot Borer: a new nursery and landscape pest in Tennessee ANR-ENT-01-2012. Tennessee State University"
+Host,COCCVI,Coccus viridis,
+Host,QUADPE,Comstockaspis perniciosa,* Suh SJ (2020) Host plant list of the scale insects (Hemiptera: Coccomorpha) in South Korea. Insecta Mundi 0757: 1–26
+Host,EUWAFO,Euwallacea fornicatior,"* Smith SM, Gomez DF, Beaver RA, Hulcr J, Cognato AI (2019) Reassessment of the species in the Euwallacea fornicatus (Coleoptera: Curculionidae: Scolytinae) complex after the rediscovery of the ‘lost’ type specimen. Insects 10, 261. https://doi.org/10.3390/insects10090261"
+Host,XYLBFO,Euwallacea fornicatus sensu lato,"* Beaver RA, Liu LY (2010) An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602, 1-47.
+------- As Camellia thea.
+
+* Li Y, Gu X, Kasson MT, Bateman CC, Guo J, Huang YT, Li Q, Rabaglia RJ, Hulcr J (2016) Distribution, host records, and symbiotic fungi of Euwallacea fornicatus (Coleoptera: Curculionidae: Scolytinae) in China. Florida Entomologist 99(4), 801-804."
+Host,EUWAPE,Euwallacea perbrevis,"* Smith SM, Gomez DF, Beaver RA, Hulcr J, Cognato AI (2019) Reassessment of the species in the Euwallacea fornicatus (Coleoptera: Curculionidae: Scolytinae) complex after the rediscovery of the ‘lost’ type specimen. Insects 10, 261. https://doi.org/10.3390/insects10090261
+------- Recorded as a host of 'Euwallacea sp. #4'."
+Host,HELOBE,Helopeltis bergrothi,
+Host,HETBAE,Heterobostrychus aequalis,
+Host,LOPLJA,Lopholeucaspis japonica,"* Batsankalashvili M, Kaydan MB, Kirkitadze G, Japoshvili G (2017) Updated checklist of scale insects (Hemiptera: Coccomorpha) in Sakartvelo (Georgia). Annals of Agrarian Science 15(2), 252-268."
+Host,LYCMDE,Lycorma delicatula,"* Barringer L, Ciafré CM (2020) Worldwide feeding host plants of spotted lanternfly, with significant additions from North America. Environmental Entomology 49(5), 999–1011."
+Host,HEMELE,Orgyia leucostigma (as Camellia),"* Heppner JB (2003) Lepidoptera of Florida. Part 1. Introduction and catalog. Volume 17 of Arthropods of Florida and neighboring land areas. Division of Plant Industry. Florida Department of Agriculture and Consumer Services. Gainesville, Florida. 670 pp"
+Host,PRABMY,Parabemisia myricae,
+Host,POCZSH,Pochazia shantungensis,"* Iguchi M, Kodama H (2025) Host plants of Pochazia shantungensis (Hemiptera: Ricaniidae) in Wakayama Prefecture, Japan. Ann. Kansai Plant Prot. Soc. 67, 117–120. https://doi.org/10.4165/kapps.67.117 (in Japanese)
+------- host for oviposition"
+Host,PSEAPE,Pseudaulacaspis pentagona (as Camellia),"* García Morales M, Denno BD, Miller DR, Miller GL, Ben-Dov Y, Hardy NB (2016) ScaleNet: A literature-based model of scale insect biology and systematics. Database. doi: 10.1093/database/bav118. http://scalenet.info [accessed 2026-02].
+
+* Miller DR & Davidson JA (2005) Armored Scale Insect Pests of Trees and Shrubs. Cornell Univ. Press Ithaca, NY 442 pp."
+Host,RICASC,Ricania speculum,
+Host,RHIOHI,Ripersiella hibisci,
+Host,HELYBU,Rotylenchus buxophilus,
+Host,PRODLI,Spodoptera litura,
+Host,TIRAPL,Tiracola plagiata,
+Host,XYLBCR,Xylosandrus crassiusculus,"* Horn S, Horn GN (2006) New host record of the Asian Ambrosia beetle, Xylosandrus crassiusculus (Motschulsky) (Coleoptera: Curculionidae). Journal of Entomological Science 10(1), 90-91."
+Host,ZEUZCO,Zeuzera coffeae,"* Das T, Rahman A (2023) Lepidopteran pests of tea: Biology, geographical distribution, and management."" Phytoparasitica 51(3), 461-489."
+Major host,HELOAN,Helopeltis antonii,
+Major host,HELOBR,Helopeltis bradyi,
+Major host,HELOTH,Helopeltis theivora,
+Major host,HOMOCO,Homona coffearia,"* Das T, Rahman A (2023) Lepidopteran pests of tea: Biology, geographical distribution, and management."" Phytoparasitica 51(3), 461-489."
+Major host,ICERAE,Icerya aegyptiaca,
+Major host,OLIGCO,Oligonychus coffeae,
+Major host,SCITDO,Scirtothrips dorsalis,"* Deka B, Babu A, Sarkar S (2020) Scirtothrips dorsalis, Hood (Thysanoptera: Thripidae): A major pest of tea plantations in North East India. Journal of Entomology and Zoology Studies 8(4), 1222-1228.
+
+* Sreerama Kumar P,  Rachana RR (2021) Scirtothrips dorsalis (Thysanoptera: Thripidae) is a pest of celery, Apium graveolens (Apiales: Apiaceae): first report and diagnostic characters. Journal of Integrated Pest Management 12(1), 46. https://doi.org/10.1093/jipm/pmab039
+------- Confirmed host.
+
+* Varatharajan R, Roy S, Prasad AK, Mukhopadhyay A, Muraleedharan N (2019) Bionomics and management of Scirtothrips dorsalis Hood (Insecta: Thysanoptera: Thripidae) on Camellia sinensis (L) O. Kuntze in tea plantations of north-eastern India. International Journal of Tropical Insect Science 39, 179–194 (2019). https://doi.org/10.1007/s42690-019-00028-3
+------- Confirmed host. "
+Major host,XYLSCO,Xylosandrus compactus,"* Dole SA, Cognato AI (2010) Phylogenetic revision of Xylosandrus Reitter (Coleoptera: Curculionidae: Scolytinae: Xyleborina). Proceedings of the California Academy of Sciences 61(7), 451-545."
+Major host,XYLSMO,Xylosandrus morigerus,

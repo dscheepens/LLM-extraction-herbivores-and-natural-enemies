@@ -1,0 +1,31 @@
+type,EPPOCode,Pref_name,References
+Host,AONDCI,Aonidiella citrina,
+Host,BLSPOC,Blastopsylla occidentalis,
+Host,TORTPO,Epiphyas postvittana,
+Host,EUWAKU,Euwallacea kuroshio,"* Smith SM, Gomez DF, Beaver RA, Hulcr J, Cognato AI (2019) Reassessment of the species in the Euwallacea fornicatus (Coleoptera: Curculionidae: Scolytinae) complex after the rediscovery of the ‘lost’ type specimen. Insects 10, 261. https://doi.org/10.3390/insects10090261"
+Host,GLYSBR,Glycaspis brimblecombei,
+Host,GONPGI,Gonipterus gibberus,
+Host,PLTPMU,Megaplatypus mutatus,"* Allegro G, Griffo R (2008) I rischi di diffusione di Megaplatypus mutatus. L'informatore Agrario no. 13, 73-76.
+
+* Giménez RA, Etiennot AE (2003) Host range of Platypus mutatus. Entomotropica 18, 89–94.
+
+* Griffo R, Pesapane G, Funes H, Gonzalez-Audino P, Germinara GS (2012) Diffusione e controllo di platipo in Campania. L'informatore Agrario no. 31, 66-68.
+
+* Zanuncio AJV, Pastori PL, Kirkendall LR, Lino-Neto J, Serrão JE, Zanuncio JC (2010) Megaplatypus mutatus (Chapuis) (Coleoptera: Curculionidae: Platypodinae) attacks hybrid Eucalyptus L'Héritier De Brutelle clones In Southern Espírito Santo, Brazil. The Coleopterists Bulletin 64(1), 81-83.
+------- On Eucalyptus urophylla x E. camaldulensis and E. urophylla x E. grandis in plantations."
+Host,PSISSE,Paropsisterna selmani,
+Host,PESTDI,Pestalotiopsis disseminata,
+Host,PHOARE,Phoracantha recurva,
+Host,PHOASE,Phoracantha semipunctata,
+Host,PLAAST,Platynota stultana,"* Hoover GA, Biddinger DJ (2014) Omnivorous leafroller, Platynota stultana (Lepidoptera: Tortricidae). Penn State Extension Pest Alert. https://ento.psu.edu/files/omnivorous-leafroller/view"
+Host,HELYBU,Rotylenchus buxophilus,
+Host,PRODOR,Spodoptera ornithogalli,"* Anonymous (1969) Cooperative Economic Insect Report 19(43), 805.
+
+* Brito R, Specht A, Gonçalves GL, Moreira GRP, Carneiro E, Santos FL, Roque-Specht VF, Mielke OHH, Casagrande MM (2019) Spodoptera marima: a new synonym of Spodoptera ornithogalli (Lepidoptera: Noctuidae), with notes on adult morphology, host plant use and genetic variation along its geographic range. Neotropical Entomology 48(3), 433-448."
+Host,THMCPE,Thaumastocoris peregrinus,
+Major host,CTNREU,Ctenarytaina eucalypti,"* Cavalcaselle B (1986) Les insectes nuisibles aux eucalyptus en Italie: importance des dégats et méthodes de lutte. Bulletin OEPP/EPPO Bulletin 16(2), 293-297."
+Major host,OPHEEU,Ophelimus eucalypti,"* Kavallieratos NG, Kontodimas DC, Anagnou-Veroniki M, Emmanouel NG (2006) First record of the gall inducing insect Ophelimus eucalypti (Gahan) (Hymenoptera: Chalcicoidea: Eulophidae) in Greece. Annals of the Benaki Phytopathological Institute (NS) 20, 125-128.
+
+* Pujade-Villar J, Riba-Flinch JM (2004) [Two Australian eulophids, very harmful to Eucalyptus spp., introduced into the north-east of the Iberian Peninsula (Hymenoptera: Eulophidae).]. Boletin SEA no. 35, 299-301."
+Major host,OPHEMA,Ophelimus maskelli,"* Protasov A, la Salle J, Blumberg D, Brand D, Saphir N, Assael F, Fisher N, Mendel Z (2007) Biology, revised taxonomy and impact on host plants of Ophelimus maskelli, an invasive gall inducer on Eucalyptus spp. in the Mediterranean area. Phytoparasitica 35(1), 50-76."
+Major host,CPTHBI,Paropsisterna bimaculata,

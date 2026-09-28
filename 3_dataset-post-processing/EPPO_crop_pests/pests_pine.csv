@@ -1,0 +1,66 @@
+type,EPPOCode,Pref_name,References
+Host,AREAM,Arceuthobium americanum,
+Host,ARECP,Arceuthobium campylopodum,
+Host,ARELA,Arceuthobium laricis,
+Host,AREOC,Arceuthobium occidentale,
+Host,AREPU,Arceuthobium pusillum,
+Host,AREVA,Arceuthobium vaginatum,
+Host,BEASTY,Beastie the Bug (as Pinales),
+Host,BURSXY,Bursaphelenchus xylophilus,
+Host,PHECPI,Chionaspis pinifoliae,"* INTERNET
+ScaleNet. Chionaspis pinifoliae. http://scalenet.info/catalogue/Chionaspis%20pinifoliae/
+
+* Gwiazdowski RA, Vea MI, Andersen CJ & Normark BB (2011) Discovery of cryptic species among North American pine-feeding Chionaspis scale insects (Hemiptera: Diaspididae). Biological Journal of the Linnean Society of London 104(1), 47–62.
+------- Pinus maximartinezii, Pinus ponderosa var. ponderosa (as Pinus washoensis).
+"
+Host,CHONFU,Choristoneura fumiferana,
+Host,DENCAD,Dendroctonus adjunctus,
+Host,DENCBR,Dendroctonus brevicomis,
+Host,DENCFR,Dendroctonus frontalis,"* Hain FP, Duehl AJ, Gardener MJ, Payne TL (2011) Natural History of the Southern Pine Beetle. In: Coulson, R.N.; Klepzig, K.D. 2011. Southern Pine Beetle II. Gen. Tech. Rep. SRS-140. Asheville, NC: U.S. Department of Agriculture Forest Service, Southern Research Station. 13-24. https://www.fs.usda.gov/treesearch/pubs/39019
+------- ""The SPB infests and kills all pine species in its range"""
+Host,DENCPO,Dendroctonus ponderosae,
+Host,DENDSC,Dendrolimus spectabilis,
+Host,DIABVZ,Diabrotica virgifera zeae,"* Clark SM, LeDoux DG, Seeno TN, Riley EG, Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada (Coleoptera: Megalopodidae, Orsodacnidae, Chrysomelidae, excluding Bruchinae). Coleopterists Society, Special Publication 2, 615 pp.
+------- Adult host."
+Host,ELASLI,Elasmopalpus lignosellus,"* Dixon WN (1982) Lesser cornstalk borer, Elasmopalpus lignosellus (Zeller) (Lepidoptera: Pyralidae). Entomology Circular, Division of Plant Industry, Florida Department of Agriculture and Consumer Services no 236, 2 pp."
+Host,TORTPO,Epiphyas postvittana,
+Host,GNAHSU,Gnathotrichus sulcatus (as Pinaceae),"* Furniss RL, Carolin VM (1977) Western forest insects (Scolytidae, Platypodidae). Miscellaneous Publications, United States Department of Agriculture, Forest Service No. 1339, pp. 1-654"
+Host,HYLGLI,Hylurgus ligniperda,
+Host,IPSXCA,Ips calligraphus,
+Host,IPSXCO,Ips confusus,
+Host,IPSXHA,Ips hauseri,"* Douglas HB, Cognato AI, Grebennikov V, Savard K (2019) Dichotomous and matrix-based keys to the Ips bark beetles of the World (Coleoptera: Curculionidae: Scolytinae). Canadian Journal of Arthropod Identification 38, 234 pp. http://cjai.biologicalsurvey.ca/dcgs_38/factsheets/Ips_hauseri.pdf"
+Host,IPSXLE,Ips lecontei,
+Host,IPSXPI,Ips pini,
+Host,IPSXPL,Ips plastographus,
+Host,LEPLOC,Leptoglossus occidentalis,
+Host,PLTPMU,Megaplatypus mutatus,"* Giménez RA, Etiennot AE (2003) Host range of Platypus mutatus. Entomotropica 18, 89–94."
+Host,MONCMC,Monochamus maculosus,"* Akbulut S, Stamps WT (2012) Insect vectors of the pinewood nematode: a review of the biology and ecology of Monochamus species. Forest Pathology 42(2), 89-99. https://doi.org/10.1111/j.1439-0329.2011.00733.x"
+Host,MONCNI,Monochamus nitens,"* Akbulut S, Togashi K & Linit MJ (2017) Cerambycids as plant disease vectors with special reference to pine wilt. In Cerambycidae of the world, pp. 209-252. CRC Press, Boca Raton, Florida."
+Host,MONCOB,Monochamus obtusus,"* Akbulut S, Stamps WT (2012) Insect vectors of the pinewood nematode: a review of the biology and ecology of Monochamus species. Forest Pathology 42(2), 89-99. https://doi.org/10.1111/j.1439-0329.2011.00733.x
+
+* Keen FP (1952) Insect Enemies of Western Forests. Miscellaneous Publication no. 273. USDA, 209 pp."
+Host,MONCSL,Monochamus saltuarius,
+Host,MONCST,Monochamus scutellatus,"* Akbulut S, Stamps WT (2012) Insect vectors of the pinewood nematode: a review of the biology and ecology of Monochamus species. Forest Pathology 42(2), 89-99. https://doi.org/10.1111/j.1439-0329.2011.00733.x
+
+* Monné MA, Nearns EH (2021) Catalogue of the Cerambycidae (Coleoptera) of Canada and United States of America. Part IV. Subfamily Lamiinae. https://cerambycids.com/catalog/Monne&Nearns_2021_NearcticCat_part_IV.pdf"
+Host,MONCSU,Monochamus sutor,
+Host,MONCTI,Monochamus titillator,"* Akbulut S, Stamps WT (2012) Insect vectors of the pinewood nematode: a review of the biology and ecology of Monochamus species. Forest Pathology 42(2), 89-99. https://doi.org/10.1111/j.1439-0329.2011.00733.x
+
+* Duffy EAJ (1960) A monograph of the immature stages of neotropical timber beetles. London: British Museum (Natural History), 327 pp.
+
+* Monné MA, Nearns EH (2021) Catalogue of the Cerambycidae (Coleoptera) of Canada and United States of America. Part IV. Subfamily Lamiinae. https://cerambycids.com/catalog/Monne&Nearns_2021_NearcticCat_part_IV.pdf"
+Host,MONCUR,Monochamus urussovii,
+Host,HEMELE,Orgyia leucostigma,"* Heppner JB (2003) Lepidoptera of Florida. Part 1. Introduction and catalog. Volume 17 of Arthropods of Florida and neighboring land areas. Division of Plant Industry. Florida Department of Agriculture and Consumer Services. Gainesville, Florida. 670 pp
+
+* Robinson GS, Ackery PR, Kitching IJ, Beccaloni GW, Hernández LM (2010) HOSTS - A Database of the World's Lepidopteran Hostplants. Natural History Museum, London. http://www.nhm.ac.uk/hosts."
+Host,PISONO,Pissodes castaneus,
+Host,EVETBU,Rhyacionia buoliana,
+Host,HELYBU,Rotylenchus buxophilus,
+Host,SIRXNO,Sirex noctilio,
+Host,TETOGR,Tetropium gracilicorne,
+Host,THAUPR,Thaumetopoea processionea,"* Gomez-Bustillo MR (1978) Los Thaumetopoeidae de la Peninsula Iberica: nociones de sistematica, ecologica e importancia economica de la famila. Revista de Lepidopterologia 5, 283-290; 6, 113- 124. "
+Host,HESOCA,Trichoferus campestris,"* CAPS (2019) Trichoferus campestris. Cooperative Agricultural Pest Survey pest datasheets. http://download.ceris.purdue.edu/file/3869
+------- Living host."
+Host,TYLRCL,Tylenchorhynchus claytoni,
+Major host,BURSMU,Bursaphelenchus mucronatus,
+Major host,MONCGA,Monochamus galloprovincialis,

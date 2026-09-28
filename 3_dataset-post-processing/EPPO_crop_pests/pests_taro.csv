@@ -1,0 +1,26 @@
+type,EPPOCode,Pref_name,References
+Host,ALTRTR,Aleurothrixus trachoides,
+Host,EUTEBA,Eutetranychus banksi,* Migeon A & Dorkeld F (2024) Spider Mites Web: a comprehensive database for the Tetranychidae. Available from https://www1.montpellier.inrae.fr/CBGP/spmweb (Accessed 2024/04/23)
+Host,LIRIHU,Liriomyza huidobrensis,"* He CX, Wu WW, Wang SF, Wang LZ (2001) Host plants and feeding preferences of Liriomyza huidobrensis. Acta Entomologica Sinica 44, 384-388."
+Host,PHENHI,Maconellicoccus hirsutus,"* Chang LWH, Miller CE (1996) Pathway Risk Assessment: Pink mealybug from the Caribbean. Animal and Plant Health Inspection Service, U.S. Dept. of Agriculture 61 pp."
+Host,MELGGC,Meloidogyne graminicola,
+Host,OPOGSC,Opogona sacchari,"* Peña JE, Duncan R, Torres V (1990) Dynamics and control of the banana moth and foliage plants. Proceedings of the Florida State Horticultural Society 103, 189-192. "
+Host,POMACA,Pomacea canaliculata,"* Wong PK, Liang YAN, Liu NY, Qiu JW (2010) Palatability of macrophytes to the invasive freshwater snail Pomacea canaliculata: differential effects of multiple plant traits. Freshwater Biology 55(10), 2023-2031."
+Host,POOPCO,Poophilus costalis,"* BhattacharyyaA, Mandai SK (2006) Pests infesting taro (Colocasia esculenta L.) in West Bengal. Indian Agriculturist 50(3/4), 153-156."
+Host,PRATCO,Pratylenchus coffeae (as Aroideae),
+Host,RADOSI,Radopholus similis (as Aroideae),
+Host,SCITDO,Scirtothrips dorsalis,"* Rajamma P, Palaniswami MS, Jayaprakas CA (2004) Chilli thrips (Scirtothrips dorsalis Hood)(Thripidae: Thysanoptera) as a pest on cassava and taro. Journal of Root Crops 30(1), 74-75."
+Host,PRODLI,Spodoptera litura,"* Ahmad M, Ghaffar A, Rafiq M (2013) Host plants of leaf worm, Spodoptera litura (Fabricius)(Lepidoptera: Noctuidae) in Pakistan. Asian Journal of Agriculture and Biology 1(1), 23-28."
+Host,PRODOR,Spodoptera ornithogalli (as Colocasia),"* Brito R, Specht A, Gonçalves GL, Moreira GRP, Carneiro E, Santos FL, Roque-Specht VF, Mielke OHH, Casagrande MM (2019) Spodoptera marima: a new synonym of Spodoptera ornithogalli (Lepidoptera: Noctuidae), with notes on adult morphology, host plant use and genetic variation along its geographic range. Neotropical Entomology 48(3), 433-448.
+
+* Coto D, Saunders JL, Vargas-S CL, King ABS (1995) Plagas invertebradas de cultivos tropicales con énfasis em América Central-Um invetário. Turrialba, CATIE, 200 pp."
+Major host,APLOBE,Aphelenchoides besseyi,"* Bridge J, Plowright RA, Peng D (2005) Nematode parasites of rice. In: Plant parasitic nematodes in subtropical and tropical agriculture (eds Luc M, Sikora RA, Bridge J), pp. 87-130."
+Major host,PAPUIN,Papuana inermis,
+Major host,PAPUSE,Papuana woodlarckiana,
+Major host,POMAIN,Pomacea maculata,"* Bernatis JL (2014) Morphology, ecophysiology, and impacts of nonindigenous Pomacea in Florida. PhD Thesis University of Florida, 163 pp. 
+
+* Burks RL, Hensley SA, Kyle CH (2011) Quite the appetite: juvenile island apple snails (Pomacea insularum) survive consuming only exotic invasive plants. Journal of Molluscan Studies 77(4), 423-428.
+
+* Burks RL, Kyle CH, Trawick MK (2010) Pink eggs and snails: field oviposition patterns of an invasive snail, Pomacea insularum, indicate a preference for an invasive macrophyte. Hydrobiologia 646, 243-251.
+
+* Burlakova LE, Karatayev AY, Padilla DK, Cartwright LD, Hollas DN (2009) Wetland restoration  and invasive species: Apple snail (Pomacea insularum) feeding on native and invasive aquatic plants. Restoration Ecology 17, 433-440."

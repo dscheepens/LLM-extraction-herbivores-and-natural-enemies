@@ -1,0 +1,135 @@
+type,EPPOCode,Pref_name,References
+Doubtful host,GNORAB,Phthorimaea absoluta,"* Wickramasinghe MP, Yen SH (2026) A Review of the Host Plant Records of Phthorimaea absoluta (= Tuta absoluta)(Lepidoptera: Gelechiidae) . Journal of Entomological Science 61(1), 166-192. doi:10.18474/JES25-10
+-------oviposition but no completion of life cycle in experiments"
+Experimental,EPIXSU,Epitrix subcrinita,"* Landis BJ (1948) Plants upon which tuber flea beetles and western potato flea beetles propagate. Journal of Economic Entomology 41(1), 6-10.
+------- In experimental conditions  a larva could be successfully reared on this plant to an adult,"
+Experimental,HETDGL,Heterodera glycines,"* Riggs RD, Hamblen ML (1966) Further studies on the host range of the soybean-cyst. Bulletin of the Agricultural Experiment Station no. 718. University of Arkansas, Fayetteville (US), 19 pp.
+------- Host range experiments."
+Experimental,MELGMY,Meloidogyne enterolobii,"* Carneiro RG, Monaco APA, Moritz MP, Nakamura KC, Scherer A (2006) Identificacao de Meloidogyne mayaguensis em goiabeira e em plantas invasoras, em solo argiloso, no Estado do Parana (Identification of Meloidogyne mayaguensis in guava and weeds, in loam soil in Parana State. Nematologia Brasileira 30(3), 293–298.
+------- confirmed host
+
+* Brito JA, Stanley JD, Mendes ML, Cetintas R, Dickson DW (2007) Host status of selected cultivated plants to Meloidogyne mayaguensis in Florida. Nematropica 37(1), 65–71.
+------- greenhouse study
+
+* Brito JA, Stanley JD, Mendes ML, Cetintas R, Dickson DW (2007) Host status of selected cultivated plants to Meloidogyne mayaguensis in Florida. Nematropica 37(1), 65–71.
+------- greenhouse study"
+Experimental,MELGFL,Meloidogyne floridensis,"* Kokalis-Burelle N, Nyczepir AP (2004) Host range studies for Meloidogyne floridensis. Journal of Nematology 36, 328
+------ host with high reproductive potential"
+Host,AGROSE,Agrotis segetum (as Cucurbitaceae),
+Host,ALEDDU,Aleurodicus dugesii (as Cucurbitaceae),
+Host,ANSTGR,Anastrepha grandis (as Cucurbitaceae),"* Bolzan A, Nava DE, Garcia FR, Valgas RA, Smaniotto G (2015) Biology of Anastrepha grandis (Diptera: Tephritidae) in different cucurbits. Journal of Economic Entomology 108(3), 1034-1039"
+Host,AONDCI,Aonidiella citrina (as Cucurbitaceae),
+Host,APOMBI,Apomecyna binubila (as Cucurbitaceae),
+Host,ATHEOR,Atherigona orientalis,"* Zhou Z, Luo Y, Qin J, Wang X, Ning S, He J, Zhou Q (2025) Occurrence, biological characteristics, and annual dynamics of Atherigona orientalis (Schiner 1968)(Diptera: Muscidae) in China. Insects. 16(9), 931. https://doi.org/10.3390/insects16090931"
+Host,AUACHI,Aulacophora hilaris (as Cucurbitaceae),
+Host,DACUDO,Bactrocera dorsalis,"* Goergen G, Vayssières JF, Gnanvossou D, Tindo M (2011) Bactrocera invadens (Diptera: Tephritidae), a new invasive fruit fly pest for the Afrotropical region: Host plant range and distribution in West and Central Africa. Environmental Entomology 40(4), 844-854."
+Host,DACUTR,Bactrocera tryoni,"* Leblanc L, Vueti ET, Drew AI, Allwood AJ (2012) Host plant records for fruit flies (Diptera: Tephritidae: Dacini) in the Pacific islands. Proceedings of the Hawaiian Society 44, 11-53."
+Host,BARIGR,Baris granulipennis (as Cucurbitaceae),
+Host,BEMITA,Bemisia tabaci,"* McKenzie CL, Sparks Jr AN, Roberts P, Oetting RD, Osborne LS (2020) Survey of Bemisia tabaci (Hemiptera: Aleyrodidae) in agricultural ecosystems in Georgia. Journal of Entomological Science 55(2), 163-170."
+Host,BEMITA,Bemisia tabaci (as Cucurbitaceae),
+Host,HELIVI,Chloridea virescens,"* Capinera JL (2001) Heliothis virescens (Fabricius) (Insecta: Lepidoptera: Noctuidae) EENY-219 (latest revision Dec. 2018). Featured Creatures. University of Florida. https://entnemdept.ufl.edu/creatures/field/tobacco_budworm.htm
+------- as squash.
+
+* Hambleton EJ (1944) Heliothis virescens as a pest of cotton, with notes on host plants in Peru. Journal of Economic Entomology 37, 660-666.
+------- as squash.
+
+* EPPO (2024) EPPO Technical Document No. 1091. Pest risk analysis for Chloridea virescens. EPPO, Paris. Available at https://gd.eppo.int/taxon/HELIVI/documents
+------- Likely host (reported as host in the literature but lacking evidence to consider it as main host – see PRA for further details on the host)."
+Host,CHRXER,Chrysodeixis eriosoma,
+Host,CIRCTE,Circulifer tenellus (as Cucurbitaceae),
+Host,DACUBI,Dacus bivittatus,"* Hassani IM, Delatte H, Ravaomanarivo LH, Nouhou S, Duyck PF (2022) Niche partitioning via host plants and altitude among fruit flies following the invasion of Bactrocera dorsalis. Agricultural and Forest Entomology. https://doi.org/10.1111/afe.12522
+"
+Host,DACUBI,Dacus bivittatus (as Cucurbitaceae),"* Hassani IM, Delatte H, Ravaomanarivo LH, Nouhou S, Duyck PF (2022) Niche partitioning via host plants and altitude among fruit flies following the invasion of Bactrocera dorsalis. Agricultural and Forest Entomology. https://doi.org/10.1111/afe.12522
+"
+Host,HYLEPL,Delia platura (as Cucurbitaceae),
+Host,DIABSC,Diabrotica speciosa,
+Host,DIABUN,Diabrotica undecimpunctata undecimpunctata,"* Clark SM, LeDoux DG, Seeno TN, Riley EG, Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada (Coleoptera: Megalopodidae, Orsodacnidae, Chrysomelidae, excluding Bruchinae). Coleopterists Society, Special Publication 2, 1-476.
+-------- Adult host."
+Host,DIABVZ,Diabrotica virgifera zeae,"* Clark SM, LeDoux DG, Seeno TN, Riley EG, Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada (Coleoptera: Megalopodidae, Orsodacnidae, Chrysomelidae, excluding Bruchinae). Coleopterists Society, Special Publication 2, 615 pp.
+------- Adult host."
+Host,DPHNIN,Diaphania indica (as Cucurbitaceae),
+Host,DPHNNI,Diaphania nitidalis,"* Reid WJ Jr, Cuthbert FP Jr (1956) Biology studies of the pickleworm. Journal of Economic Entomology 49, 870-873."
+Host,DPHNNI,Diaphania nitidalis (as Cucurbitaceae),"* Dupree M, Bissell TL, Beckham CM (1955) The pickleworm and its control. Ga. Agric. Exp. Stn. Bull 5, 4–31. "
+Host,EPILCH,Epilachna elaterii (as Cucurbitaceae),
+Host,EPIXTU,Epitrix tuberis (as Cucurbita),"* Clark SM,  LeDoux DG, Seeno TN,  Riley EG,  Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada.  Special Publications of the Coleopterists Society, 2, 476 pp.
+------- feeding of adults"
+Host,EURHBR,Eurhizococcus brasiliensis,"* Foldi I (2005) Ground pearls: a generic revision of the Margarodidae sensu stricto (Hemiptera: Sternorrhyncha: Coccoidea), Annales de la Société Entomologique de France 41(1), 81-125.
+
+* Soria SJ, Gallotti BJ (1986) O margarodes da videira Eurhizococcus brasiliensis (Homoptera: Margarodidae): biologia, ecologia e controle no Sul do Brasil. Embrapa, Centro Nacional de Pesquisa de Uva e Vinho, Bento Gonçalves, Brazil. CNPUV Circular Técnica 13. 22 pp."
+Host,FRANOC,Frankliniella occidentalis,"* Benmessaoud-Boukhalfa H, Mouhouche F, Belmazouzi FZ (2010) Inventory and identification of some Thrips species in coastal and subcoastal regions of Algeria. Agriculture and Biology Journal of North America, 1(5), 755-761."
+Host,FRANOC,Frankliniella occidentalis (as Cucurbitaceae),
+Host,HALYHA,Halyomorpha halys,"* Bergmann E, Bernhard KM, Bernon G, Bickerton M, Gill S, Gonzales C, Hamilton GC, Hedstrom C, Kamminga K, Koplinka-Loehr C, Krawczyk G, Kuhar TP, Kunkel B, Lee J, Leskey TC, Martinson H, Nielsen AL, Raupp M, Shearer P, Shrewsbury P, Walgenbach J, Whalen J, Wiman N (online) Host Plants of the Brown Marmorated Stink Bug in the U.S. https://www.stopbmsb.org/where-is-bmsb/host-plants
+
+* Holthouse MC, Spears LR, Alston DG (2021) Urban host plant utilisation by the invasive Halyomorpha halys (Stål) (Hemiptera, Pentatomidae) in northern Utah. NeoBiota 64, 87–101. https://doi.org/10.3897/neobiota.64.60050"
+Host,HELIZE,Helicoverpa zea,"* Quaintance AL, Brues CT (1905) The cotton bollworm. US Depatment of Agriculture. Bureau of entomology. Bulletin 50. 155 pp."
+Host,HETRAR,Heteronychus arator (as Cucurbita),
+Host,LEPLAU,Leptoglossus australis (as Cucurbitaceae),
+Host,LIRIHU,Liriomyza huidobrensis,"* Foba CN, Salifu D, Lagat ZP, Gitonga LM, Akutse KS, Fiaboe KKM (2015) Species composition, distribution and seasonal abundance of Liriomyza leafminers (Diptera: Agromyzidae) under different vegetable production systems and agroecological zones in Kenya. Environmental Entomology 44, 223-232.
+------- Confirmed host. Reared from infested leaves collected in the field.
+
+* Korytkowski C (1982) Contribución al conocimiento de los Agromyzidae (Diptera: Acalyptratae) en el Perú. MS Thesis, Universidad Nacional Agraria, La Molina, Lima, 237 pp.
+
+* Mujica M, Kroschel J (2011) Leafminer fly (Diptera: Agromyzidae) occurrence, distribution, and parasitoid associations in field and vegetable crops along the Peruvian coast. Environmental Entomology 40, 217-230.
+
+* Olivera CR, Bordat D (1996) Influence of Liriomyza species (Diptera: Agromyzidae) and their host plants, on oviposition by Opius dissitus females (Hymenoptera: Braconidae). Annals of Applied Biology 128, 399-404.
+
+* Scheffer SJ, Lewis ML, Joshi RC (2006) DNA barcoding applied to invasive leafminers (Diptera: Agromyzidae) in the Philippines. Annals of the Entomological Society of America 99, 204-210.
+
+* Scheffer SJ, Wiejesekara A, Visser D, Hallett RH (2001) Polymerase chain reaction-restriction fragment-length polymorphism method to distinguish Liriomyza huidobrensis from L. langei (Diptera: Agromyzidae) applied to three recent leafminer invasions. Journal of Economic Entomology 94, 1177-1182.
+
+* Spencer KA (1973) Agromyzidae (Diptera) of Economic Importance. Series Entomologica 9. Junk, The Hague, The Netherlands, 418 pp.
+
+* Wei J, Zou L, Kuang R, He L (2000) Influence of leaf tissue structure on host feeding selection by pea leafminer Liriomyza huidobrensis (Diptera: Agromyzidae). Zoological Studies 39, 295-300."
+Host,LIRITR,Liriomyza trifolii,"* Foba CN, Salifu D, Lagat ZO, Gitonga LM, Akutse KS, Fiaboe KKM (2015) Species composition, distribution, and seasonal abundance of Liriomyza leafminers (Ciptera: Agromyzidae) under different vegetable production systems and agroecological zones in Kenya. Environmental Entomology 44(2), 223-232.
+------- confirmed host. Reared from infested leaves collected in the field
+
+* Spencer KA (1973) Agromyzidae (Diptera) of economic importance. Series Entomologica Volume 9. Dr. W. Junk B.V. The Hague, The Netherlands. 418 pp."
+Host,ACHAFU,Lissachatina fulica (as Cucurbita),"* Thiengo SC, Faraco FA, Salgado NC, Cowie RH, Fernandez MA (2007) Rapid spread of an invasive snail in South America: the giant African snail, Achatina fulica, in Brasil. Biological Invasions 9, 693-702."
+Host,PHENHI,Maconellicoccus hirsutus,"* Chang LWH, Miller CE (1996) Pathway Risk Assessment: Pink mealybug from the Caribbean. Animal and Plant Health Inspection Service, U.S. Dept. of Agriculture 61 pp."
+Host,MEGTUS,Megalurothrips usitatus,"* Wang H, Huang L, Zheng X, Gong R, Cao X, Yang L (2024) An age-stage, two-sex life table for Megalurothrips usitatus feeding on eight different crop plants. Agronomy 14(10), 2283. https://doi.org/10.3390/agronomy14102283"
+Host,MELGET,Meloidogyne ethiopica (as Cucurbita),
+Host,MELGLC,Meloidogyne luci,"* Sen F, Aydinli (2021) Host status of cultivated crops to Meloidogyne luci. European Journal of Plant Pathology 161(3), 607-618.
+------- In experiments, cv. Toygar was found to be an excellent host.
+"
+Host,CARYPA,Myiopardalis pardalina (as Cucurbitaceae),
+Host,NACOBA,Nacobbus aberrans sensu lato,"* Manzanilla-López RH, Costilla MA, Doucet M, Inserra RN, Lehman PS, Cid del Prado-Vera I, Souza RM, Evans K (2002) The genus Nacobbus Thorne & Allen, 1944 (Nematoda: Pratylenchidae): systematics, distribution, biology and management. Nematropica 32, 149-226."
+Host,NSILZA,Neosilba zadolicha,"* Baldo F, Berton L, Gisloti L, Raga A (2017) New Records of Anastrepha grandis (Diptera, Tephritidae) and Neosilba zadolicha (Diptera, Lonchaeidae) in Cucurbitaceae Species in Brazil. Journal of Agriculture and Ecology Research International, 13 (2). pp. 1-7."
+Host,PRATCO,Pratylenchus coffeae (as Cucurbitaceae),
+Host,PRDILO,Prodiplosis longifila,"* Dhileepan K, Neser S, Rumiz D, Raman A, Sharma A (2017) Host associations of gall-inducing Prodiplosis longifila (Diptera: Cecidomyiidae) from Bolivia: Implications for its use as a biological control agent for Jatropha gossypiifolia (Euphorbiaceae). Florida Entomologist, 100(4), 777-786.
+
+* Diaz-Silva F (2011) [Agroecological aspects for the integrated management of Prodiplosis longifila Gagné in the irrigation of Chavimochic]. Escuela de Ciencias Biológicas, Universidad de Trujillo, Trujillo, PERU (in Spanish)."
+Host,PSEAPE,Pseudaulacaspis pentagona (as Cucurbita),"* García Morales M, Denno BD, Miller DR, Miller GL, Ben-Dov Y, Hardy NB (2016) ScaleNet: A literature-based model of scale insect biology and systematics. Database. doi: 10.1093/database/bav118. http://scalenet.info [accessed 2026-02].
+
+* Miller DR & Davidson JA (2005) Armored Scale Insect Pests of Trees and Shrubs. Cornell Univ. Press Ithaca, NY 442 pp."
+Host,ROTYRE,Rotylenchulus reniformis (as Cucurbitaceae),
+Host,LAPHFR,Spodoptera frugiperda,"* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300."
+Host,PRODOR,Spodoptera ornithogalli (as Cucurbita),"* Brito R, Specht A, Gonçalves GL, Moreira GRP, Carneiro E, Santos FL, Roque-Specht VF, Mielke OHH, Casagrande MM (2019) Spodoptera marima: a new synonym of Spodoptera ornithogalli (Lepidoptera: Noctuidae), with notes on adult morphology, host plant use and genetic variation along its geographic range. Neotropical Entomology 48(3), 433-448.
+
+* Heppner JB (2007) Lepidoptera of Florida. Part 1. Introduction and catalog. Gainesville, Florida Department of Agriculture & Consumer Services, p 670."
+Host,PRODPR,Spodoptera praefica (as Cucurbita),* British Columbia Ministry of Agriculture. Western yellowstriped armyworm (Spodoptera praefica). https://rdno.civicweb.net/document/127358/western-yellowstriped-armyworm.pdf?handle=3CD053B4F8D54F9CBB93F8D6D5572C27
+Host,THRIPL,Thrips palmi,"* Kalpana Tillekaratne, Edirisinghe JP, Gunatilleke CVS, Karunaratne AIP (2011) A checklist of thrips species of Sri Lanka. Ceylon Journal of Science (Bio. Sci.) 40(2), 89-108."
+Host,TRIARI,Trialeurodes ricini,
+Host,DACUCU,Zeugodacus cucurbitae (as Cucurbita),"* De Meyer M, Delatte H, Mwatawala M, Quilici S, Vayssières JF, Virgilio M (2015) A review of the current knowledge on Zeugodacus cucurbitae (Coquillett) (Diptera, Tephritidae) in Africa, with a list of species included in Zeugodacus. ZooKeys 540, 539-557. https://doi.org/10.3897/zookeys.540.9672"
+Major host,ANSTGR,Anastrepha grandis,"* Bolzan A, Nava DE, Garcia FR, Valgas RA, Smaniotto G (2015) Biology of Anastrepha grandis (Diptera: Tephritidae) in different cucurbits. Journal of Economic Entomology 108(3), 1034-1039"
+Major host,AUACAB,Aulacophora abdominalis,
+Major host,DACUCI,Dacus ciliatus,"* McQuate GT, Liquido NJ, Nakamichi KAA (2018) Host plant records of the lesser pumpkin fly, Dacus ciliatus Loew (Diptera: Tephritidae), Version 1.0. Available online at: USDA Compendium of Fruit Fly Host Information (CoFFHI), Edition 3.1.
+
+* White IM (2006) Taxonomy of the Dacina (Diptera: Tephritidae) of Africa and the Middle East. African Entomology Memoir 2, 156 pp."
+Major host,DACUFR,Dacus frontalis,"* Benras H, Ali Ahmed A, Benghedier A, Guezoul O (2023) Note on Dacus frontalis Becker (Diptera: Tephritidae) presence as a pest of cucurbit fruits in Timimoun, Algeria. Journal Algérien des Régions Arides 15(1), 61-63."
+Major host,DIABUH,Diabrotica undecimpunctata howardi,"* Clark SM, LeDoux DG, Seeno TN, Riley EG, Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada (Coleoptera: Megalopodidae, Orsodacnidae, Chrysomelidae, excluding Bruchinae). Coleopterists Society, Special Publication 2, 1-476.
+------- Larval host."
+Major host,LIRIBO,Liriomyza bryoniae,"* Abul-Nasr S & Assem AH (1961) A leaf miner, Liriomyza bryoniae (Kalt), attacking cucurbitaceous plants in Egypt. Bulletin of the Entomological Society of Egypt 45, 401-403."
+Major host,LIRISA,Liriomyza sativae,"* Foba CN, Salifu D, Lagat ZO, Gitonga LM, Akutse KS, Fiaboe KKM (2015) Species composition, distribution, and seasonal abundance of Liriomyza leafminers (Ciptera: Agromyzidae) under different vegetable production systems and agroecological zones in Kenya. Environmental Entomology 44(2), 223-232.
+------- confirmed host. Reared from infested leaves collected in the field
+
+* Spencer KA (1973) Agromyzidae (Diptera) of economic importance. Series Entomologica Volume 9. Dr. W. Junk B.V. The Hague, The Netherlands. 418 pp.
+
+* Stegmaier CE (1966) Host plants and parasites of Liriomyza munda in Florida (Diptera: Agromyzidae). Florida Entomologist 49(2), 81-86.
+------- confirmed host. Rearing record"
+Major host,DACUCM,Zeugodacus cucumis,"* Dominiak BC, Worsley P (2018) Review of cucumber fruit fly, Bactrocera cucumis (French) (Diptera: Tephritidae: Dacinae) in Australia: Part 1, host range, surveillance and distribution. Crop Protection 106, 79-85."
+Major host,DACUCU,Zeugodacus cucurbitae,"* De Meyer M, Delatte H, Mwatawala M, Quilici S, Vayssières JF, Virgilio M (2015) A review of the current knowledge on Zeugodacus cucurbitae (Coquillett) (Diptera, Tephritidae) in Africa, with a list of species included in Zeugodacus. ZooKeys 540, 539-557. https://doi.org/10.3897/zookeys.540.9672
+
+* He Y, Xu Y, Chen X (2023) Biology, ecology and management of Tephritid fruit flies in China: A review. Insects 14, 196. https://doi.org/10.3390/insects14020196
+
+* Leblanc L (2022) The dacine fruit flies (Diptera: Tephritidae: Dacini) of Oceania. Insecta Mundi 0948, 1-167. https://journals.flvc.org/mundi/article/view/131965/135549"
+Wild/Weed,DACUCM,Zeugodacus cucumis (as Cucurbitaceae),

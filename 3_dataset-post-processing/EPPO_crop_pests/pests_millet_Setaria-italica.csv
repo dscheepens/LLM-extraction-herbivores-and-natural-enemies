@@ -1,0 +1,16 @@
+type,EPPOCode,Pref_name,References
+Host,APLOBE,Aphelenchoides besseyi,"* Gokte N, Mathur VK (1993) Treatment schedule for denematization of seeds of Setaria italica and Panicum miliaceum infested with Aphelenchoides besseyi. Nematologica 39:274-276."
+Host,HELIVI,Chloridea virescens,"* Kogan M, Helm CG, Kogan J, Brewer E (1989) Distribution and economic importance of Heliothis virescens and Heliothis zea in North, Central, and South America and of their Natural Enemies and Host Plants. pp 241-297 In Proceedings of the Workshop on Biological Control of Heliothis: Increasing the effectiveness of natural enemies. USDA.
+
+* EPPO (2024) EPPO Technical Document No. 1091. Pest risk analysis for Chloridea virescens. EPPO, Paris. Available at https://gd.eppo.int/taxon/HELIVI/documents
+------- Likely host (reported as host in the literature but lacking evidence to consider it as main host – see PRA for further details on the host)."
+Host,HELIZE,Helicoverpa zea,"* Quaintance AL, Brues CT (1905) The cotton bollworm. US Depatment of Agriculture. Bureau of entomology. Bulletin 50. 155 pp.
+------- as Chaetochloa italica."
+Host,HETDZE,Heterodera zeae,
+Host,MELGET,Meloidogyne ethiopica,"* Lima E A, Mattos J K, Moita A W, Carneiro R G & Carneiro R M D G (2009) Host status of different crops for Meloidogyne ethiopica control. Tropical Plant Pathology 34, 152-157.
+-------In experiments, it was found to be a good host (RF>= 1)"
+Host,MELGGC,Meloidogyne graminicola,"* Rusinque L, Maleita C, Abrantes I, Palomares-Rius JE, Inácio ML (2021) Meloidogyne graminicola - A threat to rice production: review update on distribution, biology, identification, and management. Biology 10, 1163. https://doi.org/10.3390/biology10111163"
+Host,POOPCO,Poophilus costalis,"* Shih HT, Tsay HC, Yang JT (2005) Notes on the geographic distribution and host plants for Poophilus costalis (Walker, 1851) (Hemiptera: Cercopoidea: Aphrophoridae). Plant Protection Bulletin 47, 171–178.
+------- As Chaetochloa italica var. germanica."
+Host,LAPHFR,Spodoptera frugiperda,"* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300."
+Host,PRODPR,Spodoptera praefica (as Setaria),"* Robinson GS, Ackery PR, Kitching IJ, Beccaloni GW & Hernández LM (2010) HOSTS - A database of the World's lepidopteran hostplants. Natural History Museum, London. http://www.nhm.ac.uk/hosts"

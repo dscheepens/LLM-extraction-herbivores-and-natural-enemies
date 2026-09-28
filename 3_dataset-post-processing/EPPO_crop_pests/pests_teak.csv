@@ -1,0 +1,28 @@
+type,EPPOCode,Pref_name,References
+Host,ALEDDI,Aleurodicus dispersus,"* Boopathi T (2022) New host plants, natural enemy complex and newly distributed potential areas of exotic spiralling whitefly (Hemiptera: Aleyrodidae) in India. Phytoparasitica 50(2), 335-357."
+Host,ALTRTR,Aleurothrixus trachoides,"* Evans GA (2007) The whiteflies (Hemiptera: Aleyrodidae) of the world and their host plants and natural enemies. USDA/Animal Plant Health Inspection Service (APHIS). http://keys.lucidcentral.org/keys/v3/whitefly/PDF_PwP%20ETC/world-whitefly-catalog-Evans.pdf
+
+* Sundararaj R, Krishnan S, Sumalatha BV (2021) Invasion and expansion of exotic whiteflies (Hemiptera: Aleyrodidae) in India and their economic importance. Phytoparasitica 49(5), 851-863."
+Host,APRISW,Apriona swainsoni,"* Huang J, Wang W, Zhou S, Wang S (2009) Review of the Chinese species of Apriona Chevrolat, 1852, with proposal of new synomyms (Coleoptera, Cerambicidae, Lamiinae, Batocerini). Les Cahiers Magallanes, 94, 1-23."
+Host,PLTPPA,Euplatypus parallelus,"* Kirkendall LR, Odegaard F (2007) Ongoing invasions of old-growth tropical forests: establishment of three incestuous beetle species in Central America (Curculionidae: Scolytinae). Zootaxa 1588, 53-62,"
+Host,XYLBFO,Euwallacea fornicatus sensu lato,"* Schuler H, Witkowski R, van de Vossenberg B, Hoppe B, Mittelbach M, Bukovinszki T, Schwembacher S, van de Meulengraaf B, Lange U, Rode S, Andriolo A (2022) Recent invasion and eradication of two members of the Euwallacea fornicatus species complex (Coleoptera: Curculionidae: Scolytinae) from tropical greenhouses in Europe. Biological Invasions. https://doi.org/10.1007/s10530-022-02929-w"
+Host,ICERPU,Icerya purchasi,"* Briceño VA, Fraternidad HR (2008) [Hemiptera-homoptera insects of forest importance in Venezuela]. Revista Forestal Venezolana 52(2), 117-178 (in Spanish)."
+Host,LAGRVL,Lagria villosa,"* Spilman TJ (1978) Lagria villosa in Brazil, with new descriptions and illustrations of the larva and pupa (Coleoptera, Lagriidae). Ciencia e cultura, Sao Paulo 30(3), 342–347"
+Host,PHYORH,Lasiodiplodia theobromae,
+Host,PHENHI,Maconellicoccus hirsutus,"* Martins dos S. D, Fornazier MJ, Peronti ALBG, Culik MP, Souza CAS, Taques RC, Zanuncio Jr JS, Queiroz RB (2019) Maconellicoccus hirsutus (Hemiptera: Pseudococcidae) in Brazil: recent spread, natural enemies, and new hosts. Florida Entomologist 102(2), 438-443.  https://doi.org/10.1653/024.102.0225
+------- Confirmed host in Brazil."
+Host,OLIGPU,Oligonychus punicae,"* Aguilar H, Solano-Guevara AM (2020) New hosts, records of plant feeding mites for Costa Rica: interval 2013-2018. Agronomia Costarricense 44(1), 9-28.
+
+* Migeon A, Dorkeld F (2024) Spider Mites Web: a comprehensive database for the Tetranychidae.  https://www1.montpellier.inrae.fr/CBGP/spmweb"
+Host,OLIVTE,Olivea tectonae,"* Cabral PGC, Capucho AS, Pereira OL, Maciel-Zambolim E, Freitas RL, Zambolim L (2010) First report of teak leaf rust disease caused by Olivea tectonae in Brazil. Australasian Plant Disease Notes 5(1), 113-114.
+
+* Kaneko S, Pham T, Hiratsuka Y (2007) Notes on some rust fungi in Vietnam. Mycoscience 48, 263–265.
+
+* Koffi NBC, N’douba AP, Kouassi CK, Koffi AMH, Diallo HA (2018) First occurrence of teak leaf rust caused by Olivea tectonae in Cote d'Ivoire and Africa. New Disease Reports 37, 22. http://dx.doi.org/10.5197/j.2044-0588.2018.037.022
+
+* Mulder JL, Gibson IAS (1973) CMI Descriptions of Pathogenic Fungi and Bacteria No. 37, Sheet 365."
+Host,RICASC,Ricania speculum,
+Host,XYLBCR,Xylosandrus crassiusculus,"* Tarno H, Setiawan Y, Wang J, Ito S, Mario MB, Kurahman T, Suraningwulan M, Amaliah AA, Sari NI, Achmad MA (2022) Partitioning of Ambrosia Beetle Diversity on Teak Plantations in Java, Sumbawa, and Sulawesi Islands. Forests 13(12), 2111. https://doi.org/10.3390/f13122111
+
+* Wood SL, Bright DE (1992) A catalogue of Scolytidae and Platypodidae (Coleoptera). Great Basin Naturalist Memoirs no. 13. Part 2: Taxonomic Index, volume A, p 791."
+Host,XYLSMO,Xylosandrus morigerus,

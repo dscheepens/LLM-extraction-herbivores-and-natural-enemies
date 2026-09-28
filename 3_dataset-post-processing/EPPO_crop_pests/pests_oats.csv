@@ -1,0 +1,51 @@
+type,EPPOCode,Pref_name,References
+Doubtful host,MELGGC,Meloidogyne graminicola,"* Birchfield W (1965) Host parasite relations and host range studies of a new Meloidogyne species in southern USA. Phytopathology 55, 1359–1361 (abst.)
+------- host in inoculation experiments. 
+
+* Soares MR, Carneiro RM, Dias-Arieira C (2022) Response of different crops and weeds to three biotypes of Meloidogyne graminicola: crop rotation and succession strategies for irrigated rice fields. Nematology 24(5), 589-597.
+-------non-host in experiments.
+"
+Host,ANGUTR,Anguina tritici,
+Host,APLOFR,Aphelenchoides fragariae,
+Host,HYLECO,Delia coarctata,
+Host,DIABUH,Diabrotica undecimpunctata howardi,"* Clark SM, LeDoux DG, Seeno TN, Riley EG, Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada (Coleoptera: Megalopodidae, Orsodacnidae, Chrysomelidae, excluding Bruchinae). Coleopterists Society, Special Publication 2, 1-476.
+------- Larval host."
+Host,DITYDI,Ditylenchus dipsaci,"* Andaloussi FA, Bachikh J (2001) Studies on the host range of Ditylenchus dipsaci in Morocco. Nematologia Mediterranea 29, 51-57.
+
+* Hooper D.J (1972) Ditylenchus dipsaci. CIH Descriptions of Plant-parasitic Nematodes Set 1, No. 14.
+
+* Goodey JB, Franklin MT, Hooper DJ (1965) T. Goodey's: The Nematode Parasites of Plants Catalogued Under Their Hosts. Commonwealth Agricultural Bureaux, Farnham Royal, Bucks, England. Third edition, 214 pp."
+Host,BRAYNO,Diuraphis noxia,
+Host,DRAEMI,Draeculacephala minerva,"* Purcell AH, Frazier NW (1985) Habitats and dispersal of the principal leafhopper vectors of Pierce's disease bacterium in the San Joaquin Valley. Hilgardia 53(4), 1-32.
+------- Feeding host."
+Host,ELASLI,Elasmopalpus lignosellus,"* Gill HK, Capinera JL, McSorley R (2017) Featured Creatures. Lesser cornstalk borer. Elasmopalpus lignosellus (Zeller) (Insecta: lepidoptera: Pyralidae). University of Florida (US). http://entnemdept.ufl.edu/creatures/field/lesser_cornstalk_borer.htm
+
+* Sandhu HS (2010) Biology and cultural control of lesser cornstalk borer on sugarcane. PhD thesis. University of Florida. https://ufdcimages.uflib.ufl.edu/UF/E0/04/14/72/00001/sandhu_h.pdf"
+Host,HELIAR,Helicoverpa armigera,"* Cunningham JP, Zalucki MP (2014) Understanding heliothine (Lepidoptera: Heliothinae) pests: what is a host plant? Journal of Economic Entomology 107, 881–896."
+Host,HELIZE,Helicoverpa zea,"* Matthews M (1991) Classification of the Heliothinae. Bulletin of the Natural Resources Institute No. 44. Natural Resources Institute, Chatham, UK."
+Host,HETDZE,Heterodera zeae,
+Host,CALGMA,Laodelphax striatellus,
+Host,HYROBO,Listronotus bonariensis,"*  Bejakovich D, Pearson WD &  O'Donnell MR (1998) Nationwide survey of pests and diseases of cereal and grass seed crops in New Zealand. 1. Arthropods and molluscs. In Proceedings of the Fifty First New Zealand Plant Protection Conference, pp. 38-50. Swiftprint Centre Ltd, Palmerston North, Hamilton, New Zealand.
+------- confirmed host."
+Host,MELNCO,Melanotus communis,
+Host,MELGCH,Meloidogyne chitwoodi,"* Santo GS, O'Bannon JH, Finley AM, Golden AM (1980) Occurrence and host range of a new root-knot nematode (Meloidogyne chitwoodi) in the Pacific northwest. Plant Disease 64, 951-952."
+Host,MELGET,Meloidogyne ethiopica,"* Lima E A, Mattos J K, Moita A W, Carneiro R G & Carneiro R M D G (2009) Host status of different crops for Meloidogyne ethiopica control. Tropical Plant Pathology 34, 152-157.
+-------In experiments, cv. Whiteoat‘IAPAR126’ was found to be a good host (RF>= 1)"
+Host,NYSIHU,Nysius huttoni,
+Host,PLSOMO,Plesiommata mollicella,"* Defea, B, Paradell, SL, de Remes Lenicov, AM (2017) Genus Plesiommata Provancher (Hemiptera: Cicadellidae) in Argentina: first detailed description of the female genitalia and comparisons with its neotropical congeners. Austral Entomology 56, 64-69."
+Host,SITDMO,Sitodiplosis mosellana,
+Host,LAPHFR,Spodoptera frugiperda,"* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300."
+Host,PRODOR,Spodoptera ornithogalli,"* Anonymous (1954) Cooperative Economic Insect Report 4(46), 1002.
+
+* Brito R, Specht A, Gonçalves GL, Moreira GRP, Carneiro E, Santos FL, Roque-Specht VF, Mielke OHH, Casagrande MM (2019) Spodoptera marima: a new synonym of Spodoptera ornithogalli (Lepidoptera: Noctuidae), with notes on adult morphology, host plant use and genetic variation along its geographic range. Neotropical Entomology 48(3), 433-448."
+Host,TAPARU,Tapajosa rubromarginata,"* Paradell SL, Virla EG, Logarzo GA, Dellapé G (2012) Proconiini Sharpshooters of Argentina, with notes on its distribution, host plants, and natural enemies. Journal of Insect Science 12, 116. http://www.insectscience.org/12.116
+
+* Remes Lenicov AMM, Virla E, Manca M (1998) Difusión de Tapajosa rubromarginata (Homoptera: Cicadellidae) sobre cultivos cerealeros de la Argentina. Revista de la Sociedad Entomológica Argentina 57(1-4), 18."
+Host,THRIAN,Thrips angusticeps,
+Host,TROGGA,Trogoderma granarium,"* Athanassiou CG, Phillips TW, Wakil W (2019) Biology and Control of the Khapra Beetle, Trogoderma granarium, a Major Quarantine Threat to Global Food Security. Annual Review of Entomology 64, 131-148. Supplemental Table 1.
+
+* Global Invasive Species Database (2025) Species profile: Trogoderma granarium. http://www.iucngisd.org/gisd/species.php?sc=142 (27-02-2025).
+
+* Lindgren D, Vincent L, Krohne H (1955) The khapra beetle, Trogoderma granarium Everts. Hilgardia 24(1), 1-36."
+Major host,LIMOCF,Limonius californicus,"* Milosavljević I, Esser AD, Murphy KM, Crowder DW (2019) Effects of imidacloprid seed treatments on crop yields and economic returns of cereal crops. Crop protection 119, 166-171."
+Major host,MELGNA,Meloidogyne naasi,

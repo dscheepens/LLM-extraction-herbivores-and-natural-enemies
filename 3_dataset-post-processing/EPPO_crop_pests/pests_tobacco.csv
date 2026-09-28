@@ -1,0 +1,124 @@
+type,EPPOCode,Pref_name,References
+Experimental,APLOBE,Aphelenchoides besseyi,"* Favoreto L, Meyer MC, Loreto RB, Calandrelli A, França PP, Aleandro da Silva S, Zamboni Machado AC (2024) Aphelenchoides besseyi parasitizing tobacco cultivars in Brazil. Plant Disease 108(7), 1964-1968.
+------- In glasshouse experiments, inoculated tobacco plants developed symptoms. https://doi.org/10.1094/PDIS-06-23-1161-SC"
+Host,VASALY,Aculops lycopersici,
+Host,VASALY,Aculops lycopersici (as Solanaceae),
+Host,EMPOBI,Amrasca biguttula,"* Saeed R, Razaq M, Hardy IC (2015) The importance of alternative host plants as reservoirs of the cotton leaf hopper, Amrasca devastans, and its natural enemies. Journal of Pest Science 88, 517–531.
+------- true host."
+Host,TOXOCI,Aphis citricidus,"* Singh G, Singh R (2017) Food plant records of Aphidini (Aphidinae: Aphididae: Hemiptera) in India. Journal of Entomology and Zoology Studies 5(2), 1280-1302."
+Host,CLEOPU,Asproparthenis punctiventris,
+Host,PYTOGA,Autographa gamma,
+Host,PARZCO,Bactericera cockerelli,"* Aguilar E, Sengoda VG, Bextine B, McCue KF, Munyaneza JE (2013) First report of ‘Candidatus Liberibacter solanacearum’ on tobacco in Honduras. Plant Disease 97(10), 1376-1377."
+Host,BEMITA,Bemisia tabaci (as Solanaceae),
+Host,CRTZCL,Ceratothripoides claratris,"* Steenken N, Halaweh N (2011) Host plant preference study for Ceratothripoides claratris (Shumsher) (Thysanoptera: Thripidae) and CaCV (Genus Tospovirus; Family Bunyaviridae) in Bangkok, Thailand. Journal of Entomology 8(2), 198-203."
+Host,CHRXER,Chrysodeixis eriosoma,
+Host,DIABUH,Diabrotica undecimpunctata howardi,"* Clark SM, LeDoux DG, Seeno TN, Riley EG, Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada (Coleoptera: Megalopodidae, Orsodacnidae, Chrysomelidae, excluding Bruchinae). Coleopterists Society, Special Publication 2, 1-476.
+------- Larval host."
+Host,DITYDI,Ditylenchus dipsaci,"* Hooper D.J (1972) Ditylenchus dipsaci. CIH Descriptions of Plant-parasitic Nematodes Set 1, No. 14.
+
+* Goodey JB, Franklin MT, Hooper DJ (1965) T. Goodey's: The Nematode Parasites of Plants Catalogued Under Their Hosts. Commonwealth Agricultural Bureaux, Farnham Royal, Bucks, England. Third edition, 214 pp."
+Host,EMPOTA,Empoasca tabaci,
+Host,EPILVI,Epilachna vigintioctomaculata (as Solanaceae),
+Host,EPIXCU,Epitrix cucumeris,"* Clark SM, LeDoux DG, Seeno TN, Riley EG, Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada (Coleoptera: Megalopodidae, Orsodacnidae and Chrysomelidae, excluding Bruchinae). The Coleopterists Society, Special Publication 2, 1-476.
+
+* Foster RE, Obemeyer JL (2017) Vegetable Insects. Flea Beetles. E-74-W, Purdue University, Extension Entomology, 2 pp. https://extension.entm.purdue.edu/publications/E-74/E-74.html
+------- Common and destructive on tomato, aubergine, potato, sweet pepper and tobacco."
+Host,EPIXTU,Epitrix tuberis,"* Clark SM,  LeDoux DG, Seeno TN,  Riley EG,  Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada.  Special Publications of the Coleopterists Society, 2, 476 pp.
+------- feeding of adults
+
+* Clark SM,  LeDoux DG, Seeno TN,  Riley EG,  Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada.  Special Publications of the Coleopterists Society, 2, 476 pp.
+------- feeding of adults"
+Host,EUWAKU,Euwallacea kuroshio (as Nicotiana),"* Smith SM, Gomez DF, Beaver RA, Hulcr J, Cognato AI (2019) Reassessment of the species in the Euwallacea fornicatus (Coleoptera: Curculionidae: Scolytinae) complex after the rediscovery of the ‘lost’ type specimen. Insects 10, 261. https://doi.org/10.3390/insects10090261"
+Host,FRANCS,Frankliniella australis (as Solanaceae),
+Host,FRANOC,Frankliniella occidentalis,
+Host,HELIAR,Helicoverpa armigera,"* Cunningham JP, Zalucki MP (2014) Understanding heliothine (Lepidoptera: Heliothinae) pests: what is a host plant? Journal of Economic Entomology 107, 881–896."
+Host,HETDGL,Heterodera glycines,"It may be a specific subspecies of Heterodera glycines.
+
+* Shi H, Zheng J (2013) First report of soybean cyst nematode (Heterodera glycines) on tobacco in Henan, Central China. Plant Disease 97(6), p 852.
+
+* Ren H, Chen K, Xu X, Li R, Kang X, Chang F, Zhou Y, Peng D, Zhou Y, Jiang S, Cui J (2024) Identification and biological characterization of a new cyst nematode, Heterodera glycines sbsp. n. tabacum, parasitizing tobacco in China. Plant Disease 108(8), 2389-2398."
+Host,LIRIHU,Liriomyza huidobrensis,"* Echevarria A, Gimeno C, Jimenez R (1994) Liriomyza huidobrensis (Blanchard, 1926) (Diptera: Agromyzidae) una nueva plaga en cultivos valencianos. Boletin de Sanidad Vegetal. Plagas 20, 103-109.
+
+* He CX, Wu WW, Wang SF, Wang LZ (2001) Host plants and feeding preferences of Liriomyza huidobrensis. Acta Entomologica Sinica 44, 384-388.
+
+* Koch CK, Waterhouse DF (2000) The distribution and importance of arthropods associated with agriculture and forestry in Chile. ACIAR Monograph no. 68, 234 pp.
+
+* Korytkowski C (1982) Contribución al conocimiento de los Agromyzidae (Diptera: Acalyptratae) en el Perú. MS Thesis, Universidad Nacional Agraria, La Molina, Lima, 237 pp."
+Host,LISTCO,Listroderes costirostris,"* Morrone JJ (2011) Annotated checklist of the tribe Listroderini (Coleoptera: Curculionidae: Cyclominae). Zootaxa 3119, 1-68."
+Host,LISTDI,Listroderes difficilis,"* Morrone JJ (2011) Annotated checklist of the tribe Listroderini (Coleoptera: Curculionidae: Cyclominae). Zootaxa 3119, 1-68."
+Host,MELGCH,Meloidogyne chitwoodi (as Nicotiana),"* Santo GS, O'Bannon JH, Finley AM, Golden AM (1980) Occurrence and host range of a new root-knot nematode (Meloidogyne chitwoodi) in the Pacific northwest. Plant Disease 64, 951-952."
+Host,MELGET,Meloidogyne ethiopica,"* Whitehead AG (1968) Taxonomy of Meloidogyne (Nematoda: Heteroderidae) with description of four new species. Transactions of the Zoological Society of London 31, 263-401.
+
+* Whitehead A G (1969) The distribution of root-knot nematodes (Meloidogyne spp.) in tropical Africa. Nematologica 15, 315-333."
+Host,MELGLC,Meloidogyne luci,"* Sen F, Aydinli (2021) Host status of cultivated crops to Meloidogyne luci. European Journal of Plant Pathology 161(3), 607-618.
+------- In experiments, cv. Canik 190-5 was found to be an excellent host.
+
+* Carneiro RMDG, Correa VR, Almeida MRA, Gomes ACMM, Deimi AM, Castagnone-Sereno P & Karssen G (2014) Meloidogyne luci n. sp. (Nematoda: Meloidogynidae), a root-knot nematode parasitising different crops in Brazil, Chile and Iran. Nematology 16, 289-301."
+Host,NACOBA,Nacobbus aberrans sensu lato,"* Manzanilla-López RH, Costilla MA, Doucet M, Inserra RN, Lehman PS, Cid del Prado-Vera I, Souza RM, Evans K (2002) The genus Nacobbus Thorne & Allen, 1944 (Nematoda: Pratylenchidae): systematics, distribution, biology and management. Nematropica 32, 149-226."
+Host,GRAGLE,Naupactus leucoloma,"* Chadwick CF (1965) Checklist of the Brachyderinae (Col. Curculionidae) occurring in Australia. Journal of the Entomological Society of Australia (NSW) 2, 21-34."
+Host,PHTOOP,Phthorimaea operculella,"* Chittenden FH (1912) The potato-tuber moth. USDA, Bureau of Entomology. Circular no. 162, 5 pp.
+
+* Rondon SI, Gao Y (2018) The journey of the potato tuberworm around the world. In Perveen K (ed) Moths: Pests of potato, maize and sugar beet. IntechOpen, 17-52. http://dx.doi.org/10.5772/intechopen.81934"
+Host,ROTYRE,Rotylenchulus reniformis,
+Host,PHTOHE,Scrobipalpa aptatella,
+Host,PRODER,Spodoptera eridania,"* Montezano DG, Specht A, Sosa-Gomez DR, Roque-Specht VF & de Barros NM (2014) Immature stages of Spodoptera eridania (Lepidoptera: Noctuidae): developmental parameters and host plants. Journal of Insect Science 14, 238. https://doi.org/10.1093/jisesa/ieu224"
+Host,LAPHFR,Spodoptera frugiperda,"* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300."
+Host,SPODLI,Spodoptera littoralis,
+Host,PRODOR,Spodoptera ornithogalli,"* Brito R, Specht A, Gonçalves GL, Moreira GRP, Carneiro E, Santos FL, Roque-Specht VF, Mielke OHH, Casagrande MM (2019) Spodoptera marima: a new synonym of Spodoptera ornithogalli (Lepidoptera: Noctuidae), with notes on adult morphology, host plant use and genetic variation along its geographic range. Neotropical Entomology 48(3), 433-448.
+
+* Capinera JL (2017) Yellowstriped Armyworm, Spodoptera ornithogalli (Guenée) (Insecta: Lepidoptera: Noctuidae). Department of Entomology and Nematology, University of Florida /IFAS Extension, EENY216, 4p. https://edis.ifas.ufl.edu/pdffiles/IN/IN37300.pdf
+
+* Comstock JA (1965) Ciclo biologico de Prodenia ornithogalli Guenée (Lepidoptera: Noctuidae). Instituto de Biología, Universidad Nacional Autónoma de México, Serie Zoologia 36, 199-202.
+
+* Crumb SE (1929) Tobacco cutworms. USDA Technical Bulletin 88, p 179.
+
+* Heppner JB (2007) Lepidoptera of Florida. Part 1. Introduction and catalog. Gainesville, Florida Department of Agriculture & Consumer Services, p 670.
+
+* Poveda BD, Schwitzer DA (1964) Estudio biológico del Prodenia ornithogalli Guen. y del Prodenia sunia (Guen.) en três hospedeiros. Acta Agronômica 14(1), 71-101.
+
+* Robinson GS, Ackery PR, Kitching IJ, Beccaloni GW, Hernández LM (2010) HOSTS - A Database of the World's Lepidopteran Hostplants. Natural History Museum, London. http://www.nhm.ac.uk/hosts
+
+* Tietz HM (1972) An index to the described life histories, early stages and hosts of the Macrolepidoptera of the continental United States and Canada, 536 pp.
+
+* Wolcott GN (1948) The insects of Puerto Rico. Journal of Agriculture of the University of  Puerto Rico 32, 417–748."
+Host,STRHE,Striga hermonthica,
+Host,THRIHA,Thrips hawaiiensis,
+Host,THRIPL,Thrips palmi,"* Elizondo AI, Murguido CA, Pérez I, Piedra F, Peña E, Martínez M, Martell M, de los Ángeles Fernández M, Sariol H, Rodríguez S, Jiménez R, Granda G, Palacios F (2003) Thrips palmi Karny en la agricultura cubana. Fitosanidad 7(2), 1-9."
+Host,THRIPV,Thrips parvispinus,"* Sartiami D, Mound LA (2013) Identification of the terebrantian thrips (Insecta, Thysanoptera) associated with cultivated plants in Java, Indonesia. ZooKeys 306, 1–21. https://doi.org/10.3897/zookeys.306.5455
+------- Collected from this plant in Java (Indonesia)."
+Host,THRISE,Thrips setosus,
+Host,TIRAPL,Tiracola plagiata,
+Host,TYLRCL,Tylenchorhynchus claytoni,
+Major host,ALTRTR,Aleurothrixus trachoides,"* Sundararaj R, Krishnan S, Sumalatha BV (2021) Invasion and expansion of exotic whiteflies (Hemiptera: Aleyrodidae) in India and their economic importance. Phytoparasitica 49(5), 851-863."
+Major host,BEMITA,Bemisia tabaci,
+Major host,HELIVI,Chloridea virescens,"* Capinera JL (2001) Heliothis virescens (Fabricius) (Insecta: Lepidoptera: Noctuidae) EENY-219 (latest revision Dec. 2018). Featured Creatures. University of Florida. https://entnemdept.ufl.edu/creatures/field/tobacco_budworm.htm
+
+* Edde PA (2018) Principal Insects Affecting Tobacco Plants in the Field. Contributions to Tobacco Research 28, 117-165.
+
+* Fitt GP (1989) The ecology of Heliothis species in relation to agroecosystems. Annual Review of Entomology 34, 17-52.
+
+* Kogan M, Helm CG, Kogan J, Brewer E (1989) Distribution and economic importance of Heliothis virescens and Heliothis zea in North, Central, and South America and of their Natural Enemies and Host Plants. pp 241-297 In Proceedings of the Workshop on Biological Control of Heliothis: Increasing the effectiveness of natural enemies. USDA.
+
+* Rodríguez-Espinosa FL, Santana-Baños Y, Martínez-Rivero MA, Gómez-Leyva JF (2018b) Variabilidad en patrones de coloración y ornamentación larval de Chloridea virescens (Fabricius) en diferentes plantas hospedantes. Revista de Protección Vegetal 33(2), 8 pp.
+
+* EPPO (2024) EPPO Technical Document No. 1091. Pest risk analysis for Chloridea virescens. EPPO, Paris. Available at https://gd.eppo.int/taxon/HELIVI/documents
+------- Main host (evidence that the plant supports populations of the pest in several generations or years, i.e. true hosts, or plant mentioned as common or preferred host – see PRA for further details on the host)
+"
+Major host,EPIXPA,Epitrix hirtipennis,"* Clark SM, LeDoux DG, Seeno TN, Riley EG, Gilbert AJ, Sullivan JM (2004) Host plants of leaf beetle species occurring in the United States and Canada (Coleoptera: Megalopodidae, Orsodacnidae and Chrysomelidae, excluding Bruchinae). Special Publication of the Coleopterists Society, 2, 615 pp.
+
+* Deczynski AM (2016) Morphological systematics of the nightshade flea beetles Epitrix Foudras and Acallepitrix Bechyné (Coleoptera: Chrysomelidae: Galerucinae: Alticini) in America North of Mexico All Theses. Paper 2479. https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=3484&context=all_theses
+
+* Krsteska V, Spirkoski A (2017) A contribution to quantitative representation and distribution of Epitrix hirtipennis (Melsheimer, 1847) (Coleoptera: Chrysomelidae, Alticini) on tobacco. Acta Entomologica Serbica 22, 15-26.
+
+* Lukátsi M, Horváth D, Tóth N (2022) First record of Epitrix hirtipennis in Hungary (Coleoptera: Chrysomelidae). Folia Entomologica Hungarica 83, 45-51."
+Major host,EPIXSI,Epitrix similaris,
+Major host,HELIZE,Helicoverpa zea,"* Johnson MW, Stinner RE, Rabb RL (1975) Ovipositional response of Heliothis zea (Boddie) to its major hosts in North Carolina. Environmental Entomology 4(2), 291-297.
+
+* Kolodny-Hirsch DM, Harrison FP (1982) Comparative damage and leaf area consumption by the tobacco budworm and corn earworm on Maryland tobacco. Journal of Economic Entomology, 75(2), 168-172."
+Major host,MELGMY,Meloidogyne enterolobii,"* Yang B, Eisenback JD (1983) Meloidogyne enterolobii n.sp. (Meloidogynidae), a root-knot nematode parasitizing pacara earpot tree in China. Journal of Nematology 15(3), 381–391."
+Major host,PRODLI,Spodoptera litura,"* Xue M, Pang YH, Wang HT, Li QL, Liu TX (2010) Effects of four host plants on biology and food utilization of the cutworm, Spodoptera litura. Journal of Insect Science. 10(1), 22. https://doi.org/10.1673/031.010.2201"
+Major host,TETREV,Tetranychus evansi,"* Blair BW (1983) Tetranychus evansi Baker & Pritchard (Acari : Tetranychidae); a new pest of tobacco in Zimbabwe. Coresta Phytopathology and Agronomy Study Group, Bergerac, France, 1-6.
+
+* Gutierrez J, Etienne J (1986) Les Tetranychidae de l'île de la Réunion et quelques-uns de leurs prédateurs. Agronomie Tropicale, 41: 84-91.
+
+* Meyer MKPS (1996) Mite pests and their predators on cultivated plants in Southern Africa: vegetables and berries. Plant Protection Research Institute, P., South Africa, Plant Protection Research Institute Handbook, No 6: 90 p."

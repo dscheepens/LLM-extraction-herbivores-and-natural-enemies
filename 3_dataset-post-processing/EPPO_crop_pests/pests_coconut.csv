@@ -1,0 +1,106 @@
+type,EPPOCode,Pref_name,References
+Host,ALECSN,Aleurocanthus spiniferus,"* Gillespie PS (2012) A review of the whitefly genus Aleurocanthus Quaintance & Baker (Hemiptera: Aleyrodidae) in Australia. Zootaxa 3252, 1-42."
+Host,ALEDDI,Aleurodicus dispersus,"* Boopathi T (2022) New host plants, natural enemy complex and newly distributed potential areas of exotic spiralling whitefly (Hemiptera: Aleyrodidae) in India. Phytoparasitica 50(2), 335-357."
+Host,ALTRTR,Aleurothrixus trachoides,
+Host,AMBPCO,Amblypelta cocophaga,
+Host,AMBPLU,Amblypelta lutescens,
+Host,AONDOR,Aonidiella orientalis,"* Germain JF, Devarieux A, Laplace D, Matile-Ferrero D (2016) An updated checklist of the scale insects from French Guiana (French overseas department in South America). Bulletin OEPP/EPPO Bulletin 46(3), 588-593."
+Host,BRVPYO,Brevipalpus yothersi,"* Beard JJ, Ochoa R, Braswell WE, Bauchan GR (2015) Brevipalpus phoenicis (Geijskes) species complex (Acari: Tenuipalpidae) – a closer look. Zootaxa 3944(1), 67 pp. DOI: 10.11646/zootaxa.3944.1.1"
+Host,VINSST,Ceroplastes stellifer,
+Host,CHRYFI,Chrysomphalus aonidum,
+Host,COELEL,Coelaenomenodera minuta,
+Host,DYNMBO,Dynamis borassi,"* Bautista-Giraldo MA, Ambrecht I, Vásquez-Ordoñez AA (2020) The weevil Dynamis borassi (Coleoptera: Curculionidae: Dryophthorinae) associated with native palms in forests and disturbed areas in Buenaventura, Colombia. Revista Colombiana de Entomología 46(2), e7721.  https://doi.org/10.25100/socolen.v46i2.7721
+
+* Giblin-Davis RM, Gries R, Gries G, Pena-Rojas E, Pinzón I, Peña JE, Perez AL, Pierce HD Jr, Oehlschlager AC (1997) Aggregation pheromone of palm weevil, Dynamis borassi. Journal of Chemical Ecology 23(10), 2287-2297."
+Host,ERNTTH,Erionota thrax,
+Host,PLTPPA,Euplatypus parallelus,* Atkinson TH (online) Bark and Ambrosia Beetles. https://www.barkbeetles.info/index.php (last accessed 2021-07).
+Host,FIORCO,Fiorinia phantasma,
+Host,MYNDCR,Haplaxius crudus,"* Van Duzee EP (1907) Notes on Jamaican Hemiptera: A report on a collection of Hemiptera made on the Island of Jamaica in the spring of 1906. Bulletin of the Buffalo Society of Natural Sciences. Buffalo, N.Y, 8(5), 3-79.
+------- Adult host."
+Host,LEPLAU,Leptoglossus australis,
+Host,PHENHI,Maconellicoccus hirsutus,"* Chang LWH, Miller CE (1996) Pathway Risk Assessment: Pink mealybug from the Caribbean. Animal and Plant Health Inspection Service, U.S. Dept. of Agriculture 61 pp."
+Host,METAHE,Metamasius hemipterus,
+Host,NAROCO,Narosa conspersa,
+Host,OCTDNI,Octodonta nipae,
+Host,OLIGPU,Oligonychus punicae,"* Migeon A, Dorkeld F (2024) Spider Mites Web: a comprehensive database for the Tetranychidae.  https://www1.montpellier.inrae.fr/CBGP/spmweb"
+Host,OPOGSC,Opogona sacchari,"* Drizou F, Redstone S, Salisbury A (2023) Impact and management of Opogona sacchari (Bojer, 1856)(Lepidoptera: Tineidae) in a display glasshouse in the United Kingdom. EPPO Bulletin 53(3), 624-631.
+
+* Nelson SC, Wright MG (2005) Banana Moth: A Potentially Fatal Pest of Pritchardia and Other Palms. Cooperative Extension Service, College of Tropical Agriculture and Human Resources, University of Hawaiʻi at Mānoa. Insect Pests  IP-24, 4 pp."
+Host,PHYP56,Palm lethal yellowing type syndromes (as Cocos),
+Host,PARYMI,Paraleyrodes minei,"* Hernández-Suárez E, Martin JH, Gill RJ, Bedford ID, Malumphy CP, Reyes Betancort JA, Carnero A (2012) The aleyrodidae (Hemiptera: Sternorrhyncha) of the Canary Islands with special reference to Aleyrodes, Siphoninus, and the challenges of puparial morphology in Bemisia. Zootaxa, 3212, 1-76. http://www.mapress.com/zootaxa/2012/f/zt03212p076.pdf
+
+* Krishnappa C, Dubey AK, Verma A,, Mahapatro GK (2021) Occurrence of exotic whitefly, Paraleyrodes minei Iaccarino (Hemiptera: Aleyrodidae) and other whitefly species on fruit crops in Maharashtra, India. 3 Biotech 11, p 264.
+"
+Host,PIMAGH,Pimelephila ghesquierei,
+Host,PLEPRE,Plesispa reichei,
+Host,PROHCO,Promecotheca caeruleipennis,
+Host,RADOSI,Radopholus similis,"* EFSA Panel on Plant Health (2017) Pest risk assessment of Radopholus similis for the EU territory. EFSA Journal 15(8), e04879. https://doi.org/10.2903/j.efsa.2017.4879Digital Object Identifier (DOI) "
+Host,SPPHOB,Rhabdoscelus obscurus,
+Host,LAPHFR,Spodoptera frugiperda,"* Montezano DG, Specht A, Sosa-Gómez DR, Roque-Specht VF, Sousa-Silva JC, Paula-Moraes SV, Peterson JA, Hunt T (2018) Host plants of Spodoptera frugiperda (Lepidoptera: Noctuidae) in the Americas. African Entomology 26, 286-300."
+Host,STEPTY,Stephanitis typica,
+Host,TETRFI,Tetranychus fijiensis,
+Host,TETRME,Tetranychus mexicanus,"* Flechtmann CHW (1967) Contribution to knowledge of the mites of plants of some regions of the State of Sao Paulo (as a systematic survey including new species). Piracicaba, Brasil: 47.
+
+* Paschoal A (1970) Revisão da família Tetranychidae no Brasil (Arachnida: Acarina). Anais Da Escola Superior de Agricultura Luiz de Queiroz, XXVII, 457–483.
+
+* Urueta E (1975) Aranas rojas (Acarina: Tetranychidae) del Departamento de Antioquia. Revista Colombiana de Entomologia, 1, 1–14."
+Host,TROGGA,Trogoderma granarium,"* Lindgren D, Vincent L, Krohne H (1955) The khapra beetle, Trogoderma granarium Everts. Hilgardia 24(1), 1-36.
+-------- stored product, as feeding, citing others"
+Host,UNASCI,Unaspis citri,"* Silva d'Araujo AG, Gonçalves CR, Galvão DM, Goncalves DM (1968) Fourth catalog of insects that live in Brazil. Parte II. Insects, hosts and natural enemies. Ministerio da Cultura Rio de Janeiro V. 1, 622 pp."
+Host,XIPHCA,Xiphinema californicum,"* Alkemade JRM, Loof PAA (1990) The genus Xiphinema cobb, 1913 (Nematoda: Longidoridae) in Perú. Revue de Nématologie 13, 339-348."
+Host,XYLBFE,Xyleborus ferrugineus,"* Aguilar-Perez H, Rodriguez-del-Bosque LA, Aguilar-Perez CH, de la Pena ND (2007) Seasonal abundance of Xyleborus ferrugineus (Coleoptera : Curculionidae) on pecan trees in northern Coahuila, Mexico. Southwestern Entomologist 32, 105-109. "
+Host,XYLBCR,Xylosandrus crassiusculus,"* Souza Covre L, Melo AA, Flechtmann CAH (2021) Flight activity and spread of Xylosandrus crassiusculus (Motschulsky) (Coleoptera: Curculionidae) in Brazil. Trees, Forests and People (4), 100076.
+------- Caught in traps located in  a coconut plantation."
+Major host,ACEIGU,Aceria guerreronis,"* Santana DLQ, Flechtmann CHW (1998) Mite (Arthropoda, Acari) associates of palms (Arecaceae) in Brazil I: present status and new records. Revista Brasileira de Zoologia, 15(4), 959–963. https://doi.org/10.1590/s0101-81751998000400014"
+Major host,ALEDDE,Aleurodicus destructor,
+Major host,ARTOCA,Artona catoxantha,
+Major host,BRONLO,Brontispa longissima,
+Major host,RHAACO,Bursaphelenchus cocophilus,
+Major host,PHYPPL,‘Candidatus Phytoplasma palmicola’,"* Harrison NA, Davis RE, Oropeza C, Helmick EE, Narvaez M, Eden-Green S, Dollet M, Dickinson M (2014) ‘Candidatus Phytoplasma palmicola’, associated with a lethal yellowing-type disease of coconut (Cocos nucifera L.) in Mozambique. International Journal of Systematic and Evolutionary Microbiology 64(Pt_6), 1890-1899."
+Major host,CEATVA,Cerataphis brasiliensis,"* Soares ND, Araújo AS, Duarte LS, Hickmann F, Pádua TH, Aurélio MS, Silveira Neto S, Zucchi RA, Savaris M (2026) So close and unnoted: a new host plant of Cerataphis brasiliensis (Hempel)(Hemiptera: Aphididae). International Journal of Tropical Insect Science https://doi.org/10.1007/s42690-025-01738-7"
+Major host,DIOCFR,Diocalandra frumenti,"* Hill D (1983) Agricultural insect pests in the tropics and their control., Cambridge University Press. Cambridge. 746 pp. 
+
+*  Lake J (1998) Getting control of weevil borers and leaf beetles in palms. The Nursery Papers. 1998-02. Nursery Industry Association of Australia, 4 pp.
+
+* Nguyen HU, Nguyen TH, Chau NQK, Le VV, Tran VH (2020) Biology, morphology and damage of the lesser coconut weevil, Diocalandra frumenti (Coleoptera: Curculionidae) in southern Vietnam. Biodiversitas 21, 4686-4694.
+
+* Salomone Suárez F, Carnero Hernández A, Marrero Ferrer M, González Hernández A (2000) Presence in the palearctic zone of Diocalandra frumenti Fabricius, (Coleoptera, Curculionidae). Boletín de la asociación Espaňola de Entomología 24, 263-264."
+Major host,CASTDA,Eupalamides cyparissias,
+Major host,FURCOC,Furcaspis oceanica,
+Major host,MEITIN,Melittomma insulare,
+Major host,NETMRA,Neotermes rainbowi,
+Major host,NEPASE,Opisina arenosella,
+Major host,ORYCBO,Oryctes boas,
+Major host,ORYCMO,Oryctes monoceros,
+Major host,ORYCRH,Oryctes rhinoceros,
+Major host,PACMNU,Pachymerus nucleorum,
+Major host,PHYP56,Palm lethal yellowing type syndromes,"* Rosete YA, Diallo HA, Konan Konan JL, Yankey N, Saleh M, Pilet F, Contaldo N, Paltrinieri S, Bertaccini A, Scott J (2017) Detection and differentiation of the coconut lethal yellowing phytoplasma in coconut-growing villages of Grand-Lahou, Côte d'Ivoire. Annals of Applied Biology 170(3), 33-347.
+
+* Soto N, Helmick EE, Harrison NA, Bahder BW (2021) Genetic variability of palm lethal decline phytoplasmas in the Caribbean basin and Florida, USA, based on a multilocus analysis. Phytopathology 111(12), 2203-2212. https://doi.org/10.1094/PHYTO-04-21-0130-R
+------- host of 16SrIV A, B, D, E"
+Major host,PHMNST,Phytomonas staheli,
+Major host,PROHCU,Promecotheca cumingi,
+Major host,PSDTDE,Pseudotheraptus devastans,
+Major host,PSDTWA,Pseudotheraptus wayi,
+Major host,RAOIIN,Raoiella indica,"* Carrillo D, Navia D, Ferragut F, Peña JE (2011) First report of Raoiella indica (Acari: Tenuipalpidae) in Colombia. Florida Entomologist, 94(2):370-371. https://doi.org/10.1653/024.094.0241
+------- Confirmed host.
+
+* da Cruz WP, Souza MC, Lacerda JDA, Fonseca e Souza AIA, Silva PA, Cruz dos Santos E (2022) Occurrence of Raoiella indica Hirst (Acari, Tenuipalpidae) in the Southeast region of the state of Pará, Brazil. Journal of Plant Diseases and Protection. https://doi.org/10.1007/s41348-022-00659-8
+------- Abundant number of specimens found on this host.
+
+* Melo JWS, Navia D, Mendes, Rosenya JA, Filgueiras MC,. Teodoro AV, Ferreira JMS, Guzzo EC, de Souza IV, de Mendonça RS, Calvet EC, Paz Neto AA, Gondim MGC, de Morais EGF, Godoy MS, dos Santos JR, Silva RIR, da Silva VB, Norte RF, Oliva AB, dos Santos RDP, Domingos CA (2018) The invasive red palm mite, Raoiella indica Hirst (Acari: Tenuipalpidae), in Brazil: range extension and arrival into the most threatened area, the Northeast Region, International Journal of Acarology, 44:4-5, 146-149, DOI: 10.1080/01647954.2018.1474945
+------- Confirmed host."
+Major host,RHYCBI,Rhynchophorus bilineatus,
+Major host,RHYCFE,Rhynchophorus ferrugineus,"* Esteban-Duran J, Yela JL, Beitia Crespo F & Jimenez Alvarez A (1998) [Exotic curculionids liable to be introduced into Spain and other EU countries through imported vegetables.] Boletín de Sanidad Vegetal, Plagas 24, 23 – 40 (in Spanish).
+
+* Wahizatul AA, Chong JL, Zakeri HA, Norhayai Y, Wan BWO, Yong KW, Ainatun NZ, Modh HH (2017) The red palm weevil, Rhynchophorus ferrugineus: current issues and challenges in Malaysia. Oil Palm Bulletin 74, 17-24."
+Major host,RHYCPA,Rhynchophorus palmarum,"* Faleiro JR, Jaques JA, Carrillo D, Giblin-Davis R, Mannion CM, Peña-Rojas E, Peña JE (2016) Integrated Pest Management (IPM) of palm pests. In: Abrol DP (ed) Integrated Pest Management in the Tropics; pp. 439-497.
+
+* Jaffé K, Sánchez P, Cerda H, Hernández JV, Jaffé R, Urdaneta N, Guerra G, Martínez R & Miras B (1993) Chemical ecology of Rhynchophorus palmarum: attraction to host plants and to a male-produced aggregation pheromone. Journal of Chemical Ecology 19, 1703-1720.
+
+* Lepesme P (1947) Les insectes des palmiers. Paul Lechevalier editeur, Paris, 903 pp.
+
+* de la Torre ARC, de la Torre JAA, Moya OM (2010) Biologia, habitos y manejo de Rhynchophorus palmarum. Boletin Tecnico no. 23, Centro de Investigación en Palma de Aceite, Cenipalma, Colombia, 53 pp.
+
+* Wattanapongsiri, A. (1966) A revision of the Genera Rhynchophorus and Dynamis. Department of Agricultural Science Bulletin, Bangkok, Thailand."
+Major host,RHYCPH,Rhynchophorus phoenicis,"* Hill DS (1983) Agricultural insect pests of the tropics and their control., Ed. 2Cambridge, UK: Cambridge University Press. 746 pp."
