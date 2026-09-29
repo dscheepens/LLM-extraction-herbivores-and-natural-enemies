@@ -1,9 +1,0 @@
-# System files
-.DS_Store
-
-# Explicitly ignore the heavy datasets and folders
-DAPHNE_database.rds
-1_ollama-main/feather_results/
-1_ollama-main/scopus/
-*.feather
-*.rds
